@@ -1,0 +1,384 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/sageGUI/index.html" timestamp="1484193729431">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484358412995">
+        <mark key="'" line="1803" column="73" />
+        <mark key="[" line="1389" column="4" />
+        <mark key="]" line="1389" column="4" />
+        <mark key="." line="1389" column="4" />
+        <mark key="^" line="1389" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/inlet/Jan4/inlet.py" timestamp="1483723941068">
+        <mark key="[" line="961" column="157" />
+        <mark key="]" line="961" column="73" />
+        <mark key="." line="961" column="73" />
+        <mark key="^" line="961" column="73" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/schema.json" timestamp="1484407865755">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="29" />
+        <mark key="." line="27" column="29" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/edge.py" timestamp="1484424933207">
+        <mark key="[" line="59" column="37" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
+        <mark key="[" line="216" column="24" />
+        <mark key="]" line="92" column="46" />
+        <mark key="." line="92" column="46" />
+        <mark key="^" line="92" column="46" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="138" column="110" />
+        <mark key="^" line="138" column="110" />
+        <mark key="." line="138" column="110" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/chevron.py" timestamp="1481740150662">
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="71" column="13" />
+        <mark key="^" line="71" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/vertex.py" timestamp="1484415133380">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/rectangle.json" timestamp="1484425301305">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="28" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/mesh.py" timestamp="1481734445021">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="37" column="39" />
+        <mark key="^" line="37" column="39" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blend.py" timestamp="1482351846932">
+        <mark key="[" line="88" column="28" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/sageGUI/gui_animate.py" timestamp="1484356405848">
+        <mark key="'" line="40" column="27" />
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/ring_wing.py" timestamp="1484195656753">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/fromSchema.py" timestamp="1484408931521">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/simple_circulararc.json" timestamp="1484426446504">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/test_smoke.py" timestamp="1484000926711">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/circulararc.json" timestamp="1484426101761">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="33" column="3" />
+        <mark key="." line="33" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/chevrond.py" timestamp="1481994035086">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484261596985">
+        <mark key="a" line="1935" column="51" />
+        <mark key="'" line="1296" column="9" />
+        <mark key="[" line="3167" column="4" />
+        <mark key="]" line="3173" column="4" />
+        <mark key="." line="3679" column="60" />
+        <mark key="^" line="3679" column="60" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/Ex/jsonparse.py" timestamp="1484417712141">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484358097909">
+        <mark key="'" line="1775" column="0" />
+        <mark key="[" line="1366" column="4" />
+        <mark key="]" line="1366" column="4" />
+        <mark key="^" line="1366" column="4" />
+        <mark key="." line="1366" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/jsonparse.py" timestamp="1484426555583">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
+        <mark key="'" line="46" column="79" />
+        <mark key="[" line="98" column="45" />
+        <mark key="]" line="68" column="112" />
+        <mark key="^" line="122" column="0" />
+        <mark key="." line="68" column="112" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
+        <mark key="'" line="585" column="0" />
+        <mark key="[" line="263" column="49" />
+        <mark key="]" line="16" column="88" />
+        <mark key="." line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
+        <mark key="[" line="64" column="4" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/simple.json" timestamp="1484422874753">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484192676685">
+        <mark key="'" line="528" column="4" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="71" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/sageGUI/gui.py" timestamp="1484205574921">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2226" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2265" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2273" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2284" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2523" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2528" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2646" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2652" column="69" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3689" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3746" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1210" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4054" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4069" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="348" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4079" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4083" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1394" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
+      <jump line="512" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="4042" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="141" column="0" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="511" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="524" column="6" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="46" column="41" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="3171" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3690" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3800" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3805" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3810" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3258" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3267" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3279" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3794" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3961" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3861" column="50" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="525" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="526" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
+      <jump line="1803" column="73" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="1775" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="3679" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3741" column="96" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3692" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3662" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3576" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1046" column="82" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1052" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1073" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1076" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1080" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1192" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1336" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3684" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1659" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1862" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3682" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3683" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="314" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1666" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="368" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="369" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="370" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="371" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="372" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="373" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1271" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1272" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1278" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1279" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1544" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1560" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1574" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1589" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1604" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1632" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="14" column="80" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
+      <jump line="47" column="56" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
+      <jump line="3673" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2807" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2854" column="139" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3167" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3898" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3899" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1289" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1296" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="71" column="7" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="137" column="32" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="105" column="23" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="127" column="22" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="129" column="65" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="130" column="36" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="131" column="25" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="133" column="66" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="138" column="23" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="140" column="33" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="124" column="22" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="139" column="45" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="40" column="27" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Ex/simple.json" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJjbGsgaW5kZXg6IiwgY2xrX2luZGV4Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>fc</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ZGVmIHRlc3Rfc2ltcGxlX2FyY19qc29uX3BhcnNlcigpOgogICAgZmlsZW5hbWUgPSAic2ltcGxlX2NpcmN1bGFyYXJjLmpzb24iCiAgICBqcCA9IEpzb25QYXJzZXIoZmlsZW5hbWUpCiAgICB2ZXJ0aWNlcywgZWRnZXMgPSBqcC5leHRyYWN0KCkKICAgIHByaW50IHZlcnRpY2VzCiAgICBwcmludCBlZGdlcwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJjbGsgaW5kZXg6IiwgY2xrX2luZGV4Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRlc3RfYXJjX2pzb25fcGFyc2VyKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAiWSI6IDEuMAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAiWCI6IDAuMCwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgIlBvc2l0aW9uIjogewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICI2MzI0ODc3OCI6IHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>fc</last-search>
+      <last-offset />
+      <last-pattern>fc</last-pattern>
+      <last-replace>mesh</last-replace>
+      <last-substitute>fc</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxtZXNoX3JlZmluZW1lbnRcPg==</entry>
+        <entry>_mesh_refine</entry>
+        <entry>mesh_refine</entry>
+        <entry>get_mesh_elements</entry>
+        <entry>as_points</entry>
+        <entry>bend_ent</entry>
+        <entry>pertur</entry>
+        <entry>bend_edge_or</entry>
+        <entry encoding="base64">XDxjdWJlX21lc2hfcmVmaW5lbWVudFw+</entry>
+        <entry>test_mesh_re</entry>
+        <entry>test_cube</entry>
+        <entry>Point3D</entry>
+        <entry>connect</entry>
+        <entry>Point3DVec</entry>
+        <entry>getCoord</entry>
+        <entry>mesh_conn</entry>
+        <entry>Three</entry>
+        <entry>mesh(</entry>
+        <entry>get_faces</entry>
+        <entry>fc</entry>
+      </history-search>
+      <history-cmd>
+        <entry>we</entry>
+        <entry>4006</entry>
+        <entry>1573</entry>
+        <entry>128</entry>
+        <entry>139</entry>
+        <entry>1619</entry>
+        <entry>1686</entry>
+        <entry>1712</entry>
+        <entry>1612</entry>
+        <entry>1546</entry>
+        <entry>1559</entry>
+        <entry>wq</entry>
+        <entry>%s/fc/mesh/gc</entry>
+        <entry>1368</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
