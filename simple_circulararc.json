@@ -1,0 +1,28 @@
+{
+ "0": {
+    "Type": "CircularArc",
+    "Vertices": [
+      20,
+      21
+    ],
+    "Center": {
+      "X": 2.0,
+      "Y": 0.5
+    },
+    "ClockwiseFrom": 21
+  },
+  "Vertices": {
+    "20": {
+      "Position": {
+        "X": 0.0,
+        "Y": 0.0
+      }
+    },
+    "21": {
+      "Position": {
+        "X": 2.0,
+        "Y": 0.0
+      }
+    }
+  }
+}
