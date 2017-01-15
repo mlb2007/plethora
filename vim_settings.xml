@@ -13,12 +13,6 @@
       <file name="/Python Console" timestamp="1484517749598">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/inlet/Jan4/inlet.py" timestamp="1483723941068">
-        <mark key="[" line="961" column="157" />
-        <mark key="]" line="961" column="73" />
-        <mark key="." line="961" column="73" />
-        <mark key="^" line="961" column="73" />
-      </file>
       <file name="$USER_HOME$/Desktop/Ex/schema.json" timestamp="1484407865755">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="29" />
@@ -32,29 +26,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
-        <mark key="[" line="216" column="24" />
-        <mark key="]" line="92" column="46" />
-        <mark key="." line="92" column="46" />
-        <mark key="^" line="92" column="46" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="138" column="110" />
-        <mark key="^" line="138" column="110" />
-        <mark key="." line="138" column="110" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/chevron.py" timestamp="1481740150662">
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="71" column="13" />
-        <mark key="." line="71" column="13" />
-        <mark key="^" line="71" column="13" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484521360957">
-        <mark key="[" line="99" column="5" />
-        <mark key="]" line="81" column="0" />
-        <mark key="^" line="82" column="31" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484523177758">
+        <mark key="[" line="99" column="20" />
+        <mark key="]" line="83" column="3" />
+        <mark key="^" line="81" column="3" />
+        <mark key="." line="81" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/vertex.py" timestamp="1484415133380">
         <mark key="[" line="4" column="22" />
@@ -67,12 +43,6 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh.py" timestamp="1481734445021">
-        <mark key="[" line="39" column="36" />
-        <mark key="]" line="40" column="38" />
-        <mark key="." line="37" column="39" />
-        <mark key="^" line="37" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blend.py" timestamp="1482351846932">
         <mark key="[" line="88" column="28" />
@@ -126,9 +96,9 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484441430678">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484522234950">
         <mark key="a" line="1935" column="51" />
-        <mark key="'" line="319" column="0" />
+        <mark key="'" line="31" column="4" />
         <mark key="[" line="31" column="4" />
         <mark key="]" line="48" column="68" />
         <mark key="." line="3679" column="60" />
@@ -168,10 +138,11 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484521271708">
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484523168849">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="20" />
+        <mark key="." line="179" column="20" />
+        <mark key="^" line="179" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
         <mark key="[" line="64" column="4" />
@@ -204,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1210" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4054" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4069" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="348" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -304,55 +274,58 @@
       <jump line="28" column="13" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
       <jump line="62" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
       <jump line="64" column="20" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNhcmVhX3dpdGhfcGFkZGluZyA9IChsZW5ndGgrbWFjaGluZV9jb3N0LnBhZGRpbmcpKih3aWR0aCttYWNoaW5lX2Nvc3QucGFkZGluZykK</text>
+        <text encoding="base64">ICAgICAgICBjb3N0ID0gKGFyZWFfd2l0aF9wYWRkaW5nICogbWFjaGluZV9jb3N0Lm1hdGVyaWFsX2Nvc3QpICsgKGNfdGltZSAqIG1hY2hpbmVfY29zdC50aW1lX2Nvc3QpCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>_per</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bGVuZ3RoID0gbWF4WzBdIC0gbWluWzBdCiAgICB3aWR0aCA9IG1heFsxXSAtIG1pblsxXQogICAgI2xlbmd0aCA9IGwxCiAgICAjd2lkdGggPSB3MQogICAgI2lmIGwxIDwgdzE6CiAgICAjICAgIGxlbmd0aCA9IHcxCiAgICAjICAgIHdpZHRoID0gbDEKICAgICNwZXJpbWV0ZXIgPSAyLjAgKiAobGVuZ3RoICsgd2lkdGgpCiAgICBwZXJpbWV0ZXIgPSBtYWNoaW5lX2Nvc3QucGVyaW1ldGVyKCkKICAgIGFyZWEgPSBsZW5ndGgqd2lkdGgKICAgIGFyZWFfd2l0aF9wYWRkaW5nID0gKGxlbmd0aCttYWNoaW5lX2Nvc3QucGFkZGluZykqKHdpZHRoK21hY2hpbmVfY29zdC5wYWRkaW5nKQog</text>
+        <text>for edge in self.ordered_edges:
+            perim += edge.length()
+        r</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNhcmVhX3dpdGhfcGFkZGluZyA9IChsZW5ndGgrbWFjaGluZV9jb3N0LnBhZGRpbmcpKih3aWR0aCttYWNoaW5lX2Nvc3QucGFkZGluZykK</text>
+        <text encoding="base64">ICAgICAgICBjb3N0ID0gKGFyZWFfd2l0aF9wYWRkaW5nICogbWFjaGluZV9jb3N0Lm1hdGVyaWFsX2Nvc3QpICsgKGNfdGltZSAqIG1hY2hpbmVfY29zdC50aW1lX2Nvc3QpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNhcmVhID0gbGVuZ3RoKndpZHRoCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWNoaW5lX2Nvc3QuY3V0dGluZ190aW1lKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNwZXJpbWV0ZXIgPSAyLjAgKiAobGVuZ3RoICsgd2lkdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgd2lkdGggPSBsMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgbGVuZ3RoID0gdzEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNpZiBsMSA8IHcxOgo=</text>
+        <text encoding="base64">ICAgICAgICBjID0gcGVyaW0vc2VsZi5jdXR0ZXJfc3BlZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICN3aWR0aCA9IHcxCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJpbSA9IHNlbGYucGVyaW1ldGVyKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICNsZW5ndGggPSBsMQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoID0gbWF4WzFdIC0gbWluWzFdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>_per</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>_per</last-pattern>
       <last-replace>mesh</last-replace>
       <last-substitute>fc</last-substitute>
       <last-dir>1</last-dir>
@@ -360,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bend_ent</entry>
         <entry>pertur</entry>
         <entry>bend_edge_or</entry>
         <entry encoding="base64">XDxjdWJlX21lc2hfcmVmaW5lbWVudFw+</entry>
@@ -380,6 +352,7 @@
         <entry encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>print</entry>
+        <entry>_per</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
