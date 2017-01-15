@@ -26,11 +26,11 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484519319831">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="3" />
-        <mark key="." line="90" column="3" />
-        <mark key="^" line="90" column="3" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484519964321">
+        <mark key="[" line="108" column="4" />
+        <mark key="]" line="81" column="8" />
+        <mark key="." line="81" column="8" />
+        <mark key="^" line="81" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/vertex.py" timestamp="1484415133380">
         <mark key="[" line="4" column="22" />
@@ -138,10 +138,11 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484518763958">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484519837033">
+        <mark key="[" line="148" column="7" />
+        <mark key="]" line="152" column="19" />
+        <mark key="." line="152" column="19" />
+        <mark key="^" line="152" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
         <mark key="[" line="64" column="4" />
@@ -276,17 +277,17 @@
       <jump line="64" column="20" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIGNpcmN1bGFyX2FyZWFfc2lnbihzZWxmKToKICAgICAgICBvcmRfZWRnZXMgPSBzZWxmLmZvcm1fY2xvc2VkX3BvbHlnb24oKQogICAgICAgIHN6ID0gbGVuKG9yZF9lZGdlcykKICAgICAgICAjcHJpbnQgb3JkX2VkZ2VzLCAiLiIKICAgICAgICBmb3IgaSwgZWRnZSBpbiBlbnVtZXJhdGUob3JkX2VkZ2VzKToKICAgICAgICAgICAgaWYgZWRnZS50eXBlKCkgPT0gRWRnZVR5cGUuZUNpcmN1bGFyQXJjOgogICAgICAgICAgICAgICAgY2N3X3ZpZCA9IGVkZ2UuY2xvY2t3aXNlZnJvbSgpCgogICAgICAgICAgICAgICAgd2hpY2hfZWRnZSA9IG9yZF9lZGdlc1soaS0xKSVzel0KICAgICAgICAgICAgICAgIHdoaWNoX2VkZ2UyID0gb3JkX2VkZ2VzWyhpKzEpJXN6XQogICAgICAgICAgICAgICAgb3RoZXJfdmVydGV4ID0gTm9uZQogICAgICAgICAgICAgICAgZ290X2VkZ2UgPSBGYWxzZQogICAgICAgICAgICAgICAgI3ByaW50ICItLS0gaToiLCBpLCB3aGljaF9lZGdlLCAiIC4uICIsIGVkZ2UsICIgLi4gIiwgd2hpY2hfZWRnZTIsICIgcmVmOiIsIGNjd192aWQKICAgICAgICAgICAgICAgIGlmIG5vdCBnb3RfZWRnZSBhbmQgKHdoaWNoX2VkZ2Uuc3RhcnQoKS5pZCgpID09IGNjd192aWQpOgogICAgICAgICAgICAgICAgICAgICMgcHJpbnQgY2N3X3ZpZCwgIiByZWYxOiIsIHdoaWNoX2VkZ2Uuc3RhcnQoKS5pZCgpCiAgICAgICAgICAgICAgICAgICAgb3RoZXJfdmVydGV4ID0gd2hpY2hfZWRnZS5lbmQoKQogICAgICAgICAgICAgICAgICAgIGdvdF9lZGdlID0gVHJ1ZQogICAgICAgICAgICAgICAgaWYgbm90IGdvdF9lZGdlIGFuZCAod2hpY2hfZWRnZS5lbmQoKS5pZCgpID09IGNjd192aWQpOgogICAgICAgICAgICAgICAgICAgICMgcHJpbnQgY2N3X3ZpZCwgIiByZWYyOiIsIHdoaWNoX2VkZ2UuZW5kKCkuaWQoKQogICAgICAgICAgICAgICAgICAgIG90aGVyX3ZlcnRleCA9IHdoaWNoX2VkZ2Uuc3RhcnQoKQogICAgICAgICAgICAgICAgICAgIGdvdF9lZGdlID0gVHJ1ZQogICAgICAgICAgICAgICAgaWYgbm90IGdvdF9lZGdlIGFuZCAod2hpY2hfZWRnZTIuc3RhcnQoKS5pZCgpID09IGNjd192aWQpOgogICAgICAgICAgICAgICAgICAgICMgcHJpbnQgY2N3X3ZpZCwgIiByZWYzOiIsIG9yZF9lZGdlc1soaSsxKSVzel0uc3RhcnQoKS5pZCgpCiAgICAgICAgICAgICAgICAgICAgb3RoZXJfdmVydGV4ID0gd2hpY2hfZWRnZTIuZW5kKCkKICAgICAgICAgICAgICAgICAgICBnb3RfZWRnZSA9IFRydWUKICAgICAgICAgICAgICAgIGlmIG5vdCBnb3RfZWRnZSBhbmQgKHdoaWNoX2VkZ2UyLmVuZCgpLmlkKCkgPT0gY2N3X3ZpZCk6CiAgICAgICAgICAgICAgICAgICAgIyBwcmludCBjY3dfdmlkLCAiIHJlZjQ6Iiwgb3JkX2VkZ2VzWyhpKzEpJXN6XS5lbmQoKS5pZCgpCiAgICAgICAgICAgICAgICAgICAgb3RoZXJfdmVydGV4ID0gd2hpY2hfZWRnZTIuc3RhcnQoKQogICAgICAgICAgICAgICAgICAgIGdvdF9lZGdlID0gVHJ1ZQogICAgICAgICAgICAgICAgaWYgbm90IGdvdF9lZGdlOgogICAgICAgICAgICAgICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiY2Fubm90IGZpbmQgb3RoZXIgdmVydGV4IikKICAgICAgICAgICAgICAgICAgICAjcHJpbnQgImNhbm5vdCBmaW5kIG90aGVyIHZlcnRleCAuLi4iCiAgICAgICAgICAgICAgICBwMSA9IGVkZ2UuY2xvY2t3aXNlX3ZlcnRleCgpIC0gZWRnZS5jZW50ZXIoKQogICAgICAgICAgICAgICAgcDIgPSBvdGhlcl92ZXJ0ZXggLSBlZGdlLmNlbnRlcigpCiAgICAgICAgICAgICAgICBjID0gY3Jvc3MocDEsIHAyKQogICAgICAgICAgICAgICAgaWYgYyA8PSAwOgogICAgICAgICAgICAgICAgICAgIGVkZ2Uuc2lnbigtMS4wKQo=</text>
+        <text encoding="base64">IGZvciBlZGdlIGluIHNlbGYub3JkZXJlZF9lZGdlczoKICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
