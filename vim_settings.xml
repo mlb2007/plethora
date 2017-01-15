@@ -85,10 +85,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/edge.py" timestamp="1484444088445">
-        <mark key="[" line="138" column="28" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/edge.py" timestamp="1484463267215">
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="163" column="15" />
+        <mark key="." line="164" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/simple_circulararc.json" timestamp="1484426446504">
         <mark key="[" line="4" column="6" />
@@ -149,10 +150,11 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484459140863">
-        <mark key="[" line="46" column="61" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484463294591">
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="77" column="10" />
+        <mark key="." line="77" column="10" />
+        <mark key="^" line="77" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
         <mark key="[" line="64" column="4" />
@@ -185,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2273" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2284" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2523" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2528" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -285,63 +286,63 @@
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Ex/simple.json" />
       <jump line="9" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="319" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="63" column="16" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>_cross</text>
+        <text encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfcmVjdF9qc29uX3BhcnNlcigpOgogICAgZmlsZW5hbWUgPSAicmVjdGFuZ2xlLmpzb24iCiAgICBqcCA9IEpzb25QYXJzZXIoZmlsZW5hbWUpCiAgICB2ZXJ0aWNlcywgZWRnZXMgPSBqcC5leHRyYWN0KCkKICAgIHByaW50IHZlcnRpY2VzCiAgICBwcmludCBlZGdlcwo=</text>
+        <text encoding="base64">ICAgICAgIGlmIHN0X2lkID09IGN1cnJfZWRnZVswXToKICAgICAgICAgICAgICAgICAgICBlX2lkID0gY3Vycl9lZGdlWzFdCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGVfaWQgPSBjdXJyX2VkZ2VbMF0KIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpID0gMAo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICBhMyA9IHNlbGYuc2VjdG9yX2FyZWEoc2VsZi5yYWRpdXMoKS1wYWRfZGlzdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoK</text>
+        <text encoding="base64">ICAgICAgICBhMiA9IHNlbGYuc2VjdG9yX2FyZWEoc2VsZi5yYWRpdXMoKS1wYWRfZGlzdCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oZWRfbGlzdCkpOgo=</text>
+        <text encoding="base64">ICAgICAgICBhMyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgZWRfbGlzdFswXQo=</text>
+        <text encoding="base64">ICAgICAgICBhMiA9IHNlbGYuc2VjdG9yX2FyZWEoc2VsZi5yYWRpdXMoKS1wYWRfZGlzdCkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHN0X2lkID0gZWRfaWRzWzBdCiAgICAgICAgICAgIGVfaWQgPSBlZF9pZHNbMV0KICAgICAgICAgICAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByID0gc2VsZi5yYWRpdXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RfaWQgPSBlZF9pZHNbMF0K</text>
+        <text encoding="base64">ICAgIGRlZiBwYWRkZWRfYXJlYShzZWxmLCBwYWRfZGlzdCk6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZWRnZV9pZCwgZWRnZSBpbiBzZWxmLmVkZ2VzLml0ZXJpdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgIGRlZiBwYWRfYXJlYShzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImZhbHNlZCBoZXJlIC4uIiwgbGVuKGlkX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_cross</last-search>
+      <last-search encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>_cross</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</last-pattern>
       <last-replace>mesh</last-replace>
       <last-substitute>fc</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mesh_refine</entry>
         <entry>get_mesh_elements</entry>
         <entry>as_points</entry>
         <entry>bend_ent</entry>
@@ -361,6 +362,7 @@
         <entry>fc</entry>
         <entry>_crs</entry>
         <entry>_cross</entry>
+        <entry encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
