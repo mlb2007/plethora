@@ -108,11 +108,11 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484261596985">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484441286869">
         <mark key="a" line="1935" column="51" />
-        <mark key="'" line="1296" column="9" />
-        <mark key="[" line="3167" column="4" />
-        <mark key="]" line="3173" column="4" />
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="319" column="0" />
+        <mark key="]" line="323" column="21" />
         <mark key="." line="3679" column="60" />
         <mark key="^" line="3679" column="60" />
       </file>
@@ -165,6 +165,11 @@
         <mark key="." line="42" column="0" />
         <mark key="^" line="39" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484441066250">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="33" column="43" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui.py" timestamp="1484205574921">
         <mark key="[" line="49" column="35" />
         <mark key="]" line="32" column="0" />
@@ -172,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2226" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2265" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2273" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2284" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -272,55 +276,56 @@
       <jump line="139" column="45" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="40" column="27" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Ex/simple.json" />
+      <jump line="9" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJjbGsgaW5kZXg6IiwgY2xrX2luZGV4Cg==</text>
+        <text encoding="base64">MTU0N2NiZGVhNmJjZDM1YTNhOGQ4NzZiNDc3YjFjYTA0NmRjZGYxYwo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>fc</text>
+        <text>_cross</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3Rfc2ltcGxlX2FyY19qc29uX3BhcnNlcigpOgogICAgZmlsZW5hbWUgPSAic2ltcGxlX2NpcmN1bGFyYXJjLmpzb24iCiAgICBqcCA9IEpzb25QYXJzZXIoZmlsZW5hbWUpCiAgICB2ZXJ0aWNlcywgZWRnZXMgPSBqcC5leHRyYWN0KCkKICAgIHByaW50IHZlcnRpY2VzCiAgICBwcmludCBlZGdlcwo=</text>
+        <text encoding="base64">ZGVmIF9jcm9zcyhhLCBiKToKICAgIGMgPSBbYVsxXSAqIGJbMl0gLSBhWzJdICogYlsxXSwKICAgICAgICAgYVsyXSAqIGJbMF0gLSBhWzBdICogYlsyXSwKICAgICAgICAgYVswXSAqIGJbMV0gLSBhWzFdICogYlswXV0KICAgIHJldHVybiBQb2ludDNEKGMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJjbGsgaW5kZXg6IiwgY2xrX2luZGV4Cg==</text>
+        <text encoding="base64">MTU0N2NiZGVhNmJjZDM1YTNhOGQ4NzZiNDc3YjFjYTA0NmRjZGYxYwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRlc3RfYXJjX2pzb25fcGFyc2VyKCkK</text>
+        <text encoding="base64">ICAgICAgICB4ZCA9IHNlbGYuY29vcmRzWzBdLW90aGVyLmNvb3Jkc1swXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJjbGsgaW5kZXg6IiwgY2xrX2luZGV4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRlc3RfYXJjX2pzb25fcGFyc2VyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiWSI6IDEuMAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiWCI6IDAuMCwK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIlBvc2l0aW9uIjogewo=</text>
+        <text encoding="base64">ICAgICAgICAiWSI6IDEuMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICI2MzI0ODc3OCI6IHsK</text>
+        <text encoding="base64">ICAgICAgICAiWCI6IDAuMCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgIlBvc2l0aW9uIjogewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fc</last-search>
+      <last-search>_cross</last-search>
       <last-offset />
-      <last-pattern>fc</last-pattern>
+      <last-pattern>_cross</last-pattern>
       <last-replace>mesh</last-replace>
       <last-substitute>fc</last-substitute>
       <last-dir>1</last-dir>
@@ -328,8 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXNoX3JlZmluZW1lbnRcPg==</entry>
-        <entry>_mesh_refine</entry>
         <entry>mesh_refine</entry>
         <entry>get_mesh_elements</entry>
         <entry>as_points</entry>
@@ -348,6 +351,8 @@
         <entry>mesh(</entry>
         <entry>get_faces</entry>
         <entry>fc</entry>
+        <entry>_crs</entry>
+        <entry>_cross</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
