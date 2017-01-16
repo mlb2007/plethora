@@ -21,15 +21,21 @@
       <file name="/fragment.py" timestamp="1484000891596">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/Ex/plethora/extrude_arc.json" timestamp="1484525325389">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/edge.py" timestamp="1484424933207">
         <mark key="[" line="59" column="37" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484524305173">
-        <mark key="[" line="104" column="4" />
-        <mark key="]" line="98" column="32" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484525286269">
+        <mark key="[" line="117" column="4" />
+        <mark key="]" line="117" column="24" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/vertex.py" timestamp="1484415133380">
         <mark key="[" line="4" column="22" />
@@ -84,6 +90,12 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/chevron2.py" timestamp="1481998946401">
+        <mark key="'" line="78" column="4" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="37" />
+        <mark key="." line="89" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/circulararc.json" timestamp="1484426101761">
         <mark key="[" line="33" column="3" />
         <mark key="]" line="33" column="3" />
@@ -136,11 +148,10 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484524162711">
-        <mark key="[" line="175" column="29" />
-        <mark key="]" line="186" column="18" />
-        <mark key="." line="186" column="18" />
-        <mark key="^" line="186" column="18" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484526364878">
+        <mark key="[" line="188" column="26" />
+        <mark key="]" line="187" column="37" />
+        <mark key="." line="187" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
         <mark key="[" line="64" column="4" />
@@ -173,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
       <jump line="4042" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
       <jump line="511" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
@@ -273,10 +283,11 @@
       <jump line="117" column="13" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
       <jump line="119" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
       <jump line="121" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/extrude_arc.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2MiA9IHNlbGYudmVydGljZXNbc2VsZi5vdGhlcl9pZF0gLSBzZWxmLmNlbnRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX3dpdGhfcGFkZGluZyAtPSBzdWJfYXJlYQo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -285,34 +296,34 @@
         <text encoding="base64">XDxvdGhlcl9pZFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGFyZWEgPSBtYWNoaW5lX2Nvc3QuYXJlYSgpCiAgICBwYWRfYXJlYSA9IG1hY2hpbmVfY29zdC5wYWRkaW5nX2FyZWEoKQogICAgY190aW1lID0gbWFjaGluZV9jb3N0LmN1dHRpbmdfdGltZSgpCiAgICBjb3N0ID0gKHBhZF9hcmVhICogbWFjaGluZV9jb3N0Lm1hdGVyaWFsX2Nvc3QpICsgKGFyZWEgKiBtYWNoaW5lX2Nvc3QubWF0ZXJpYWxfY29zdCkgKyBcCiAgICAgICAgICAgKGNfdGltZSAqIG1hY2hpbmVfY29zdC50aW1lX2Nvc3QpCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY3V0X2NpcmN1bGFyX2Nvc3QoKToKICAgIGZpbGVuYW1lID0gImNpcmN1bGFyYXJjLmpzb24iCiAgICBtYWNoaW5lX2Nvc3QgPSBDb3N0KGZpbGVuYW1lKQogICAgcHJpbnQgbWFjaGluZV9jb3N0LmlzX2Nsb3NlZCgpCiAgICBwcmludCBtYWNoaW5lX2Nvc3QuZm9ybV9jbG9zZWRfcG9seWdvbigpCiAgICBtYWNoaW5lX2Nvc3QuY2lyY3VsYXJfYXJlYV9zaWduKCkKICAgIGFyZWEgPSBtYWNoaW5lX2Nvc3QuYXJlYSgpCiAgICBwYWRfYXJlYSA9IG1hY2hpbmVfY29zdC5wYWRkaW5nX2FyZWEoKQogICAgcHJpbnQgYXJlYSwgcGFkX2FyZWEKICAgIGNfdGltZSA9IG1hY2hpbmVfY29zdC5jdXR0aW5nX3RpbWUoKQogICAgY29zdCA9IChwYWRfYXJlYSAqIG1hY2hpbmVfY29zdC5tYXRlcmlhbF9jb3N0KSArIChhcmVhICogbWFjaGluZV9jb3N0Lm1hdGVyaWFsX2Nvc3QpICsgXAogICAgICAgICAgIChjX3RpbWUgKiBtYWNoaW5lX2Nvc3QudGltZV9jb3N0KQogICAgcHJpbnQgIkZpbmFsIGNvc3QgaXM6IiwgY29zdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2MiA9IHNlbGYudmVydGljZXNbc2VsZi5vdGhlcl9pZF0gLSBzZWxmLmNlbnRlcigpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX3dpdGhfcGFkZGluZyAtPSBzdWJfYXJlYQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJGaW5hbCBjb3N0IGlzOiIsIGNvc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY19hcmVhID0gZWRnZS5zZWN0b3JfYXJlYShlZGdlLnJhZGl1cygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiYmZyOiIsIGFyZWFfd2l0aF9wYWRkaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgZWRnZS50eXBlKCkgPT0gRWRnZVR5cGUuZUNpcmN1bGFyQXJjOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBlcmltZXRlciA9IG1hY2hpbmVfY29zdC5wZXJpbWV0ZXIoKQo=</text>
+        <text encoding="base64">ICAgIHRlc3RfY2lyY3VsYXJfY29zdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1pbiwgbWF4ID0gbWFjaGluZV9jb3N0LmJib3goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJTaWduIG9mIHRoZSBlZGdlIGlzOiIsIGVkZ2UuYXJlYV9zaWduCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBlcmltZXRlciA9IG1hY2hpbmVfY29zdC5wZXJpbWV0ZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpcmNfYXJlYSA9IGNpcmNfYXJlYSArIChlZGdlLnNlY3Rvcl9hcmVhKGVkZ2UucmFkaXVzKCkpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3BlZWQgPSBzZWxmLmN1dHRlcl9zcGVlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpcmNfYXJlYSA9IGNpcmNfYXJlYSArIChlZGdlLmFyZWFfc2lnbiAqIGVkZ2Uuc2VjdG9yX2FyZWEoZWRnZS5yYWRpdXMoKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
