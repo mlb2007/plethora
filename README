@@ -1,8 +1,8 @@
 To Run:
 ------
 Execute the file test.py as python test.py 
-Alternatively, use python testing framwork (i.e. use py.test test.py) to run the tests
-
+Alternatively, use python testing framework (i.e. use py.test test.py) to run the tests
+The main function tht calculates cost is in file stock.py and is called process(jsonfile)
 
 Files:
 -----
@@ -11,17 +11,16 @@ edge.py       ==> edge data type, that contains vertices and other relevant edge
 jsonparse.py  ==> json parser that assumes the format given in the web page. 
 stock.py      ==> this contains all the functions that are needed to work on a given stock to output material cost
 test.py       ==> contains all testing
+*.json        ==> json inputs used for testing
 
 
 TODO:
 ----
 A lot more defensive coding needs to be done ...
-
-Bounding box calculations must be made primitives and need to make code more readble and modular
-
-More tests need to be added ...!!
-
-Port to C++ for speed ..
+Add comments for readability and contract
+Bounding box calculations must be made primitives
+Add more testing
+Port to C++ for speed
 
 
 --
