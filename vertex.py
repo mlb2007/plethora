@@ -14,6 +14,10 @@ class Point(object):
             raise Exception("Point index out of bounds")
         return self.coords[item]
 
+    def __setitem__(self, key, value):
+        self.coords[key] = value
+        return self
+
     def x(self, value=None):
         if value is not None:
             self.coords[0] = value
@@ -21,7 +25,7 @@ class Point(object):
 
     def y(self, value=None):
         if value is not None:
-            self.coords[y] = value
+            self.coords[1] = value
         return self.coords[1]
 
     def __eq__(self, other):
@@ -33,10 +37,20 @@ class Point(object):
     def __lt__(self, other):
         if self.coords[0] < other.coords[0]:
             return True
-        if abs(self.coords[0] - other.coords[0]) < Point.dtol and \
-           (self.coords[1] < other.coords[1]):
-            return True
+        elif abs(self.coords[0] - other.coords[0]) < Point.dtol:
+            if self.coords[1] < other.coords[1]:
+                return True
         return False
+
+    def __gt__(self, other):
+        #print "gt:",  self.coords[0], self.coords[1], " other:", other.coords[0], other.coords[1]
+        if self.coords[0] > other.coords[0]:
+            return True
+        elif abs(self.coords[0] - other.coords[0]) < Point.dtol:
+            if self.coords[1] > other.coords[1]:
+                return True
+        return False
+
 
     def __len__(self):
         return 2
@@ -62,6 +76,11 @@ class Point(object):
     def norm(self):
         return ((self[0]*self[0]) + (self[1]*self[1]))**0.5
 
+    def normalize(self):
+        n = self.norm()
+        if n < 1e-7:
+            raise Exception("Point is zero")
+        return Point(self[0]/n, self[1]/n)
 
 
 class Vertex(object):
@@ -100,6 +119,9 @@ class Vertex(object):
 
     def __lt__(self, other):
         return self.point < other
+
+    def __gt__(self, other):
+        return self.point > other
 
     def __len__(self):
         return len(self.point)
