@@ -56,9 +56,9 @@
         <mark key="." line="71" column="13" />
         <mark key="^" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484531523623">
+      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484534383223">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
+        <mark key="[" line="122" column="4" />
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
@@ -159,10 +159,10 @@
         <mark key="^" line="1366" column="4" />
         <mark key="." line="1366" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484534061551">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484534137313">
+        <mark key="[" line="156" column="31" />
+        <mark key="]" line="200" column="0" />
+        <mark key="." line="200" column="0" />
         <mark key="^" line="155" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1482356384266">
@@ -328,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -340,31 +340,31 @@
         <text encoding="base64">IGRlZiBwYWRkaW5nX2FyZWEoc2VsZik6CiAgICAgICAgbGVuZ3RoLCB3aWR0aCA9IHNlbGYuX2Jib3hfbGVuX3dpZHRoKCkKICAgICAgICBhcmVhX3dpdGhfcGFkZGluZyA9IChsZW5ndGgrc2VsZi5wYWRkaW5nKSood2lkdGgrc2VsZi5wYWRkaW5nKQogICAgICAgIGFyZWFfd2l0aF9wYWRkaW5nIC09IHNlbGYuX2Jib3hfYXJlYSgpCiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50ICIgPT09PT09IGlkIGxpc3QgPT09PT0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByaW50IGlkX2xpc3QK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAjIHByaW50ICIgPT09PT09IGlkIGxpc3QgPT09PT0iCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50IGlkX2xpc3QK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHByaW50ICItLS0gaToiLCBpLCB3aGljaF9lZGdlLCAiIC4uICIsIGVkZ2UsICIgLi4gIiwgd2hpY2hfZWRnZTIsICIgcmVmOiIsIGNjd192aWQK</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICIgPT09PT09IGlkIGxpc3QgPT09PT0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHByaW50ICItLS0gaToiLCBpLCB3aGljaF9lZGdlLCAiIC4uICIsIGVkZ2UsICIgLi4gIiwgd2hpY2hfZWRnZTIsICIgcmVmOiIsIGNjd192aWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChhYnMoY29zdC0xNC43MikgPCAxZS03KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNzZWNfYXJlYSA9IHNlbGYuX3BhZGRpbmdfYXJlYV9yZWN0KGVkZ2UucmFkaXVzKCksIGVkZ2UucmFkaXVzKCkgKiAyLjApCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChhYnMoY29zdC0xNC43MikgPCAxZS03KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
