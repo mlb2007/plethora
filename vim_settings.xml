@@ -128,6 +128,9 @@
         <mark key="]" line="2" column="22" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484609030439">
+        <mark key="'" line="1394" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/chevron2.py" timestamp="1481998946401">
         <mark key="'" line="78" column="4" />
         <mark key="[" line="89" column="4" />
@@ -238,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1659" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1862" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3682" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3683" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -338,6 +340,7 @@
       <jump line="1961" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="1975" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="3922" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1394" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +350,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get_mesh_conn</text>
+        <text>poly_line</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfYm94X2NyZWF0ZSgpOgogICAgcG9pbnRhID0gWzMsIDQuMzQsIDUuNjddCiAgICBwb2ludGIgPSBbNi41LCAxMi40NSwgMTAuNjddCiAgICBiMSA9IHNhZ2UuYm94KHBvaW50YSwgcG9pbnRiKQogICAgYjIgPSBzYWdlLl9kZXByZWNhdGVkX2JveChwb2ludGEsIHBvaW50YikKICAgIGIxdiA9IHNhZ2Uudm9sdW1lKGIxKQogICAgYjJ2ID0gc2FnZS52b2x1bWUoYjIpCiAgICBhc3NlcnRfZmxvYXQoYjF2LCBiMnYpCg==</text>
@@ -384,9 +387,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_mesh_conn</last-search>
+      <last-search>poly_line</last-search>
       <last-offset />
-      <last-pattern>get_mesh_conn</last-pattern>
+      <last-pattern>poly_line</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mesh(</entry>
         <entry>get_faces</entry>
         <entry>fc</entry>
         <entry>_crs</entry>
@@ -414,6 +416,7 @@
         <entry>get_rect</entry>
         <entry>get_face_uv</entry>
         <entry>get_mesh_conn</entry>
+        <entry>poly_line</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
