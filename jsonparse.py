@@ -60,7 +60,7 @@ class JsonParser(object):
                 pass
             try:
                 v_ids = data['Vertices']
-                print v_ids
+                #print v_ids
                 if len(v_ids) != 2:
                     print "Number of vertices got:", len(v_ids)
                     raise Exception("Expecting start and end points only for line segment")
