@@ -56,11 +56,12 @@
         <mark key="." line="71" column="13" />
         <mark key="^" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484536619686">
+      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484578215426">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="91" column="32" />
-        <mark key="." line="91" column="0" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="124" column="4" />
+        <mark key="^" line="124" column="4" />
+        <mark key="." line="124" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/vertex.py" timestamp="1484415133380">
         <mark key="[" line="4" column="22" />
@@ -158,10 +159,10 @@
         <mark key="^" line="1366" column="4" />
         <mark key="." line="1366" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484536892743">
-        <mark key="[" line="159" column="16" />
-        <mark key="]" line="159" column="16" />
-        <mark key="." line="159" column="16" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578083015">
+        <mark key="[" line="218" column="4" />
+        <mark key="]" line="218" column="4" />
+        <mark key="." line="218" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1482356384266">
         <mark key="[" line="88" column="48" />
@@ -325,44 +326,54 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>machine_cost</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGlmIHJlZl9wZXJwX3ZlY1swXSA+IG1heFswXToKICAgICAgICAgICAgICAgICAgICBtYXhbMF0gPSByZWZfcGVycF92ZWNbMF0KIA==</text>
+        <text encoding="base64">ZGVmIHRlc3RfZXh0X2NpcmN1bGFyX2Nvc3QoKToKICAgIGZpbGVuYW1lID0gImV4dHJ1ZGVfYXJjLmpzb24iCiAgICBwcm9jZXNzX3N0b2NrID0gU3RvY2soZmlsZW5hbWUpCiAgICAjcHJpbnQgcHJvY2Vzc19zdG9jay5pc19jbG9zZWQoKQogICAgI3ByaW50IHByb2Nlc3Nfc3RvY2suZm9ybV9jbG9zZWRfcG9seWdvbigpCiAgICBwcm9jZXNzX3N0b2NrLmNpcmN1bGFyX2FyZWFfc2lnbigpCiAgICBhcmVhID0gcHJvY2Vzc19zdG9jay5hcmVhKCkKICAgIHBhZF9hcmVhID0gcHJvY2Vzc19zdG9jay5wYWRkaW5nX2FyZWEoKQogICAgI3ByaW50IGFyZWEsIHBhZF9hcmVhCiAgICBjX3RpbWUgPSBwcm9jZXNzX3N0b2NrLmN1dHRpbmdfdGltZSgpCiAgICBjb3N0ID0gKChhcmVhICsgcGFkX2FyZWEpICogcHJvY2Vzc19zdG9jay5tYXRlcmlhbF9jb3N0KSsgKGNfdGltZSAqIHByb2Nlc3Nfc3RvY2sudGltZV9jb3N0KQogICAgcHJpbnQgIkZpbmFsIGNvc3QgaXM6IiwgY29zdAogICAgYXNzZXJ0KGFicyhjb3N0LTQuNDcpPCAxZS0yKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZfdmVjID0gKGVkZ2UuY2xvY2t3aXNlX3ZlcnRleCgpIC0gZWRnZS5jZW50ZXIoKSkK</text>
+        <text encoding="base64">ICAgIGNvc3QgPSBwcm9jZXNzX3N0b2NrKGZpbGVuYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">IyBjYW4gYmUgcmVmYWN0b3JlZCBidXQgLi4uIGxhdGVyIC4uLgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZfdmVjID0gLShlZGdlLmNsb2Nrd2lzZV92ZXJ0ZXgoKSAtIGVkZ2UuY2VudGVyKCkpCg==</text>
+      <register name="4" type="4">
+        <text>def process_stock(self, jsonfile):
+        stock = Stock(filename)
+        stock.circular_area_sign()
+        area = stock.area()
+        pad_area = stock.padding_area()
+        c_time = stock.cutting_time()
+        m_cost = ((area + pad_area) * stock.material_cost)
+        t_cost = (c_time * process_stock.time_cost)
+        cost = m_cost + t_cost
+        print &quot;Final cost for stock:&quot;, jsonfile, &quot; is:&quot;, cost
+        return cost</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiaGVyZSIK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQoYWJzKGNvc3QtNC40Nyk8IDFlLTIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGVkZ2UuYXJlYV9zaWduIDwgMDoK</text>
+        <text encoding="base64">ICAgICNwcmludCBhcmVhLCBwYWRfYXJlYQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZWZfdmVjID0gKGVkZ2UuY2xvY2t3aXNlX3ZlcnRleCgpIC0gZWRnZS5jZW50ZXIoKSkK</text>
+        <text encoding="base64">ICAgICNwcmludCBwcm9jZXNzX3N0b2NrLmZvcm1fY2xvc2VkX3BvbHlnb24oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZl92ZWMgPSBlZGdlLmNlbnRlcigpIC0gZWRnZS5jbG9ja3dpc2VfdmVydGV4KCkK</text>
+        <text encoding="base64">ICAgICNwcmludCBwcm9jZXNzX3N0b2NrLmlzX2Nsb3NlZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIHBhZF9hcmVhCg==</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gImV4dHJ1ZGVfYXJjLmpzb24iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
