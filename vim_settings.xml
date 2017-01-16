@@ -149,9 +149,9 @@
         <mark key="[" line="1721" column="0" />
         <mark key="]" line="1797" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484589104845">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484592278447">
         <mark key="a" line="1935" column="51" />
-        <mark key="'" line="1900" column="52" />
+        <mark key="'" line="3922" column="4" />
         <mark key="[" line="1900" column="52" />
         <mark key="]" line="1900" column="52" />
         <mark key="." line="1900" column="52" />
@@ -334,10 +334,10 @@
       <jump line="4005" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1868" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="764" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="3922" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1900" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1961" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="1975" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="3922" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -347,7 +347,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get_face_uv</text>
+        <text>get_mesh_conn</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfZmFjZV9ncmlkX3BhcmFtcygpOgogICAgeiA9IDEwCiAgICBsMSA9IHNhZ2UubGluZSgoMCwgMCwgeiksICgxLCAwLCB6KSkKICAgIGwyID0gc2FnZS5saW5lKCgxLCAwLCB6KSwgKDEsIDEsIHopKQogICAgbDMgPSBzYWdlLmxpbmUoKDEsIDEsIHopLCAoMCwgMSwgeikpCiAgICBsNCA9IHNhZ2UubGluZSgoMCwgMSwgeiksICgwLCAwLCB6KSkKICAgIGZhY2UgPSBzYWdlLm1ha2VfZmFjZShbbDEsIGwyLCBsMywgbDRdKQogICAgdV90b3AgPSBbMCwgMC4yNSwgMS4wXQogICAgdV9ib3QgPSBbMCwgMC4yNSwgMS4wXQogICAgdl9sZWZ0ID0gWzAsIDAuMjUsIDEuMF0KICAgIHZfcmlnaHQgPSBbMCwgMC4yNSwgMS4wXQogICAgeHZlYywgeXZlYywgenZlYyA9IHNhZ2UuZ2V0X3JlY3RfZmFjZV94eXooZmFjZSwgdV90b3AsIHZfbGVmdCwgdV9ib3QsIHZfcmlnaHQpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzBdKSwgc2FnZS5Qb2ludDNEKFswLCAwLCAwXSkpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzFdKSwgc2FnZS5Qb2ludDNEKFswLjI1LCAwLjI1LCAwLjI1XSkpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzJdKSwgc2FnZS5Qb2ludDNEKFsxLCAxLCAxXSkpCgogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1swXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1sxXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1syXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQoKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMF0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMV0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMl0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKCiAgICB4eXpzID0gWygwLCAwLCB6KSwgKDAuMjUsIDAuMjUsIHopLCAoMC41LCAwLjUsIHopLCAoMS4wLCAxLjAsIHopXQogICAgdXZzID0gc2FnZS5nZXRfZmFjZV91dihmYWNlLCB4eXpzKQogICAgYXNzZXJ0X2Zsb2F0KHV2c1swXVswXSwgMCkKICAgIGFzc2VydF9mbG9hdCh1dnNbMF1bMV0sIDApCiAgICBhc3NlcnRfZmxvYXQodXZzWzFdWzBdLCAwLjI1KQogICAgYXNzZXJ0X2Zsb2F0KHV2c1sxXVsxXSwgMC4yNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbMl1bMF0sIDAuNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbMl1bMV0sIDAuNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbM11bMF0sIDEuMCkKICAgIGFzc2VydF9mbG9hdCh1dnNbM11bMV0sIDEuMCkK</text>
@@ -384,9 +384,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_face_uv</last-search>
+      <last-search>get_mesh_conn</last-search>
       <last-offset />
-      <last-pattern>get_face_uv</last-pattern>
+      <last-pattern>get_mesh_conn</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Three</entry>
         <entry>mesh(</entry>
         <entry>get_faces</entry>
         <entry>fc</entry>
@@ -414,6 +413,7 @@
         <entry>get_face_u</entry>
         <entry>get_rect</entry>
         <entry>get_face_uv</entry>
+        <entry>get_mesh_conn</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
