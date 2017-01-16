@@ -119,7 +119,6 @@ class Stock(object):
                         got_edge = True
                     if not got_edge:
                         raise Exception("cannot find other vertex")
-                        # print "cannot find other vertex ..."
 
                     p2 = other_vertex - edge.center()
                     c = cross(ref_vec, p2)
@@ -132,32 +131,44 @@ class Stock(object):
                         edge.sign(1.0)
                         keep_looping = False
 
-    # find bounding box , tried also to find bounding box including the
-    # circular protrusion ... but this is not used as it is not clear
-    # how padding area is to be calculated ...
+    # find bounding box , including the circular protrusion or cut...
     def bbox(self):
         min = Point(sys.float_info.max, sys.float_info.max)
         max = Point(-sys.float_info.max, -sys.float_info.max)
         for edge in self.ordered_edges:
             s = edge.start().point
             e = edge.end().point
-            if s < min:
-                min = s
-            if s > max:
-                max = s
-            if e < min:
-                min = e
-            if e > max:
-                max = e
-        ## now bounds added by circular edge
-        # for edge in self.ordered_edges:
-        #    if edge.type() == EdgeType.eCircularArc:
-        #        ref_vec = edge.clockwise_vertex() - edge.center()
-        #        ref_perp_vec = Point(-ref_vec[1], ref_vec[0])
-        #        if ref_perp_vec < min:
-        #            min = ref_perp_vec
-        #        if ref_perp_vec > max:
-        #            max = ref_perp_vec
+            if s[0] < min[0]:
+                min[0] = s[0]
+            if s[1] < min[1]:
+                min[1] = s[1]
+            if s[0] > max[0]:
+                max[0] = s[0]
+            if s[1] > max[1]:
+                max[1] = s[1]
+            if e[0] < min[0]:
+                min[0] = e[0]
+            if e[1] < min[1]:
+                min[1] = e[1]
+            if e[0] > max[0]:
+                max[0] = e[0]
+            if e[1] > max[1]:
+                max[1] = e[1]
+        # now bounds added by circular edge
+        for edge in self.ordered_edges:
+            if edge.type() == EdgeType.eCircularArc:
+                ref_vec = edge.center() - edge.clockwise_vertex()
+                rn = Point(-ref_vec[1], ref_vec[0]).normalize()
+                mod_pt = Point(rn[0] * edge.radius(), rn[1] * edge.radius())
+                ref_perp_vec = edge.center() + mod_pt
+                if ref_perp_vec[0] < min[0]:
+                    min[0] = ref_perp_vec[0]
+                if ref_perp_vec[1] < min[1]:
+                    min[1] = ref_perp_vec[1]
+                if ref_perp_vec[0] > max[0]:
+                    max[0] = ref_perp_vec[0]
+                if ref_perp_vec[1] > max[1]:
+                    max[1] = ref_perp_vec[1]
         return min, max
 
     def perimeter(self):
@@ -168,43 +179,20 @@ class Stock(object):
 
     def _bbox_len_width(self):
         min, max = self.bbox()
+        # print "bbox:", min, max
         length = abs(max[0] - min[0])
         width = abs(max[1] - min[1])
         return length, width
 
     def _bbox_area(self):
         length, width = self._bbox_len_width()
+
         area = length * width
         return area
 
-    def _padding_area_rect(self, length, width):
-        a1 = (length + (self.padding * 2.0)) * (width + (2.0 * self.padding))
-        a2 = length * width
-        return a1 - a2
-
-    # super complicated padding area determination to make sure
-    # a tight padding area is calculated
-    # first find bounding padding area, then selectively remove the
-    # padding area in places where circular arc is found, and then add
-    # padding area due to circular arc taking into account if the
-    # radius used for calculated padding area follows the circular arc
-    # if it curves inside or protrudes outside
     def padding_area(self):
         length, width = self._bbox_len_width()
-        pad_area = self._padding_area_rect(length, width)
-        # print "bfr:", pad_area, " l:", length, " wi:", width
-        sub_area = 0
-        sec_area = 0
-        for edge in self.ordered_edges:
-            if edge.type() == EdgeType.eCircularArc:
-                dia = edge.radius() * 2.0
-                sub_area += (dia + (2.0 * self.padding)) * self.padding
-                sec_area1 = edge.sector_area(edge.radius())
-                sec_area_dilated = edge.sector_area((edge.radius() + (edge.area_sign * self.padding)))
-                sec_area += abs(sec_area_dilated - sec_area1)
-        pad_area -= sub_area
-        pad_area += sec_area
-        # print "aftr:", pad_area
+        pad_area = (length * self.padding) + (width * self.padding) + (self.padding ** 2.0)
         return pad_area
 
     def area(self):
@@ -213,7 +201,8 @@ class Stock(object):
         for edge in self.ordered_edges:
             if edge.type() == EdgeType.eCircularArc:
                 # print "Sign of the edge is:", edge.area_sign
-                circ_area = circ_area + (edge.area_sign * edge.sector_area(edge.radius()))
+                circ_area += (edge.area_sign * edge.sector_area(edge.radius()))
+        circ_area = 0
         bbox_area += circ_area
         return bbox_area
 
