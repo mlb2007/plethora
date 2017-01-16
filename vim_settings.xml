@@ -162,10 +162,10 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484358097909">
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484594915466">
         <mark key="'" line="1775" column="0" />
-        <mark key="[" line="1366" column="4" />
-        <mark key="]" line="1366" column="4" />
+        <mark key="[" line="1858" column="0" />
+        <mark key="]" line="1865" column="26" />
         <mark key="^" line="1366" column="4" />
         <mark key="." line="1366" column="4" />
       </file>
@@ -215,11 +215,11 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484589822298">
-        <mark key="'" line="564" column="4" />
-        <mark key="[" line="527" column="0" />
-        <mark key="]" line="560" column="32" />
-        <mark key="." line="527" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484594924773">
+        <mark key="'" line="572" column="4" />
+        <mark key="[" line="572" column="4" />
+        <mark key="]" line="570" column="0" />
+        <mark key="." line="562" column="0" />
         <mark key="^" line="527" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484535165338">
@@ -340,8 +340,8 @@
       <jump line="3922" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIHRlc3RfYm94X2NyZWF0ZSgpOgogICAgcG9pbnRhID0gWzMsIDQuMzQsIDUuNjddCiAgICBwb2ludGIgPSBbNi41LCAxMi40NSwgMTAuNjddCiAgICBiMSA9IHNhZ2UuYm94KHBvaW50YSwgcG9pbnRiKQogICAgYjIgPSBzYWdlLl9kZXByZWNhdGVkX2JveChwb2ludGEsIHBvaW50YikKICAgIGIxdiA9IHNhZ2Uudm9sdW1lKGIxKQogICAgYjJ2ID0gc2FnZS52b2x1bWUoYjIpCiAgICBhc3NlcnRfZmxvYXQoYjF2LCBiMnYpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -350,7 +350,7 @@
         <text>get_mesh_conn</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfZmFjZV9ncmlkX3BhcmFtcygpOgogICAgeiA9IDEwCiAgICBsMSA9IHNhZ2UubGluZSgoMCwgMCwgeiksICgxLCAwLCB6KSkKICAgIGwyID0gc2FnZS5saW5lKCgxLCAwLCB6KSwgKDEsIDEsIHopKQogICAgbDMgPSBzYWdlLmxpbmUoKDEsIDEsIHopLCAoMCwgMSwgeikpCiAgICBsNCA9IHNhZ2UubGluZSgoMCwgMSwgeiksICgwLCAwLCB6KSkKICAgIGZhY2UgPSBzYWdlLm1ha2VfZmFjZShbbDEsIGwyLCBsMywgbDRdKQogICAgdV90b3AgPSBbMCwgMC4yNSwgMS4wXQogICAgdV9ib3QgPSBbMCwgMC4yNSwgMS4wXQogICAgdl9sZWZ0ID0gWzAsIDAuMjUsIDEuMF0KICAgIHZfcmlnaHQgPSBbMCwgMC4yNSwgMS4wXQogICAgeHZlYywgeXZlYywgenZlYyA9IHNhZ2UuZ2V0X3JlY3RfZmFjZV94eXooZmFjZSwgdV90b3AsIHZfbGVmdCwgdV9ib3QsIHZfcmlnaHQpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzBdKSwgc2FnZS5Qb2ludDNEKFswLCAwLCAwXSkpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzFdKSwgc2FnZS5Qb2ludDNEKFswLjI1LCAwLjI1LCAwLjI1XSkpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzJdKSwgc2FnZS5Qb2ludDNEKFsxLCAxLCAxXSkpCgogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1swXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1sxXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1syXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQoKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMF0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMV0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMl0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKCiAgICB4eXpzID0gWygwLCAwLCB6KSwgKDAuMjUsIDAuMjUsIHopLCAoMC41LCAwLjUsIHopLCAoMS4wLCAxLjAsIHopXQogICAgdXZzID0gc2FnZS5nZXRfZmFjZV91dihmYWNlLCB4eXpzKQogICAgYXNzZXJ0X2Zsb2F0KHV2c1swXVswXSwgMCkKICAgIGFzc2VydF9mbG9hdCh1dnNbMF1bMV0sIDApCiAgICBhc3NlcnRfZmxvYXQodXZzWzFdWzBdLCAwLjI1KQogICAgYXNzZXJ0X2Zsb2F0KHV2c1sxXVsxXSwgMC4yNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbMl1bMF0sIDAuNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbMl1bMV0sIDAuNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbM11bMF0sIDEuMCkKICAgIGFzc2VydF9mbG9hdCh1dnNbM11bMV0sIDEuMCkK</text>
+        <text encoding="base64">ZGVmIHRlc3RfYm94X2NyZWF0ZSgpOgogICAgcG9pbnRhID0gWzMsIDQuMzQsIDUuNjddCiAgICBwb2ludGIgPSBbNi41LCAxMi40NSwgMTAuNjddCiAgICBiMSA9IHNhZ2UuYm94KHBvaW50YSwgcG9pbnRiKQogICAgYjIgPSBzYWdlLl9kZXByZWNhdGVkX2JveChwb2ludGEsIHBvaW50YikKICAgIGIxdiA9IHNhZ2Uudm9sdW1lKGIxKQogICAgYjJ2ID0gc2FnZS52b2x1bWUoYjIpCiAgICBhc3NlcnRfZmxvYXQoYjF2LCBiMnYpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
