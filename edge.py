@@ -1,4 +1,38 @@
 from vertex import Vertex
+import math
+import sys
+
+
+def cross(a, b):
+    c = a[0] * b[1] - a[1] * b[0]
+    return c
+
+
+def dot(a, b):
+    c = a[0] * b[0] + a[1] * b[1]
+    return c
+
+
+def inner_angle(a, b):
+    c = cross(a, b)
+    d = dot(a, b)
+    ad = a.norm()
+    bd = b.norm()
+    if ad == 0:
+        raise Exception("zero")
+    if bd == 0:
+        raise Exception("zero")
+    cosp = d / (ad * bd)
+    return math.acos(cosp)
+
+
+def angle_c(a, b):
+    inner = inner_angle(a, b)
+    det = cross(a, b)
+    if det < 0:
+        return inner
+    else:
+        return (2.0 * math.pi) - inner
 
 
 # enum
@@ -50,6 +84,11 @@ class Edge(object):
             self.etype = edge_type
         return self.etype
 
+    def length(self):
+        return self[0].dist(self[1])
+
+    def padded_area(self, pad_dist):
+        return self.length()*pad_dist
 
 class LineSegment(Edge):
     def __init__(self, start_vertex, end_vertex, id):
@@ -62,8 +101,8 @@ class LineSegment(Edge):
             repr += "\t" + v.__repr__() + "\n"
         return repr
 
-    def type(self):
-        super(LineSegment, self).type()
+    def radius(self):
+        return float("inf")
 
 
 class CircularArc(Edge):
@@ -75,6 +114,14 @@ class CircularArc(Edge):
         else:
             self.c_clockwise_from = clockwise_from
         self.c_center = center
+        # the not clockwise vertex ..
+        self.other_vtx = None
+        if start_vertex.id() != self.c_clockwise_from:
+            self.other_vtx = start_vertex
+        else:
+            self.other_vtx = end_vertex
+
+        self.area_sign = 1.0
 
     def __repr__(self):
         repr = "Edge," + " type:" + "CircularArc, id:" + str(self.id) + "\n"
@@ -82,11 +129,7 @@ class CircularArc(Edge):
             repr += "\t" + v.__repr__() + "\n"
         repr += "\tcenter:[" + str(self.c_center[0]) + "," + str(self.c_center[1]) + "]\n"
         repr += "\tClockwiseFrom (id):" + str(self.c_clockwise_from) + "\n"
-        #        ",[" + str(self.vertices[self.c_clockwise_from][0]) + "," + str(self.vertices[self.c_clockwise_from][1]) + "]\n"
         return repr
-
-    def type(self):
-        return super(CircularArc, self).type()
 
     def center(self, circle_center=None):
         if circle_center is not None:
@@ -94,6 +137,41 @@ class CircularArc(Edge):
         return self.c_center
 
     def clockwisefrom(self, vertex_id=None):
-        if vertex_id is None:
+        if vertex_id is not None:
             self.c_clockwise_from = vertex_id
         return self.c_clockwise_from
+
+    def clockwise_vertex(self):
+        if self.vertices[0].id() == self.c_clockwise_from:
+            return self.vertices[0]
+        else:
+            return self.vertices[1]
+
+    def radius(self):
+        return self.c_center.dist(self.clockwise_vertex())
+
+    def angle(self):
+        v1 = self.clockwise_vertex() - self.center()
+        #v2 = self.vertices[self.other_id] - self.center()
+        v2 = self.other_vtx - self.center()
+        ang = angle_c(v1, v2)
+        return ang
+
+    def length(self):
+        s = self.radius() * self.angle()
+        return s
+
+    def sector_area(self, rad):
+        ang = self.angle()
+        a = (rad ** 2.0) * ang / 2.0
+        return math.fabs(a)
+
+    def padded_area(self, rad):
+        a = self.sector_area(rad)
+        return a
+
+    def sign(self, sgn=None):
+        if sgn is not None:
+            self.area_sign = sgn
+        return self.area_sign
+

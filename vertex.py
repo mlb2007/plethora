@@ -25,20 +25,55 @@ class Point(object):
         return self.coords[1]
 
     def __eq__(self, other):
-        if abs(self.coords[0]-other.coords[0]) < Point.dtol and \
-           abs(self.coords[1]-other.coords[1]) < Point.dtol:
-            return true
-        return false
+        if abs(self.coords[0] - other.coords[0]) < Point.dtol and \
+                abs(self.coords[1] - other.coords[1]) < Point.dtol:
+            return True
+        return False
+
+    def __lt__(self, other):
+        if self.coords[0] < other.coords[0]:
+            return True
+        if abs(self.coords[0] - other.coords[0]) < Point.dtol and \
+           (self.coords[1] < other.coords[1]):
+            return True
+        return False
+
+    def __len__(self):
+        return 2
+
+    def dist(self, other):
+        xd = self[0] - other[0]
+        yd = self[1] - other[1]
+        return ((xd * xd) + (yd * yd)) ** 0.5
+
+    def __add__(self, other):
+        sx = self[0] + other[0]
+        sy = self[1] + other[1]
+        return Point(sx, sy)
+
+    def __sub__(self, other):
+        sx = self[0] - other[0]
+        sy = self[1] - other[1]
+        return Point(sx, sy)
+
+    def __neg__(self):
+        return Point(-self[0], -self[1])
+
+    def norm(self):
+        return ((self[0]*self[0]) + (self[1]*self[1]))**0.5
+
 
 
 class Vertex(object):
+    dtol = 1e-7
+
     def __init__(self, point, eid):
         self.point = point
         self.vid = eid
 
     def __repr__(self):
         return "Vertex id:" + str(self.vid) + \
-                ",[" + str(self.point[0]) + "," + str(self.point[1]) + "]"
+               ",[" + str(self.point[0]) + "," + str(self.point[1]) + "]"
 
     def x(self, value=None):
         if value is not None:
@@ -57,3 +92,29 @@ class Vertex(object):
 
     def __getitem__(self, item):
         return self.point[item]
+
+    def __eq__(self, other):
+        if self.point == other and self.id() == other.id():
+            return True
+        return False
+
+    def __lt__(self, other):
+        return self.point < other
+
+    def __len__(self):
+        return len(self.point)
+
+    def norm(self):
+        return ((self[0]*self[0]) + (self[1]*self[1]))**0.5
+
+    def dist(self, other):
+        return self.point.dist(other)
+
+    def __add__(self, other):
+        return self.point + other
+
+    def __sub__(self, other):
+        return self.point - other
+
+    def __neg__(self):
+        return -self.point
