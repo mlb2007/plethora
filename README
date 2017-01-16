@@ -1,7 +1,11 @@
 Exexute the file test.py 
 One can also use py.test test.py to run the tests
 
-No assertions have been added because this is not complete yet ...
+A lot more defensive coding needs to be done ...
+
+Bounding box calculations must be made primitives and need to make code more readble and modular
+
+More tests ...!!
 
 Thanks
 Bharath
