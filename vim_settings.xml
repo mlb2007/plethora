@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484587789915">
-        <mark key="'" line="764" column="4" />
-        <mark key="[" line="1961" column="0" />
-        <mark key="]" line="1976" column="13" />
-        <mark key="." line="1976" column="12" />
-        <mark key="^" line="1976" column="12" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484589845129">
+        <mark key="[" line="1997" column="0" />
+        <mark key="]" line="1997" column="0" />
+        <mark key="^" line="1961" column="0" />
+        <mark key="." line="1997" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/README" timestamp="1484578664311">
         <mark key="[" line="4" column="0" />
@@ -216,11 +215,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484589159376">
-        <mark key="'" line="546" column="4" />
-        <mark key="[" line="541" column="0" />
-        <mark key="]" line="541" column="0" />
-        <mark key="." line="541" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484589822298">
+        <mark key="'" line="564" column="4" />
+        <mark key="[" line="527" column="0" />
+        <mark key="]" line="560" column="32" />
+        <mark key="." line="527" column="0" />
+        <mark key="^" line="527" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484535165338">
         <mark key="[" line="121" column="0" />
@@ -238,7 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3684" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1659" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1862" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3682" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -334,10 +333,11 @@
       <jump line="3988" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4005" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1868" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1961" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="764" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="3922" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1900" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1961" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="1975" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -347,46 +347,46 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>get_rect</text>
+        <text>get_face_uv</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfZmFjZV9ncmlkX3BhcmFtcygpOgogICAgeiA9IDEwCiAgICBsMSA9IHNhZ2UubGluZSgoMCwgMCwgeiksICgxLCAwLCB6KSkKICAgIGwyID0gc2FnZS5saW5lKCgxLCAwLCB6KSwgKDEsIDEsIHopKQogICAgbDMgPSBzYWdlLmxpbmUoKDEsIDEsIHopLCAoMCwgMSwgeikpCiAgICBsNCA9IHNhZ2UubGluZSgoMCwgMSwgeiksICgwLCAwLCB6KSkKICAgIGZhY2UgPSBzYWdlLm1ha2VfZmFjZShbbDEsIGwyLCBsMywgbDRdKQogICAgdV90b3AgICA9IFswLCAwLjI1LCAwLjUsIDEuMF0KICAgIHVfYm90ICAgPSBbMCwgMC4yNSwgMC41LCAxLjBdCiAgICB2X2xlZnQgID0gWzAsIDAuMjUsIDAuNSwgMS4wXQogICAgdl9yaWdodCA9IFswLCAwLjI1LCAwLjUsIDEuMF0KICAgIHh2ZWMsIHl2ZWMsIHp2ZWMgPSBzYWdlLmdldF9yZWN0X2ZhY2VfeHl6KGZhY2UsIHVfdG9wLCB2X2xlZnQsIHVfYm90dG9tLCB2X3JpZ2h0KQogICAgeHl6cyA9IFsoeHZlY1tpXSwgeXZlY1tpXSwgenZlY1tpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHh2ZWMpKV0KICAgIHByaW50IHh5enMKICAgIHV2cyA9IHNhZ2UuZ2V0X2ZhY2VfdXYoeHl6cykKICAgIHByaW50IHV2cwo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZmFjZV9ncmlkX3BhcmFtcygpOgogICAgeiA9IDEwCiAgICBsMSA9IHNhZ2UubGluZSgoMCwgMCwgeiksICgxLCAwLCB6KSkKICAgIGwyID0gc2FnZS5saW5lKCgxLCAwLCB6KSwgKDEsIDEsIHopKQogICAgbDMgPSBzYWdlLmxpbmUoKDEsIDEsIHopLCAoMCwgMSwgeikpCiAgICBsNCA9IHNhZ2UubGluZSgoMCwgMSwgeiksICgwLCAwLCB6KSkKICAgIGZhY2UgPSBzYWdlLm1ha2VfZmFjZShbbDEsIGwyLCBsMywgbDRdKQogICAgdV90b3AgPSBbMCwgMC4yNSwgMS4wXQogICAgdV9ib3QgPSBbMCwgMC4yNSwgMS4wXQogICAgdl9sZWZ0ID0gWzAsIDAuMjUsIDEuMF0KICAgIHZfcmlnaHQgPSBbMCwgMC4yNSwgMS4wXQogICAgeHZlYywgeXZlYywgenZlYyA9IHNhZ2UuZ2V0X3JlY3RfZmFjZV94eXooZmFjZSwgdV90b3AsIHZfbGVmdCwgdV9ib3QsIHZfcmlnaHQpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzBdKSwgc2FnZS5Qb2ludDNEKFswLCAwLCAwXSkpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzFdKSwgc2FnZS5Qb2ludDNEKFswLjI1LCAwLjI1LCAwLjI1XSkpCiAgICBhc3NlcnRfcG9pbnRzKHNhZ2UuUG9pbnQzRCh4dmVjWzJdKSwgc2FnZS5Qb2ludDNEKFsxLCAxLCAxXSkpCgogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1swXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1sxXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLlBvaW50M0QoeXZlY1syXSksIHNhZ2UuUG9pbnQzRChbMCwgMC4yNSwgMV0pKQoKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMF0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMV0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHp2ZWNbMl0pLCBzYWdlLlBvaW50M0QoWzEwLCAxMCwgMTBdKSkKCiAgICB4eXpzID0gWygwLCAwLCB6KSwgKDAuMjUsIDAuMjUsIHopLCAoMC41LCAwLjUsIHopLCAoMS4wLCAxLjAsIHopXQogICAgdXZzID0gc2FnZS5nZXRfZmFjZV91dihmYWNlLCB4eXpzKQogICAgYXNzZXJ0X2Zsb2F0KHV2c1swXVswXSwgMCkKICAgIGFzc2VydF9mbG9hdCh1dnNbMF1bMV0sIDApCiAgICBhc3NlcnRfZmxvYXQodXZzWzFdWzBdLCAwLjI1KQogICAgYXNzZXJ0X2Zsb2F0KHV2c1sxXVsxXSwgMC4yNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbMl1bMF0sIDAuNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbMl1bMV0sIDAuNSkKICAgIGFzc2VydF9mbG9hdCh1dnNbM11bMF0sIDEuMCkKICAgIGFzc2VydF9mbG9hdCh1dnNbM11bMV0sIDEuMCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IHh5enMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZmFjZV9ncmlkX3BhcmFtcygpOgo=</text>
+        <text encoding="base64">ICAgIHByaW50IHV2cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVfdG9wID0gWzAsIDAuMjUsIDAuNSwgMS4wXQo=</text>
+        <text encoding="base64">ICAgIHV2cyA9IHNhZ2UuZ2V0X2ZhY2VfdXYoeHl6cykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdHlwZTogKCkgLT4gb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHh5enMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHh5enMgPSBbKHh2ZWNbaV0sIHl2ZWNbaV0sIHp2ZWNbaV0pIGZvciBpIGluIHJhbmdlKGxlbih4dmVjKSldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHh2ZWMsIHl2ZWMsIHp2ZWMgPSBzYWdlLmdldF9yZWN0X2ZhY2VfeHl6KGZhY2UsIHVfdG9wLCB2X2xlZnQsIHVfYm90dG9tLCB2X3JpZ2h0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBVVnMK</text>
+        <text encoding="base64">ICAgIHZfcmlnaHQgPSBbMCwgMC4yNSwgMC41LCAxLjBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVVnMuYXBwZW5kKFt1LCB2XSkK</text>
+        <text encoding="base64">ICAgIHZfbGVmdCAgPSBbMCwgMC4yNSwgMC41LCAxLjBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_rect</last-search>
+      <last-search>get_face_uv</last-search>
       <last-offset />
-      <last-pattern>get_rect</last-pattern>
+      <last-pattern>get_face_uv</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -394,7 +394,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mesh_conn</entry>
         <entry>Three</entry>
         <entry>mesh(</entry>
         <entry>get_faces</entry>
@@ -414,6 +413,7 @@
         <entry>getGridParams</entry>
         <entry>get_face_u</entry>
         <entry>get_rect</entry>
+        <entry>get_face_uv</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
