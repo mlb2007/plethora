@@ -1,11 +1,29 @@
-Exexute the file test.py 
-One can also use py.test test.py to run the tests
+To Run:
+------
+Execute the file test.py as python test.py 
+Alternatively, use python testing framwork (i.e. use py.test test.py) to run the tests
 
+
+Files:
+-----
+vertex.py     ==> contains point data type and vertex data type that contains point
+edge.py       ==> edge data type, that contains vertices and other relevant edge information
+jsonparse.py  ==> json parser that assumes the format given in the web page. 
+stock.py      ==> this contains all the functions that are needed to work on a given stock to output material cost
+test.py       ==> contains all testing
+
+
+TODO:
+----
 A lot more defensive coding needs to be done ...
 
 Bounding box calculations must be made primitives and need to make code more readble and modular
 
-More tests ...!!
+More tests need to be added ...!!
 
+Port to C++ for speed ..
+
+
+--
 Thanks
 Bharath
