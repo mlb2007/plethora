@@ -215,3 +215,18 @@ class Stock(object):
             length = edge.length()
             c_time += length / speed
         return c_time
+
+    # main function that takes in stock json file and spits out cost
+    @staticmethod
+    def process(jsonfile):
+        stock = Stock(jsonfile)
+        stock.circular_area_sign()
+        area = stock.area()
+        pad_area = stock.padding_area()
+        c_time = stock.cutting_time()
+        m_cost = ((area + pad_area) * stock.material_cost)
+        t_cost = (c_time * stock.time_cost)
+        cost = m_cost + t_cost
+        print "Final cost for stock:", jsonfile, " is:", cost
+        return cost
+
