@@ -13,6 +13,12 @@
       <file name="/Python Console" timestamp="1484517749598">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/inlet/Jan4/inlet.py" timestamp="1483723941068">
+        <mark key="[" line="961" column="157" />
+        <mark key="]" line="961" column="73" />
+        <mark key="." line="961" column="73" />
+        <mark key="^" line="961" column="73" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/schema.json" timestamp="1484407865755">
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="29" />
@@ -32,10 +38,30 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484528572579">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="94" column="4" />
-        <mark key="." line="94" column="4" />
+      <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
+        <mark key="[" line="216" column="24" />
+        <mark key="]" line="92" column="46" />
+        <mark key="." line="92" column="46" />
+        <mark key="^" line="92" column="46" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
+        <mark key="[" line="38" column="24" />
+        <mark key="]" line="138" column="110" />
+        <mark key="^" line="138" column="110" />
+        <mark key="." line="138" column="110" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/chevron.py" timestamp="1481740150662">
+        <mark key="[" line="70" column="11" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="71" column="13" />
+        <mark key="^" line="71" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/Ex/plethora/test.py" timestamp="1484531523623">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/vertex.py" timestamp="1484415133380">
         <mark key="[" line="4" column="22" />
@@ -48,6 +74,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="28" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/mesh.py" timestamp="1481734445021">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="37" column="39" />
+        <mark key="^" line="37" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blend.py" timestamp="1482351846932">
         <mark key="[" line="88" column="28" />
@@ -74,11 +106,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/edge.py" timestamp="1484524484370">
-        <mark key="'" line="121" column="17" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/edge.py" timestamp="1484530924748">
+        <mark key="'" line="152" column="20" />
         <mark key="[" line="154" column="8" />
-        <mark key="]" line="154" column="57" />
-        <mark key="." line="154" column="0" />
+        <mark key="]" line="152" column="20" />
+        <mark key="." line="152" column="20" />
+        <mark key="^" line="152" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/simple_circulararc.json" timestamp="1484426446504">
         <mark key="[" line="4" column="6" />
@@ -126,6 +159,12 @@
         <mark key="^" line="1366" column="4" />
         <mark key="." line="1366" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484531498200">
+        <mark key="[" line="134" column="29" />
+        <mark key="]" line="136" column="17" />
+        <mark key="." line="136" column="17" />
+        <mark key="^" line="136" column="17" />
+      </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1482356384266">
         <mark key="[" line="88" column="48" />
       </file>
@@ -148,11 +187,12 @@
         <mark key="." line="16" column="88" />
         <mark key="^" line="16" column="88" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484528231457">
-        <mark key="[" line="145" column="8" />
-        <mark key="]" line="145" column="8" />
-        <mark key="." line="145" column="8" />
-        <mark key="^" line="145" column="8" />
+      <file name="$USER_HOME$/Desktop/Ex/plethora/cost.py" timestamp="1484530987410">
+        <mark key="'" line="194" column="9" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
         <mark key="[" line="64" column="4" />
@@ -185,30 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4042" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="141" column="0" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="511" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="524" column="6" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="46" column="41" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="3171" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3690" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3800" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3805" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3810" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3258" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3267" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3279" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3794" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3961" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3861" column="50" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="525" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="526" column="4" filename="$USER_HOME$/workspace/bugs/mesh_refine.py" />
-      <jump line="1803" column="73" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="1775" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="3679" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3741" column="96" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3692" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3662" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3576" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1046" column="82" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -285,64 +301,86 @@
       <jump line="119" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
       <jump line="121" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
       <jump line="33" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/extrude_arc.json" />
+      <jump line="202" column="16" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="26" column="10" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="27" column="10" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="28" column="10" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="47" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="52" column="13" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="56" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="65" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="80" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="94" column="21" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="96" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="101" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="106" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="111" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="117" column="24" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="182" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="194" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
+      <jump line="152" column="20" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
+      <jump line="3" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
+      <jump line="75" column="23" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
+      <jump line="92" column="19" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
+      <jump line="106" column="4" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICIgPT09PT09IGlkIGxpc3QgPT09PT0iCg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvdGhlcl9pZFw+</text>
+        <text>machine_cost</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRlZiBwYWRkaW5nX2FyZWEoc2VsZik6CiAgICAgICAgbGVuZ3RoLCB3aWR0aCA9IHNlbGYuX2Jib3hfbGVuX3dpZHRoKCkKICAgICAgICBhcmVhX3dpdGhfcGFkZGluZyA9IChsZW5ndGgrc2VsZi5wYWRkaW5nKSood2lkdGgrc2VsZi5wYWRkaW5nKQogICAgICAgIGFyZWFfd2l0aF9wYWRkaW5nIC09IHNlbGYuX2Jib3hfYXJlYSgpCiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZF9hcmVhID0gKChsbCArIG1hY2hpbmVfY29zdC5wYWRkaW5nKSAqKiAyLjApIC0gYXJlYQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICIgPT09PT09IGlkIGxpc3QgPT09PT0iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxsID0gbWF0aC5zcXJ0KGFyZWEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50IGlkX2xpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY19hcmVhX2RpbGF0ZWQgPSBlZGdlLnNlY3Rvcl9hcmVhKChlZGdlLnJhZGl1cygpICsgKGVkZ2UuYXJlYV9zaWduICogc2VsZi5wYWRkaW5nKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICIgPT09PT09IGlkIGxpc3QgPT09PT0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjYXJlYV93aXRoX3BhZGRpbmcgLT0gc2VsZi5fYmJveF9hcmVhKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHByaW50ICItLS0gaToiLCBpLCB3aGljaF9lZGdlLCAiIC4uICIsIGVkZ2UsICIgLi4gIiwgd2hpY2hfZWRnZTIsICIgcmVmOiIsIGNjd192aWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjYXJlYV93aXRoX3BhZGRpbmcgPSAobGVuZ3RoK3NlbGYucGFkZGluZykqKHdpZHRoK3NlbGYucGFkZGluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChhYnMoY29zdC0xNC43MikgPCAxZS03KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY19hcmVhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNzZWNfYXJlYSA9IHNlbGYuX3BhZGRpbmdfYXJlYV9yZWN0KGVkZ2UucmFkaXVzKCksIGVkZ2UucmFkaXVzKCkgKiAyLjApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRfYXJlYSA9IHNlbGYuX3BhZGRpbmdfYXJlYV9yZWN0KGxlbmd0aCwgd2lkdGgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNzZWNfYXJlYV9kaWxhdGVkID0gZWRnZS5zZWN0b3JfYXJlYSgoZWRnZS5yYWRpdXMoKSArIHNlbGYucGFkZGluZykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcGFkZGluZ19hcmVhX3JlY3Qoc2VsZiwgbGVuZ3RoLCB3aWR0aCk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IDIuMCAtIG1hdGgucGkqMC4yNS8yLjAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvdGhlcl9pZFw+</last-search>
+      <last-search>machine_cost</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvdGhlcl9pZFw+</last-pattern>
-      <last-replace>mesh</last-replace>
-      <last-substitute>fc</last-substitute>
+      <last-pattern>machine_cost</last-pattern>
+      <last-replace>process_stock</last-replace>
+      <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdWJlX21lc2hfcmVmaW5lbWVudFw+</entry>
-        <entry>test_mesh_re</entry>
         <entry>test_cube</entry>
         <entry>Point3D</entry>
         <entry>connect</entry>
@@ -357,10 +395,12 @@
         <entry>_cross</entry>
         <entry encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
-        <entry>print</entry>
         <entry>_per</entry>
         <entry encoding="base64">XDxwZXJpbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxvdGhlcl9pZFw+</entry>
+        <entry>print</entry>
+        <entry>Cost</entry>
+        <entry>machine_cost</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -377,6 +417,8 @@
         <entry>wq</entry>
         <entry>%s/fc/mesh/gc</entry>
         <entry>1368</entry>
+        <entry>%s/Cost/Stock</entry>
+        <entry>%s/machine_cost/process_stock/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
