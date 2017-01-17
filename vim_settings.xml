@@ -166,10 +166,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484631111669">
-        <mark key="[" line="1751" column="4" />
-        <mark key="]" line="1751" column="55" />
-        <mark key="." line="1751" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484666925408">
+        <mark key="'" line="1752" column="0" />
+        <mark key="[" line="2129" column="4" />
+        <mark key="]" line="2130" column="4" />
+        <mark key="." line="2130" column="4" />
+        <mark key="^" line="1752" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
@@ -239,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1666" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="368" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="369" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -339,10 +340,11 @@
       <jump line="1728" column="3" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="2010" column="4" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="2123" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="1752" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdCg0NjMuMzMzMzMzMywgc2FnZS52b2x1bWUoZnJ1c3QpLCAxZS0yKQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
