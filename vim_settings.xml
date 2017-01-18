@@ -103,10 +103,9 @@
         <mark key="." line="152" column="20" />
         <mark key="^" line="152" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/p3d/plot3d.py" timestamp="1484717772507">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/p3d/plot3d.py" timestamp="1484719231162">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="84" column="51" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
         <mark key="'" line="474" column="26" />
@@ -193,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1589" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1604" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1632" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="14" column="80" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
@@ -293,13 +291,14 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/p3d/plot3d.py" />
       <jump line="114" column="8" filename="$USER_HOME$/sandbox/build/install/py/sage/blender.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
+      <jump line="9" column="9" filename="$USER_HOME$/workspace/p3d/plot3d.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBtYWtlX2ZhY2VfZ3JpZChzZWxmLCBmYWNlLCB1X3ZlYz1Ob25lLCB2X3ZlYz1Ob25lKToK</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFwZVw+</text>
@@ -308,31 +307,31 @@
         <text encoding="base64">IHogPSAxMAogICAgbDEgPSBzYWdlLmxpbmUoKDAsIDAsIHopLCAoMSwgMCwgeikpCiAgICBsMiA9IHNhZ2UubGluZSgoMSwgMCwgeiksICgxLCAxLCB6KSkKICAgIGwzID0gc2FnZS5saW5lKCgxLCAxLCB6KSwgKDAsIDEsIHopKQogICAgbDQgPSBzYWdlLmxpbmUoKDAsIDEsIHopLCAoMCwgMCwgeikpCiAgICBmYWNlID0gc2FnZS5tYWtlX2ZhY2UoW2wxLCBsMiwgbDMsIGw0XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZiBtYWtlX2ZhY2VfZ3JpZChzZWxmLCBmYWNlLCB1X3ZlYz1Ob25lLCB2X3ZlYz1Ob25lKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBmaWxlbmFtZTogCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGYgPSBvcGVuKGZpbGVuYW1lLCBtb2RlPSd3JykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJsb2NrMiA9IG1ha2VGYWNlR3JpZChmYWNlMikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJsb2NrMSA9IG1ha2VGYWNlR3JpZChmYWNlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBvc19ibG9jazEgPSBwM2Rfd3JpdGVyLm1ha2VfZmFjZV9ncmlkKGZhY2VfZW50KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdl92ZWMgPSBucC5saW5zcGFjZSgwLCAxLCAxMDEpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdV92ZWMgPSBucC5saW5zcGFjZShQbG90M2RXcml0ZXIuZGVmX3V2X3N0YXJ0LCBQbG90M2RXcml0ZXIuZGVmX3V2X2VuZCwgUGxvdDNkV3JpdGVyLmRlZl91dl9zYW1wbGVzKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlZl9zcGFjaW5nX3N0YXJ0ICA9IDAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
