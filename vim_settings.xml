@@ -18,11 +18,6 @@
         <mark key="." line="961" column="73" />
         <mark key="^" line="961" column="73" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/schema.json" timestamp="1484407865755">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="29" />
-        <mark key="." line="27" column="29" />
-      </file>
       <file name="/fragment.py" timestamp="1484000891596">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,11 +26,6 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Ex/edge.py" timestamp="1484424933207">
-        <mark key="[" line="59" column="37" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -80,11 +70,6 @@
         <mark key="." line="37" column="39" />
         <mark key="^" line="37" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blend.py" timestamp="1482351846932">
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" timestamp="1484467731224">
         <mark key="'" line="64" column="20" />
         <mark key="[" line="62" column="16" />
@@ -92,10 +77,10 @@
         <mark key="^" line="62" column="16" />
         <mark key="." line="62" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/sageGUI/gui_animate.py" timestamp="1484356405848">
-        <mark key="'" line="40" column="27" />
-        <mark key="[" line="40" column="8" />
-        <mark key="]" line="40" column="12" />
+      <file name="$USER_HOME$/workspace/sageGUI/gui_animate.py" timestamp="1484705191120">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="283" column="3" />
+        <mark key="]" line="284" column="3" />
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
@@ -105,6 +90,12 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/blender-2.78a/sage/sage.py" timestamp="1484705241472">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="52" column="69" />
+        <mark key="." line="6" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/edge.py" timestamp="1484530924748">
         <mark key="'" line="152" column="20" />
         <mark key="[" line="154" column="8" />
@@ -112,37 +103,21 @@
         <mark key="." line="152" column="20" />
         <mark key="^" line="152" column="20" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/simple_circulararc.json" timestamp="1484426446504">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/test_smoke.py" timestamp="1484000926711">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
         <mark key="'" line="474" column="26" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484609030439">
         <mark key="'" line="1394" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/tecplot/tecplot.py" timestamp="1484704448203">
+        <mark key="[" line="60" column="6" />
+        <mark key="]" line="162" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/chevron2.py" timestamp="1481998946401">
         <mark key="'" line="78" column="4" />
         <mark key="[" line="89" column="4" />
         <mark key="]" line="89" column="37" />
         <mark key="." line="89" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Ex/circulararc.json" timestamp="1484426101761">
-        <mark key="[" line="33" column="3" />
-        <mark key="]" line="33" column="3" />
-        <mark key="." line="33" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/chevrond.py" timestamp="1481994035086">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/buildApis.py" timestamp="1484583668032">
         <mark key="'" line="0" column="0" />
@@ -157,24 +132,17 @@
         <mark key="." line="1900" column="52" />
         <mark key="^" line="1900" column="52" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/Ex/jsonparse.py" timestamp="1484417712141">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
         <mark key="]" line="220" column="14" />
         <mark key="." line="220" column="14" />
         <mark key="^" line="220" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1482356384266">
-        <mark key="[" line="88" column="48" />
-      </file>
-      <file name="$USER_HOME$/Desktop/Ex/jsonparse.py" timestamp="1484426555583">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1484704349621">
+        <mark key="'" line="114" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
         <mark key="'" line="46" column="79" />
@@ -197,11 +165,6 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/Ex/test.py" timestamp="1484426526879">
-        <mark key="[" line="64" column="4" />
-        <mark key="]" line="63" column="26" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/Ex/simple.json" timestamp="1484422874753">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="6" />
@@ -220,18 +183,11 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/sageGUI/gui.py" timestamp="1484205574921">
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/userScript.py" timestamp="1484584597442">
         <mark key="'" line="393" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1560" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1574" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1589" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1604" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1632" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -330,46 +286,48 @@
       <jump line="474" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/p3d/plot3d.py" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/p3d/plot3d.py" />
+      <jump line="114" column="8" filename="$USER_HOME$/sandbox/build/install/py/sage/blender.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>I</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFwZVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfYm94X2NyZWF0ZSgpOgogICAgcG9pbnRhID0gWzMsIDQuMzQsIDUuNjddCiAgICBwb2ludGIgPSBbNi41LCAxMi40NSwgMTAuNjddCiAgICBiMSA9IHNhZ2UuYm94KHBvaW50YSwgcG9pbnRiKQogICAgYjIgPSBzYWdlLl9kZXByZWNhdGVkX2JveChwb2ludGEsIHBvaW50YikKICAgIGIxdiA9IHNhZ2Uudm9sdW1lKGIxKQogICAgYjJ2ID0gc2FnZS52b2x1bWUoYjIpCiAgICBhc3NlcnRfZmxvYXQoYjF2LCBiMnYpCg==</text>
+        <text encoding="base64">ICNlbnRpdHkgPSBzYWdlLmN1Ym9pZChbMCwgMCwgMF0sIFsxMCwgMTAsIDEwXSkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICh4ZywgeWcsIHpnKSA9IG1ha2VGYWNlR3JpZChmYWNlLCB1VmVjPXVfdG9wLCB2VmVjPXZfbGVmdCkK</text>
+        <text encoding="base64">ICAgICMgRGVmaW5lIGFycmF5cyBmb3IgaG9sZGluZyBkYXRhCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHdyaXRlX3Bsb3QzZF9zaW1wbGUoYmxvY2tzLCBmaWxlbmFtZT0ncGxvdDNkLmRhdCcpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15ZmFjZXMgPSBbXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15dmVydGV4ID0gW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IyBBdCBsZWFzdCBzb21lIHBhcnRzIG9mIHRoaXMgc2hvdWxkIGJlIGluIHRoZSBQeXRob24gQVBJLiBJbiBmYWN0LCBoZXJlIGlzIHRoZSBzaWduYXR1cmU6CiMgc2FnZUFQSS53cml0ZVBsb3QzRChibG9ja3MsIGZpbGVuYW1lPSdnZW9tZXRyeS5wM2QnKQojICcnJwojIGRlZiB3cml0ZVBsb3QzREZpbGUoaW5sZXRHcmlkLCBuYWNlbGxlR3JpZCwgbm96emxlR3JpZCwgZmlsZW5hbWU9J2lubGV0LnAzZCcpOgojICAgIHdpdGggb3BlbihmaWxlbmFtZSwgJ3cnKSBhcyBmOgojICAgICAgICBmLndyaXRlKCIxXG4iKQojICAgICAgICBtdG90ID0gbm96emxlR3JpZFswXS5zaGFwZVswXSArIGlubGV0R3JpZFswXS5zaGFwZVsxXSArIG5hY2VsbGVHcmlkWzBdLnNoYXBlWzFdCiMgICAgICAgIG4gPSBub3p6bGVHcmlkWzBdLnNoYXBlWzFdCiMgICAgICAgIGYud3JpdGUoIiVkICVkIDFcbiIlKG4sIG10b3QtMikpCiMgICAgICAgIGZvciBkaW0gaW4gcmFuZ2UoMyk6CiMgICAgICAgICAgICBjb3VudCA9IDAKIyAgICAgICAgICAgIG0sXyA9IG5venpsZUdyaWRbZGltXS5zaGFwZQojICAgICAgICAgICAgY291bnQgKz0gbQojICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UobSk6CiMgICAgICAgICAgICAgICAgcHRzID0gWygnJTE0LjEwZicleGkpIGZvciB4aSBpbiBub3p6bGVHcmlkW2RpbV1baV1bOjotMV1dCiMgICAgICAgICAgICAgICAgZi53cml0ZSgnICcuam9pbihwdHMpICsgJ1xuJykgIAojICAgICAgICAgICAgbSxfID0gaW5sZXRHcmlkW2RpbV0uVC5zaGFwZQojICAgICAgICAgICAgY291bnQgKz0gbQojICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSxtKToKIyAgICAgICAgICAgICAgICBwdHMgPSBbKCclMTQuMTBmJyV4aSkgZm9yIHhpIGluIGlubGV0R3JpZFtkaW1dLlRbLWktMV1bOl1dCiMgICAgICAgICAgICAgICAgZi53cml0ZSgnICcuam9pbihwdHMpICsgJ1xuJykKIyAgICAgICAgICAgIG0sXyA9IG5hY2VsbGVHcmlkW2RpbV0uVC5zaGFwZQojICAgICAgICAgICAgY291bnQgKz0gbQojICAgICAgICAgICAgZm9yIGkgaW4gcmFuZ2UoMSxtKToKIyAgICAgICAgICAgICAgICBwdHMgPSBbKCclMTQuMTBmJyV4aSkgZm9yIHhpIGluIG5hY2VsbGVHcmlkW2RpbV0uVFtpXVs6XV0KIyAgICAgICAgICAgICAgICBmLndyaXRlKCcgJy5qb2luKHB0cykgKyAnXG4nKSAgCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG15ZmFjZXMuZXh0ZW5kKG15ZmFjZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15ZmFjZSA9IFsoMCwgMSwgMywgMildCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIHdyaXRlX3Bsb3QzZF9zaW1wbGUoYmxvY2tzLCBmaWxlbmFtZT0ncGxvdDNkLmRhdCcpOgogICAgcHJpbnQgIldyaXRpbmcgb3V0IHBsb3QzZCBmaWxlIgog</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ3JlYXRlIGFsbCBGYWNlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
