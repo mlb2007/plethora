@@ -9,6 +9,11 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/skeleton_smartcurves.py" timestamp="1484755357048">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="/Python Console" timestamp="1484713589379">
         <mark key="[" line="0" column="0" />
       </file>
@@ -181,10 +186,10 @@
         <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484613808079">
-        <mark key="'" line="683" column="4" />
-        <mark key="[" line="657" column="18" />
-        <mark key="]" line="657" column="25" />
-        <mark key="." line="657" column="0" />
+        <mark key="'" line="679" column="4" />
+        <mark key="[" line="654" column="18" />
+        <mark key="]" line="654" column="25" />
+        <mark key="." line="654" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484535165338">
         <mark key="[" line="121" column="0" />
@@ -300,10 +305,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiQ2xvc2luZyB0aGUgZmlsZSAuLi4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>get_edges</text>
@@ -312,31 +317,31 @@
         <text encoding="base64">IHogPSAxMAogICAgbDEgPSBzYWdlLmxpbmUoKDAsIDAsIHopLCAoMSwgMCwgeikpCiAgICBsMiA9IHNhZ2UubGluZSgoMSwgMCwgeiksICgxLCAxLCB6KSkKICAgIGwzID0gc2FnZS5saW5lKCgxLCAxLCB6KSwgKDAsIDEsIHopKQogICAgbDQgPSBzYWdlLmxpbmUoKDAsIDEsIHopLCAoMCwgMCwgeikpCiAgICBmYWNlID0gc2FnZS5tYWtlX2ZhY2UoW2wxLCBsMiwgbDMsIGw0XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiQ2xvc2luZyB0aGUgZmlsZSAuLi4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9yIHRoaXMgZnVuY3Rpb24sIGlucHV0IGZhY2UgaXMgcmVxdWlyZWQgdG8gaGF2ZSA0IGVkZ2VzLCBubyBtb3JlLCBubyBsZXNzIC4uLiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2ZhY2VfZ3JpZChzZWxmLCBmYWNlLCB1X3ZlYz1Ob25lLCB2X3ZlYz1Ob25lKToK</text>
+        <text encoding="base64">IyBUaGlzIGNvZGUgaXMgZm9yIGEgc2ltcGxpc3RpYyBwcm9iYWJsZSB1c2UgY2FzZSBzY2VuYXJpbyBvZiB1c2luZyBhIHNtYXJ0IGN1cnZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJsb2NrMiA9IG1ha2VGYWNlR3JpZChmYWNlMikK</text>
+        <text encoding="base64">c2FnZS5leHBvcnRfdG9fZGF0X3dpdGhfcG9pbnRzKFt0b3BfZ3VpZGUsIGJvdHRvbV9ndWlkZSwgYm9kXSkgI1RoaXMgcmVzdWx0cyBpbiBjdXJ2ZXMsIHNvbGlkLCBhcyB3ZWxsIGFzIHBvaW50cyBleHBvcnRlZCBpbiBEQVQgZmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJsb2NrMSA9IG1ha2VGYWNlR3JpZChmYWNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvc19ibG9jazEgPSBwM2Rfd3JpdGVyLm1ha2VfZmFjZV9ncmlkKGZhY2VfZW50KQo=</text>
+        <text encoding="base64">ZW5kX3RndF9fdG9wID0gc2FnZS5nZXRfZWRnZV9lbmRfdGFuZ2VudCh0b3BfZ3VpZGUpICN0aGlzIGlzIGFscmVhZHkgd29ya2luZywgbWlnaHQgbmVlZCBhIGJldHRlciBzaWduYXR1cmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdl92ZWMgPSBucC5saW5zcGFjZSgwLCAxLCAxMDEpCg==</text>
+        <text encoding="base64">cHRzX2JvdHRvbSA9IHNhZ2UuZ2V0X2RlZmluaW5nX3BvaW50cyhib3R0b21fZ3VpZGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
