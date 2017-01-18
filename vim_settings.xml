@@ -9,7 +9,7 @@
         <mark key="^" line="13" column="45" />
         <mark key="." line="13" column="45" />
       </file>
-      <file name="/Python Console" timestamp="1484691258952">
+      <file name="/Python Console" timestamp="1484713589379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/inlet/Jan4/inlet.py" timestamp="1483723941068">
@@ -102,6 +102,12 @@
         <mark key="]" line="152" column="20" />
         <mark key="." line="152" column="20" />
         <mark key="^" line="152" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/p3d/plot3d.py" timestamp="1484713007417">
+        <mark key="[" line="47" column="55" />
+        <mark key="]" line="47" column="58" />
+        <mark key="." line="47" column="58" />
+        <mark key="^" line="47" column="58" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
         <mark key="'" line="474" column="26" />
@@ -290,8 +296,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -303,31 +309,31 @@
         <text encoding="base64">ICNlbnRpdHkgPSBzYWdlLmN1Ym9pZChbMCwgMCwgMF0sIFsxMCwgMTAsIDEwXSkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRGVmaW5lIGFycmF5cyBmb3IgaG9sZGluZyBkYXRhCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJcbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG15ZmFjZXMgPSBbXQo=</text>
+        <text encoding="base64">ICAgIHByaW50IGJsb2NrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15dmVydGV4ID0gW10K</text>
+        <text encoding="base64">ICAgICMgRGVmaW5lIGFycmF5cyBmb3IgaG9sZGluZyBkYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG15ZmFjZXMuZXh0ZW5kKG15ZmFjZSkK</text>
+        <text encoding="base64">ICAgIG15ZmFjZXMgPSBbXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG15ZmFjZSA9IFsoMCwgMSwgMywgMildCg==</text>
+        <text encoding="base64">ICAgIG15dmVydGV4ID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgQ3JlYXRlIGFsbCBGYWNlcwo=</text>
+        <text encoding="base64">ICAgIG15ZmFjZXMuZXh0ZW5kKG15ZmFjZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
