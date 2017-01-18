@@ -117,13 +117,6 @@
         <mark key="]" line="25" column="5" />
         <mark key="." line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/p3d/plot3d.py" timestamp="1484696293650">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="161" column="4" />
-        <mark key="]" line="162" column="3" />
-        <mark key="." line="162" column="3" />
-        <mark key="^" line="162" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/bugs/test_smoke.py" timestamp="1484000926711">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="22" />
@@ -339,11 +332,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/p3d/plot3d.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICh4ZywgeWcsIHpnKSA9IG1ha2VGYWNlR3JpZChmYWNlLCB1VmVjPXVfdG9wLCB2VmVjPXZfbGVmdCkK</text>
+      <register name="&quot;" type="4">
+        <text>I</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFwZVw+</text>
