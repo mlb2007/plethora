@@ -103,9 +103,11 @@
         <mark key="." line="152" column="20" />
         <mark key="^" line="152" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/p3d/plot3d.py" timestamp="1484719231162">
+      <file name="$USER_HOME$/workspace/p3d/plot3d.py" timestamp="1484719671414">
         <mark key="'" line="10" column="9" />
-        <mark key="[" line="84" column="51" />
+        <mark key="[" line="40" column="19" />
+        <mark key="]" line="40" column="36" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
         <mark key="'" line="474" column="26" />
@@ -141,6 +143,9 @@
         <mark key="]" line="220" column="14" />
         <mark key="." line="220" column="14" />
         <mark key="^" line="220" column="14" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1484719446169">
+        <mark key="'" line="1299" column="11" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1484704349621">
         <mark key="'" line="114" column="8" />
@@ -192,17 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1604" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1632" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="14" column="80" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
-      <jump line="47" column="56" filename="$USER_HOME$/workspace/sageGUI/gui.py" />
-      <jump line="3673" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2807" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2854" column="139" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3167" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3898" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3899" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1289" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1296" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="71" column="7" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
@@ -292,55 +286,66 @@
       <jump line="114" column="8" filename="$USER_HOME$/sandbox/build/install/py/sage/blender.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="9" column="9" filename="$USER_HOME$/workspace/p3d/plot3d.py" />
+      <jump line="2238" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2278" column="12" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2287" column="25" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2298" column="28" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2363" column="87" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2867" column="28" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2874" column="24" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3140" column="24" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3600" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="4170" column="21" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1299" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2ZhY2VfZ3JpZChzZWxmLCBmYWNlLCB1X3ZlYz1Ob25lLCB2X3ZlYz1Ob25lKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiQ2xvc2luZyB0aGUgZmlsZSAuLi4iCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGFwZVw+</text>
+        <text>get_edges</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHogPSAxMAogICAgbDEgPSBzYWdlLmxpbmUoKDAsIDAsIHopLCAoMSwgMCwgeikpCiAgICBsMiA9IHNhZ2UubGluZSgoMSwgMCwgeiksICgxLCAxLCB6KSkKICAgIGwzID0gc2FnZS5saW5lKCgxLCAxLCB6KSwgKDAsIDEsIHopKQogICAgbDQgPSBzYWdlLmxpbmUoKDAsIDEsIHopLCAoMCwgMCwgeikpCiAgICBmYWNlID0gc2FnZS5tYWtlX2ZhY2UoW2wxLCBsMiwgbDMsIGw0XSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2ZhY2VfZ3JpZChzZWxmLCBmYWNlLCB1X3ZlYz1Ob25lLCB2X3ZlYz1Ob25lKToK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiQ2xvc2luZyB0aGUgZmlsZSAuLi4iCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm9yIHRoaXMgZnVuY3Rpb24sIGlucHV0IGZhY2UgaXMgcmVxdWlyZWQgdG8gaGF2ZSA0IGVkZ2VzLCBubyBtb3JlLCBubyBsZXNzIC4uLiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBtYWtlX2ZhY2VfZ3JpZChzZWxmLCBmYWNlLCB1X3ZlYz1Ob25lLCB2X3ZlYz1Ob25lKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJsb2NrMiA9IG1ha2VGYWNlR3JpZChmYWNlMikK</text>
+        <text encoding="base64">ICAgICAgICBkZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJsb2NrMSA9IG1ha2VGYWNlR3JpZChmYWNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc19ibG9jazEgPSBwM2Rfd3JpdGVyLm1ha2VfZmFjZV9ncmlkKGZhY2VfZW50KQo=</text>
+        <text encoding="base64">ICAgIGJsb2NrMiA9IG1ha2VGYWNlR3JpZChmYWNlMikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdl92ZWMgPSBucC5saW5zcGFjZSgwLCAxLCAxMDEpCg==</text>
+        <text encoding="base64">ICAgIGJsb2NrMSA9IG1ha2VGYWNlR3JpZChmYWNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdV92ZWMgPSBucC5saW5zcGFjZShQbG90M2RXcml0ZXIuZGVmX3V2X3N0YXJ0LCBQbG90M2RXcml0ZXIuZGVmX3V2X2VuZCwgUGxvdDNkV3JpdGVyLmRlZl91dl9zYW1wbGVzKQo=</text>
+        <text encoding="base64">ICAgIHBvc19ibG9jazEgPSBwM2Rfd3JpdGVyLm1ha2VfZmFjZV9ncmlkKGZhY2VfZW50KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZl9zcGFjaW5nX3N0YXJ0ICA9IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdl92ZWMgPSBucC5saW5zcGFjZSgwLCAxLCAxMDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGFwZVw+</last-search>
+      <last-search>get_edges</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGFwZVw+</last-pattern>
+      <last-pattern>get_edges</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -348,7 +353,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlcmVkX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry>_per</entry>
         <entry encoding="base64">XDxwZXJpbWV0ZXJcPg==</entry>
@@ -368,6 +372,7 @@
         <entry encoding="base64">XDxtYWtlSW5sZXRHcmlkXD4=</entry>
         <entry encoding="base64">XDx3cml0ZVBsb3QzREZpbGVcPg==</entry>
         <entry encoding="base64">XDxzaGFwZVw+</entry>
+        <entry>get_edges</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
