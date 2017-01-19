@@ -14,8 +14,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484786459418">
-        <mark key="'" line="1868" column="20" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484798476382">
+        <mark key="'" line="1521" column="0" />
+        <mark key="[" line="2004" column="4" />
+        <mark key="]" line="2004" column="4" />
+        <mark key="." line="2004" column="4" />
       </file>
       <file name="/Python Console" timestamp="1484713589379">
         <mark key="[" line="0" column="0" />
@@ -128,9 +131,6 @@
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484793923553">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="3110" column="38" />
-        <mark key="]" line="3110" column="38" />
-        <mark key="." line="3110" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/tecplot/tecplot.py" timestamp="1484704448203">
         <mark key="[" line="60" column="6" />
@@ -147,12 +147,12 @@
         <mark key="[" line="1721" column="0" />
         <mark key="]" line="1797" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484793841528">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484798439321">
         <mark key="a" line="1935" column="51" />
-        <mark key="'" line="969" column="4" />
-        <mark key="[" line="1900" column="52" />
-        <mark key="]" line="1900" column="52" />
-        <mark key="." line="1900" column="52" />
+        <mark key="'" line="3033" column="11" />
+        <mark key="[" line="3200" column="4" />
+        <mark key="]" line="3200" column="4" />
+        <mark key="." line="3200" column="4" />
         <mark key="^" line="1900" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
@@ -214,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="33" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
-      <jump line="124" column="22" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="139" column="45" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="40" column="27" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="9" column="0" filename="$USER_HOME$/Desktop/Ex/simple.json" />
@@ -314,6 +312,8 @@
       <jump line="2856" column="58" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="4" column="7" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="969" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3033" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1521" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,7 +323,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>mesh_entity</text>
+        <text>_mesh_refi</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bWF4X21lc2hfbGVuZ3RoPU1FU0hPUFRJT05TLm1heF9tZXNoX2xlbmd0aCwKICAgICAgICAgICAgICAgICAgICAgIG5vcm1hbF9jaGFuZ2U9TUVTSE9QVElPTlMubm9ybWFsX2NoYW5nZSwKICAgICAgICAgICAgICAgICAgICAgIHNhZz1NRVNIT1BUSU9OUy5zYWcsCiAgICAgICAgICAgICAgICAgICAgICBtYXhfYXNwZWN0X3JhdGlvPU1FU0hPUFRJT05TLm1heF9hc3BlY3RfcmF0aW8sCiAgICAgICAgICAgICAgICAgICAgICB0aHJlYWRfY291bnQ9TUVTSE9QVElPTlMudGhyZWFkX2NvdW50LAogICAgICAgICAgICAgICAgICAgICAgbmVlZF9xdWFkPU1FU0hPUFRJT05TLm5lZWRfcXVhZCk6CiA=</text>
@@ -360,9 +360,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mesh_entity</last-search>
+      <last-search>_mesh_refi</last-search>
       <last-offset />
-      <last-pattern>mesh_entity</last-pattern>
+      <last-pattern>_mesh_refi</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -370,8 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry>machine_cost</entry>
-        <entry>Grid</entry>
         <entry>getGrid</entry>
         <entry>getGridParams</entry>
         <entry>get_face_u</entry>
@@ -390,6 +388,8 @@
         <entry>mesh_entity(</entry>
         <entry>entitites</entry>
         <entry>mesh_entity</entry>
+        <entry>_mesh_refine</entry>
+        <entry>_mesh_refi</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
