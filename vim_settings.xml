@@ -14,11 +14,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484798476382">
-        <mark key="'" line="1521" column="0" />
-        <mark key="[" line="2004" column="4" />
-        <mark key="]" line="2004" column="4" />
-        <mark key="." line="2004" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484801271830">
+        <mark key="'" line="2003" column="5" />
+        <mark key="[" line="1868" column="4" />
+        <mark key="]" line="1876" column="9" />
+        <mark key="." line="1876" column="9" />
+        <mark key="^" line="1876" column="9" />
       </file>
       <file name="/Python Console" timestamp="1484713589379">
         <mark key="[" line="0" column="0" />
@@ -101,6 +102,11 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484801034495">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/fromSchema.py" timestamp="1484408931521">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="20" column="20" />
@@ -151,13 +157,16 @@
         <mark key="[" line="1721" column="0" />
         <mark key="]" line="1797" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484799608599">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484801139733">
         <mark key="a" line="1935" column="51" />
-        <mark key="'" line="2910" column="42" />
-        <mark key="[" line="2989" column="34" />
+        <mark key="'" line="2911" column="42" />
+        <mark key="[" line="3225" column="4" />
         <mark key="]" line="2991" column="51" />
         <mark key="^" line="2991" column="51" />
         <mark key="." line="2991" column="51" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484801175093">
+        <mark key="[" line="1868" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
@@ -218,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3922" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1394" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="1748" column="43" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="1728" column="3" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
@@ -266,7 +274,6 @@
       <jump line="1521" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="3200" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3285" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2911" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2912" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2913" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2914" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -318,16 +325,18 @@
       <jump line="2905" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2909" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2910" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2911" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2003" column="5" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZWVkX3F1YWQgPSBNRVNIT1BUSU9OUy5uZWVkX3F1YWQK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>MESHOPTIONS\.</text>
+        <text>test_cube_mesh_ref</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGlmIG5vdCBtYXhfbWVzaF9sZW5ndGg6CiAgICAgICAgbWF4X21lc2hfbGVuZ3RoID0gTUVTSE9QVElPTlMubWF4X21lc2hfbGVuZ3RoCiAgICBpZiBub3Qgbm9ybWFsX2NoYW5nZToKICAgICAgICBub3JtYWxfY2hhbmdlID0gTUVTSE9QVElPTlMubm9ybWFsX2NoYW5nZQogICAgaWYgbm90IHNhZzoKICAgICAgICBzYWcgPSBNRVNIT1BUSU9OUy5zYWcKICAgIGlmIG5vdCBtYXhfYXNwZWN0X3JhdGlvOgogICAgICAgIG1heF9hc3BlY3RfcmF0aW8gPSBNRVNIT1BUSU9OUy5tYXhfYXNwZWN0X3JhdGlvCiAgICBpZiBub3QgZWRnZV9hcmNsZW5fZnJhY3M6CiAgICAgICAgZWRnZV9hcmNsZW5fZnJhY3MgPSBNRVNIT1BUSU9OUy5lZGdlX2FyY2xlbl9mcmFjcwogICAgaWYgbm90IGVkZ2VfbnVtX3NhbXBsZXM6CiAgICAgICAgZWRnZV9udW1fc2FtcGxlcyA9IE1FU0hPUFRJT05TLmVkZ2VfbnVtX3NhbXBsZXMKICAgIGlmIG5vdCBlZGdlX21lc2hpbmdfYWxnbzoKICAgICAgICBlZGdlX21lc2hpbmdfYWxnbyA9IE1FU0hPUFRJT05TLmVkZ2VfbWVzaGluZ19hbGdvCiAgICBpZiBub3QgdGhyZWFkX2NvdW50OgogICAgICAgIHRocmVhZF9jb3VudCA9IE1FU0hPUFRJT05TLnRocmVhZF9jb3VudAogICAgaWYgbm90IG5lZWRfcXVhZDoKICAgICAgICBuZWVkX3F1YWQgPSBNRVNIT1BUSU9OUy5uZWVkX3F1YWQKICAgIA==</text>
@@ -364,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MESHOPTIONS\.</last-search>
+      <last-search>test_cube_mesh_ref</last-search>
       <last-offset />
-      <last-pattern>MESHOPTIONS\.</last-pattern>
+      <last-pattern>test_cube_mesh_ref</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -374,8 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_face_u</entry>
-        <entry>get_rect</entry>
         <entry>get_face_uv</entry>
         <entry>get_mesh_conn</entry>
         <entry>poly_line</entry>
@@ -394,6 +401,8 @@
         <entry>_mesh_refi</entry>
         <entry>MESHOPTIONS\.arclen_fracs</entry>
         <entry>MESHOPTIONS\.</entry>
+        <entry>mesh_refine</entry>
+        <entry>test_cube_mesh_ref</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
