@@ -185,7 +185,8 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484854577916">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484855258300">
+        <mark key="'" line="36" column="4" />
         <mark key="[" line="421" column="0" />
         <mark key="]" line="421" column="0" />
         <mark key="." line="421" column="0" />
@@ -234,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3056" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3058" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3060" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3141" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3249" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -334,6 +333,8 @@
       <jump line="3842" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4316" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2787" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="274" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -343,7 +344,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fillet</text>
+        <text encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfYmxlbmRfcHlyYW1pZF92ZXJ0ZXgoKToKCiAgICBwdDEgPSBbMCwgMCwgMF0KICAgIHB0MiA9IFsxMCwgMCwgMF0KICAgIHB0MyA9IFsxMCwgMTAsIDBdCiAgICBwdDQgPSBbMCwgMTAsIDBdCiAgICB3ID0gc2FnZS5wb2x5X2xpbmUoW3B0MSwgcHQyLCBwdDMsIHB0NCwgcHQxXSkKCiAgICBwdF90b3AgPSBbNSwgNSwgMTBdCgogICAgY29uZSA9IHNhZ2UubG9mdChbdywgcHRfdG9wXSkKCiAgICB2dHggPSBzYWdlLmdldF92ZXJ0aWNlcyhjb25lLCBiYm94PVsoNCwgNCwgOSksICg2LCA2LCAxMSldLCBleHBlY3Rfc2luZ2xlPVRydWUpCiAgICBzYWdlLmNvbG9yX2VudGl0eSh2dHgsIDEsIDAsIDApCgogICAgdmJsZW5kZXIgPSBibGVuZGVyLkJsZW5kZXIoKQogICAgdmJsZW5kZXIuYWRkX3ZlcnRleCh2dHgsIDcpCiAgICBlZGdlcyA9IHNhZ2UuZ2V0X2VkZ2VzKHZ0eCkKICAgIHN0YXJ0X3JhZGl1cyA9IDAuNQogICAgZW5kX3JhZGl1cyA9IDAuNQogICAgZm9yIGVkIGluIGVkZ2VzOgogICAgICAgIHZibGVuZGVyLmFkZF9lZGdlX3N0YXJ0X2VuZF9yYWRpdXMoZWQsIHN0YXJ0X3JhZGl1cywgZW5kX3JhZGl1cykKCiAgICB2YmxlbmRlci5maW5hbGl6ZSgpCgogICAgc2FnZS5leHBvcnQoW2NvbmVdLCAncHlyX2JsZW5kX3Z0eC5zYXQnKQogICAgYXNzZXJ0X2Zsb2F0KDMzMS43MTU5Miwgc2FnZS52b2x1bWUoY29uZSksIDFlLTIpCg==</text>
@@ -380,9 +381,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fillet</last-search>
+      <last-search encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</last-search>
       <last-offset />
-      <last-pattern>fillet</last-pattern>
+      <last-pattern encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -390,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MESHOPTIONS\.arclen_fracs</entry>
         <entry>MESHOPTIONS\.</entry>
         <entry>mesh_refine</entry>
         <entry>test_cube_mesh_ref</entry>
@@ -410,6 +410,7 @@
         <entry>blend</entry>
         <entry>fille</entry>
         <entry>fillet</entry>
+        <entry encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
