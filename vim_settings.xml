@@ -129,8 +129,12 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
         <mark key="'" line="474" column="26" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484793923553">
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484799375830">
         <mark key="'" line="4" column="7" />
+        <mark key="[" line="2987" column="35" />
+        <mark key="]" line="2987" column="51" />
+        <mark key="^" line="2987" column="51" />
+        <mark key="." line="2987" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/tecplot/tecplot.py" timestamp="1484704448203">
         <mark key="[" line="60" column="6" />
@@ -147,13 +151,13 @@
         <mark key="[" line="1721" column="0" />
         <mark key="]" line="1797" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484798439321">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484799608599">
         <mark key="a" line="1935" column="51" />
-        <mark key="'" line="3033" column="11" />
-        <mark key="[" line="3200" column="4" />
-        <mark key="]" line="3200" column="4" />
-        <mark key="." line="3200" column="4" />
-        <mark key="^" line="1900" column="52" />
+        <mark key="'" line="2910" column="42" />
+        <mark key="[" line="2989" column="34" />
+        <mark key="]" line="2991" column="51" />
+        <mark key="^" line="2991" column="51" />
+        <mark key="." line="2991" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
@@ -214,60 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="45" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
-      <jump line="40" column="27" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/Desktop/Ex/simple.json" />
-      <jump line="9" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="319" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="63" column="16" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="102" column="20" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="171" column="28" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
-      <jump line="28" column="13" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
-      <jump line="62" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
-      <jump line="64" column="20" filename="$USER_HOME$/Desktop/Ex/plethora/jsonparse.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="79" column="29" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="96" column="29" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="154" column="32" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
-      <jump line="117" column="13" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
-      <jump line="119" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
-      <jump line="121" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/extrude_arc.json" />
-      <jump line="202" column="16" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="26" column="10" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="27" column="10" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="28" column="10" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="47" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="52" column="13" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="56" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="65" column="17" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="80" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="94" column="21" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="96" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="101" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="106" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="111" column="25" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="117" column="24" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="182" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="194" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/cost.py" />
-      <jump line="152" column="20" filename="$USER_HOME$/Desktop/Ex/plethora/edge.py" />
-      <jump line="3" column="9" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="75" column="23" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="92" column="19" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="106" column="4" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Ex/plethora/test.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/buildApis.py" />
-      <jump line="393" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/userScript.py" />
-      <jump line="3988" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4005" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1868" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="764" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="1900" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1961" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="1975" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="3922" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1394" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="1748" column="43" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
@@ -314,55 +264,109 @@
       <jump line="969" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3033" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1521" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="3200" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3285" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2911" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2912" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2913" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2914" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2918" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2919" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2920" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2921" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2922" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2923" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2930" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2932" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2934" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2936" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2938" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2940" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2981" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2983" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2985" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2987" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2989" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2991" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3048" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3050" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3052" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3054" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3056" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3058" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3060" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3062" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3064" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3141" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3143" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3145" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3147" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3149" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3151" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3153" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3155" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3157" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3249" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3251" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3253" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3255" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2900" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2901" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2902" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2903" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2904" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2905" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2909" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2910" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuZWVkX3F1YWQgPSBNRVNIT1BUSU9OUy5uZWVkX3F1YWQK</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_mesh_refi</text>
+        <text>MESHOPTIONS\.</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bWF4X21lc2hfbGVuZ3RoPU1FU0hPUFRJT05TLm1heF9tZXNoX2xlbmd0aCwKICAgICAgICAgICAgICAgICAgICAgIG5vcm1hbF9jaGFuZ2U9TUVTSE9QVElPTlMubm9ybWFsX2NoYW5nZSwKICAgICAgICAgICAgICAgICAgICAgIHNhZz1NRVNIT1BUSU9OUy5zYWcsCiAgICAgICAgICAgICAgICAgICAgICBtYXhfYXNwZWN0X3JhdGlvPU1FU0hPUFRJT05TLm1heF9hc3BlY3RfcmF0aW8sCiAgICAgICAgICAgICAgICAgICAgICB0aHJlYWRfY291bnQ9TUVTSE9QVElPTlMudGhyZWFkX2NvdW50LAogICAgICAgICAgICAgICAgICAgICAgbmVlZF9xdWFkPU1FU0hPUFRJT05TLm5lZWRfcXVhZCk6CiA=</text>
+        <text encoding="base64">IGlmIG5vdCBtYXhfbWVzaF9sZW5ndGg6CiAgICAgICAgbWF4X21lc2hfbGVuZ3RoID0gTUVTSE9QVElPTlMubWF4X21lc2hfbGVuZ3RoCiAgICBpZiBub3Qgbm9ybWFsX2NoYW5nZToKICAgICAgICBub3JtYWxfY2hhbmdlID0gTUVTSE9QVElPTlMubm9ybWFsX2NoYW5nZQogICAgaWYgbm90IHNhZzoKICAgICAgICBzYWcgPSBNRVNIT1BUSU9OUy5zYWcKICAgIGlmIG5vdCBtYXhfYXNwZWN0X3JhdGlvOgogICAgICAgIG1heF9hc3BlY3RfcmF0aW8gPSBNRVNIT1BUSU9OUy5tYXhfYXNwZWN0X3JhdGlvCiAgICBpZiBub3QgZWRnZV9hcmNsZW5fZnJhY3M6CiAgICAgICAgZWRnZV9hcmNsZW5fZnJhY3MgPSBNRVNIT1BUSU9OUy5lZGdlX2FyY2xlbl9mcmFjcwogICAgaWYgbm90IGVkZ2VfbnVtX3NhbXBsZXM6CiAgICAgICAgZWRnZV9udW1fc2FtcGxlcyA9IE1FU0hPUFRJT05TLmVkZ2VfbnVtX3NhbXBsZXMKICAgIGlmIG5vdCBlZGdlX21lc2hpbmdfYWxnbzoKICAgICAgICBlZGdlX21lc2hpbmdfYWxnbyA9IE1FU0hPUFRJT05TLmVkZ2VfbWVzaGluZ19hbGdvCiAgICBpZiBub3QgdGhyZWFkX2NvdW50OgogICAgICAgIHRocmVhZF9jb3VudCA9IE1FU0hPUFRJT05TLnRocmVhZF9jb3VudAogICAgaWYgbm90IG5lZWRfcXVhZDoKICAgICAgICBuZWVkX3F1YWQgPSBNRVNIT1BUSU9OUy5uZWVkX3F1YWQKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJlYWRfY291bnQsCg==</text>
+        <text encoding="base64">ICAgICAgICBuZWVkX3F1YWQgPSBNRVNIT1BUSU9OUy5uZWVkX3F1YWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aHJlYWRfY291bnQsCg==</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBuZWVkX3F1YWQ6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocmVhZF9jb3VudCwK</text>
+        <text encoding="base64">ICAgICAgICB0aHJlYWRfY291bnQgPSBNRVNIT1BUSU9OUy50aHJlYWRfY291bnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBhcmNsZW5fZnJhY3MgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgIGlmIG5vdCB0aHJlYWRfY291bnQ6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGFyY2xlbl9mcmFjcyBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICBlZGdlX21lc2hpbmdfYWxnbyA9IE1FU0hPUFRJT05TLmVkZ2VfbWVzaGluZ19hbGdvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGFyY2xlbl9mcmFjcyBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBlZGdlX21lc2hpbmdfYWxnbzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuZWVkX3F1YWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBlZGdlX251bV9zYW1wbGVzID0gTUVTSE9QVElPTlMuZWRnZV9udW1fc2FtcGxlcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlZGdlX251bV9zYW1wbGVzLAo=</text>
+        <text encoding="base64">ICAgIGlmIG5vdCBlZGdlX251bV9zYW1wbGVzOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcmFjcywK</text>
+        <text encoding="base64">ICAgICAgICBlZGdlX2FyY2xlbl9mcmFjcyA9IE1FU0hPUFRJT05TLmVkZ2VfYXJjbGVuX2ZyYWNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_mesh_refi</last-search>
+      <last-search>MESHOPTIONS\.</last-search>
       <last-offset />
-      <last-pattern>_mesh_refi</last-pattern>
+      <last-pattern>MESHOPTIONS\.</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -370,8 +374,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getGrid</entry>
-        <entry>getGridParams</entry>
         <entry>get_face_u</entry>
         <entry>get_rect</entry>
         <entry>get_face_uv</entry>
@@ -390,6 +392,8 @@
         <entry>mesh_entity</entry>
         <entry>_mesh_refine</entry>
         <entry>_mesh_refi</entry>
+        <entry>MESHOPTIONS\.arclen_fracs</entry>
+        <entry>MESHOPTIONS\.</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
@@ -409,6 +413,7 @@
         <entry>%s/Cost/Stock</entry>
         <entry>%s/machine_cost/process_stock/gc</entry>
         <entry>1753</entry>
+        <entry>2973</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
