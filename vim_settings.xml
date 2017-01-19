@@ -14,6 +14,9 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484786459418">
+        <mark key="'" line="1868" column="20" />
+      </file>
       <file name="/Python Console" timestamp="1484713589379">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1289" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1296" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="71" column="7" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
       <jump line="137" column="32" filename="$USER_HOME$/workspace/sageGUI/gui_animate.py" />
@@ -302,6 +304,7 @@
       <jump line="3600" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="4170" column="21" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1299" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1868" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -311,7 +314,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>get_edges</text>
+        <text>mesh_pert</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHogPSAxMAogICAgbDEgPSBzYWdlLmxpbmUoKDAsIDAsIHopLCAoMSwgMCwgeikpCiAgICBsMiA9IHNhZ2UubGluZSgoMSwgMCwgeiksICgxLCAxLCB6KSkKICAgIGwzID0gc2FnZS5saW5lKCgxLCAxLCB6KSwgKDAsIDEsIHopKQogICAgbDQgPSBzYWdlLmxpbmUoKDAsIDEsIHopLCAoMCwgMCwgeikpCiAgICBmYWNlID0gc2FnZS5tYWtlX2ZhY2UoW2wxLCBsMiwgbDMsIGw0XSkK</text>
@@ -348,9 +351,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_edges</last-search>
+      <last-search>mesh_pert</last-search>
       <last-offset />
-      <last-pattern>get_edges</last-pattern>
+      <last-pattern>mesh_pert</last-pattern>
       <last-replace>process_stock</last-replace>
       <last-substitute>machine_cost</last-substitute>
       <last-dir>1</last-dir>
@@ -358,8 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmludFw+</entry>
-        <entry>_per</entry>
         <entry encoding="base64">XDxwZXJpbWV0ZXJcPg==</entry>
         <entry encoding="base64">XDxvdGhlcl9pZFw+</entry>
         <entry>print</entry>
@@ -378,6 +379,8 @@
         <entry encoding="base64">XDx3cml0ZVBsb3QzREZpbGVcPg==</entry>
         <entry encoding="base64">XDxzaGFwZVw+</entry>
         <entry>get_edges</entry>
+        <entry>mesh_prer</entry>
+        <entry>mesh_pert</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
