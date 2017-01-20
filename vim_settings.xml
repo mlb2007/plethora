@@ -57,10 +57,11 @@
         <mark key="^" line="138" column="110" />
         <mark key="." line="138" column="110" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484864411796">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484870077782">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
+        <mark key="^" line="54" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chevron.py" timestamp="1481740150662">
         <mark key="[" line="70" column="11" />
@@ -185,11 +186,12 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484869075633">
-        <mark key="'" line="194" column="11" />
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484870743151">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="517" column="0" />
+        <mark key="]" line="517" column="18" />
+        <mark key="." line="517" column="18" />
+        <mark key="^" line="517" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
         <mark key="'" line="46" column="79" />
@@ -235,9 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2920" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2921" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2922" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2923" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3327" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3063" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -335,63 +334,65 @@
       <jump line="387" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="152" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="488" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="426" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="59" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBwbHkobWlycm9yX3RmKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Point2D</text>
+        <text>Box</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgbWFrZV9jb3B5OgogICAgICAgICAgICBwb2ludF9jb3B5ID0gc2VsZi5jb3B5KCkKICAgICAgICAgICAgcmV0dXJuIHBvaW50X2NvcHkubWlycm9yKGF4aXMsb3JpZ2luLCBGYWxzZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICByZXR1cm4gYXBwbHkobWlycm9yX3RmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVudCBpbiBzZWxmLmVudGl0aWVzOgogICAgICAgICAgICAgICAgaWYgZW50IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIGVudC5taXJyb3Ioc2VsZi5zX2VudGl0eSwgYXhpcywgb3JpZ2luLCBtYWtlX2NvcHkpCiAgICAgICAgICAgIHJldHVybiBzZWxmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYXBwbHkobWlycm9yX3RmKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bWlycm9yX3RmID0gc2FnZS5yZWZsZWN0aW9uKGF4aXMsIG9yaWdpbikK</text>
+        <text encoding="base64">ICAgIHNlbGYuc19lbnRpdHkgPSBzYWdlLnRyYW5zbGF0ZShzZWxmLmVudGl0eSwgdmVjKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWlycm9yX3RmID0gc2FnZS5yZWZsZWN0aW9uKGF4aXMsIG9yaWdpbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRnZXNfdmVjLmFwcGVuZChlbnQuZW50aXR5KCkpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zX2VudGl0eSA9IG91dHB1dAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJvZHkob3V0cHV0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRW50aXR5KG91dHB1dCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiBtYWtlX2NvcHk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBzYWdlLm1pcnJvcihzZWxmLnNfZW50aXR5LCBheGlzLCBvcmlnaW4sIG1ha2VfY29weSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Point2D</last-search>
+      <last-search>Box</last-search>
       <last-offset />
-      <last-pattern>Point2D</last-pattern>
-      <last-replace>Point2DEntity</last-replace>
-      <last-substitute>Point2D</last-substitute>
+      <last-pattern>Box</last-pattern>
+      <last-replace>BBox</last-replace>
+      <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MESHOPTIONS=</entry>
         <entry>mesh_entity(</entry>
         <entry>MESHOPTIONS =</entry>
         <entry encoding="base64">XDxlZGdlX2FyY2xlbl9mcmFjc1w+</entry>
@@ -411,9 +412,9 @@
         <entry>transform(entity</entry>
         <entry>Edge</entry>
         <entry>Point2D</entry>
+        <entry>Box</entry>
       </history-search>
       <history-cmd>
-        <entry>1573</entry>
         <entry>128</entry>
         <entry>139</entry>
         <entry>1619</entry>
@@ -432,6 +433,7 @@
         <entry>1531</entry>
         <entry>%s/Point3D/Point3DEntity/gc</entry>
         <entry>%s/Point2D/Point2DEntity/gc</entry>
+        <entry>%s/Box/BBox/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
