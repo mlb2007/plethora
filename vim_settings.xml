@@ -108,11 +108,10 @@
         <mark key="." line="40" column="12" />
         <mark key="^" line="40" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484861715685">
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="36" column="52" />
-        <mark key="^" line="36" column="52" />
-        <mark key="." line="36" column="52" />
+      <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
+        <mark key="[" line="33" column="16" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/fromSchema.py" timestamp="1484408931521">
         <mark key="[" line="22" column="0" />
@@ -160,9 +159,9 @@
         <mark key="[" line="1721" column="0" />
         <mark key="]" line="1797" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484862887475">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484947262736">
         <mark key="a" line="1933" column="51" />
-        <mark key="'" line="485" column="4" />
+        <mark key="'" line="511" column="0" />
         <mark key="[" line="467" column="0" />
         <mark key="]" line="467" column="59" />
         <mark key="." line="467" column="0" />
@@ -237,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2923" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3327" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3063" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="253" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -337,55 +335,56 @@
       <jump line="488" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="426" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="59" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="511" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBpLk1FU0hPUFRJT05TLm1heF9tZXNoX2xlbmd0aCA9IDEwMAo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Box</text>
+        <text>export(</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIGVudCBpbiBzZWxmLmVudGl0aWVzOgogICAgICAgICAgICAgICAgaWYgZW50IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIGVudC5taXJyb3Ioc2VsZi5zX2VudGl0eSwgYXhpcywgb3JpZ2luLCBtYWtlX2NvcHkpCiAgICAgICAgICAgIHJldHVybiBzZWxmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
+        <text encoding="base64">YXBpLk1FU0hPUFRJT05TLm1heF9tZXNoX2xlbmd0aCA9IDEwMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc19lbnRpdHkgPSBzYWdlLnRyYW5zbGF0ZShzZWxmLmVudGl0eSwgdmVjKQo=</text>
+        <text encoding="base64">YXBpLmV4cG9ydChzb2xpZF9jb3B5LCAicmVzdWx0X2NoYW5nZWQuZGF0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRnZXNfdmVjLmFwcGVuZChlbnQuZW50aXR5KCkpCg==</text>
+        <text encoding="base64">c29sZF9jb3B5ID0gYXBpLmNvcHkoc29saWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHNlbGYuc19lbnRpdHkgPSBzYWdlLnRyYW5zbGF0ZShzZWxmLmVudGl0eSwgdmVjKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRnZXNfdmVjLmFwcGVuZChlbnQuZW50aXR5KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEJvZHkob3V0cHV0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBtYWtlX2NvcHk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXQgPSBzYWdlLm1pcnJvcihzZWxmLnNfZW50aXR5LCBheGlzLCBvcmlnaW4sIG1ha2VfY29weSkK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Box</last-search>
+      <last-search>export(</last-search>
       <last-offset />
-      <last-pattern>Box</last-pattern>
+      <last-pattern>export(</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mesh_entity(</entry>
         <entry>MESHOPTIONS =</entry>
         <entry encoding="base64">XDxlZGdlX2FyY2xlbl9mcmFjc1w+</entry>
         <entry>mesh_edge</entry>
@@ -413,6 +411,7 @@
         <entry>Edge</entry>
         <entry>Point2D</entry>
         <entry>Box</entry>
+        <entry>export(</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
