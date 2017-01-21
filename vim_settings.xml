@@ -14,24 +14,24 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484855651961">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1583" column="0" />
-        <mark key="]" line="1609" column="52" />
-        <mark key="." line="1876" column="9" />
-        <mark key="^" line="1876" column="9" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484962933799">
+        <mark key="'" line="2004" column="4" />
+        <mark key="[" line="1876" column="64" />
+        <mark key="]" line="1876" column="64" />
+        <mark key="." line="1876" column="64" />
+        <mark key="^" line="1876" column="64" />
       </file>
-      <file name="/Python Console" timestamp="1484713589379">
+      <file name="/Python Console" timestamp="1484960670110">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/inlet/Jan4/inlet.py" timestamp="1483723941068">
         <mark key="[" line="961" column="157" />
         <mark key="]" line="961" column="73" />
         <mark key="." line="961" column="73" />
         <mark key="^" line="961" column="73" />
-      </file>
-      <file name="/fragment.py" timestamp="1484000891596">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/extrude_arc.json" timestamp="1484525325389">
         <mark key="'" line="33" column="0" />
@@ -57,11 +57,10 @@
         <mark key="^" line="138" column="110" />
         <mark key="." line="138" column="110" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484958493602">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="18" />
-        <mark key="." line="54" column="18" />
-        <mark key="^" line="54" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484961815716">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chevron.py" timestamp="1481740150662">
         <mark key="[" line="70" column="11" />
@@ -141,8 +140,12 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
         <mark key="'" line="474" column="26" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484804521923">
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1484961875436">
         <mark key="'" line="1530" column="28" />
+        <mark key="[" line="3296" column="30" />
+        <mark key="]" line="3296" column="31" />
+        <mark key="^" line="3296" column="31" />
+        <mark key="." line="3296" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/tecplot/tecplot.py" timestamp="1484704448203">
         <mark key="[" line="60" column="6" />
@@ -159,16 +162,18 @@
         <mark key="[" line="1721" column="0" />
         <mark key="]" line="1797" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484947262736">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1484962136977">
         <mark key="a" line="1933" column="51" />
-        <mark key="'" line="511" column="0" />
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="59" />
-        <mark key="." line="467" column="0" />
-        <mark key="^" line="3373" column="44" />
+        <mark key="'" line="2844" column="4" />
+        <mark key="[" line="3254" column="4" />
+        <mark key="]" line="3254" column="4" />
+        <mark key="." line="3254" column="4" />
+        <mark key="^" line="3296" column="31" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484801175093">
-        <mark key="[" line="1868" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1484962708393">
+        <mark key="[" line="1876" column="9" />
+        <mark key="]" line="1876" column="9" />
+        <mark key="." line="1876" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
@@ -185,12 +190,11 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484958669851">
-        <mark key="'" line="59" column="4" />
-        <mark key="[" line="517" column="0" />
-        <mark key="]" line="517" column="18" />
-        <mark key="." line="517" column="18" />
-        <mark key="^" line="517" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484960835644">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="467" column="0" />
+        <mark key="]" line="467" column="0" />
+        <mark key="." line="467" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
         <mark key="'" line="46" column="79" />
@@ -236,12 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3327" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3063" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="253" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2992" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3014" column="201" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3019" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3069" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3099" column="206" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3104" column="57" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -288,7 +286,6 @@
       <jump line="3393" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3631" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1876" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="1886" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="2016" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="1583" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="3842" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -336,43 +333,54 @@
       <jump line="426" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="59" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="511" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="484" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="101" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
+      <jump line="2844" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="436" column="5" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="696" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="1886" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="2004" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXBpLk1FU0hPUFRJT05TLm1heF9tZXNoX2xlbmd0aCA9IDEwMAo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>export(</text>
+        <text encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVudCBpbiBzZWxmLmVudGl0aWVzOgogICAgICAgICAgICAgICAgaWYgZW50IGlzIG5vdCBOb25lOgogICAgICAgICAgICAgICAgICAgIGVudC5taXJyb3Ioc2VsZi5zX2VudGl0eSwgYXhpcywgb3JpZ2luLCBtYWtlX2NvcHkpCiAgICAgICAgICAgIHJldHVybiBzZWxmCg==</text>
+        <text>elif len(coords) == 1:
+            if not isinstance(coords[0], list):
+                raise Exception(&quot;A list [x,y,(z)] is expected or values x, y, (z) is expected&quot;)
+            self.coords = coords[0]
+        e</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBpLk1FU0hPUFRJT05TLm1heF9tZXNoX2xlbmd0aCA9IDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBpLmV4cG9ydChzb2xpZF9jb3B5LCAicmVzdWx0X2NoYW5nZWQuZGF0IikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmlucHV0X3BvaW50cy5yb3RhdGUoYXhpcywgYW5nbGUsIGRlZ3JlZXMsIG9yaWdpbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c29sZF9jb3B5ID0gYXBpLmNvcHkoc29saWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihCZXppZXJFZGdlLCBzZWxmKS5yb3RhdGUoYXhpcywgYW5nbGUsIGRlZ3JlZXMsIG9yaWdpbikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
+        <text encoding="base64">ICAgIGRlZiByb3RhdGUoc2VsZiwgYXhpcywgYW5nbGUsIGRlZ3JlZXM9VHJ1ZSwgb3JpZ2luPU5vbmUpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGYuc19lbnRpdHkgPSBzYWdlLnRyYW5zbGF0ZShzZWxmLmVudGl0eSwgdmVjKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRnZXNfdmVjLmFwcGVuZChlbnQuZW50aXR5KCkpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5pbnB1dF9wb2ludHMubWlycm9yKGF4aXMsIG9yaWdpbiwgbWFrZV9jb3B5KQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3VwZXIoQmV6aWVyRWRnZSwgc2VsZikubWlycm9yKGF4aXMsIG9yaWdpbiwgbWFrZV9jb3B5KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
@@ -382,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export(</last-search>
+      <last-search encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</last-search>
       <last-offset />
-      <last-pattern>export(</last-pattern>
+      <last-pattern encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -392,12 +400,8 @@
     </search>
     <history>
       <history-search>
-        <entry>MESHOPTIONS =</entry>
-        <entry encoding="base64">XDxlZGdlX2FyY2xlbl9mcmFjc1w+</entry>
-        <entry>mesh_edge</entry>
         <entry>mesh_edge(</entry>
         <entry>if not</entry>
-        <entry>_test</entry>
         <entry encoding="base64">XDx0ZXN0X2JsZW5kX3B5cmFtaWRfdmVydGV4XD4=</entry>
         <entry>blend_vertex</entry>
         <entry>blend</entry>
@@ -412,6 +416,10 @@
         <entry>Point2D</entry>
         <entry>Box</entry>
         <entry>export(</entry>
+        <entry>_remove_mesh</entry>
+        <entry>_test</entry>
+        <entry>_test_cube</entry>
+        <entry encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
@@ -447,6 +455,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
