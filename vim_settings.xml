@@ -159,14 +159,20 @@
         <mark key="]" line="89" column="37" />
         <mark key="." line="89" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1486420851781">
+        <mark key="'" line="2101" column="4" />
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="435" column="17" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
         <mark key="]" line="220" column="14" />
         <mark key="." line="220" column="14" />
         <mark key="^" line="220" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1484803651366">
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1486420725440">
         <mark key="'" line="1299" column="11" />
+        <mark key="[" line="2889" column="43" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/blender.py" timestamp="1484704349621">
         <mark key="'" line="114" column="8" />
@@ -207,11 +213,12 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1484613808079">
-        <mark key="'" line="679" column="4" />
-        <mark key="[" line="654" column="18" />
-        <mark key="]" line="654" column="25" />
-        <mark key="." line="654" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/mesh_refine.py" timestamp="1486420892298">
+        <mark key="'" line="719" column="4" />
+        <mark key="[" line="722" column="4" />
+        <mark key="]" line="715" column="0" />
+        <mark key="." line="678" column="0" />
+        <mark key="^" line="678" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484535165338">
         <mark key="[" line="121" column="0" />
@@ -224,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3069" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3099" column="206" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3104" column="57" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3192" column="206" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3197" column="57" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -324,23 +329,21 @@
       <jump line="696" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="1886" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="2004" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="1897" column="41" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="2101" column="4" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">ZGVmIHRlc3RfbG9mdDUoKToKICAgIGNyb3NzX3NlY3Rpb25zID0gW10KCiAgICBjZW50ZXIgPSBbMCwgMCwgMF0KICAgIHJhZGl1cyA9IDMKICAgIGVkZ2VfYmFzZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKGNlbnRlciwgcmFkaXVzKQogICAgY3Jvc3Nfc2VjdGlvbnMuYXBwZW5kKGVkZ2VfYmFzZSkKCiAgICAjIHRvcCBvZiBjb25lCiAgICBjb25lX3RvcCA9IFswLCAwLCAxMF0KICAgIGNyb3NzX3NlY3Rpb25zLmFwcGVuZChjb25lX3RvcCkKCiAgICBndWlkZV92ZWMgPSBbXQogICAgcHRfciA9IFszLCAwLCAwXQogICAgZ3VpZGUxID0gc2FnZS5saW5lKHB0X3IsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTEpCiAgICAjIGd1aWRlIDIKICAgIHB0X3UgPSBbMCwgMywgMF0KICAgIGd1aWRlMiA9IHNhZ2UubGluZShwdF91LCBjb25lX3RvcCkKICAgIGd1aWRlX3ZlYy5hcHBlbmQoZ3VpZGUyKQogICAgIyBndWlkZSAzCiAgICBwdF9sID0gWy0zLCAwLCAwXQogICAgZ3VpZGUzID0gc2FnZS5saW5lKHB0X2wsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTMpCiAgICAjIGd1aWRlIDQKICAgIHB0X2QgPSBbMCwgLTMsIDBdCiAgICBndWlkZTQgPSBzYWdlLmxpbmUocHRfZCwgY29uZV90b3ApCiAgICBndWlkZV92ZWMuYXBwZW5kKGd1aWRlNCkKCiAgICBsb2Z0ZWQgPSBzYWdlLmxvZnQoY3Jvc3Nfc2VjdGlvbnMsIGd1aWRlX3ZlYykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc2F0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuaWdzJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUubW9kZWwnKQogICAgc2FnZS5leHBvcnQobG9mdGVkLCAndGVzdF9sb2Z0NS5jYXRwYXJ0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RsJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RwJykKICAgIHJldHVybiBsb2Z0ZWQK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</text>
+        <text>test_loft5</text>
       </register>
       <register name="0" type="4">
-        <text>elif len(coords) == 1:
-            if not isinstance(coords[0], list):
-                raise Exception(&quot;A list [x,y,(z)] is expected or values x, y, (z) is expected&quot;)
-            self.coords = coords[0]
-        e</text>
+        <text encoding="base64">ZGVmIHRlc3RfbG9mdDUoKToKICAgIGNyb3NzX3NlY3Rpb25zID0gW10KCiAgICBjZW50ZXIgPSBbMCwgMCwgMF0KICAgIHJhZGl1cyA9IDMKICAgIGVkZ2VfYmFzZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKGNlbnRlciwgcmFkaXVzKQogICAgY3Jvc3Nfc2VjdGlvbnMuYXBwZW5kKGVkZ2VfYmFzZSkKCiAgICAjIHRvcCBvZiBjb25lCiAgICBjb25lX3RvcCA9IFswLCAwLCAxMF0KICAgIGNyb3NzX3NlY3Rpb25zLmFwcGVuZChjb25lX3RvcCkKCiAgICBndWlkZV92ZWMgPSBbXQogICAgcHRfciA9IFszLCAwLCAwXQogICAgZ3VpZGUxID0gc2FnZS5saW5lKHB0X3IsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTEpCiAgICAjIGd1aWRlIDIKICAgIHB0X3UgPSBbMCwgMywgMF0KICAgIGd1aWRlMiA9IHNhZ2UubGluZShwdF91LCBjb25lX3RvcCkKICAgIGd1aWRlX3ZlYy5hcHBlbmQoZ3VpZGUyKQogICAgIyBndWlkZSAzCiAgICBwdF9sID0gWy0zLCAwLCAwXQogICAgZ3VpZGUzID0gc2FnZS5saW5lKHB0X2wsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTMpCiAgICAjIGd1aWRlIDQKICAgIHB0X2QgPSBbMCwgLTMsIDBdCiAgICBndWlkZTQgPSBzYWdlLmxpbmUocHRfZCwgY29uZV90b3ApCiAgICBndWlkZV92ZWMuYXBwZW5kKGd1aWRlNCkKCiAgICBsb2Z0ZWQgPSBzYWdlLmxvZnQoY3Jvc3Nfc2VjdGlvbnMsIGd1aWRlX3ZlYykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc2F0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuaWdzJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUubW9kZWwnKQogICAgc2FnZS5leHBvcnQobG9mdGVkLCAndGVzdF9sb2Z0NS5jYXRwYXJ0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RsJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RwJykKICAgIHJldHVybiBsb2Z0ZWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -374,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</last-search>
+      <last-search>test_loft5</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</last-pattern>
+      <last-pattern>test_loft5</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -384,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mesh_edge(</entry>
         <entry>if not</entry>
         <entry encoding="base64">XDx0ZXN0X2JsZW5kX3B5cmFtaWRfdmVydGV4XD4=</entry>
         <entry>blend_vertex</entry>
@@ -404,6 +406,7 @@
         <entry>_test</entry>
         <entry>_test_cube</entry>
         <entry encoding="base64">XDx0ZXN0X21lc2hfcmVmaW5lbWVudFw+</entry>
+        <entry>test_loft5</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
