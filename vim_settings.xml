@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1486667444072">
+      <file name="/start_script.py" timestamp="1486673898116">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/secant_spline.py" timestamp="1486604412710">
@@ -197,6 +197,9 @@
         <mark key="]" line="1" column="1" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1486673190025">
+        <mark key="'" line="220" column="9" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484960835644">
         <mark key="'" line="102" column="8" />
         <mark key="[" line="467" column="0" />
@@ -248,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="210" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="255" column="57" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3183" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="280" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -348,6 +350,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1522" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1531" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="220" column="9" filename="$USER_HOME$/workspace/editableCurve.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -371,7 +374,7 @@ def reverse(inp):
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>make_solid</text>
+        <text encoding="base64">XDxhcHBseU1vZHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfbG9mdDUoKToKICAgIGNyb3NzX3NlY3Rpb25zID0gW10KCiAgICBjZW50ZXIgPSBbMCwgMCwgMF0KICAgIHJhZGl1cyA9IDMKICAgIGVkZ2VfYmFzZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKGNlbnRlciwgcmFkaXVzKQogICAgY3Jvc3Nfc2VjdGlvbnMuYXBwZW5kKGVkZ2VfYmFzZSkKCiAgICAjIHRvcCBvZiBjb25lCiAgICBjb25lX3RvcCA9IFswLCAwLCAxMF0KICAgIGNyb3NzX3NlY3Rpb25zLmFwcGVuZChjb25lX3RvcCkKCiAgICBndWlkZV92ZWMgPSBbXQogICAgcHRfciA9IFszLCAwLCAwXQogICAgZ3VpZGUxID0gc2FnZS5saW5lKHB0X3IsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTEpCiAgICAjIGd1aWRlIDIKICAgIHB0X3UgPSBbMCwgMywgMF0KICAgIGd1aWRlMiA9IHNhZ2UubGluZShwdF91LCBjb25lX3RvcCkKICAgIGd1aWRlX3ZlYy5hcHBlbmQoZ3VpZGUyKQogICAgIyBndWlkZSAzCiAgICBwdF9sID0gWy0zLCAwLCAwXQogICAgZ3VpZGUzID0gc2FnZS5saW5lKHB0X2wsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTMpCiAgICAjIGd1aWRlIDQKICAgIHB0X2QgPSBbMCwgLTMsIDBdCiAgICBndWlkZTQgPSBzYWdlLmxpbmUocHRfZCwgY29uZV90b3ApCiAgICBndWlkZV92ZWMuYXBwZW5kKGd1aWRlNCkKCiAgICBsb2Z0ZWQgPSBzYWdlLmxvZnQoY3Jvc3Nfc2VjdGlvbnMsIGd1aWRlX3ZlYykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc2F0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuaWdzJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUubW9kZWwnKQogICAgc2FnZS5leHBvcnQobG9mdGVkLCAndGVzdF9sb2Z0NS5jYXRwYXJ0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RsJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RwJykKICAgIHJldHVybiBsb2Z0ZWQK</text>
@@ -422,9 +425,9 @@ def reverse(inp):
       </register>
     </registers>
     <search>
-      <last-search>make_solid</last-search>
+      <last-search encoding="base64">XDxhcHBseU1vZHNcPg==</last-search>
       <last-offset />
-      <last-pattern>make_solid</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBseU1vZHNcPg==</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +435,6 @@ def reverse(inp):
     </search>
     <history>
       <history-search>
-        <entry>blend_vertex</entry>
         <entry>blend</entry>
         <entry>fille</entry>
         <entry>fillet</entry>
@@ -452,6 +454,7 @@ def reverse(inp):
         <entry>test_loft5</entry>
         <entry>stitch_faces</entry>
         <entry>make_solid</entry>
+        <entry encoding="base64">XDxhcHBseU1vZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
