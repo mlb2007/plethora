@@ -56,11 +56,11 @@
         <mark key="." line="92" column="46" />
         <mark key="^" line="92" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486655593681">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486662655100">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
         <mark key="[" line="38" column="24" />
@@ -354,11 +354,25 @@
       <jump line="1531" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGkK</text>
+      <register name="&quot;" type="4">
+        <text>def reverse_internal(inp, i, l, out):
+    if i == l - 1:
+        out.append(inp)
+        return
+    reverse_internal(inp[1:l], i + 1, l, out)
+    out.append(inp[0])
+    return
+
+
+def reverse(inp):
+    out = list()
+    linp = len(inp)
+    print &quot;len:&quot;, linp
+    reverse_internal(inp, 0, linp, out)
+    return out</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>make_solid</text>
@@ -366,32 +380,46 @@
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfbG9mdDUoKToKICAgIGNyb3NzX3NlY3Rpb25zID0gW10KCiAgICBjZW50ZXIgPSBbMCwgMCwgMF0KICAgIHJhZGl1cyA9IDMKICAgIGVkZ2VfYmFzZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKGNlbnRlciwgcmFkaXVzKQogICAgY3Jvc3Nfc2VjdGlvbnMuYXBwZW5kKGVkZ2VfYmFzZSkKCiAgICAjIHRvcCBvZiBjb25lCiAgICBjb25lX3RvcCA9IFswLCAwLCAxMF0KICAgIGNyb3NzX3NlY3Rpb25zLmFwcGVuZChjb25lX3RvcCkKCiAgICBndWlkZV92ZWMgPSBbXQogICAgcHRfciA9IFszLCAwLCAwXQogICAgZ3VpZGUxID0gc2FnZS5saW5lKHB0X3IsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTEpCiAgICAjIGd1aWRlIDIKICAgIHB0X3UgPSBbMCwgMywgMF0KICAgIGd1aWRlMiA9IHNhZ2UubGluZShwdF91LCBjb25lX3RvcCkKICAgIGd1aWRlX3ZlYy5hcHBlbmQoZ3VpZGUyKQogICAgIyBndWlkZSAzCiAgICBwdF9sID0gWy0zLCAwLCAwXQogICAgZ3VpZGUzID0gc2FnZS5saW5lKHB0X2wsIGNvbmVfdG9wKQogICAgZ3VpZGVfdmVjLmFwcGVuZChndWlkZTMpCiAgICAjIGd1aWRlIDQKICAgIHB0X2QgPSBbMCwgLTMsIDBdCiAgICBndWlkZTQgPSBzYWdlLmxpbmUocHRfZCwgY29uZV90b3ApCiAgICBndWlkZV92ZWMuYXBwZW5kKGd1aWRlNCkKCiAgICBsb2Z0ZWQgPSBzYWdlLmxvZnQoY3Jvc3Nfc2VjdGlvbnMsIGd1aWRlX3ZlYykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc2F0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuaWdzJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUubW9kZWwnKQogICAgc2FnZS5leHBvcnQobG9mdGVkLCAndGVzdF9sb2Z0NS5jYXRwYXJ0JykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RsJykKICAgIHNhZ2UuZXhwb3J0KGxvZnRlZCwgJ3Rlc3RfbG9mdDUuc3RwJykKICAgIHJldHVybiBsb2Z0ZWQK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGkK</text>
+      <register name="1" type="4">
+        <text>def reverse_internal(inp, i, l, out):
+    if i == l - 1:
+        out.append(inp)
+        return
+    reverse_internal(inp[1:l], i + 1, l, out)
+    out.append(inp[0])
+    return
+
+
+def reverse(inp):
+    out = list()
+    linp = len(inp)
+    print &quot;len:&quot;, linp
+    reverse_internal(inp, 0, linp, out)
+    return out</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFhID0gaW5wW2ldCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJiIiwgaQo=</text>
+        <text encoding="base64">ICAgIGFhID0gaW5wW2ldCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJiIiwgaQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVkZ2UgPSBzZWNhbnRfc3BsaW5lKHB0cykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNhZ2UuZXhwb3J0KGpvaW5lZF9lZGdlLCAnc2VjYW50LnNhdCcpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGVkZ2UgPSBzZWNhbnRfc3BsaW5lKHB0cykK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNhZ2UuZXhwb3J0KGpvaW5lZF9lZGdlLCAnc2VjYW50LnNhdCcpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiTmVlZCBhIGxpc3Qgb2YgcG9pbnRzIGluIGEgbGlzdFtdLCBvciAiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
