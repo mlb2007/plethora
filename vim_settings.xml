@@ -195,8 +195,8 @@
         <mark key="." line="220" column="14" />
         <mark key="^" line="220" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1486424962955">
-        <mark key="'" line="1531" column="11" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1486768432601">
+        <mark key="'" line="1524" column="0" />
         <mark key="[" line="2889" column="43" />
         <mark key="]" line="2890" column="42" />
         <mark key="^" line="2890" column="42" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3234" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3072" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="230" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="254" column="155" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -362,6 +361,7 @@
       <jump line="12" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="295" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
+      <jump line="1524" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -371,7 +371,7 @@
         <text>rotation(axis, angl</text>
       </register>
       <register name="/" type="4">
-        <text>line</text>
+        <text>bend_entity</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgc19lbnRpdHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3NfZW50aXR5Cg==</text>
@@ -428,9 +428,9 @@ def reverse(inp):
       </register>
     </registers>
     <search>
-      <last-search>line</last-search>
+      <last-search>bend_entity</last-search>
       <last-offset />
-      <last-pattern>line</last-pattern>
+      <last-pattern>bend_entity</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +438,6 @@ def reverse(inp):
     </search>
     <history>
       <history-search>
-        <entry>fillet</entry>
         <entry encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</entry>
         <entry>Point3D</entry>
         <entry>transform</entry>
@@ -458,6 +457,7 @@ def reverse(inp):
         <entry encoding="base64">XDxhcHBseU1vZHNcPg==</entry>
         <entry encoding="base64">XDxGTE9BVF9UT0xcPg==</entry>
         <entry>line</entry>
+        <entry>bend_entity</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
