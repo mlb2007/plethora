@@ -79,11 +79,10 @@
         <mark key="." line="14" column="11" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486772153967">
-        <mark key="[" line="11" column="7" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-        <mark key="^" line="11" column="33" />
+      <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1486674728096">
         <mark key="'" line="295" column="0" />
@@ -371,10 +370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>bend_entity</text>
@@ -383,21 +382,30 @@
         <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgc19lbnRpdHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3NfZW50aXR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnNhdCcpCg==</text>
+        <text encoding="base64">I2NvbWJpbmVkID0gdW5pdGVfZW50aXRpZXMoW2YxNSwgdGFua10pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+        <text encoding="base64">Y29sb3JfZW50aXR5KHRhbmssIDEsIDAsIDApCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnNhdCcpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwID0gcHlzYWdlLlBvaW50M0Qoc2VsZi5fY29vcmRzWzBdLCBzZWxmLl9jb29yZHNbMV0sIHNlbGYuX2Nvb3Jkc1syXSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZGVmIGdldF9zX2VudGl0eShvYmopOgogICAgaWYgaGFzYXR0cihvYmosICdzX2VudGl0eScpOgogICAgICAgIHJldHVybiBvYmouc19lbnRpdHkKICAgIGVsaWYgaXNpbnN0YW5jZShvYmosIHB5c2FnZS5zRW50aXR5KToKICAgICAgICByZXR1cm4gb2JqCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiR2l2ZW4gb2JqZWN0IGlzIG5vdCBhbiBFbnRpdHksIGFuZCBoYXMgbm8gcHJvcGVydHkgY2FsbGVkIHNfZW50aXR5IikK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>def get_s_entity(obj):
     if hasattr(obj, 's_entity'):
         return obj.s_entity
@@ -405,29 +413,6 @@
         return obj
     else:
         raise TypeError(&quot;Given object is not an sEntity, and has no property called s_entity&quot;)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBjaW50ZXJmYWNlIGltcG9ydCBQb2ludDNECg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">RkxPQVRfVE9MID0gMWUtNgoKCmNsYXNzIEltbXV0YWJsZVBvaW50M0Qob2JqZWN0KToKICAgIGRlZiBfX2luaXRfXyhzZWxmLCAqY29vcmRzKToKICAgICAgICBpZiBsZW4oY29vcmRzKSA9PSAxOgogICAgICAgICAgICBzZWxmLl9jb29yZHMgPSBjb29yZHNbMF0KCiAgICAgICAgaWYgbGVuKGNvb3JkcykgIT0gMzoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiUG9pbnQgY29vcmRpbmF0ZXMgbXVzdCBoYXZlIGV4YWN0bHkgdGhyZWUgZWxlbWVudHMiKQogICAgICAgIHNlbGYuX2Nvb3JkcyA9IHR1cGxlKFtmbG9hdChjb29yZHNbaV0pIGZvciBpIGluIHJhbmdlKDMpXSkKCiAgICBkZWYgX19sZW5fXyhzZWxmKToKICAgICAgICByZXR1cm4gMwoKICAgIGRlZiBfX2FkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICBtID0gbGVuKG90aGVyKQogICAgICAgIGFzc2VydCBtID09IGxlbihzZWxmKSwgIkdpdmVuIGFuIGl0ZXJhYmxlIG9mIGxlbmd0aCAlZCIgJSBsZW4ob3RoZXIpCiAgICAgICAgcmV0dXJuIFBvaW50M0QoWyhzZWxmLl9jb29yZHNbaV0gKyBvdGhlcltpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYpKV0pCgogICAgZGVmIF9fcmFkZF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gc2VsZi5fX2FkZF9fKG90aGVyKQoKICAgIGRlZiBfX3N1Yl9fKHNlbGYsIG90aGVyKToKICAgICAgICBtID0gbGVuKG90aGVyKQogICAgICAgIGFzc2VydCBtID09IGxlbihzZWxmKSwgIkdpdmVuIGFuIGl0ZXJhYmxlIG9mIGxlbmd0aCAlZCIgJSBsZW4ob3RoZXIpCiAgICAgICAgcmV0dXJuIFBvaW50M0QoWyhzZWxmLl9jb29yZHNbaV0gLSBvdGhlcltpXSkgZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYpKV0pCgogICAgZGVmIF9fcnN1Yl9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gc2VsZi5fX25lZ19fKCkuX19hZGRfXyhvdGhlcikKCiAgICBkZWYgX19tdWxfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgcmV0dXJuIFBvaW50M0QoWyhzZWxmLl9jb29yZHNbaV0gKiBvdGhlcikgZm9yIGkgaW4gcmFuZ2UobGVuKHNlbGYpKV0pCgogICAgZGVmIF9fcm11bF9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gc2VsZi5fX211bF9fKG90aGVyKQoKICAgIGRlZiBfX2Rpdl9fKHNlbGYsIG90aGVyKToKICAgICAgICByZXR1cm4gUG9pbnQzRChbKHNlbGYuX2Nvb3Jkc1tpXSAvIG90aGVyKSBmb3IgaSBpbiByYW5nZShsZW4oc2VsZikpXSkKCiAgICBkZWYgX19uZWdfXyhzZWxmKToKICAgICAgICByZXR1cm4gUG9pbnQzRChbLXNlbGYuX2Nvb3Jkc1tpXSBmb3IgaSBpbiByYW5nZShsZW4oc2VsZikpXSkKCiAgICBkZWYgX19pdGVyX18oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2Nvb3Jkcy5fX2l0ZXJfXygpCgogICAgZGVmIF9fZ2V0aXRlbV9fKHNlbGYsIGkpOgogICAgICAgIHJldHVybiBzZWxmLl9jb29yZHNbaV0KCiAgICBkZWYgX19zdHJfXyhzZWxmKToKICAgICAgICByZXR1cm4gc3RyKHNlbGYuX2Nvb3JkcykKCiAgICBkZWYgX19yZXByX18oc2VsZik6CiAgICAgICAgcmV0dXJuICdzYWdlLmNpbnRlcmZhY2UuSW1tdXRhYmxlUG9pbnQzRCglcyknICUgc2VsZi5fX3N0cl9fKCkKCiAgICBkZWYgX19lcV9fKHNlbGYsIG90aGVyKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIG4gPSBsZW4ob3RoZXIpCiAgICAgICAgICAgIGlmIG4gIT0gMzoKICAgICAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgICAgICB0ID0gMAogICAgICAgICAgICBmb3IgaSBpbiByYW5nZSgzKToKICAgICAgICAgICAgICAgIHQgKz0gYWJzKHNlbGZbaV0gLSBvdGhlcltpXSkKICAgICAgICAgICAgcmV0dXJuIHQgPCBGTE9BVF9UT0wKICAgICAgICBleGNlcHQgVHlwZUVycm9yOgogICAgICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBAcHJvcGVydHkKICAgIGRlZiB4KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9jb29yZHNbMF0KCiAgICBAcHJvcGVydHkKICAgIGRlZiB5KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9jb29yZHNbMV0KCiAgICBAcHJvcGVydHkKICAgIGRlZiB6KHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9jb29yZHNbMl0KCiAgICBAcHJvcGVydHkKICAgIGRlZiBub3JtKHNlbGYpOgogICAgICAgIHIgPSAwLjAKICAgICAgICBmb3IgaSBpbiByYW5nZShsZW4oc2VsZikpOgogICAgICAgICAgICByICs9IHNlbGZbaV0gKiogMi4wCiAgICAgICAgcmV0dXJuIHIgKiogMC41CgogICAgZGVmIGRpc3Qoc2VsZiwgb3RoZXIpOgogICAgICAgIHJldHVybiBQb2ludDNEKHNlbGYgLSBvdGhlcikubm9ybQoKICAgIGRlZiBkaXJfdG8oc2VsZiwgb3RoZXIpOgogICAgICAgIHJldHVybiBQb2ludDNEKG90aGVyIC0gc2VsZikubm9ybWFsaXplKCkKCiAgICBkZWYgY29weShzZWxmKToKICAgICAgICByZXR1cm4gSW1tdXRhYmxlUG9pbnQzRChzZWxmKQoKCk9SSUdJTiA9IEltbXV0YWJsZVBvaW50M0QoMCwgMCwgMCkKVU5JVF9WRUNfWCA9IEltbXV0YWJsZVBvaW50M0QoMSwgMCwgMCkKVU5JVF9WRUNfWSA9IEltbXV0YWJsZVBvaW50M0QoMCwgMSwgMCkKVU5JVF9WRUNfWiA9IEltbXV0YWJsZVBvaW50M0QoMCwgMCwgMSkKCgpjbGFzcyBQb2ludDNEKEltbXV0YWJsZVBvaW50M0QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsICpjb29yZHMpOgogICAgICAgIHN1cGVyKFBvaW50M0QsIHNlbGYpLl9faW5pdF9fKCpjb29yZHMpCgogICAgZGVmIF9hcHBseShzZWxmLCB0cmFuc2Zvcm1hdGlvbik6CiAgICAgICAgcCA9IHB5c2FnZS5Qb2ludDNEKHNlbGYuX2Nvb3Jkc1swXSwgc2VsZi5fY29vcmRzWzFdLCBzZWxmLl9jb29yZHNbMl0pCiAgICAgICAgcSA9IHRyYW5zZm9ybWF0aW9uICogcAogICAgICAgIHNlbGYuX2Nvb3JkcyA9IChxLmdldENvb3JkKDApLCBxLmdldENvb3JkKDEpLCBxLmdldENvb3JkKDIpKQoKICAgIGRlZiBjb3B5KHNlbGYpOgogICAgICAgIHJldHVybiBQb2ludDNEKHNlbGYpCgogICAgZGVmIG5vcm1hbGl6ZShzZWxmKToKICAgICAgICBtYWcgPSBzZWxmLm5vcm0KICAgICAgICBpZiBtYWcgPT0gMDoKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJDYW5ub3Qgbm9ybWFsaXplIHZlY3RvciB3aXRoIG5vcm0gMCIpCiAgICAgICAgcmV0dXJuIFBvaW50M0Qoc2VsZiAvIG1hZykKCiAgICBkZWYgdHJhbnNsYXRlKHNlbGYsIHZlYyk6CiAgICAgICAgdCA9IHRyYW5zbGF0aW9uKHZlYykKICAgICAgICBzZWxmLl9hcHBseSh0KQogICAgICAgIHJldHVybiBzZWxmCgogICAgZGVmIHJvdGF0ZShzZWxmLCBheGlzLCBhbmdsZSwgZGVncmVlcz1UcnVlLCBvcmlnaW49Tm9uZSk6CiAgICAgICAgciA9IHJvdGF0aW9uKGF4aXMsIGFuZ2xlLCBkZWdyZWVzLCBvcmlnaW4pCiAgICAgICAgc2VsZi5fYXBwbHkocikKICAgICAgICByZXR1cm4gc2VsZgoKICAgIGRlZiBzY2FsZShzZWxmLCBmYWN0b3JfeCwgb3JpZ2luPU5vbmUsIGZhY3Rvcl95PU5vbmUsIGZhY3Rvcl96PU5vbmUpOgogICAgICAgIHMgPSBzY2FsaW5nKGZhY3Rvcl94LCBvcmlnaW4sIGZhY3Rvcl95LCBmYWN0b3JfeikKICAgICAgICBzZWxmLl9hcHBseShzKQogICAgICAgIHJldHVybiBzZWxmCgogICAgZGVmIG1pcnJvcihzZWxmLCBheGlzLCBvcmlnaW49Tm9uZSwgbWFrZV9jb3B5PVRydWUpOgogICAgICAgIGluc3RhbmNlID0gc2VsZi5jb3B5KCkgaWYgbWFrZV9jb3B5IGVsc2Ugc2VsZgogICAgICAgIG0gPSByZWZsZWN0aW9uKGF4aXMsIG9yaWdpbikKICAgICAgICBpbnN0YW5jZS5fYXBwbHkobSkKICAgICAgICByZXR1cm4gaW5zdGFuY2UKCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>def reverse_internal(inp, i, l, out):
-    if i == l - 1:
-        out.append(inp)
-        return
-    reverse_internal(inp[1:l], i + 1, l, out)
-    out.append(inp[0])
-    return
-
-
-def reverse(inp):
-    out = list()
-    linp = len(inp)
-    print &quot;len:&quot;, linp
-    reverse_internal(inp, 0, linp, out)
-    return out</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
