@@ -56,11 +56,10 @@
         <mark key="." line="92" column="46" />
         <mark key="^" line="92" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486953946906">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486958383354">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
         <mark key="[" line="38" column="24" />
@@ -370,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IG91dAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bend_entity</text>
@@ -382,31 +381,31 @@
         <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgc19lbnRpdHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3NfZW50aXR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IG91dAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG91dC5leHRlbmQoJzMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b19wZXJtdXRlID0gcHJlZml4LmFwcGVuZChzdWZmaXgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJzd2FwcGVkPzoiLCBpbnAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2NvbWJpbmVkID0gdW5pdGVfZW50aXRpZXMoW2YxNSwgdGFua10pCg==</text>
+        <text encoding="base64">ICBzIHN3YXAoaW5wLCAwLCAxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdXQuYXBwZW5kKGlucFtpXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29sb3JfZW50aXR5KHRhbmssIDEsIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiK0FwcGVuZGluZzoiLCBpbnBbaV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnNhdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJtdXRhdGlvbih0b19wZXJtdXRlLCBvdXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidG8gcGVybXV0ZToiLCB0b19wZXJtdXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b19wZXJtdXRlID0gIiIuam9pbih0b19wZXJtdXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
