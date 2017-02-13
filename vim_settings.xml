@@ -146,11 +146,10 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1487007058883">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="136" column="18" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1487008544999">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/blender-2.78a/sage/sage.py" timestamp="1484705241472">
         <mark key="[" line="6" column="45" />
@@ -214,10 +213,10 @@
       <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1486673190025">
         <mark key="'" line="220" column="9" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1484960835644">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1487008223792">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="341" column="4" />
+        <mark key="]" line="342" column="0" />
         <mark key="." line="467" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
@@ -265,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3072" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="230" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="254" column="155" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="273" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -365,19 +363,20 @@
       <jump line="295" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="1524" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="32" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>bend_entity</text>
+        <text encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgc19lbnRpdHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3NfZW50aXR5Cg==</text>
+        <text encoding="base64">Y2xhc3MgUG9pbnQzRChJbW11dGFibGVQb2ludDNELCBFbnRpdHkpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsICpjb29yZHMpOgogICAgICAgIHN1cGVyKFBvaW50M0QsIHNlbGYpLl9faW5pdF9fKCpjb29yZHMpCgogICAgZGVmIF9hcHBseShzZWxmLCB0cmFuc2Zvcm1hdGlvbik6CiAgICAgICAgcCA9IGNpbnRlcmZhY2UucHlzYWdlLlBvaW50M0Qoc2VsZi5fY29vcmRzWzBdLCBzZWxmLl9jb29yZHNbMV0sIHNlbGYuX2Nvb3Jkc1syXSkKICAgICAgICBxID0gdHJhbnNmb3JtYXRpb24gKiBwCiAgICAgICAgc2VsZi5fY29vcmRzID0gKHEuZ2V0Q29vcmQoMCksIHEuZ2V0Q29vcmQoMSksIHEuZ2V0Q29vcmQoMikpCgogICAgQHByb3BlcnR5CiAgICBkZWYgc19lbnRpdHkoc2VsZik6CiAgICAgICAgIyBsYXp5IGluaXQgLi4uCiAgICAgICAgc2VsZi5fc19lbnRpdHk9Y2ludGVyZmFjZS5weXNhZ2UuUG9pbnQzRChzZWxmLl9jb29yZHNbMF0sIHNlbGYuX2Nvb3Jkc1sxXSwgc2VsZi5fY29vcmRzWzJdKQogICAgICAgIHJldHVybiBzZWxmLl9zX2VudGl0eQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -389,31 +388,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jb29yZHMgPSAocS5nZXRDb29yZCgwKSwgcS5nZXRDb29yZCgxKSwgcS5nZXRDb29yZCgyKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgo=</text>
+        <text encoding="base64">ICAgICAgICBxID0gdHJhbnNmb3JtYXRpb24gKiBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJzd2FwcGVkPzoiLCBpbnAK</text>
+        <text encoding="base64">ICAgICAgICBwID0gY2ludGVyZmFjZS5weXNhZ2UuUG9pbnQzRChzZWxmLl9jb29yZHNbMF0sIHNlbGYuX2Nvb3Jkc1sxXSwgc2VsZi5fY29vcmRzWzJdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzIHN3YXAoaW5wLCAwLCAxKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfYXBwbHkoc2VsZiwgdHJhbnNmb3JtYXRpb24pOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQuYXBwZW5kKGlucFtpXSkK</text>
+        <text encoding="base64">ICAgICAgICB2bGlzdCA9IFtzZWxmLnN0YXJ0KCksIHNlbGYuZW5kKCldCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiK0FwcGVuZGluZzoiLCBpbnBbaV0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bend_entity</last-search>
+      <last-search encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</last-search>
       <last-offset />
-      <last-pattern>bend_entity</last-pattern>
+      <last-pattern encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -421,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</entry>
         <entry>Point3D</entry>
         <entry>transform</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
@@ -441,6 +439,7 @@
         <entry encoding="base64">XDxGTE9BVF9UT0xcPg==</entry>
         <entry>line</entry>
         <entry>bend_entity</entry>
+        <entry encoding="base64">XDxfc2FnZV9pdGVyYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
