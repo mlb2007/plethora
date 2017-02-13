@@ -56,11 +56,11 @@
         <mark key="." line="92" column="46" />
         <mark key="^" line="92" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486662655100">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="2" column="21" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486953946906">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="35" column="24" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
         <mark key="[" line="38" column="24" />
@@ -369,11 +369,11 @@
       <jump line="1524" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IG91dAo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>bend_entity</text>
@@ -382,37 +382,31 @@
         <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgc19lbnRpdHkoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX3NfZW50aXR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I2NvbWJpbmVkID0gdW5pdGVfZW50aXRpZXMoW2YxNSwgdGFua10pCg==</text>
+        <text encoding="base64">ICAgIHByaW50IG91dAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dC5leHRlbmQoJzMnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29sb3JfZW50aXR5KHRhbmssIDEsIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICB0b19wZXJtdXRlID0gcHJlZml4LmFwcGVuZChzdWZmaXgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnNhdCcpCg==</text>
+        <text encoding="base64">I2NvbWJpbmVkID0gdW5pdGVfZW50aXRpZXMoW2YxNSwgdGFua10pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
+        <text encoding="base64">Y29sb3JfZW50aXR5KHRhbmssIDEsIDAsIDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gcHlzYWdlLlBvaW50M0Qoc2VsZi5fY29vcmRzWzBdLCBzZWxmLl9jb29yZHNbMV0sIHNlbGYuX2Nvb3Jkc1syXSkK</text>
+        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnNhdCcpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGVmIGdldF9zX2VudGl0eShvYmopOgogICAgaWYgaGFzYXR0cihvYmosICdzX2VudGl0eScpOgogICAgICAgIHJldHVybiBvYmouc19lbnRpdHkKICAgIGVsaWYgaXNpbnN0YW5jZShvYmosIHB5c2FnZS5zRW50aXR5KToKICAgICAgICByZXR1cm4gb2JqCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiR2l2ZW4gb2JqZWN0IGlzIG5vdCBhbiBFbnRpdHksIGFuZCBoYXMgbm8gcHJvcGVydHkgY2FsbGVkIHNfZW50aXR5IikK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>def get_s_entity(obj):
-    if hasattr(obj, 's_entity'):
-        return obj.s_entity
-    elif isinstance(obj, pysage.sEntity):
-        return obj
-    else:
-        raise TypeError(&quot;Given object is not an sEntity, and has no property called s_entity&quot;)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZXhwb3J0X21lc2gobWVzaCwnY29tYmluZWQtdG1wLnRyaScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
