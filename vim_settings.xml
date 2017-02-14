@@ -50,10 +50,10 @@
         <mark key="." line="92" column="46" />
         <mark key="^" line="92" column="46" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1486958383354">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/blender.py" timestamp="1482357541791">
         <mark key="[" line="38" column="24" />
@@ -349,8 +349,8 @@
       <jump line="40" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -364,31 +364,31 @@
     i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBheGlzID0gX25hbWVkX2F4aXMoYXhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UoYXhpcywgYmFzZXN0cmluZyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidW5zd2FwOiIsIGlucAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2FwKGlucCwgbGluZGV4LCBpKSAgIyA8PT0gdW5zd2FwIC4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwZXJtdXRlX2ludGVybmFsKGlucCwgbGluZGV4KzEsIG91dCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIFZhbHVlRXJyb3IoIlVua25vd24gYXhpcyBuYW1lICVzIiAlIGF4aXNfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAic3dhcDoiLCBpbnAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVU5JVF9WRUNfWgo=</text>
+        <text encoding="base64">ICAgICAgICBzd2FwKGlucCwgaSwgbGluZGV4KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsaWYgYXhpc19uYW1lLmxvd2VyKCkgPT0gJ3onOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAic3dhcHBpbmcgaW5kaWNlczoiLCBpLCAiIHdpdGg6IiwgbGluZGV4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVU5JVF9WRUNfWQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKGxpbmRleCwgbGVuKGlucCkpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
