@@ -202,6 +202,12 @@
         <mark key="^" line="2890" column="42" />
         <mark key="." line="2890" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487118644709">
+        <mark key="[" line="172" column="56" />
+        <mark key="]" line="172" column="54" />
+        <mark key="." line="172" column="54" />
+        <mark key="^" line="172" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1486673190025">
         <mark key="'" line="220" column="9" />
       </file>
@@ -359,10 +365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>_named</text>
@@ -373,31 +379,31 @@
     i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidW5zd2FwOiIsIGlucAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBybXMgPSBtb2NrX3JlbW92YWxfc2VydmljZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzd2FwKGlucCwgbGluZGV4LCBpKSAgIyA8PT0gdW5zd2FwIC4uCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIG1vY2tlZCBvdXQgUmVtb3ZhbFNlcnZpY2UgaW5zdGFuY2UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB1c2Vfc3J2LmNhbGxfdXBfcmVtb3ZhbCgiYW55ZmlsZSIpCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IyBub3cgbW9jayB0aGUgcmVtb3ZhbHNlcnZpY2Ugcm0sIGVpdGhlciB3ZSBjYW4gbW9jayBvdXQgdGhlIHdob2xlIGNsYXNzIGFuZCBpdHMgYXR0cmlidXRlcyBvcgojIG1vY2sganVzdCBzcGVjaWZpYyBhdHRyaWJ1dGVzL2Z1bmN0aW9ucy5bTm90ZSBzcGVjaWZpYyBmdW5jdGlvbnMvYXR0cmlidXRlcyBoZXJlIGFjdHVhbGx5IG1lYW4gdGhlCiMgY2xhc3MgbGV2ZWwgbW9ja2luZyBhbmQgbm90IGluc3RhbmNlIGxldmVsIG1vY2tpbmcgISEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZXJtdXRlX2ludGVybmFsKGlucCwgbGluZGV4KzEsIG91dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAic3dhcDoiLCBpbnAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzd2FwKGlucCwgaSwgbGluZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICBybXNlcnZpY2Uucm0oImFueWZpbGUiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAic3dhcHBpbmcgaW5kaWNlczoiLCBpLCAiIHdpdGg6IiwgbGluZGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEZhbHNlKG1vY2tfb3MucmVtb3ZlLmNhbGxlZCwgIkZhaWxlZDogcmVtb3ZlIGNhbGxlZCB3aGlsZSBpdCBzaG91bGQgbm90IGhhdmUgYmVlbiIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
