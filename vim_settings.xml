@@ -88,9 +88,9 @@
         <mark key="." line="40" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1487188029487">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chevron.py" timestamp="1481740150662">
         <mark key="[" line="70" column="11" />
@@ -183,11 +183,6 @@
         <mark key="]" line="3296" column="31" />
         <mark key="^" line="3296" column="31" />
         <mark key="." line="3296" column="31" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1487030070121">
-        <mark key="'" line="359" column="4" />
-        <mark key="[" line="2927" column="0" />
-        <mark key="]" line="2928" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1487023941852">
         <mark key="'" line="2101" column="4" />
