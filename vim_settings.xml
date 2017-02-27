@@ -103,10 +103,10 @@
         <mark key="." line="143" column="30" />
         <mark key="^" line="143" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488232215654">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="31" column="22" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="51" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
         <mark key="'" line="46" column="79" />
@@ -251,8 +251,8 @@
         <mark key="[" line="52" column="8" />
         <mark key="]" line="63" column="8" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1488232344259">
-        <mark key="'" line="1107" column="21" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1488235918633">
+        <mark key="'" line="2075" column="13" />
         <mark key="[" line="1117" column="4" />
         <mark key="]" line="1130" column="4" />
       </file>
@@ -289,9 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="403" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="405" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="407" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="409" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -389,16 +386,19 @@
       <jump line="4" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="5" column="24" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="1107" column="21" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="1121" column="8" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="2074" column="14" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="2075" column="13" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyLCBqb2luZWRfZWRnZV0sICJzcGxpbmVzLnNhdCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>degree_elevate</text>
+        <text>curvature</text>
       </register>
       <register name="0" type="4">
         <text>create_from_control_points_knots(self,
@@ -415,40 +415,40 @@
         &quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyLCBqb2luZWRfZWRnZV0sICJzcGxpbmVzLnNhdCIpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyXSwgInNwbGluZXMuc2F0IikK</text>
+      <register name="2" type="4">
+        <text encoding="base64">am9pbmVkX2VkZ2UgPSBqX2MubWFrZV9lZGdlKCkKc2FnZS5jb2xvcl9lbnRpdHkoam9pbmVkX2VkZ2UsIDEuMCwgMCwgMCkKCnNhZ2UuZXhwb3J0KFtzcDEsIHNwMiwgam9pbmVkX2VkZ2VdLCAic3BsaW5lcy5zYXQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZvcm1hYmxlPVRydWUpOgo=</text>
+        <text encoding="base64">cHJpbnQgY3VydmExCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrbm90X3RvbD0xZS02LAo=</text>
+        <text encoding="base64">cDEgPSBjX3BfamNbZGVncmVlKzFdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJ2ZV90b2w9MWUtNiwK</text>
+        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWlnaHRzPU5vbmUsCg==</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyXSwgInNwbGluZXMuc2F0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYXRpb25hbD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZvcm1hYmxlPVRydWUpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbG9zZWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrbm90X3RvbD0xZS02LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJpb2RpYywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJ2ZV90b2w9MWUtNiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>degree_elevate</last-search>
+      <last-search>curvature</last-search>
       <last-offset />
-      <last-pattern>degree_elevate</last-pattern>
+      <last-pattern>curvature</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -456,7 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Vector3DVec</entry>
         <entry>sVector3DVec</entry>
         <entry>sVector</entry>
         <entry>sEntityVec</entry>
@@ -476,6 +475,7 @@
         <entry>bezier</entry>
         <entry>sage_curve</entry>
         <entry>degree_elevate</entry>
+        <entry>curvature</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
