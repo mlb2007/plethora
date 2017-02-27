@@ -103,11 +103,10 @@
         <mark key="." line="143" column="30" />
         <mark key="^" line="143" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488225832644">
-        <mark key="[" line="31" column="12" />
-        <mark key="]" line="36" column="0" />
+      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488232215654">
+        <mark key="[" line="31" column="3" />
+        <mark key="]" line="31" column="22" />
         <mark key="." line="31" column="0" />
-        <mark key="^" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/blender.py" timestamp="1482434915455">
         <mark key="'" line="46" column="79" />
@@ -145,7 +144,7 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484964481238">
         <mark key="'" line="7" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1487355960225">
+      <file name="/Python Console" timestamp="1488231182924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
@@ -248,8 +247,12 @@
         <mark key="." line="152" column="20" />
         <mark key="^" line="152" column="20" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1488225624307">
-        <mark key="'" line="5" column="24" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/curvemod.py" timestamp="1488231751021">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="63" column="8" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1488232344259">
+        <mark key="'" line="1107" column="21" />
         <mark key="[" line="1117" column="4" />
         <mark key="]" line="1130" column="4" />
       </file>
@@ -286,7 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="392" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="400" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="403" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="405" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -386,55 +388,67 @@
       <jump line="3154" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="4" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="5" column="24" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="1107" column="21" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHJpbnQgImtub3RzOiIsIGtub3RzMQpwcmludCAiY3RybF9wdHM6IiwgY3B0czEK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>sage_curve</text>
+        <text>degree_elevate</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cHJpbnQgImtub3RzOiIsIGtub3RzMQpwcmludCAiY3RybF9wdHM6IiwgY3B0czEK</text>
+        <text>create_from_control_points_knots(self,
+                                         points,
+                                         knots,
+                                         degree,
+                                         periodic,
+                                         closed,
+                                         rational=True,
+                                         weights=None,
+                                         curve_tol=1e-6,
+                                         knot_tol=1e-6,
+                                         deformable=True):
+        &quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3NwMiA9IHNhZ2VfY3VydmUuY3VydmViczMoc3AxKQo=</text>
+        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3NwMSA9IHNhZ2VfY3VydmUuY3VydmViczMoc3AxKQo=</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyXSwgInNwbGluZXMuc2F0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2RlZ3JlZSA9IGNzcDEuZGVncmVlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZvcm1hYmxlPVRydWUpOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2tub3RzX251bSA9IGNzcDEubnVtX2tub3RzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrbm90X3RvbD0xZS02LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2NwdHNfbnVtID0gY3NwMS5udW1fY29udHJvbF9wb2ludHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJ2ZV90b2w9MWUtNiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3ZWlnaHRzPU5vbmUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNydi5tb2RpZnlfY29udHJvbF9wb2ludCgxLCBbNiwgNywgOF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByYXRpb25hbD1UcnVlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJlbGV2YXRlZDoiLCBjcnYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbG9zZWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNydi5kZWdyZWVfZWxldmF0ZSgzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwZXJpb2RpYywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sage_curve</last-search>
+      <last-search>degree_elevate</last-search>
       <last-offset />
-      <last-pattern>sage_curve</last-pattern>
+      <last-pattern>degree_elevate</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type(</entry>
         <entry>Vector3DVec</entry>
         <entry>sVector3DVec</entry>
         <entry>sVector</entry>
@@ -462,6 +475,7 @@
         <entry>bs3</entry>
         <entry>bezier</entry>
         <entry>sage_curve</entry>
+        <entry>degree_elevate</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
