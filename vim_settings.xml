@@ -23,11 +23,11 @@
         <mark key="." line="961" column="73" />
         <mark key="^" line="961" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1488398113186">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="49" column="25" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1488398991675">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -392,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyLCBqb2luZWRfZWRnZV0sICJzcGxpbmVzLnNhdCIpCg==</text>
+        <text encoding="base64">bSA9IHNhZ2UubWVzaF9lbnRpdGllcyhbYTMzMF0sIG1heF9tZXNoX2xlbmd0aD0xLCBtYXhfYXNwZWN0X3JhdGlvPTEwLCBzYWc9MC4xLCBub3JtYWxfY2hhbmdlPTEpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>curvature</text>
@@ -415,31 +415,31 @@
         &quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyLCBqb2luZWRfZWRnZV0sICJzcGxpbmVzLnNhdCIpCg==</text>
+        <text encoding="base64">bSA9IHNhZ2UubWVzaF9lbnRpdGllcyhbYTMzMF0sIG1heF9tZXNoX2xlbmd0aD0xLCBtYXhfYXNwZWN0X3JhdGlvPTEwLCBzYWc9MC4xLCBub3JtYWxfY2hhbmdlPTEpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">am9pbmVkX2VkZ2UgPSBqX2MubWFrZV9lZGdlKCkKc2FnZS5jb2xvcl9lbnRpdHkoam9pbmVkX2VkZ2UsIDEuMCwgMCwgMCkKCnNhZ2UuZXhwb3J0KFtzcDEsIHNwMiwgam9pbmVkX2VkZ2VdLCAic3BsaW5lcy5zYXQiKQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibWF4X21lc2hfbGVuZ3RoPTEsIG1heF9hc3BlY3RfcmF0aW89MTAsIHNhZz0wLjEsIG5vcm1hbF9jaGFuZ2U9MSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQgY3VydmExCg==</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW2EzMzBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cDEgPSBjX3BfamNbZGVncmVlKzFdCg==</text>
+        <text encoding="base64">bSA9IHNhZ2UubWVzaF9lbnRpdGllcyhbYTMzMF0sIG1heF9tZXNoX2xlbmd0aD0xLCBtYXhfYXNwZWN0X3JhdGlvPTEwLCBzYWc9MC4xLCBub3JtYWxfY2hhbmdlPTEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyLCBqb2luZWRfZWRnZV0sICJzcGxpbmVzLnNhdCIpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW3NwMSwgc3AyXSwgInNwbGluZXMuc2F0IikK</text>
+      <register name="6" type="4">
+        <text encoding="base64">am9pbmVkX2VkZ2UgPSBqX2MubWFrZV9lZGdlKCkKc2FnZS5jb2xvcl9lbnRpdHkoam9pbmVkX2VkZ2UsIDEuMCwgMCwgMCkKCnNhZ2UuZXhwb3J0KFtzcDEsIHNwMiwgam9pbmVkX2VkZ2VdLCAic3BsaW5lcy5zYXQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWZvcm1hYmxlPVRydWUpOgo=</text>
+        <text encoding="base64">cHJpbnQgY3VydmExCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrbm90X3RvbD0xZS02LAo=</text>
+        <text encoding="base64">cDEgPSBjX3BfamNbZGVncmVlKzFdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXJ2ZV90b2w9MWUtNiwK</text>
+        <text encoding="base64">Y3NwMS5kZWdyZWVfZWxldmF0ZSgyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
