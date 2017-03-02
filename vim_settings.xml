@@ -251,11 +251,11 @@
         <mark key="[" line="52" column="8" />
         <mark key="]" line="63" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/sphere.py" timestamp="1488436736950">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/sphere.py" timestamp="1488437145337">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1488235918633">
         <mark key="'" line="2074" column="13" />
@@ -397,8 +397,11 @@
       <jump line="2854" column="58" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">TUVTSE9QVElPTlMubWF4X2FzcGVjdF9yYXRpbz0xMAo=</text>
+      <register name="&quot;" type="4">
+        <text>print &quot; == another way ==&quot;
+m = mesh_entity(s, normal_change=0.1, max_mesh_length=1000, sag=100)
+export_mesh(m, 'Components.i.tri')
+mesh_delete(m)</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -407,11 +410,10 @@
         <text encoding="base64">XDxtZXNoX2VudGl0eVw+</text>
       </register>
       <register name="0" type="4">
-        <text>sage.MESHOPTIONS.max_mesh_length=1
-sage.MESHOPTIONS.max_aspect_ratio=10
-sage.MESHOPTIONS.sag=0.1
-sage.MESHOPTIONS.normal_change=1
-s</text>
+        <text>print &quot; == another way ==&quot;
+m = mesh_entity(s, normal_change=0.1, max_mesh_length=1000, sag=100)
+export_mesh(m, 'Components.i.tri')
+mesh_delete(m)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">TUVTSE9QVElPTlMubWF4X2FzcGVjdF9yYXRpbz0xMAo=</text>
