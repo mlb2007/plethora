@@ -23,7 +23,7 @@
         <mark key="." line="961" column="73" />
         <mark key="^" line="961" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1488405028505">
+      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1488417427421">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -391,11 +391,11 @@
       <jump line="2075" column="13" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bSA9IHNhZ2UubWVzaF9lbnRpdGllcyhbYTMzMF0sIG1heF9tZXNoX2xlbmd0aD0xLCBtYXhfYXNwZWN0X3JhdGlvPTEwLCBzYWc9MC4xLCBub3JtYWxfY2hhbmdlPTEpCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>curvature</text>
