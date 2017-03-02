@@ -94,8 +94,8 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1488225427553">
-        <mark key="'" line="3154" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1488428265362">
+        <mark key="'" line="2854" column="58" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -289,11 +289,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="407" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="409" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="416" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="419" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="425" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="427" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="441" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -389,6 +384,11 @@
       <jump line="1121" column="8" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="2074" column="14" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
       <jump line="2075" column="13" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="2845" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
+      <jump line="3128" column="17" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
+      <jump line="3243" column="19" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
+      <jump line="2810" column="24" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
+      <jump line="2854" column="58" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -398,7 +398,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>curvature</text>
+        <text encoding="base64">XDxtZXNoX2VudGl0eVw+</text>
       </register>
       <register name="0" type="4">
         <text>create_from_control_points_knots(self,
@@ -446,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>curvature</last-search>
+      <last-search encoding="base64">XDxtZXNoX2VudGl0eVw+</last-search>
       <last-offset />
-      <last-pattern>curvature</last-pattern>
+      <last-pattern encoding="base64">XDxtZXNoX2VudGl0eVw+</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -456,8 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sVector3DVec</entry>
-        <entry>sVector</entry>
         <entry>sEntityVec</entry>
         <entry>EntityPtrVec</entry>
         <entry>sFace</entry>
@@ -476,6 +474,8 @@
         <entry>sage_curve</entry>
         <entry>degree_elevate</entry>
         <entry>curvature</entry>
+        <entry>mesh_entities</entry>
+        <entry encoding="base64">XDxtZXNoX2VudGl0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
