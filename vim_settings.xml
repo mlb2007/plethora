@@ -402,7 +402,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>connected_bezier</text>
+        <text>get_mesh_points</text>
       </register>
       <register name="0" type="4">
         <text>print &quot; == another way ==&quot;
@@ -442,9 +442,9 @@ mesh_delete(m)</text>
       </register>
     </registers>
     <search>
-      <last-search>connected_bezier</last-search>
+      <last-search>get_mesh_points</last-search>
       <last-offset />
-      <last-pattern>connected_bezier</last-pattern>
+      <last-pattern>get_mesh_points</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +452,6 @@ mesh_delete(m)</text>
     </search>
     <history>
       <history-search>
-        <entry>EntityPtrVec</entry>
         <entry>sFace</entry>
         <entry>EntityType</entry>
         <entry>sEntityPtrVec</entry>
@@ -472,6 +471,7 @@ mesh_delete(m)</text>
         <entry>mesh_entities</entry>
         <entry encoding="base64">XDxtZXNoX2VudGl0eVw+</entry>
         <entry>connected_bezier</entry>
+        <entry>get_mesh_points</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
