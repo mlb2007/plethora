@@ -122,6 +122,12 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/edge_rev/BugScript.py" timestamp="1489187292207">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/simple.json" timestamp="1484422874753">
         <mark key="[" line="14" column="5" />
         <mark key="]" line="14" column="6" />
@@ -269,12 +275,6 @@
       <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1486673190025">
         <mark key="'" line="220" column="9" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" timestamp="1487029775037">
-        <mark key="'" line="13" column="31" />
-        <mark key="[" line="99" column="48" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="99" column="57" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
         <mark key="[" line="263" column="49" />
@@ -395,11 +395,11 @@
       <jump line="2801" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>connected_bezier</text>
@@ -411,31 +411,31 @@ export_mesh(m, 'Components.i.tri')
 mesh_delete(m)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLCAwLjA1KToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgIiA9PSBUVFRUIGFub3RoZXIgd2F5ID09Igo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLjA1LCAwLjA1KToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVzaF9kZWxldGUobSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">TUVTSE9QVElPTlMubWF4X2FzcGVjdF9yYXRpbz0xMAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQgIiA9PSBUVFRUIGFub3RoZXIgd2F5ID09Igo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">bSA9IHNhZ2UubWVzaF9lbnRpdGllcyhbYTMzMF0sIG1heF9tZXNoX2xlbmd0aD0xLCBtYXhfYXNwZWN0X3JhdGlvPTEwLCBzYWc9MC4xLCBub3JtYWxfY2hhbmdlPTEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibWF4X21lc2hfbGVuZ3RoPTEsIG1heF9hc3BlY3RfcmF0aW89MTAsIHNhZz0wLjEsIG5vcm1hbF9jaGFuZ2U9MSkK</text>
+        <text encoding="base64">bWVzaF9kZWxldGUobSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW2EzMzBdKQo=</text>
+        <text encoding="base64">TUVTSE9QVElPTlMubWF4X2FzcGVjdF9yYXRpbz0xMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
