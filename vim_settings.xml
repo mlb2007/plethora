@@ -94,8 +94,8 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1488428265362">
-        <mark key="'" line="2854" column="58" />
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1489184091954">
+        <mark key="'" line="2801" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -258,7 +258,7 @@
         <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1488235918633">
-        <mark key="'" line="1929" column="13" />
+        <mark key="'" line="1948" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
         <mark key="[" line="220" column="21" />
@@ -293,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="425" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="427" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="441" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="444" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -393,6 +392,7 @@
       <jump line="3243" column="19" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="2810" column="24" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="2854" column="58" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
+      <jump line="2801" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -402,7 +402,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNoX2VudGl0eVw+</text>
+        <text>connected_bezier</text>
       </register>
       <register name="0" type="4">
         <text>print &quot; == another way ==&quot;
@@ -442,9 +442,9 @@ mesh_delete(m)</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZXNoX2VudGl0eVw+</last-search>
+      <last-search>connected_bezier</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNoX2VudGl0eVw+</last-pattern>
+      <last-pattern>connected_bezier</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +452,6 @@ mesh_delete(m)</text>
     </search>
     <history>
       <history-search>
-        <entry>sEntityVec</entry>
         <entry>EntityPtrVec</entry>
         <entry>sFace</entry>
         <entry>EntityType</entry>
@@ -472,6 +471,7 @@ mesh_delete(m)</text>
         <entry>curvature</entry>
         <entry>mesh_entities</entry>
         <entry encoding="base64">XDxtZXNoX2VudGl0eVw+</entry>
+        <entry>connected_bezier</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
