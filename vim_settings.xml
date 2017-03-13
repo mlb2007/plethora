@@ -23,11 +23,10 @@
         <mark key="." line="961" column="73" />
         <mark key="^" line="961" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489184915987">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489424967392">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -399,7 +398,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbWVzaF9hcmVhX2FzcGVjdF9yYXRpbygpCg==</text>
+        <text encoding="base64">c2FnZS4K</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -414,31 +413,31 @@ export_mesh(m, 'Components.i.tri')
 mesh_delete(m)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RfbWVzaF9hcmVhX2FzcGVjdF9yYXRpbygpCg==</text>
+        <text encoding="base64">c2FnZS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLCAwLjA1KToK</text>
+        <text encoding="base64">ICAgIHRlc3RfbWVzaF9hcmVhX2FzcGVjdF9yYXRpbygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLjA1LCAwLjA1KToK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLCAwLjA1KToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLjA1LCAwLjA1KToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHJpbnQgIiA9PSBUVFRUIGFub3RoZXIgd2F5ID09Igo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHJpbnQgIiA9PSBUVFRUIGFub3RoZXIgd2F5ID09Igo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">bWVzaF9kZWxldGUobSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
