@@ -90,8 +90,8 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489429729393">
-        <mark key="'" line="3053" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489432876152">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="3053" column="0" />
         <mark key="]" line="3063" column="0" />
       </file>
@@ -270,12 +270,12 @@
         <mark key="." line="220" column="14" />
         <mark key="^" line="220" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1489432168057">
-        <mark key="'" line="219" column="12" />
-        <mark key="[" line="172" column="8" />
-        <mark key="]" line="165" column="8" />
-        <mark key="." line="165" column="8" />
-        <mark key="^" line="210" column="4" />
+      <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1489432803922">
+        <mark key="'" line="174" column="24" />
+        <mark key="[" line="225" column="15" />
+        <mark key="]" line="225" column="84" />
+        <mark key="." line="225" column="84" />
+        <mark key="^" line="225" column="84" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
@@ -292,8 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1531" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="220" column="9" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="68" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="437" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
@@ -392,6 +390,8 @@
       <jump line="193" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="202" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="219" column="12" filename="$USER_HOME$/workspace/editableCurve.py" />
+      <jump line="174" column="24" filename="$USER_HOME$/workspace/editableCurve.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -437,7 +437,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</text>
+        <text>simplify_entity</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y3B0MSA9IFswLjAsIDAsIDAuMF0KICAgIGNwdDIgPSBbMSwgMSwgMF0KICAgIGNwdDMgPSBbMiwgMSwgMF0KICAgIGNpcmNsZSA9IHNhZ2UuY2lyY2xlXzNwdChjcHQxLCBjcHQyLCBjcHQzKQogICAgY3J2ID0gc2FnZV9jdXJ2ZS5DdXJ2ZUJTMyhjaXJjbGUpCiAgICBwcmludCBjcnYKICAgIGNydi5hZGRfa25vdCgwLjMpCiAgICBjcnYuZGVncmVlX2VsZXZhdGUoMykKICAgIHByaW50ICJlbGV2YXRlZDoiLCBjcnYKICAgIGNydi5tb2RpZnlfY29udHJvbF9wb2ludCgxLCBbNiwgNywgOF0pCg==</text>
@@ -510,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</last-search>
+      <last-search>simplify_entity</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</last-pattern>
+      <last-pattern>simplify_entity</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -520,7 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bs3</entry>
         <entry>bezier</entry>
         <entry>sage_curve</entry>
         <entry>degree_elevate</entry>
@@ -540,6 +539,7 @@
         <entry>Blender</entry>
         <entry>bend_entity</entry>
         <entry encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</entry>
+        <entry>simplify_entity</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
