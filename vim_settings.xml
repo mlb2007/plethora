@@ -241,6 +241,11 @@
         <mark key="^" line="20" column="20" />
         <mark key="." line="20" column="20" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/samples/pysage/3.3-trapezoidal_wing.py" timestamp="1489438492407">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/edge.py" timestamp="1484530924748">
         <mark key="'" line="152" column="20" />
         <mark key="[" line="154" column="8" />
@@ -394,44 +399,8 @@
       <jump line="3921" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2FnZS4K</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -442,7 +411,10 @@
       <register name="0" type="4">
         <text encoding="base64">Y3B0MSA9IFswLjAsIDAsIDAuMF0KICAgIGNwdDIgPSBbMSwgMSwgMF0KICAgIGNwdDMgPSBbMiwgMSwgMF0KICAgIGNpcmNsZSA9IHNhZ2UuY2lyY2xlXzNwdChjcHQxLCBjcHQyLCBjcHQzKQogICAgY3J2ID0gc2FnZV9jdXJ2ZS5DdXJ2ZUJTMyhjaXJjbGUpCiAgICBwcmludCBjcnYKICAgIGNydi5hZGRfa25vdCgwLjMpCiAgICBjcnYuZGVncmVlX2VsZXZhdGUoMykKICAgIHByaW50ICJlbGV2YXRlZDoiLCBjcnYKICAgIGNydi5tb2RpZnlfY29udHJvbF9wb2ludCgxLCBbNiwgNywgOF0pCg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">c2FnZS4K</text>
+      </register>
+      <register name="2" type="8">
         <text>#
 #
 #
@@ -481,29 +453,26 @@
 #
 #</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">c2FnZS4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHRlc3RfbWVzaF9hcmVhX2FzcGVjdF9yYXRpbygpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLCAwLjA1KToK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGZvciBpIGluIG51bXB5LmFyYW5nZSgwLCAxLjA1LCAwLjA1KToK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IG1hdGgK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgIiA9PSBUVFRUIGFub3RoZXIgd2F5ID09Igo=</text>
+        <text encoding="base64">bSA9IG1lc2hfZW50aXR5KHMsIG5vcm1hbF9jaGFuZ2U9MC4xLCBtYXhfbWVzaF9sZW5ndGg9MTAwMCwgc2FnPTEwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
