@@ -90,8 +90,8 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489432876152">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489434394636">
+        <mark key="'" line="3921" column="4" />
         <mark key="[" line="3053" column="0" />
         <mark key="]" line="3063" column="0" />
       </file>
@@ -292,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="437" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="12" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -392,6 +391,7 @@
       <jump line="219" column="12" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="174" column="24" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3921" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -437,7 +437,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>simplify_entity</text>
+        <text>bend_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y3B0MSA9IFswLjAsIDAsIDAuMF0KICAgIGNwdDIgPSBbMSwgMSwgMF0KICAgIGNwdDMgPSBbMiwgMSwgMF0KICAgIGNpcmNsZSA9IHNhZ2UuY2lyY2xlXzNwdChjcHQxLCBjcHQyLCBjcHQzKQogICAgY3J2ID0gc2FnZV9jdXJ2ZS5DdXJ2ZUJTMyhjaXJjbGUpCiAgICBwcmludCBjcnYKICAgIGNydi5hZGRfa25vdCgwLjMpCiAgICBjcnYuZGVncmVlX2VsZXZhdGUoMykKICAgIHByaW50ICJlbGV2YXRlZDoiLCBjcnYKICAgIGNydi5tb2RpZnlfY29udHJvbF9wb2ludCgxLCBbNiwgNywgOF0pCg==</text>
@@ -510,9 +510,9 @@
       </register>
     </registers>
     <search>
-      <last-search>simplify_entity</last-search>
+      <last-search>bend_</last-search>
       <last-offset />
-      <last-pattern>simplify_entity</last-pattern>
+      <last-pattern>bend_</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -520,7 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bezier</entry>
         <entry>sage_curve</entry>
         <entry>degree_elevate</entry>
         <entry>curvature</entry>
@@ -540,6 +539,7 @@
         <entry>bend_entity</entry>
         <entry encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</entry>
         <entry>simplify_entity</entry>
+        <entry>bend_</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
