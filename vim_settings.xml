@@ -83,9 +83,6 @@
         <mark key="^" line="52" column="69" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/makeInletLengthwise.py" timestamp="1484691058403">
-        <mark key="'" line="474" column="26" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/try/chull.py" timestamp="1487372561922">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="157" column="24" />
@@ -93,8 +90,10 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489191455132">
-        <mark key="'" line="3771" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489429729393">
+        <mark key="'" line="3053" column="0" />
+        <mark key="[" line="3053" column="0" />
+        <mark key="]" line="3063" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -145,9 +144,6 @@
         <mark key="]" line="39" column="29" />
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1484964481238">
-        <mark key="'" line="7" column="4" />
       </file>
       <file name="/Python Console" timestamp="1488231182924">
         <mark key="[" line="0" column="0" />
@@ -262,10 +258,10 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1489191634354">
-        <mark key="'" line="1947" column="13" />
-        <mark key="[" line="1916" column="0" />
-        <mark key="]" line="1916" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1489430481984">
+        <mark key="'" line="1129" column="21" />
+        <mark key="[" line="1137" column="4" />
+        <mark key="]" line="1146" column="42" />
         <mark key="." line="1916" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/stock.py" timestamp="1484578478733">
@@ -273,9 +269,6 @@
         <mark key="]" line="220" column="14" />
         <mark key="." line="220" column="14" />
         <mark key="^" line="220" column="14" />
-      </file>
-      <file name="$USER_HOME$/workspace/editableCurve.py" timestamp="1486673190025">
-        <mark key="'" line="220" column="9" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
@@ -290,22 +283,8 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="49" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/userScript.py" timestamp="1484584597442">
-        <mark key="'" line="393" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="444" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="494" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="500" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="532" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="517" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="572" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="619" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="623" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="485" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="387" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="152" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="488" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="426" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
@@ -395,22 +374,30 @@
       <jump line="2801" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="4214" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3771" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3793" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2228" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2232" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2249" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2253" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2271" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2213" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="2824" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3053" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1916" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
+      <jump line="1129" column="21" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2FnZS4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3B0MSA9IFswLjAsIDAsIDAuMF0KICAgIGNwdDIgPSBbMSwgMSwgMF0KICAgIGNwdDMgPSBbMiwgMSwgMF0KICAgIGNpcmNsZSA9IHNhZ2UuY2lyY2xlXzNwdChjcHQxLCBjcHQyLCBjcHQzKQogICAgY3J2ID0gc2FnZV9jdXJ2ZS5DdXJ2ZUJTMyhjaXJjbGUpCiAgICBwcmludCBjcnYKICAgIGNydi5hZGRfa25vdCgwLjMpCiAgICBjcnYuZGVncmVlX2VsZXZhdGUoMykKICAgIHByaW50ICJlbGV2YXRlZDoiLCBjcnYKICAgIGNydi5tb2RpZnlfY29udHJvbF9wb2ludCgxLCBbNiwgNywgOF0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>get_mesh</text>
+        <text>CurveBS3</text>
       </register>
       <register name="0" type="4">
-        <text>print &quot; == another way ==&quot;
-m = mesh_entity(s, normal_change=0.1, max_mesh_length=1000, sag=100)
-export_mesh(m, 'Components.i.tri')
-mesh_delete(m)</text>
+        <text encoding="base64">Y3B0MSA9IFswLjAsIDAsIDAuMF0KICAgIGNwdDIgPSBbMSwgMSwgMF0KICAgIGNwdDMgPSBbMiwgMSwgMF0KICAgIGNpcmNsZSA9IHNhZ2UuY2lyY2xlXzNwdChjcHQxLCBjcHQyLCBjcHQzKQogICAgY3J2ID0gc2FnZV9jdXJ2ZS5DdXJ2ZUJTMyhjaXJjbGUpCiAgICBwcmludCBjcnYKICAgIGNydi5hZGRfa25vdCgwLjMpCiAgICBjcnYuZGVncmVlX2VsZXZhdGUoMykKICAgIHByaW50ICJlbGV2YXRlZDoiLCBjcnYKICAgIGNydi5tb2RpZnlfY29udHJvbF9wb2ludCgxLCBbNiwgNywgOF0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2FnZS4K</text>
@@ -444,9 +431,9 @@ mesh_delete(m)</text>
       </register>
     </registers>
     <search>
-      <last-search>get_mesh</last-search>
+      <last-search>CurveBS3</last-search>
       <last-offset />
-      <last-pattern>get_mesh</last-pattern>
+      <last-pattern>CurveBS3</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -454,13 +441,6 @@ mesh_delete(m)</text>
     </search>
     <history>
       <history-search>
-        <entry>EntityType</entry>
-        <entry>sEntityPtrVec</entry>
-        <entry encoding="base64">XDxQb2ludDNEVmVjXD4=</entry>
-        <entry>sPoint3DVec</entry>
-        <entry>PointVec</entry>
-        <entry>Point3DVec</entry>
-        <entry encoding="base64">XDxfbmFtZWRfYXhpc1w+</entry>
         <entry>_named_axis</entry>
         <entry>_named</entry>
         <entry encoding="base64">XDxfZW1wdHlfdHJhbnNmb3JtYXRpb25cPg==</entry>
@@ -474,6 +454,13 @@ mesh_delete(m)</text>
         <entry>connected_bezier</entry>
         <entry>get_mesh_points</entry>
         <entry>get_mesh</entry>
+        <entry>get_closest</entry>
+        <entry>mesh</entry>
+        <entry>mesh_entity</entry>
+        <entry>export_mesh(</entry>
+        <entry>blend_</entry>
+        <entry>blend</entry>
+        <entry>CurveBS3</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
