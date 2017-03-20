@@ -70,6 +70,9 @@
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1490050660039">
+        <mark key="[" line="159" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1487030215445">
         <mark key="'" line="163" column="54" />
         <mark key="[" line="163" column="34" />
@@ -90,8 +93,8 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1489434394636">
-        <mark key="'" line="3978" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1490050365283">
+        <mark key="'" line="4043" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -291,8 +294,12 @@
         <mark key="." line="225" column="84" />
         <mark key="^" line="225" column="84" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1490031650141">
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1490050436132">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="634" column="38" />
+        <mark key="]" line="634" column="42" />
+        <mark key="^" line="634" column="42" />
+        <mark key="." line="634" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
@@ -309,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="437" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="12" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="295" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
@@ -409,6 +415,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3921" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
+      <jump line="4043" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -418,7 +425,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bend_</text>
+        <text>instance</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICNkZWYgX19pbml0X18oc2VsZiwgKmNvb3Jkcyk6CiA=</text>
@@ -455,9 +462,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bend_</last-search>
+      <last-search>instance</last-search>
       <last-offset />
-      <last-pattern>bend_</last-pattern>
+      <last-pattern>instance</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -465,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sage_curve</entry>
         <entry>degree_elevate</entry>
         <entry>curvature</entry>
         <entry>mesh_entities</entry>
@@ -485,6 +491,7 @@
         <entry encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</entry>
         <entry>simplify_entity</entry>
         <entry>bend_</entry>
+        <entry>instance</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
