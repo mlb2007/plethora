@@ -291,6 +291,9 @@
         <mark key="." line="225" column="84" />
         <mark key="^" line="225" column="84" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1490031650141">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
         <mark key="[" line="263" column="49" />
@@ -306,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="437" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="12" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="295" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -406,6 +408,7 @@
       <jump line="174" column="24" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3921" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
