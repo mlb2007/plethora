@@ -25,6 +25,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1490200991567">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
         <mark key="]" line="92" column="46" />
@@ -93,6 +99,12 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1490200487780">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="120" column="24" />
+        <mark key="^" line="120" column="24" />
+        <mark key="." line="120" column="24" />
+      </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1490050365283">
         <mark key="'" line="4043" column="0" />
       </file>
@@ -146,6 +158,10 @@
         <mark key="." line="678" column="0" />
         <mark key="^" line="678" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1490199887766">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/secant_spline.py" timestamp="1486604412710">
         <mark key="[" line="38" column="28" />
         <mark key="]" line="39" column="29" />
@@ -190,6 +206,12 @@
         <mark key="[" line="335" column="0" />
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490200886144">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_point.py" timestamp="1489526881138">
         <mark key="[" line="12" column="28" />
@@ -267,10 +289,6 @@
         <mark key="]" line="152" column="20" />
         <mark key="." line="152" column="20" />
         <mark key="^" line="152" column="20" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/curvemod.py" timestamp="1488231751021">
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="63" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/sphere.py" timestamp="1488603399092">
         <mark key="[" line="13" column="0" />
@@ -422,43 +440,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdE1lc2hOdW1TYW1wbGVzKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9hcmdzKHNlbGYsIG1vY2tfZW50aXR5X3R5cGUpOgogICAgICAgIG1vY2tfZW50aXR5X3R5cGUucmV0dXJuX3ZhbHVlID0gImZhY2UiCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFR5cGVFcnJvcik6CiAgICAgICAgICAgIHNjLm1lc2hfbnVtX3NhbXBsZXMoImFueSIsICJhbnkiKQogICAgICAgIG1vY2tfZW50aXR5X3R5cGUucmV0dXJuX3ZhbHVlID0gImJvZHkiCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFR5cGVFcnJvcik6CiAgICAgICAgICAgIHNjLm1lc2hfbnVtX3NhbXBsZXMoImFueSIsICJhbnkiKQogICAgICAgICMgY2hlY2sgaWYgaW50IG9yIGxvbmcgaXMgcGFzc2VkIG9uCiAgICAgICAgbW9ja19lbnRpdHlfdHlwZS5yZXR1cm5fdmFsdWUgPSAiZWRnZSIKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToKICAgICAgICAgICAgc2MubWVzaF9udW1fc2FtcGxlcygiYW55IiwgW10pCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFR5cGVFcnJvcik6CiAgICAgICAgICAgIHNjLm1lc2hfbnVtX3NhbXBsZXMoImFueSIsIDAuMSkKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToKICAgICAgICAgICAgc2MubWVzaF9udW1fc2FtcGxlcygiYW55Iiwge30pCgoKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuTWVzaE9wZXJhdGlvbnMubWVzaCcpCiAgICBAbW9jay5wYXRjaCgncHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5udW1fYXJjX2xlbnMnKQogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5zRG91YmxlVmVjJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCiAgICBAbW9jay5wYXRjaCgncHlzYWdlLkVudGl0eVR5cGUuZmFjZScpCiAgICBAbW9jay5wYXRjaCgncHlzYWdlLkVudGl0eVR5cGUuYm9keScpCiAgICBkZWYgdGVzdF9tZXNoX251bV9zYW1wbGVzKHNlbGYsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfYm9keV90eXBlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX2ZhY2VfdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19nZXRfZW50aXR5X3R5cGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfYXJjX2ZyYWNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX21lc2hfYWxnbywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19tZXNoKToKICAgICAgICAjIHNldCB1cAogICAgICAgIG1vY2tfY3BwX2ZyYWNzID0gbW9jay5Nb2NrKCkKICAgICAgICAjIGF0dHJpYnV0ZSBhcHBlbmQgaW4gbW9jayB3aWxsIGJlIGNhbGxlZCwgYWRkIGEgbW9jayB0byBpdCAuLgogICAgICAgIG1vY2tfY3BwX2ZyYWNzLmFwcGVuZCA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9ImFwcGVuZCIpCiAgICAgICAgbW9ja19hcmNfZnJhY3MucmV0dXJuX3ZhbHVlID0gbW9ja19jcHBfZnJhY3MKCiAgICAgICAgbW9ja19tZXNoLnJldHVybl92YWx1ZSA9ICJtZXNoIgogICAgICAgIG1vY2tfZ2V0X2VudGl0eV90eXBlLnJldHVybl92YWx1ZSA9ICJlZGdlIgogICAgICAgIG1vY2tfZmFjZV90eXBlLnJldHVybl92YWx1ZSA9ICJmYWNlIgogICAgICAgIG1vY2tfYm9keV90eXBlLnJldHVybl92YWx1ZSA9ICJib2R5IgogICAgICAgIGVudGl0eSA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9ImVudGl0eSIpCgogICAgICAgICMgY2FsbAogICAgICAgIHNjLm1lc2hfbnVtX3NhbXBsZXMoZW50aXR5LCAxMCkKCiAgICAgICAgIyBhc3NlcnQKICAgICAgICBhc3NlcnQgbW9ja19nZXRfZW50aXR5X3R5cGUuY2FsbGVkCiAgICAgICAgYXNzZXJ0IG1vY2tfZ2V0X2VudGl0eV90eXBlLmNhbGxfYXJnc1swXSA9PSAoZW50aXR5LCkKCiAgICAgICAgYXNzZXJ0IG1vY2tfbWVzaC5jYWxsZWQKICAgICAgICBhc3NlcnQgbW9ja19tZXNoLmNhbGxfYXJnc1swXSA9PSAoZW50aXR5LCAwLCAwLCAwLCAwLCAxLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX21lc2hfYWxnbywgbW9ja19jcHBfZnJhY3MsIDEwLCBGYWxzZSkKCg==</text>
+        <text encoding="base64">IG1zaCA9IHRlc3MuTWVzaChOb25lKQogICAgICAgIGFzc2VydCBtc2gubWVzaCBpcyBOb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3RNZXNoTnVtU2FtcGxlcyh1bml0dGVzdC5UZXN0Q2FzZSk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5zdGFydCA9PSBbNywgNSwgM10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjID0gc2MuQ3VydmUobSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtLnN0YXJ0LnJldHVybl92YWx1ZSA9IHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfbWVzaF9hbGdvLCBtb2NrX2NwcF9mcmFjcywgLTEsIEZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgYXNzZXJ0IG1vY2tfbWVzaC5jYWxsX2FyZ3NbMF0gPT0gKGVudGl0eSwgMCwgMCwgMCwgMCwgMSwK</text>
+        <text encoding="base64">ICAgICAgICB0LmdldENvb3JkLnNpZGVfZWZmZWN0ID0gWzcsIDUsIDNdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
