@@ -25,11 +25,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1490200991567">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1490202267925">
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -158,9 +157,9 @@
         <mark key="." line="678" column="0" />
         <mark key="^" line="678" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1490199887766">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="15" column="35" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1490201471577">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="80" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/secant_spline.py" timestamp="1486604412710">
         <mark key="[" line="38" column="28" />
@@ -207,11 +206,11 @@
         <mark key="]" line="335" column="0" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490200886144">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="17" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490202173306">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="34" column="49" />
+        <mark key="^" line="33" column="8" />
+        <mark key="." line="33" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_point.py" timestamp="1489526881138">
         <mark key="[" line="12" column="28" />
@@ -440,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbXNoLm1lc2ggaXMgTm9uZQo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -449,34 +448,34 @@
         <text>instance</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG1zaCA9IHRlc3MuTWVzaChOb25lKQogICAgICAgIGFzc2VydCBtc2gubWVzaCBpcyBOb25lCg==</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5tZXNoX2RlbGV0ZScsIG5ld19jYWxsYWJsZT1tb2NrLlByb3BlcnR5TW9jaykKICAgIGRlZiB0ZXN0X3Byb3BfbW9jayhzZWxmLCBtb2NrX21lc2hfZGVsX3Byb3ApOgogICAgICAgIG0gPSBtb2NrLk1vY2soKQogICAgICAgIG1zaCA9IHRlc3MuTWVzaChtKQogICAgICAgICNtb2NrX2RlbF9wcm9wLnJldHVybl92YWx1ZSA9ICdtZXNoLWRlbC1wcm9wJwogICAgICAgICNhc3NlcnQgbXNoLm1lc2ggPT0gJ21lc2gtcHJvcC1tb2NrJwogICAgICAgIGFzc2VydCBtb2NrX2RlbF9wcm9wLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbXNoLm1lc2ggaXMgTm9uZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAjYXNzZXJ0IG1zaC5tZXNoID09ICdtZXNoLXByb3AtbW9jaycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAjbW9ja19kZWxfcHJvcC5yZXR1cm5fdmFsdWUgPSAnbWVzaC1kZWwtcHJvcCcK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5zdGFydCA9PSBbNywgNSwgM10K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2MuQ3VydmUobSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtLnN0YXJ0LnJldHVybl92YWx1ZSA9IHQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbXNoLm1lc2ggaXMgbQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtc2ggPSB0ZXNzLk1lc2gobSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtID0gbW9jay5Nb2NrKCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0LmdldENvb3JkLnNpZGVfZWZmZWN0ID0gWzcsIDUsIDNdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
