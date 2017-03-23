@@ -25,11 +25,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1490302256810">
-        <mark key="[" line="52" column="35" />
-        <mark key="]" line="52" column="35" />
-        <mark key="." line="52" column="35" />
-        <mark key="^" line="52" column="35" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1490305882821">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="131" column="35" />
+        <mark key="^" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -47,10 +47,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1490153485330">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1490304546920">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="631" column="3" />
-        <mark key="]" line="632" column="69" />
+        <mark key="[" line="635" column="3" />
+        <mark key="]" line="641" column="27" />
         <mark key="." line="633" column="3" />
         <mark key="^" line="633" column="3" />
       </file>
@@ -99,11 +99,10 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1490301807385">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="103" column="47" />
-        <mark key="^" line="103" column="47" />
-        <mark key="." line="103" column="47" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1490306058584">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1490050365283">
         <mark key="'" line="4043" column="0" />
@@ -179,7 +178,7 @@
         <mark key="." line="44" column="28" />
         <mark key="^" line="44" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1490208388627">
+      <file name="/Python Console" timestamp="1490304455158">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="6" column="15" />
         <mark key="^" line="6" column="15" />
@@ -213,10 +212,11 @@
         <mark key="]" line="341" column="0" />
         <mark key="." line="335" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490301437319">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490305978721">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_point.py" timestamp="1489526881138">
         <mark key="[" line="12" column="28" />
@@ -327,6 +327,7 @@
         <mark key="^" line="634" column="42" />
         <mark key="." line="634" column="42" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/tessellate.py" timestamp="1490305868118" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
         <mark key="[" line="263" column="49" />
@@ -445,43 +446,72 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWNvcmF0b3IgdG8gY2hlY2sgYXJndW1lbnQgdmFsaWRpdHkgcGFzc2VkIHRvIEFkYXB0aXZlTWVzaGVyIC4uLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHRlc3MuQWRhcHRpdmVNZXNoZXIoMSwgMCwgMSwgMSwgOCkK</text>
+        <text>class TestNumSamplesMesh(unittest.TestCase):
+    def test_args(self):
+        with pytest.raises(TypeError):
+            tess.NumSamplesMesher({})
+        with pytest.raises(TypeError):
+            tess.NumSamplesMesher([])
+        with pytest.raises(TypeError):
+            tess.NumSamplesMesher(None)
+        with pytest.raises(ValueError):
+            tess.NumSamplesMesher(-1)
+        with pytest.raises(TypeError):
+            tess.NumSamplesMesher(10.5)
+
+    def test_props(self):
+        mesher = tess.NumSamplesMesher(10)
+        assert mesher.num_samples == 10
+
+    @mock.patch('sage.cinterface.mesh_num_samples')
+    def test_mesh(self, mock_meshing):
+        mesher = tess.NumSamplesMesher(10)
+        m = mock.Mock()
+        mock_meshing.return_value = m
+
+        geometry = mock.Mock()
+        result_mesh = mesher.tessellate(geometry)
+
+        mock_meshing.assert_called_once()
+        assert mock_meshing.call_args[0] == (geometry.s_entity, 10, )
+        assert mock_meshing.return_value == m
+        assert result_mesh.mesh == m</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBkZWNvcmF0b3IgdG8gY2hlY2sgYXJndW1lbnQgdmFsaWRpdHkgcGFzc2VkIHRvIEFkYXB0aXZlTWVzaGVyIC4uLgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiTnVtYmVyIG9mIHNhbXBsZXMgcmVxdWVzdGVkIGlzIE5vbmUiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBudW1fc2FtcGxlcyBpcyBOb25lOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtc2guZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiTnVtYmVyIG9mIHNhbXBsZXMgcmVxdWVzdGVkIGlzIE5vbmUiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtc2ggPSB0ZXNzLk1lc2goImFueSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBudW1fc2FtcGxlcyBpcyBOb25lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3Byb3BfbW9jayhzZWxmLCBtb2NrX21lc2hfZGVsKToK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnLCBuZXdfY2FsbGFibGU9bW9jay5Qcm9wZXJ0eU1vY2spCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
