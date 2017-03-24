@@ -73,11 +73,11 @@
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1490154031108">
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="335" column="0" />
-        <mark key="^" line="326" column="26" />
-        <mark key="." line="336" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1490374170908">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="." line="176" column="0" />
+        <mark key="^" line="176" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1487030215445">
         <mark key="'" line="163" column="54" />
@@ -207,10 +207,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1490302043577">
-        <mark key="[" line="339" column="8" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="335" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1490374210809">
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="176" column="0" />
+        <mark key="." line="204" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490305978721">
         <mark key="[" line="1" column="10" />
@@ -445,72 +446,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBkZWNvcmF0b3IgdG8gY2hlY2sgYXJndW1lbnQgdmFsaWRpdHkgcGFzc2VkIHRvIEFkYXB0aXZlTWVzaGVyIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19tZXNoX2FsZ28sICJmcmFjcyIsIC0xLCBGYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>instance</text>
       </register>
       <register name="0" type="4">
-        <text>class TestNumSamplesMesh(unittest.TestCase):
-    def test_args(self):
-        with pytest.raises(TypeError):
-            tess.NumSamplesMesher({})
-        with pytest.raises(TypeError):
-            tess.NumSamplesMesher([])
-        with pytest.raises(TypeError):
-            tess.NumSamplesMesher(None)
-        with pytest.raises(ValueError):
-            tess.NumSamplesMesher(-1)
-        with pytest.raises(TypeError):
-            tess.NumSamplesMesher(10.5)
-
-    def test_props(self):
-        mesher = tess.NumSamplesMesher(10)
-        assert mesher.num_samples == 10
-
-    @mock.patch('sage.cinterface.mesh_num_samples')
-    def test_mesh(self, mock_meshing):
-        mesher = tess.NumSamplesMesher(10)
-        m = mock.Mock()
-        mock_meshing.return_value = m
-
-        geometry = mock.Mock()
-        result_mesh = mesher.tessellate(geometry)
-
-        mock_meshing.assert_called_once()
-        assert mock_meshing.call_args[0] == (geometry.s_entity, 10, )
-        assert mock_meshing.return_value == m
-        assert result_mesh.mesh == m</text>
+        <text encoding="base64">Y2xhc3MgVGVzdE1lc2godW5pdHRlc3QuVGVzdENhc2UpOgogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5NZXNoT3BlcmF0aW9ucy5tZXNoJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuRWRnZVNhbXBsaW5nT3B0aW9uLm1heF9hcmNfbGVuX2FuZF9tYXhfdHVybicpCiAgICBAbW9jay5wYXRjaCgncHlzYWdlLnNEb3VibGVWZWMnKQogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5nZXRfc19lbnRpdHknKQogICAgZGVmIHRlc3RfbWVzaChzZWxmLCBtb2NrX2dldF9lbnRpdHksIG1vY2tfYXJjX2ZyYWNzLCBtb2NrX21lc2hfYWxnbywgbW9ja19tZXNoKToKICAgICAgICAjIHNldCB1cAogICAgICAgIG1vY2tfYXJjX2ZyYWNzLnJldHVybl92YWx1ZSA9ICJmcmFjcyIKICAgICAgICBtb2NrX21lc2gucmV0dXJuX3ZhbHVlID0gIm1lc2giCiAgICAgICAgIyBjYWxsCiAgICAgICAgbW9ja19nZXRfZW50aXR5LnJldHVybl92YWx1ZSA9ICJlbnRpdHkiCiAgICAgICAgbWF4X2VkZ2VfbGVuZ3RoID0gMS45CiAgICAgICAgbm9ybWFsX2NoYW5nZSA9IDEuMQogICAgICAgIHNhZyA9IDAKICAgICAgICBtYXhfYXNwZWN0X3JhdGlvID0gMTAuOQogICAgICAgIHRocmVhZF9jb3VudCA9IDIKICAgICAgICBzYy5tZXNoKG1vY2tfZ2V0X2VudGl0eSwKICAgICAgICAgICAgICAgIG1heF9lZGdlX2xlbmd0aCwKICAgICAgICAgICAgICAgIG5vcm1hbF9jaGFuZ2UsCiAgICAgICAgICAgICAgICBzYWcsCiAgICAgICAgICAgICAgICBtYXhfYXNwZWN0X3JhdGlvLAogICAgICAgICAgICAgICAgdGhyZWFkX2NvdW50KQogICAgICAgICMgYXNzZXJ0CiAgICAgICAgYXNzZXJ0IG1vY2tfYXJjX2ZyYWNzLmNhbGxlZAogICAgICAgIGFzc2VydCBtb2NrX21lc2guY2FsbGVkCiAgICAgICAgYXNzZXJ0IG1vY2tfZ2V0X2VudGl0eS5jYWxsZWQKICAgICAgICBhc3NlcnQgbW9ja19tZXNoLmNhbGxfYXJnc1swXSA9PSAoImVudGl0eSIsIDEuOSwgMS4xLCAwLCAxMC45LCAyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX21lc2hfYWxnbywgImZyYWNzIiwgLTEsIEZhbHNlKQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBkZWNvcmF0b3IgdG8gY2hlY2sgYXJndW1lbnQgdmFsaWRpdHkgcGFzc2VkIHRvIEFkYXB0aXZlTWVzaGVyIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19tZXNoX2FsZ28sICJmcmFjcyIsIC0xLCBGYWxzZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tZXNoLmNhbGxfYXJnc1swXSA9PSAoZW50aXR5LCAxLjksIDEuMSwgMCwgMTAuOSwgMiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiTnVtYmVyIG9mIHNhbXBsZXMgcmVxdWVzdGVkIGlzIE5vbmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tZXNoLmNhbGxlZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW1fc2FtcGxlcyBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19hcmNfZnJhY3MuY2FsbGVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiTnVtYmVyIG9mIHNhbXBsZXMgcmVxdWVzdGVkIGlzIE5vbmUiKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGFzc2VydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBudW1fc2FtcGxlcyBpcyBOb25lOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocmVhZF9jb3VudCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heF9hc3BlY3RfcmF0aW8sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhZywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vcm1hbF9jaGFuZ2UsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
