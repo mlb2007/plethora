@@ -73,10 +73,10 @@
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="11" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1490816301072">
-        <mark key="[" line="339" column="8" />
-        <mark key="]" line="339" column="44" />
-        <mark key="." line="339" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1490817290854">
+        <mark key="[" line="334" column="9" />
+        <mark key="]" line="336" column="0" />
+        <mark key="." line="336" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1487030215445">
         <mark key="'" line="163" column="54" />
@@ -122,8 +122,8 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/cinterface.py" timestamp="1490730791693">
-        <mark key="[" line="688" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/cinterface.py" timestamp="1490816958690">
+        <mark key="[" line="688" column="11" />
         <mark key="]" line="633" column="0" />
         <mark key="^" line="631" column="3" />
         <mark key="." line="631" column="3" />
@@ -330,9 +330,9 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1490816146575">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="684" column="4" />
-        <mark key="]" line="689" column="4" />
+        <mark key="]" line="688" column="4" />
         <mark key="^" line="634" column="42" />
-        <mark key="." line="689" column="4" />
+        <mark key="." line="688" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
@@ -451,44 +451,44 @@
       <jump line="339" column="8" filename="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3B2ZWMuX19pdGVyX18ucmV0dXJuX3ZhbHVlID0gbTEK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2NrX3B2ZWNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG0zID0gbW9jay5Nb2NrKCkKICAgICAgICBtMy5nZXRDb29yZCA9IG1vY2suTW9jayhzaWRlX2VmZmVjdD1bLTEsIC0yLCAtM10pCiAgICAgICAg</text>
+        <text encoding="base64">ICAgICAgICBtMSA9IG1vY2suTW9jaygpCiAgICAgICAgbTEuZ2V0Q29vcmQgPSBtb2NrLk1vY2soc2lkZV9lZmZlY3Q9WzAsIDEsIDIsIDQsIDUsIDZdKQog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3B2ZWMuX19pdGVyX18ucmV0dXJuX3ZhbHVlID0gbTEK</text>
+        <text encoding="base64">ICAgICAgICAjbW9ja19wdmVjLnJldHVybl92YWx1ZS5zaWRlX2VmZmVjdCA9IFsxLCAyLCAzXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3B2ZWMucmV0dXJuX3ZhbHVlID0gWzEsIDIsIDM0XQo=</text>
+        <text encoding="base64">ICAgICAgICAjbW9ja19wdmVjLl9faXRlcl9fLnJldHVybl92YWx1ZSA9IG0xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNAbW9jay5wYXRjaCgncHlzYWdlLlBvaW50M0QnKQo=</text>
+        <text encoding="base64">ICAgICAgICBtMy5nZXRDb29yZCA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9Wy0xLCAtMiwgLTNdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3B2ZWMuc2lkZV9lZmZlY3QgPSAobTEsIG0yLCBtMykK</text>
+        <text encoding="base64">ICAgICAgICBtMyA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19jcHBfbWVzaF9mdW5jLmdldENvbm5lY3Rpdml0eS5jYWxsZWQK</text>
+        <text encoding="base64">ICAgICAgICBtMi5nZXRDb29yZCA9IG1vY2suTW9jayhyZXR1cm5fdmFsdWU9WzEsIDIsIDNdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtNC5nZXRDb29yZCA9IG1vY2suTW9jayhzaWRlX2VmZmVjdD1bLTEsIC0yLCAtM10pCg==</text>
+        <text encoding="base64">ICAgICAgICBtMiA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtNCA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAjbW9ja19wdmVjID0gbW9jay5NYWdpY01vY2soKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCcnKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyBnZXRDb25uZWN0aXZpdHkgZnVuY3Rpb24gd2lsbCBiZSBjYWxsZWQsIG1vY2sgaXQgLi4KICAgICAgICBtb2NrX2NwcF9tZXNoX2Z1bmMgPSBtb2NrLk1vY2soKQogICAgICAgIG1vY2tfY3BwX21lc2hfZnVuYy5nZXRDb25uZWN0aXZpdHkgPSBtb2NrLk1vY2soKQo=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX3B2ZWMuX19pdGVyX18ucmV0dXJuX3ZhbHVlID0gbTEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
