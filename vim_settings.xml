@@ -99,10 +99,11 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1490306058584">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491240391802">
+        <mark key="[" line="6" column="24" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1490387173056">
         <mark key="'" line="0" column="0" />
@@ -450,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19wdmVjLmNhbGxfY291bnQgPT0gMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -509,31 +510,31 @@
         assert zl[0] == 2 and zl[1] == 3.3</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19wdmVjLmNhbGxfY291bnQgPT0gMQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5vdGU6IHJlc3VsdCBpcyBhIGxpc3Qgb2YgbGlzdHMgLi4uCg==</text>
+        <text encoding="base64">ICAgICMgICAgc2VsZi5fbWVzaCA9IG1lc2hfZGF0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIyBOb3RlOiByZXN1bHQgaXMgYSBsaXN0IG9mIGxpc3RzIC4uLgo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgIHNlbGYuZGVsZXRlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNob3VsZCBiZSBhIG1vY2sgd2hpY2ggY2FuIHByb3ZpZGUgZ2V0Q29vcmQoKSBmdW5jdGlvbi4uLgo=</text>
+        <text encoding="base64">ICAgICMgICAgaWYgc2VsZi5fbWVzaCBpcyBub3QgTm9uZToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZhbHVlcyBhcmUgcXVlcmllZCB0byBnZXQgY29vcmRpbmF0ZSB2YWx1ZXMuIFRodXMgdGhleQo=</text>
+        <text encoding="base64">ICAgICNkZWYgbWVzaChzZWxmLCBtZXNoX2RhdGEpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRoZSByZXR1cm4gdmFsdWUgb2YgdGhlIFBvaW50M0RWZWMgaXMgYW4gaXRlcmFibGUgd2hvc2UK</text>
+        <text encoding="base64">ICAgICNAbWVzaC5zZXR0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3B2ZWMuc2lkZV9lZmZlY3QgPSBbW20xLCBtMl1dCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtMi5yZXNldF9tb2NrKCkK</text>
+        <text encoding="base64">ICAgICMgICAgcmV0dXJuIHNlbGYuX21lc2gK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtMS5yZXNldF9tb2NrKCkK</text>
+        <text encoding="base64">ICAgICNkZWYgbWVzaChzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
