@@ -99,19 +99,19 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491242863518">
-        <mark key="[" line="24" column="1" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="20" column="3" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491244781424">
+        <mark key="'" line="146" column="15" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1490387173056">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3824" column="0" />
         <mark key="]" line="3876" column="22" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1490050365283">
-        <mark key="'" line="4043" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491244090078">
+        <mark key="'" line="4133" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -222,11 +222,11 @@
         <mark key="." line="352" column="39" />
         <mark key="^" line="352" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1490305978721">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1491244642025">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_point.py" timestamp="1489526881138">
         <mark key="[" line="12" column="28" />
@@ -348,8 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1524" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="32" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
       <jump line="14" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="159" column="54" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="204" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -448,64 +446,64 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="339" column="8" filename="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" />
       <jump line="382" column="64" filename="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" />
+      <jump line="4133" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="146" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIG5vZGVfY291bnQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX21lc2gubnVtX25vZGVzKCkKICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2NrX3B2ZWNcPg==</text>
+        <text>getConnec</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIG5vZGVfY291bnQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX21lc2gubnVtX25vZGVzKCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgICAgc2VsZi5fbWVzaCA9IG1lc2hfZGF0YQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgIHNlbGYuZGVsZXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW5kZXggaW4gc2VsZi5fbWVzaC5ub2RlX2NvdW50Ogo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgaWYgc2VsZi5fbWVzaCBpcyBub3QgTm9uZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICNkZWYgbWVzaChzZWxmLCBtZXNoX2RhdGEpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbWVzaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNAbWVzaC5zZXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUG9pbnQzREluZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgcmV0dXJuIHNlbGYuX21lc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNkZWYgbWVzaChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX21lc2hfcHJvcC5hc3NlcnRfY2FsbGVkX29uY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2NrX3B2ZWNcPg==</last-search>
+      <last-search>getConnec</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2NrX3B2ZWNcPg==</last-pattern>
+      <last-pattern>getConnec</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>curvature</entry>
-        <entry>mesh_entities</entry>
         <entry encoding="base64">XDxtZXNoX2VudGl0eVw+</entry>
         <entry>connected_bezier</entry>
         <entry>get_mesh_points</entry>
@@ -524,6 +522,8 @@
         <entry>bend_</entry>
         <entry>instance</entry>
         <entry encoding="base64">XDxtb2NrX3B2ZWNcPg==</entry>
+        <entry>get_connec</entry>
+        <entry>getConnec</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
