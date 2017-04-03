@@ -25,11 +25,10 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491245975729">
-        <mark key="[" line="21" column="77" />
-        <mark key="]" line="137" column="35" />
-        <mark key="^" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491247822534">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="19" column="53" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -99,11 +98,12 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491244781424">
-        <mark key="'" line="146" column="15" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491249252519">
+        <mark key="'" line="173" column="15" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1490387173056">
         <mark key="'" line="0" column="0" />
@@ -178,11 +178,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/tessellate.py" timestamp="1490302273713">
-        <mark key="[" line="44" column="29" />
-        <mark key="]" line="44" column="28" />
-        <mark key="." line="44" column="28" />
-        <mark key="^" line="44" column="28" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/tessellate.py" timestamp="1491247818558">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="/Python Console" timestamp="1490908578835">
         <mark key="[" line="0" column="0" />
@@ -222,10 +222,11 @@
         <mark key="." line="352" column="39" />
         <mark key="^" line="352" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1491246462258">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1491248021272">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_point.py" timestamp="1489526881138">
         <mark key="[" line="12" column="28" />
@@ -329,8 +330,12 @@
         <mark key="." line="225" column="84" />
         <mark key="^" line="225" column="84" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1490820011389">
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491249022110">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="717" column="14" />
+        <mark key="]" line="718" column="17" />
+        <mark key="." line="718" column="17" />
+        <mark key="^" line="718" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
         <mark key="'" line="585" column="0" />
@@ -449,44 +454,44 @@
       <jump line="146" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>k</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgc2VsZi5fbWVzaC5wb2ludF9hdChpbmRleCwgc0ludFZlY3RvcikK</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>getConnec</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnLCBuZXdfY2FsbGFibGU9bW9jay5Qcm9wZXJ0eU1vY2spCiAgICBkZWYgdGVzdF9wcm9wX21vY2soc2VsZiwgbW9ja19tZXNoX2RlbCk6CiAgICAgICAgbXNoID0gdGVzcy5NZXNoKCJhbnkiKQogICAgICAgIG1zaC5fX2RlbF9fKCkKICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">ICAgIHh5el92ZWMgPSBsaXN0KCkKICAgIGZvciB4eXogaW4gcG9pbnRzOgogICAgICAgIHh5el92ZWMuYXBwZW5kKFBvaW50M0QoeHl6LmdldENvb3JkKDApLCB4eXouZ2V0Q29vcmQoMSksIHh5ei5nZXRDb29yZCgyKSkpCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtc2guX19kZWxfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgc2VsZi5fbWVzaC5wb2ludF9hdChpbmRleCwgc0ludFZlY3RvcikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc19pbnRfdmVjdG9yID0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgY2ludGVyZmFjZS5nZXRfcG9pbnRfYXQoc2VsZi5fbWVzaCwgaW5kZXgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW5kZXggaW4gc2VsZi5fbWVzaC5ub2RlX2NvdW50Ogo=</text>
+        <text encoding="base64">ICAgIGluZGljZXMgPSBsaXN0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBmb3IgaW5kZXggaW4gcmFuZ2UgKDAsIHNlbGYuZWxlbWVudF9jb3VudCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbWVzaAo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgaW5kZXggaW4gcmFuZ2UgKDAsIHNlbGYubm9kZV9jb3VudCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUG9pbnQzREluZAo=</text>
+        <text encoding="base64">IGRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0X21lc2gubWVzaCA9PSBtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0X21lc2gubWVzaCA9PSBtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
