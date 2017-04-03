@@ -99,11 +99,11 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491241650084">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491242863518">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1490387173056">
         <mark key="'" line="0" column="0" />
@@ -450,8 +450,8 @@
       <jump line="382" column="64" filename="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIG5vZGVfY291bnQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX21lc2gubnVtX25vZGVzKCkKICAgIA==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -460,54 +460,7 @@
         <text encoding="base64">XDxtb2NrX3B2ZWNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>class TestMeshPoints(unittest.TestCase):
-    @mock.patch('pysage.Point3DVec')
-    def test_mesh_conn(self, mock_pvec):
-        # set up
-        m1 = mock.Mock()
-        m1.getCoord = mock.Mock(side_effect=[0.1, 1, 2])
-        m2 = mock.Mock()
-        m2.getCoord = mock.Mock(side_effect=[-0.1, -2.2, 3.3])
-        # the return value of the Point3DVec is an iterable whose
-        # values are queried to get coordinate values. Thus they
-        # should be a mock which can provide getCoord() function...
-        mock_pvec.side_effect = [[m1, m2]]
-
-        # getConnectivity function will be called, mock it ..
-        mock_cpp_mesh_func = mock.Mock()
-        mock_cpp_mesh_func.get_points.return_value = &quot;any&quot;
-
-        # call
-        ret_pts = sc.get_mesh_points(mock_cpp_mesh_func, as_points=True)
-
-        # assert
-        assert mock_cpp_mesh_func.get_points.called
-        assert mock_pvec.call_count == 1
-        # this implicitly confirms True passed as second argument
-        assert ret_pts[0][0] == 0.1 and ret_pts[0][1] == 1 and ret_pts[0][2] == 2
-        assert ret_pts[1][0] == -0.1 and ret_pts[1][1] == -2.2 and ret_pts[1][2] == 3.3
-
-        # reset and call again
-        mock_cpp_mesh_func.reset_mock()
-        m3 = mock.Mock()
-        m3.getCoord = mock.Mock(side_effect=[0.1, 1, 2])
-        m4 = mock.Mock()
-        m4.getCoord = mock.Mock(side_effect=[-0.1, -2.2, 3.3])
-        mock_pvec.reset_mock()
-        # for some reason, the side effect needs to be given brand new mocks
-        # re-using m1, m2 defined above after mock_pvec.reset does not work ..
-        mock_pvec.side_effect = [[m3, m4]]
-
-        # call
-        xl, yl, zl = sc.get_mesh_points(mock_cpp_mesh_func, as_points=False)
-
-        #assert
-        assert mock_cpp_mesh_func.get_points.called
-        assert mock_pvec.call_count == 1
-        # this implicitly confirms False passed as second argument
-        assert xl[0] == 0.1 and xl[1] == -0.1
-        assert yl[0] == 1 and yl[1] == -2.2
-        assert zl[0] == 2 and zl[1] == 3.3</text>
+        <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIG5vZGVfY291bnQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX21lc2gubnVtX25vZGVzKCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
