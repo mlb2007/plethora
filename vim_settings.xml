@@ -25,10 +25,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491322443529">
-        <mark key="[" line="33" column="13" />
-        <mark key="]" line="33" column="72" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491325227056">
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -109,8 +110,10 @@
         <mark key="[" line="3824" column="0" />
         <mark key="]" line="3876" column="22" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491321870214">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491325328631">
+        <mark key="'" line="113" column="4" />
+        <mark key="m" line="1883" column="8" />
+        <mark key="n" line="1883" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -342,59 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="421" column="76" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1723" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1924" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4251" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4253" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4299" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="513" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="651" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="563" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1487" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1577" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2310" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2355" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2829" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2852" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2606" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2719" column="67" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2721" column="69" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2727" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4289" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1443" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2274" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2295" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2299" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2338" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2413" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2415" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2417" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2426" column="82" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="13" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/primitives.py" />
-      <jump line="29" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="2927" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="115" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="3839" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="511" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="359" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="40" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="160" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="214" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="273" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="36" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="8" column="27" filename="$USER_HOME$/PycharmProjects/try/chull.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="3154" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="5" column="24" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1107" column="21" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1121" column="8" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="2074" column="14" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="2075" column="13" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="2845" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
-      <jump line="3128" column="17" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="3243" column="19" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="2810" column="24" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
       <jump line="2854" column="58" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
@@ -442,55 +392,108 @@
       <jump line="130" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
       <jump line="410" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1135" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1678" column="26" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1685" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1691" column="13" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1697" column="81" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1883" column="8" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3051" column="53" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3054" column="49" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3072" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3073" column="70" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3075" column="205" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3077" column="150" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3078" column="51" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3080" column="55" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3082" column="55" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3084" column="55" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3129" column="58" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3132" column="54" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3155" column="16" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3156" column="79" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3158" column="210" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3160" column="155" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3161" column="57" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3163" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3165" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3167" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3232" column="58" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3235" column="54" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3258" column="16" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3259" column="79" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3261" column="210" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3263" column="155" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3264" column="57" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3266" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3268" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3270" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="3427" column="85" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="293" column="64" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="308" column="20" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="309" column="79" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="311" column="214" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="313" column="159" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="314" column="57" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="316" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="318" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="320" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="828" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="831" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="853" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="876" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="959" column="20" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="962" column="13" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="113" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>connected_bezier</text>
+        <text>conic</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgZGVmIHRlc3RfZXhpdF9tb2NrKHNlbGYsIG1vY2tfbWVzaF9kZWwpOgogICAgICAgIHdpdGggdGVzcy5NZXNoKCJhbnkiKSBhcyBtc2g6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCgogICAgICAgIGFzc2VydCBtb2NrX21lc2hfZGVsLmNhbGxfYXJnc1swXSA9PSAoJ2FueScsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tZXNoX2RlbC5jYWxsX2FyZ3NbMF0gPT0gKCdhbnknLCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21lc2gubm9kZV9jb3VudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>connected_bezier</last-search>
+      <last-search>conic</last-search>
       <last-offset />
-      <last-pattern>connected_bezier</last-pattern>
+      <last-pattern>conic</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -498,8 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_mesh_points</entry>
-        <entry>get_closest</entry>
         <entry>mesh</entry>
         <entry>mesh_entity</entry>
         <entry>export_mesh(</entry>
@@ -518,6 +519,8 @@
         <entry>get_mesh</entry>
         <entry>connected_bexier</entry>
         <entry>connected_bezier</entry>
+        <entry>arc_</entry>
+        <entry>conic</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
