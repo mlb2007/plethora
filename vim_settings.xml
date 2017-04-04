@@ -92,12 +92,23 @@
         <mark key="^" line="52" column="69" />
         <mark key="." line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1491327961095">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/try/chull.py" timestamp="1487372561922">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="157" column="24" />
         <mark key="]" line="140" column="3" />
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1491328694223">
+        <mark key="[" line="876" column="4" />
+        <mark key="]" line="876" column="46" />
+        <mark key="." line="876" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491321353436">
         <mark key="'" line="136" column="41" />
@@ -110,10 +121,14 @@
         <mark key="[" line="3824" column="0" />
         <mark key="]" line="3876" column="22" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491325328631">
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491327149279">
         <mark key="'" line="113" column="4" />
-        <mark key="m" line="1883" column="8" />
-        <mark key="n" line="1883" column="8" />
+        <mark key="[" line="878" column="11" />
+        <mark key="m" line="1887" column="8" />
+        <mark key="]" line="869" column="25" />
+        <mark key="n" line="1887" column="8" />
+        <mark key="." line="869" column="25" />
+        <mark key="^" line="869" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -448,43 +463,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
+        <text encoding="base64">ICAgIGFuZ2xlID0gbWF0aC5waSAtIG1hdGguYXNpbihub3JtYWwubm9ybSgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>conic</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgZGVmIHRlc3RfZXhpdF9tb2NrKHNlbGYsIG1vY2tfbWVzaF9kZWwpOgogICAgICAgIHdpdGggdGVzcy5NZXNoKCJhbnkiKSBhcyBtc2g6CiAgICAgICAgICAgIHBhc3MKICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCgogICAgICAgIGFzc2VydCBtb2NrX21lc2hfZGVsLmNhbGxfYXJnc1swXSA9PSAoJ2FueScsKQo=</text>
+        <text>2.9464565467047157</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
+        <text encoding="base64">ICAgIGFuZ2xlID0gbWF0aC5waSAtIG1hdGguYXNpbihub3JtYWwubm9ybSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tZXNoX2RlbC5jYWxsX2FyZ3NbMF0gPT0gKCdhbnknLCkK</text>
+        <text encoding="base64">cGMgPSBzYWdlLlBvaW50M0QoKDAuMzU0NDMxNzg1NDY0MDkxNDMsIDAuMzU0NDMxNzg1NDY0MDkxNDMsIDIuOTExMzY0MjkwNzE4MTcyKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJub3JtYWwgaXM6Iiwgbm9ybWFsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW2FyYzEsIF0pc2FnZS5leHBvcnQoW2FyYzEsIF0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tZXNoX2RlbC5jYWxsX2FyZ3NbMF0gPT0gKCdhbnknLCkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrX25vZGVfY291bnQgPSBtb2NrLk1vY2soc3BlYz0ibnVtX25vZGVzIiwgcmV0dXJuX3ZhbHVlID0gMTApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -523,7 +538,6 @@
         <entry>conic</entry>
       </history-search>
       <history-cmd>
-        <entry>128</entry>
         <entry>139</entry>
         <entry>1619</entry>
         <entry>1686</entry>
@@ -542,6 +556,7 @@
         <entry>%s/Point3D/Point3DEntity/gc</entry>
         <entry>%s/Point2D/Point2DEntity/gc</entry>
         <entry>%s/Box/BBox/gc</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
