@@ -25,6 +25,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491322173250">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
         <mark key="]" line="92" column="46" />
@@ -93,19 +99,19 @@
         <mark key="." line="140" column="3" />
         <mark key="^" line="140" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491252154498">
-        <mark key="'" line="130" column="41" />
-        <mark key="[" line="67" column="13" />
-        <mark key="]" line="186" column="0" />
-        <mark key="." line="186" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491321353436">
+        <mark key="'" line="136" column="41" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1490387173056">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3824" column="0" />
         <mark key="]" line="3876" column="22" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491244090078">
-        <mark key="'" line="4133" column="9" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491321870214">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mock/mock_it_up.py" timestamp="1487188845121">
         <mark key="[" line="143" column="30" />
@@ -337,7 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="206" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="421" column="76" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1723" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -437,55 +442,56 @@
       <jump line="146" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
       <jump line="130" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
       <jump line="410" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmV0X3BvaW50WzBdID09IDEgYW5kIHJldF9wb2ludFsxXSA9PSAyIGFuZCByZXRfcG9pbnRbMl0gPT0gMwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3MgVGVzdE1lc2godW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfaW5pdF9nZXR0ZXIoc2VsZik6CiAgICAgICAgbXNoID0gdGVzcy5NZXNoKE5vbmUpCiAgICAgICAgYXNzZXJ0IG1zaC5fbWVzaCBpcyBOb25lCgogICAgICAgIG0gPSBtb2NrLk1vY2soKQogICAgICAgIG1zaCA9IHRlc3MuTWVzaChtKQogICAgICAgIGFzc2VydCBtc2guX21lc2ggaXMgbQoKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgZGVmIHRlc3RfcHJvcF9tb2NrKHNlbGYsIG1vY2tfbWVzaF9kZWwpOgogICAgICAgIG1zaCA9IHRlc3MuTWVzaCgiYW55IikKICAgICAgICAjIGluc3RlYWQgb2YgdGhpcyBmdW5jdGlvbiwgaWYgSSBpbmNvcnBvcmF0ZQogICAgICAgICMgdGhlIGxvZ2ljIG9mIG1lc2ggZGVsZXRlIGludG8gX19kZWxfXyBmdW5jdGlvbgogICAgICAgICMgdGhlIHBhdGNoIGFib3ZlIGRvZXMgbm90IHNlZW0gdG8gdGFrZSBlZmZlY3QgLi4KICAgICAgICAjIHJlc3VsdGluZyBpbiBlcnJvciAuLi4gd2h5ID8KICAgICAgICBtc2guX21lc2hfZGVsZXRlKCkKICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCiAgICAgICAgYXNzZXJ0IG1vY2tfbWVzaF9kZWwuY2FsbF9hcmdzWzBdID09ICgnYW55JywpCgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5tZXNoX2RlbGV0ZScpCiAgICBkZWYgdGVzdF9leGl0X21vY2soc2VsZiwgbW9ja19tZXNoX2RlbCk6CiAgICAgICAgd2l0aCB0ZXNzLk1lc2goImFueSIpIGFzIG1zaDoKICAgICAgICAgICAgcGFzcwogICAgICAgIG1vY2tfbWVzaF9kZWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkKCiAgICAgICAgYXNzZXJ0IG1vY2tfbWVzaF9kZWwuY2FsbF9hcmdzWzBdID09ICgnYW55JywpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>get_mesh</text>
+        <text>connected_bezier</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdE1lc2hFbGVtZW50KHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2Uuc0ludFZlYycpCiAgICBkZWYgdGVzdF9tZXNoX2VsZW1lbnQoc2VsZiwgbW9ja19pbnRfdmVjKToKICAgICAgICBtZXNoID0gbW9jay5Nb2NrKCkKICAgICAgICBtZXNoLmVsZW1lbnRfYXQucmV0dXJuX3ZhbHVlID0gImFueSIKICAgICAgICBtb2NrX2ludF92ZWMucmV0dXJuX3ZhbHVlID0gWzEsIDIsIDNdCgogICAgICAgICMgY2FsbAogICAgICAgIHJldF9wb2ludCA9IHNjLm1lc2hfZWxlbWVudF9hdChtZXNoLCAyKQogICAgICAgIHByaW50IHJldF9wb2ludAogICAgICAgIGFzc2VydCBtZXNoLmVsZW1lbnRfYXQuY2FsbGVkCiAgICAgICAgYXNzZXJ0IG1lc2guZWxlbWVudF9hdC5jYWxsX2FyZ3NbMF0gPT0gKDIsIFsxLCAyLCAzXSkKICAgICAgICBhc3NlcnQgcmV0X3BvaW50WzBdID09IDEgYW5kIHJldF9wb2ludFsxXSA9PSAyIGFuZCByZXRfcG9pbnRbMl0gPT0gMwo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdE1lc2godW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfaW5pdF9nZXR0ZXIoc2VsZik6CiAgICAgICAgbXNoID0gdGVzcy5NZXNoKE5vbmUpCiAgICAgICAgYXNzZXJ0IG1zaC5fbWVzaCBpcyBOb25lCgogICAgICAgIG0gPSBtb2NrLk1vY2soKQogICAgICAgIG1zaCA9IHRlc3MuTWVzaChtKQogICAgICAgIGFzc2VydCBtc2guX21lc2ggaXMgbQoKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgZGVmIHRlc3RfcHJvcF9tb2NrKHNlbGYsIG1vY2tfbWVzaF9kZWwpOgogICAgICAgIG1zaCA9IHRlc3MuTWVzaCgiYW55IikKICAgICAgICAjIGluc3RlYWQgb2YgdGhpcyBmdW5jdGlvbiwgaWYgSSBpbmNvcnBvcmF0ZQogICAgICAgICMgdGhlIGxvZ2ljIG9mIG1lc2ggZGVsZXRlIGludG8gX19kZWxfXyBmdW5jdGlvbgogICAgICAgICMgdGhlIHBhdGNoIGFib3ZlIGRvZXMgbm90IHNlZW0gdG8gdGFrZSBlZmZlY3QgLi4KICAgICAgICAjIHJlc3VsdGluZyBpbiBlcnJvciAuLi4gd2h5ID8KICAgICAgICBtc2guX21lc2hfZGVsZXRlKCkKICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCiAgICAgICAgYXNzZXJ0IG1vY2tfbWVzaF9kZWwuY2FsbF9hcmdzWzBdID09ICgnYW55JywpCgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5tZXNoX2RlbGV0ZScpCiAgICBkZWYgdGVzdF9leGl0X21vY2soc2VsZiwgbW9ja19tZXNoX2RlbCk6CiAgICAgICAgd2l0aCB0ZXNzLk1lc2goImFueSIpIGFzIG1zaDoKICAgICAgICAgICAgcGFzcwogICAgICAgIG1vY2tfbWVzaF9kZWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkKCiAgICAgICAgYXNzZXJ0IG1vY2tfbWVzaF9kZWwuY2FsbF9hcmdzWzBdID09ICgnYW55JywpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmV0X3BvaW50WzBdID09IDEgYW5kIHJldF9wb2ludFsxXSA9PSAyIGFuZCByZXRfcG9pbnRbMl0gPT0gMwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWVzaC5lbGVtZW50X2F0LmNhbGxfYXJnc1swXSA9PSAoMiwgbW9ja19pbnRfdmVjKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWVzaC5lbGVtZW50X2F0LmNhbGxlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXRfcG9pbnQgPSBzYy5tZXNoX2VsZW1lbnRfYXQobWVzaCwgbW9ja19pbnRfdmVjKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuX21lc2gubm9kZV9jb3VudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoLmVsZW1lbnRfYXQucmV0dXJuX3ZhbHVlID0gImFueSIK</text>
+        <text encoding="base64">ICAgICAgICBpZiBzZWxmLl9tZXNoIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X21lc2hfZWxlbWVudChzZWxmLCBtb2NrX2ludF92ZWMpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2Uuc0ludFZlYycsIHNpZGVfZWZmZWN0PVsxLCAyLCAzXSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9tZXNoID0gbWVzaAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_mesh</last-search>
+      <last-search>connected_bezier</last-search>
       <last-offset />
-      <last-pattern>get_mesh</last-pattern>
+      <last-pattern>connected_bezier</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -493,8 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXNoX2VudGl0eVw+</entry>
-        <entry>connected_bezier</entry>
         <entry>get_mesh_points</entry>
         <entry>get_closest</entry>
         <entry>mesh</entry>
@@ -513,6 +517,8 @@
         <entry>get_connec</entry>
         <entry>getConnec</entry>
         <entry>get_mesh</entry>
+        <entry>connected_bexier</entry>
+        <entry>connected_bezier</entry>
       </history-search>
       <history-cmd>
         <entry>128</entry>
