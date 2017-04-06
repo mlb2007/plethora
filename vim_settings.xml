@@ -25,12 +25,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491506165394">
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491512268248">
         <mark key="'" line="7" column="13" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="67" column="43" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/tecplot.py" timestamp="1484261813776">
         <mark key="[" line="216" column="24" />
@@ -111,11 +110,11 @@
         <mark key="." line="875" column="34" />
         <mark key="^" line="875" column="34" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491321353436">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491512452101">
         <mark key="'" line="136" column="41" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1491334347402">
         <mark key="'" line="0" column="0" />
@@ -193,10 +192,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/tessellate.py" timestamp="1491504029944">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/tessellate.py" timestamp="1491512242979">
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1491336227092">
         <mark key="[" line="1919" column="31" />
@@ -475,44 +474,44 @@
       <jump line="7" column="13" filename="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>arc</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdE1lc2hFbGVtZW50SXRlcmF0b3IodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfZWxlX2l0ZXJhdG9yX2luaXQoc2VsZik6CiAgICAgICAgbWVzaCA9IG1vY2suTW9jaygpCiAgICAgICAgZWl0ID0gdGVzcy5NZXNoRWxlbWVudEl0ZXJhdG9yKG1lc2gpCiAgICAgICAgYXNzZXJ0IGVpdC5fbWVzaCA9PSBtZXNoCgogICAgZGVmIHRlc3RfZWxlX2l0ZXJhdG9yX2xlbmd0aChzZWxmKToKICAgICAgICAjIHNldHVwCiAgICAgICAgbWVzaCA9IG1vY2suTW9jaygpCiAgICAgICAgZWxlX2NvdW50ID0gbW9jay5Qcm9wZXJ0eU1vY2soKQogICAgICAgIHR5cGUobWVzaCkuZWxlbWVudF9jb3VudCA9IGVsZV9jb3VudAogICAgICAgICMgY2FsbAogICAgICAgIGVpdCA9IHRlc3MuTWVzaEVsZW1lbnRJdGVyYXRvcihtZXNoKQogICAgICAgIGxlbihlaXQpCiAgICAgICAgIyBhc3NlcnQKICAgICAgICBlbGVfY291bnQuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoKQoKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9lbGVtZW50X2F0JykKICAgIGRlZiB0ZXN0X2VsZV9pdGVyYXRvcl9pdGVyYXRlKHNlbGYsIG1vY2tfZWxlKToKICAgICAgICAjIHNldHVwCiAgICAgICAgbW9ja19lbGUuc2lkZV9lZmZlY3QgPSBbWzEsIDIsIDNdLCBbMywgNCwgNV0sIFs2LCA3LCA4XV0KICAgICAgICBtZXNoID0gbW9jay5Nb2NrKCkKICAgICAgICBlbGVfY291bnQgPSBtb2NrLlByb3BlcnR5TW9jayhyZXR1cm5fdmFsdWU9MykKICAgICAgICB0eXBlKG1lc2gpLmVsZW1lbnRfY291bnQgPSBlbGVfY291bnQKICAgICAgICAjIGNhbGwKICAgICAgICBlbGVtZW50cyA9IHRlc3MuTWVzaEVsZW1lbnRJdGVyYXRvcihtZXNoKQogICAgICAgIG91dCA9IFtuIGZvciBuIGluIGVsZW1lbnRzXQogICAgICAgICMgYXNzZXJ0CiAgICAgICAgYXNzZXJ0IG91dCA9PSBbWzEsIDIsIDNdLCBbMywgNCwgNV0sIFs2LCA3LCA4XV0KICAgICAgICBlbGVfY291bnQuYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoKQo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgZGVmIHRlc3RfZXhpdF9tb2NrKHNlbGYsIG1vY2tfbWVzaF9kZWwpOgogICAgICAgIHdpdGggdGVzcy5NZXNoKCJhbnkiKSBhcyBfOgogICAgICAgICAgICBwYXNzCiAgICAgICAgbW9ja19tZXNoX2RlbC5hc3NlcnRfY2FsbGVkX29uY2UoKQogICAgICAgIGFzc2VydCBtb2NrX21lc2hfZGVsLmNhbGxfYXJnc1swXSA9PSAoJ2FueScsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX21lc2hfZGVsLmFzc2VydF9jYWxsZWRfb25jZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdXQgPSBbbiBmb3IgbiBpbiBuaXRlcmF0b3JdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBub2RlX2NvdW50LmFzc2VydF9jYWxsZWRfb25jZV93aXRoKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgICAgICBvdXQgPSBbbiBmb3IgbiBpbiBuaXRlcmF0b3JdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlKG1lc2gpLm5vZGVfY291bnQgPSBub2RlX2NvdW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBub2RlX2NvdW50LmFzc2VydF9jYWxsZWRfb25jZV93aXRoKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
