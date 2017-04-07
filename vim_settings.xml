@@ -125,8 +125,8 @@
         <mark key="]" line="880" column="0" />
         <mark key="." line="880" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491335270724">
-        <mark key="'" line="113" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491596999369">
+        <mark key="'" line="4170" column="4" />
         <mark key="m" line="1885" column="8" />
         <mark key="n" line="1885" column="8" />
       </file>
@@ -222,8 +222,6 @@
       </file>
       <file name="$USER_HOME$/workspace/bugs/matt_geom.py" timestamp="1491595830053">
         <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/samples/pysage/5.2-subsonic_nacelle.py" timestamp="1487701952167">
         <mark key="[" line="14" column="17" />
@@ -377,8 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2801" column="4" filename="$USER_HOME$/sandbox/build/install/lib/sage/api.py" />
-      <jump line="4214" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3771" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3793" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2228" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -420,7 +416,6 @@
       <jump line="146" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
       <jump line="130" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
       <jump line="410" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1135" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1678" column="26" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1685" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -477,6 +472,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v0.1/buildApis.py" />
       <jump line="54" column="17" filename="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" />
       <jump line="7" column="13" filename="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="4170" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -486,7 +484,7 @@
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>arc</text>
+        <text>read</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgVGVzdE1lc2godW5pdHRlc3QuVGVzdENhc2UpOgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5tZXNoX2RlbGV0ZScpCiAgICBkZWYgdGVzdF9pbml0X2dldHRlcihzZWxmLCBfKToKICAgICAgICBtc2ggPSB0ZXNzLk1lc2goTm9uZSkKICAgICAgICBhc3NlcnQgbXNoLl9tZXNoIGlzIE5vbmUKCiAgICAgICAgbSA9IG1vY2suTW9jaygpCiAgICAgICAgbXNoID0gdGVzcy5NZXNoKG0pCiAgICAgICAgYXNzZXJ0IG1zaC5fbWVzaCBpcyBtCgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5tZXNoX2RlbGV0ZScpCiAgICBkZWYgdGVzdF9wcm9wX21vY2soc2VsZiwgbW9ja19tZXNoX2RlbCk6CiAgICAgICAgbXNoID0gdGVzcy5NZXNoKCJhbnkiKQogICAgICAgIG1zaC5fbWVzaF9kZWxldGUoKQogICAgICAgIG1vY2tfbWVzaF9kZWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkKICAgICAgICBhc3NlcnQgbW9ja19tZXNoX2RlbC5jYWxsX2FyZ3NbMF0gPT0gKCdhbnknLCkKCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1lc2hfZGVsZXRlJykKICAgIGRlZiB0ZXN0X2V4aXRfbW9jayhzZWxmLCBtb2NrX21lc2hfZGVsKToKICAgICAgICB3aXRoIHRlc3MuTWVzaCgiYW55IikgYXMgXzoKICAgICAgICAgICAgcGFzcwogICAgICAgIG1vY2tfbWVzaF9kZWwuYXNzZXJ0X2NhbGxlZF9vbmNlKCkKICAgICAgICBhc3NlcnQgbW9ja19tZXNoX2RlbC5jYWxsX2FyZ3NbMF0gPT0gKCdhbnknLCkKCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1lc2hfZGVsZXRlJykKICAgIGRlZiB0ZXN0X3Byb3Bfbm9kZXMoc2VsZiwgXyk6CiAgICAgICAgbXNoID0gdGVzcy5NZXNoKCJhbnkiKQogICAgICAgICMgY2FsbAogICAgICAgIG5kaXRlciA9IG1zaC5ub2RlcwogICAgICAgIGFzc2VydCBuZGl0ZXIgPT0gTm9uZQoKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgQG1vY2sucGF0Y2goJ3NhZ2UudGVzc2VsbGF0ZS5NZXNoTm9kZUl0ZXJhdG9yJykKICAgIGRlZiB0ZXN0X3Byb3Bfbm9kZXMyKHNlbGYsIG1vY2tfbm9kZV9pdGVyLCBfKToKICAgICAgICBtc2ggPSB0ZXNzLk1lc2goImFueSIsIG1vY2tfbm9kZV9pdGVyKQogICAgICAgICMgY2FsbAogICAgICAgIG5kaXRlciA9IG1zaC5ub2RlcwogICAgICAgIGFzc2VydCBuZGl0ZXIgPT0gbW9ja19ub2RlX2l0ZXIKCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1lc2hfZGVsZXRlJykKICAgIGRlZiB0ZXN0X3Byb3BfZWxlbWVudHMoc2VsZiwgXyk6CiAgICAgICAgbXNoID0gdGVzcy5NZXNoKCJhbnkiKQogICAgICAgICMgY2FsbAogICAgICAgIGVpdGVyID0gbXNoLmVsZW1lbnRzCiAgICAgICAgYXNzZXJ0IGVpdGVyID09IE5vbmUKCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1lc2hfZGVsZXRlJykKICAgIEBtb2NrLnBhdGNoKCdzYWdlLnRlc3NlbGxhdGUuTWVzaEVsZW1lbnRJdGVyYXRvcicpCiAgICBkZWYgdGVzdF9wcm9wX2VsZW1lbnRzMihzZWxmLCBtb2NrX2VsZV9pdGVyLCBfKToKICAgICAgICBtc2ggPSB0ZXNzLk1lc2goImFueSIsIE5vbmUsIG1vY2tfZWxlX2l0ZXIpCiAgICAgICAgIyBjYWxsCiAgICAgICAgZWl0ZXIgPSBtc2guZWxlbWVudHMKICAgICAgICBhc3NlcnQgZWl0ZXIgPT0gbW9ja19lbGVfaXRlcgoKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UubWVzaF9kZWxldGUnKQogICAgZGVmIHRlc3RfcHJvcF9lbGVtZW50X2NvdW50KHNlbGYsIF8pOgogICAgICAgIG1lc2ggPSBtb2NrLk1vY2soKQogICAgICAgIG1lc2gubnVtX2VsZW1lbnRzLnJldHVybl92YWx1ZSA9IDEwCiAgICAgICAgIyBjYWxsCiAgICAgICAgbXNoID0gdGVzcy5NZXNoKG1lc2gpCiAgICAgICAgbmUgPSBtc2guZWxlbWVudF9jb3VudAogICAgICAgICMgYXNzZXJ0CiAgICAgICAgYXNzZXJ0IG5lID09IDEwCgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5tZXNoX2RlbGV0ZScpCiAgICBkZWYgdGVzdF9wcm9wX25vZGVfY291bnQoc2VsZiwgXyk6CiAgICAgICAgbWVzaCA9IG1vY2suTW9jaygpCiAgICAgICAgbWVzaC5udW1fbm9kZXMucmV0dXJuX3ZhbHVlID0gMTExCiAgICAgICAgIyBjYWxsCiAgICAgICAgbXNoID0gdGVzcy5NZXNoKG1lc2gpCiAgICAgICAgbmUgPSBtc2gubm9kZV9jb3VudAogICAgICAgICMgYXNzZXJ0CiAgICAgICAgYXNzZXJ0IG5lID09IDExMQoK</text>
@@ -523,9 +521,9 @@
       </register>
     </registers>
     <search>
-      <last-search>arc</last-search>
+      <last-search>read</last-search>
       <last-offset />
-      <last-pattern>arc</last-pattern>
+      <last-pattern>read</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -533,8 +531,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mesh_entity</entry>
-        <entry>export_mesh(</entry>
         <entry>blend_</entry>
         <entry>blend</entry>
         <entry>CurveBS3</entry>
@@ -553,6 +549,8 @@
         <entry>arc_</entry>
         <entry>conic</entry>
         <entry>arc</entry>
+        <entry>import</entry>
+        <entry>read</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
