@@ -82,12 +82,12 @@
         <mark key="]" line="432" column="76" />
         <mark key="." line="425" column="41" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1487030215445">
-        <mark key="'" line="163" column="54" />
-        <mark key="[" line="163" column="34" />
-        <mark key="]" line="163" column="34" />
-        <mark key="." line="163" column="34" />
-        <mark key="^" line="208" column="33" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491859405576">
+        <mark key="'" line="171" column="54" />
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="171" column="34" />
+        <mark key="." line="171" column="34" />
+        <mark key="^" line="216" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/blender-2.78a/sage/sage.py" timestamp="1484705241472">
         <mark key="[" line="6" column="45" />
@@ -358,8 +358,8 @@
         <mark key="." line="225" column="84" />
         <mark key="^" line="225" column="84" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491323441238">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491859163038">
+        <mark key="'" line="482" column="4" />
         <mark key="[" line="710" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
@@ -377,8 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3771" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3793" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2228" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2232" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2249" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -477,6 +475,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="4170" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="627" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
+      <jump line="482" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
