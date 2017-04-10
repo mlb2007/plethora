@@ -82,12 +82,11 @@
         <mark key="]" line="432" column="76" />
         <mark key="." line="425" column="41" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491859405576">
-        <mark key="'" line="171" column="54" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="171" column="34" />
-        <mark key="." line="171" column="34" />
-        <mark key="^" line="216" column="33" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491859602914">
+        <mark key="'" line="164" column="54" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/blender-2.78a/sage/sage.py" timestamp="1484705241472">
         <mark key="[" line="6" column="45" />
@@ -358,8 +357,8 @@
         <mark key="." line="225" column="84" />
         <mark key="^" line="225" column="84" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491859163038">
-        <mark key="'" line="482" column="4" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491859548019">
+        <mark key="'" line="719" column="4" />
         <mark key="[" line="710" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1482438208521">
@@ -377,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2228" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2232" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2249" column="19" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="2253" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -477,55 +475,56 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="627" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
       <jump line="482" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
+      <jump line="719" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>revolve(</text>
+        <text>_entity_type</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIF9fZXhpdF9fKHNlbGYsIGV4Y190eXBlLCBleGNfdmFsLCBleGNfdGIpOgogICAgICAgIGlmIHNlbGYuX2hhbmRsZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5mb290ZXIoKQogICAgICAgICAgICBzZWxmLl9oYW5kbGUuY2xvc2UoKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmaWxlbmFtZSk6CiAgICAgICAgc2VsZi5fZmlsZW5hbWUgPSBmaWxlbmFtZQogICAgICAgIHNlbGYuX2hhbmRsZSA9IG9wZW4oc2VsZi5fZmlsZW5hbWUsICd3KycpCiAgICAgICAgc2VsZi5oZWFkZXIoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkRlZ2VuZXJhdGUgdHJpYW5nbGUgZm91bmQgbm9kZXMgOnswfSwgezF9Ii5mb3JtYXQoc3gsIHN5KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGNvbm5kKSA9PSAyOgo=</text>
+        <text encoding="base64">ICAgIGJvZHkgPSA0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlCg==</text>
+        <text encoding="base64">ICAgIGZhY2UgPSAzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgIGVkZ2UgPSAyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgIHZlcnRleCA9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlCg==</text>
+        <text encoding="base64">Y2xhc3MgRW50aXR5VHlwZShvYmplY3QpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkRlZ2VuZXJhdGUgdHJpYW5nbGUgZm91bmQgbm9kZXMgOnswfSwgezF9Ii5mb3JtYXQoc3gsIHN5KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>revolve(</last-search>
+      <last-search>_entity_type</last-search>
       <last-offset />
-      <last-pattern>revolve(</last-pattern>
+      <last-pattern>_entity_type</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>blend</entry>
         <entry>CurveBS3</entry>
         <entry>Blender</entry>
         <entry>bend_entity</entry>
@@ -553,6 +551,7 @@
         <entry>import</entry>
         <entry>read</entry>
         <entry>revolve(</entry>
+        <entry>_entity_type</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
