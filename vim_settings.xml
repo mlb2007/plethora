@@ -141,11 +141,11 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491854240814">
-        <mark key="[" line="53" column="52" />
-        <mark key="]" line="54" column="27" />
-        <mark key="^" line="54" column="27" />
-        <mark key="." line="54" column="27" />
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491854403032">
+        <mark key="[" line="54" column="57" />
+        <mark key="]" line="54" column="71" />
+        <mark key="^" line="54" column="71" />
+        <mark key="." line="54" column="71" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/cinterface.py" timestamp="1490816958690">
         <mark key="[" line="688" column="11" />
@@ -492,13 +492,13 @@
         <text encoding="base64">ZGVmIF9fZXhpdF9fKHNlbGYsIGV4Y190eXBlLCBleGNfdmFsLCBleGNfdGIpOgogICAgICAgIGlmIHNlbGYuX2hhbmRsZSBpcyBub3QgTm9uZToKICAgICAgICAgICAgc2VsZi5mb290ZXIoKQogICAgICAgICAgICBzZWxmLl9oYW5kbGUuY2xvc2UoKQoKICAgIGRlZiBfX2luaXRfXyhzZWxmLCBmaWxlbmFtZSk6CiAgICAgICAgc2VsZi5fZmlsZW5hbWUgPSBmaWxlbmFtZQogICAgICAgIHNlbGYuX2hhbmRsZSA9IG9wZW4oc2VsZi5fZmlsZW5hbWUsICd3KycpCiAgICAgICAgc2VsZi5oZWFkZXIoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFZhbHVlRXJyb3IoIkRlZ2VuZXJhdGUgdHJpYW5nbGUgZm91bmQgbm9kZXMgOnswfSwgezF9Ii5mb3JtYXQoc3gsIHN5KSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKGNvbm5kKSA9PSAyOgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlCg==</text>
@@ -510,13 +510,13 @@
         <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZmlsZW5hbWUgPSBmaWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fZmlsZW5hbWUgPSBmaWxlbmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0Ogo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGVjX2Zvb3Rlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
