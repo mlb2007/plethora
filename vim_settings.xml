@@ -50,11 +50,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1491925127352">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1491930246199">
+        <mark key="'" line="376" column="11" />
         <mark key="[" line="613" column="18" />
-        <mark key="]" line="567" column="3" />
-        <mark key="." line="567" column="3" />
-        <mark key="^" line="567" column="3" />
+        <mark key="]" line="471" column="0" />
+        <mark key="." line="471" column="0" />
+        <mark key="^" line="471" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/rectangle.json" timestamp="1484425301305">
         <mark key="[" line="28" column="0" />
@@ -97,12 +98,12 @@
         <mark key="." line="875" column="34" />
         <mark key="^" line="875" column="34" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491928931638">
-        <mark key="'" line="136" column="41" />
-        <mark key="[" line="169" column="59" />
-        <mark key="]" line="191" column="71" />
-        <mark key="." line="191" column="71" />
-        <mark key="^" line="191" column="71" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1491930059963">
+        <mark key="'" line="143" column="41" />
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="77" column="4" />
+        <mark key="." line="74" column="3" />
+        <mark key="^" line="70" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1491862024050">
         <mark key="'" line="2323" column="77" />
@@ -148,6 +149,9 @@
         <mark key="]" line="14" column="6" />
         <mark key="." line="8" column="1" />
         <mark key="^" line="8" column="1" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/entity.py" timestamp="1491930277798">
+        <mark key="[" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/secant_spline.py" timestamp="1486604412710">
         <mark key="[" line="38" column="28" />
@@ -311,32 +315,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2824" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3053" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="1916" column="0" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1129" column="21" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1144" column="24" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1495" column="23" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1667" column="20" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1750" column="24" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1434" column="44" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1436" column="16" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1449" column="22" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1455" column="24" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="1471" column="16" filename="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" />
-      <jump line="160" column="11" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="165" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="173" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="181" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="193" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="202" column="16" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="219" column="12" filename="$USER_HOME$/workspace/editableCurve.py" />
-      <jump line="174" column="24" filename="$USER_HOME$/workspace/editableCurve.py" />
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3921" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
       <jump line="4043" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="339" column="8" filename="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" />
       <jump line="382" column="64" filename="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" />
       <jump line="4133" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -411,19 +393,41 @@
       <jump line="2308" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2323" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="620" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="471" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="191" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="192" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="193" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="197" column="89" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="218" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="221" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="225" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="230" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="231" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="271" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="274" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="284" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="289" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="290" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="329" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="332" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="342" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="347" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="348" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="376" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIGVsZW1lbnRzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbGVtZW50X2l0ZXJhdG9yCiAgICA=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>entity_type</text>
+        <text>s_entity</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdE1lc2hBcmNMZW5ndGhGcmFjKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9hcmdzKHNlbGYsIG1vY2tfZW50aXR5X3R5cGUpOgogICAgICAgIG1vY2tfZW50aXR5X3R5cGUucmV0dXJuX3ZhbHVlID0gImZhY2UiCiA=</text>
+        <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIGVsZW1lbnRzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbGVtZW50X2l0ZXJhdG9yCiAgICA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCg==</text>
@@ -457,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>entity_type</last-search>
+      <last-search>s_entity</last-search>
       <last-offset />
-      <last-pattern>entity_type</last-pattern>
+      <last-pattern>s_entity</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +471,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Blender</entry>
         <entry>bend_entity</entry>
         <entry encoding="base64">XDxJbmNyZW1lbnRhbEN1cnZlXD4=</entry>
         <entry>simplify_entity</entry>
@@ -487,6 +490,7 @@
         <entry>revolve(</entry>
         <entry>_entity_type</entry>
         <entry>entity_type</entry>
+        <entry>s_entity</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
