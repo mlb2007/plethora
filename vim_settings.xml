@@ -204,11 +204,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1491257783663">
-        <mark key="'" line="408" column="0" />
-        <mark key="[" line="420" column="0" />
-        <mark key="]" line="420" column="0" />
-        <mark key="." line="420" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1491924004812">
+        <mark key="'" line="417" column="0" />
+        <mark key="[" line="161" column="10" />
+        <mark key="]" line="165" column="1" />
+        <mark key="." line="161" column="0" />
+        <mark key="^" line="161" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1491587911901">
         <mark key="^" line="70" column="0" />
@@ -295,6 +296,11 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491859548019">
         <mark key="'" line="719" column="4" />
         <mark key="[" line="710" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_io.py" timestamp="1491923697907">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484535165338">
         <mark key="[" line="121" column="0" />
@@ -406,17 +412,17 @@
       <jump line="620" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3MgVGVzdE1lc2hBcmNMZW5ndGhGcmFjKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9hcmdzKHNlbGYsIG1vY2tfZW50aXR5X3R5cGUpOgogICAgICAgIG1vY2tfZW50aXR5X3R5cGUucmV0dXJuX3ZhbHVlID0gImZhY2UiCiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>entity_type</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGVsaWYgZW50aXR5X3R5cGUgPT0gcHlzYWdlLkVudGl0eVR5cGUuZmFjZToKICAgICAgICByZXR1cm4gU0ZhY2VUeXBlKCkKIA==</text>
+        <text encoding="base64">Y2xhc3MgVGVzdE1lc2hBcmNMZW5ndGhGcmFjKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmdldF9zRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9hcmdzKHNlbGYsIG1vY2tfZW50aXR5X3R5cGUpOgogICAgICAgIG1vY2tfZW50aXR5X3R5cGUucmV0dXJuX3ZhbHVlID0gImZhY2UiCiA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
