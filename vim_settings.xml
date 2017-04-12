@@ -308,10 +308,10 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="15" column="39" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_io.py" timestamp="1492022634723">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_io.py" timestamp="1492022863636">
+        <mark key="[" line="8" column="8" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
         <mark key="^" line="7" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/Ex/plethora/vertex.py" timestamp="1484535165338">
@@ -424,11 +424,11 @@
       <jump line="65" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICBQZGVmIHRlc3RfaW5pdChzZWxmKToK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</text>
