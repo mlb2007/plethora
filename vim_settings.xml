@@ -302,11 +302,11 @@
         <mark key="'" line="719" column="4" />
         <mark key="[" line="710" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492018652231">
-        <mark key="'" line="120" column="8" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492020467643">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="64" />
+        <mark key="." line="134" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_io.py" timestamp="1491923697907">
         <mark key="[" line="6" column="17" />
@@ -321,9 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
-      <jump line="130" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" />
-      <jump line="410" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1135" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1678" column="26" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1685" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -421,55 +418,58 @@
       <jump line="130" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
       <jump line="142" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
       <jump line="124" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
+      <jump line="89" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
+      <jump line="100" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2hlYWRlciA9IHNlbGYuem9uZV9oZWFkZXIobm9kZV9jb3VudCwgXywgem9uZV9uYW1lKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5mb19oZWFkZXJcPg==</text>
+        <text encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzdXBlcihfVGVjcGxvdFBvaW50V3JpdGVyLCBzZWxmKS5fX3N0cl9fKCkgKyAiIHBvaW50cyB3cml0ZXIiCg==</text>
+        <text encoding="base64">IGFsbF92ZXJ0aWNlcyA9ICJcbiIKICAgICAgICBmb3IgcHQgaW4gcG9pbnRzOgogICAgICAgICAgICBuZF9zdHIgPSBzZWxmLl9zdHJpbmdpZnlfcG9pbnRfZGF0YShwdCkKICAgICAgICAgICAgYWxsX3ZlcnRpY2VzICs9IG5kX3N0cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvX2hlYWRlciA9IHNlbGYuem9uZV9oZWFkZXIobm9kZV9jb3VudCwgXywgem9uZV9uYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmRfc3RyID0gc3ggKyAiICIgKyBzeSArICIgIiArIHN6ICsgIlxuIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ogPSBzdHIobmRbMl0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX3ZlcnRpY2VzICs9IG5kX3N0cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3kgPSBzdHIobmRbMV0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmRfc3RyID0gc2VsZi5fc3RyaW5naWZ5X3BvaW50X2RhdGEobmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ggPSBzdHIobmRbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmQgaW4gbm9kZXNfaXRlcjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmRfc3RyID0gc2VsZi5fc3RyaW5naWZ5X3BvaW50X2RhdGEocHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxfdmVydGljZXMgPSAiXG4iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxfdmVydGljZXMgPSBzZWxmLnN0cmluZ2lmeV9wb2ludF9kYXRhKHBvaW50cykK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxsX3ZlcnRpY2VzICs9IG5kX3N0cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5mb19oZWFkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5mb19oZWFkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -477,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>simplify_entity</entry>
         <entry>bend_</entry>
         <entry>instance</entry>
         <entry encoding="base64">XDxtb2NrX3B2ZWNcPg==</entry>
@@ -497,6 +496,7 @@
         <entry>s_entity</entry>
         <entry encoding="base64">XDxweXNhZ2VcPg==</entry>
         <entry encoding="base64">XDxfaW5mb19oZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
