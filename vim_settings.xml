@@ -39,11 +39,10 @@
         <mark key="^" line="613" column="33" />
         <mark key="." line="613" column="33" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1492114014204">
-        <mark key="[" line="38" column="1" />
-        <mark key="]" line="43" column="4" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="30" column="3" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1492116551746">
+        <mark key="[" line="54" column="8" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1491257772854">
         <mark key="'" line="380" column="64" />
@@ -164,10 +163,11 @@
         <mark key="'" line="719" column="4" />
         <mark key="[" line="710" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492113722925">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="141" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492116746331">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="156" column="19" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_io.py" timestamp="1492031303784">
         <mark key="[" line="18" column="0" />
@@ -176,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1678" column="26" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1685" column="11" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1691" column="13" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1697" column="81" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -276,55 +275,56 @@
       <jump line="100" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
       <jump line="65" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
       <jump line="83" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
+      <jump line="25" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGRlZiB0ZXN0X3dyaXRlX3RvX2ZpbGUoc2VsZik6CiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSciCg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</text>
+        <text>TecWriter</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGRlZiB0ZXN0X3dyaXRlX3RvX2ZpbGUoc2VsZik6CiAgICA=</text>
+        <text encoding="base64">ICAgICAgICBwb2ludF96b25lID0gbW9jay5Nb2NrKCkKICAgICAgICBsaW5lX3pvbmUgPSBtb2NrLk1vY2soKQogICAgICAgIHRyaV96b25lID0gbW9jay5Nb2NrKCkKICAgICAgICAjIGNhbGwKICAgICAgICB0ZWMgPSBpby5UZWNwbG90KHBvaW50X3pvbmUsCiAgICAgICAgICAgICAgICAgICAgICAgICBsaW5lX3pvbmUsCiAgICAgICAgICAgICAgICAgICAgICAgICB0cmlfem9uZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3N5c193cml0ZS53cml0ZS5yZXR1cm5fdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSciCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdfX2J1aWx0aW5fXy53cml0ZScpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWMuYWRkX21lc2gobWVzaCwgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICJzb21lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiLS0tLSBoZXIgPT09PSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmlvLlRlY3Bsb3QuX29wZW4nKQo=</text>
+        <text encoding="base64">ICAgICAgICB0cmlfem9uZSA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2ludF96b25lID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX29wZW5fZmlsZS5hc3NlcnRfY2FsbGVkKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFzc2VydAo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdpby5UZWNwbG90LnpvbmVfZGF0YScsIG5ld19jYWxsYWJsZT1tb2NrLlByb3BlcnR5TW9jaygpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWMgPSBpby5UZWNwbG90KGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdpby5UZWNwbG90LnpvbmVfZGF0YScsIG5ld19jYWxsYWJsZT1tb2NrLlByb3BlcnR5TW9jaygpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGwK</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdpby56b25lX2RhdGEnLCBuZXdfY2FsbGFibGU9bW9jay5Qcm9wZXJ0eU1vY2soKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</last-search>
+      <last-search>TecWriter</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</last-pattern>
+      <last-pattern>TecWriter</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -332,7 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bend_</entry>
         <entry>instance</entry>
         <entry encoding="base64">XDxtb2NrX3B2ZWNcPg==</entry>
         <entry>get_connec</entry>
@@ -352,6 +351,7 @@
         <entry encoding="base64">XDxweXNhZ2VcPg==</entry>
         <entry encoding="base64">XDxfaW5mb19oZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</entry>
+        <entry>TecWriter</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
