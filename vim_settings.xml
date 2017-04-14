@@ -6,91 +6,6 @@
       <file name="/start_script.py" timestamp="1491587772073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/skeleton_smartcurves.py" timestamp="1484755357048">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489424967392">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491591637905">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="245" column="36" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="70" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1491945996375">
-        <mark key="'" line="376" column="11" />
-        <mark key="[" line="612" column="43" />
-        <mark key="]" line="613" column="33" />
-        <mark key="^" line="613" column="33" />
-        <mark key="." line="613" column="33" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1492122107832">
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1491257772854">
-        <mark key="'" line="380" column="64" />
-        <mark key="[" line="420" column="0" />
-        <mark key="]" line="432" column="76" />
-        <mark key="." line="425" column="41" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491933805306">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1491424405582">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1492113712022">
-        <mark key="'" line="143" column="41" />
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1491862024050">
-        <mark key="'" line="2323" column="77" />
-        <mark key="[" line="880" column="0" />
-        <mark key="]" line="880" column="0" />
-        <mark key="." line="880" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491601884979">
-        <mark key="'" line="0" column="0" />
-        <mark key="m" line="1885" column="8" />
-        <mark key="n" line="1885" column="8" />
-      </file>
-      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="51" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/entity.py" timestamp="1491932158208">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/entity.py" timestamp="1489528777454">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -100,6 +15,11 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/skeleton_smartcurves.py" timestamp="1484755357048">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1491336227092">
         <mark key="[" line="1919" column="31" />
@@ -114,8 +34,24 @@
       <file name="/fragment.py" timestamp="1490815222462">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489424967392">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/matt_geom.py" timestamp="1491595830053">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_tessellate.py" timestamp="1491591637905">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="245" column="36" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484961815716">
         <mark key="[" line="19" column="0" />
@@ -134,6 +70,18 @@
         <mark key="]" line="183" column="4" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1491945996375">
+        <mark key="'" line="376" column="11" />
+        <mark key="[" line="612" column="43" />
+        <mark key="]" line="613" column="33" />
+        <mark key="^" line="613" column="33" />
+        <mark key="." line="613" column="33" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1487188029487">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -144,15 +92,48 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1492122209276">
+        <mark key="[" line="46" column="15" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/tests/test_cinterface.py" timestamp="1491257772854">
+        <mark key="'" line="380" column="64" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="432" column="76" />
+        <mark key="." line="425" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
         <mark key="[" line="33" column="16" />
         <mark key="]" line="32" column="37" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491933805306">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1491424405582">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/build/install/samples/pysage/3.3-trapezoidal_wing.py" timestamp="1489438492407">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1492113712022">
+        <mark key="'" line="143" column="41" />
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="60" column="37" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492188429771">
+        <mark key="'" line="3468" column="42" />
+        <mark key="[" line="880" column="0" />
+        <mark key="]" line="880" column="0" />
+        <mark key="." line="880" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/tests/test_api.py" timestamp="1489431705137">
         <mark key="'" line="1471" column="16" />
@@ -160,20 +141,39 @@
         <mark key="]" line="1146" column="42" />
         <mark key="." line="1916" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491601884979">
+        <mark key="'" line="0" column="0" />
+        <mark key="m" line="1885" column="8" />
+        <mark key="n" line="1885" column="8" />
+      </file>
+      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="51" />
+        <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491859548019">
         <mark key="'" line="719" column="4" />
         <mark key="[" line="710" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492121691381">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492123142918">
         <mark key="'" line="25" column="39" />
-        <mark key="[" line="156" column="19" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+        <mark key="[" line="132" column="17" />
+        <mark key="]" line="133" column="25" />
+        <mark key="^" line="133" column="25" />
+        <mark key="." line="133" column="25" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_io.py" timestamp="1492031303784">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/entity.py" timestamp="1491932158208">
+        <mark key="[" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -238,7 +238,6 @@
       <jump line="482" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
       <jump line="719" column="4" filename="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3468" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3471" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2308" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2323" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -277,6 +276,7 @@
       <jump line="65" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
       <jump line="83" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
       <jump line="25" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
+      <jump line="3468" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -286,7 +286,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>TecWriter</text>
+        <text>unite(</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS5lZGdlJykKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmlvLlRlY3Bsb3Quem9uZV9kYXRhJywgbmV3X2NhbGxhYmxlPW1vY2suUHJvcGVydHlNb2NrKCkpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5pby5UZWNwbG90Ll93cml0ZScsIGF1dG9zcGVjPVRydWUpCiAgICBkZWYgdGVzdF93cml0ZV9lZGdlX3pvbmVzKHNlbGYsIG1vY2tfd3JpdGUsIG1vY2tfem9uZV9kYXRhLCBtb2NrX2VudF90eXBlKToKICAgICAgICBtZXNoID0gbW9jay5NYWdpY01vY2soc3BlYz1zYWdlLnRlc3NlbGxhdGUuTWVzaCkKICAgICAgICB0eXBlKG1lc2gpLmVudGl0eV90eXBlID0gbW9ja19lbnRfdHlwZQogICAgICAgIG1vY2tfem9uZV9kYXRhLl9faXRlcl9fLnJldHVybl92YWx1ZSA9IHsnZm9vJzogbWVzaH0KICAgICAgICBsaW5lX3pvbmUgPSBtb2NrLk1vY2socmV0dXJuX3ZhbHVlPSJmb3JtYXR0ZWRfbGluZSIsIGF1dG9zcGVjPVRydWUpCiAgICAgICAgIyBjYWxsCiAgICAgICAgdGVjID0gaW8uVGVjcGxvdChOb25lLCBsaW5lX3pvbmUsIE5vbmUpCiAgICAgICAgdGVjLl93cml0ZV96b25lcygnc29tZV9oYW5kbGUnKQogICAgICAgICMgYXNzZXJ0CiAgICAgICAgYXNzZXJ0IGlzaW5zdGFuY2UobWVzaCwgc2FnZS50ZXNzZWxsYXRlLk1lc2gpCiAgICAgICAgcHJpbnQgbWVzaC5lbnRpdHlfdHlwZQogICAgICAgICNhc3NlcnQgbGluZV96b25lLmZvcm1hdC5jYWxsZWQKICAgICAgICAjYXNzZXJ0IGxpbmVfem9uZS5mb3JtYXQuY2FsbGVkX3dpdGgobWVzaCwgJ2ZvbycpCiAgICAgICAgI2Fzc2VydCBtb2NrX3dyaXRlLmNhbGxlZF93aXRoKCdzb21lX2hhbmRsZScsJ2Zvcm1hdHRlZF9saW5lJykK</text>
@@ -295,37 +295,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjbS5pdGVyaXRlbXMucmV0dXJuX3ZhbHVlID0gZAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjZCA9IHsnZm9vJzogMX0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIF9fbWV0YWNsYXNzX18gPSBhYmMuQUJDTWV0YQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjbSA9IG1vY2sucGF0Y2guZGljdCgpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2V4aXRfXyhzZWxmLCBleGNfdHlwZSwgZXhjX3ZhbCwgZXhjX3RiKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjbXoucmV0dXJuX3ZhbHVlID0gbW9jay5wYXRjaC5kaWN0KCdzYWdlLmlvLlRlY3Bsb3Quem9uZV9kYXRhJywgdmFsdWVzPXsnZm9vJzogMSwgJ2Jhcic6IDJ9KQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjbW9ja196b25lX2RhdGEucmV0dXJuX3ZhbHVlID0geydmb28nOiAxLCAnYmFyJzogMn0K</text>
+        <text encoding="base64">ICAgIGRlZiBfX2VudGVyX18oc2VsZik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNAbW9jay5wYXRjaC5kaWN0KCdzYWdlLmlvLlRlY3Bsb3Quem9uZV9kYXRhJywgdmFsdWVzPXsnZm9vJzogMSwgJ2Jhcic6IDJ9KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHdlIGhhdmUgYSBwb2ludCwgbGluZSwgdHJpIHpvbmUgaW5qZWN0ZWQgbm93IC4uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TecWriter</last-search>
+      <last-search>unite(</last-search>
       <last-offset />
-      <last-pattern>TecWriter</last-pattern>
+      <last-pattern>unite(</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>instance</entry>
         <entry encoding="base64">XDxtb2NrX3B2ZWNcPg==</entry>
         <entry>get_connec</entry>
         <entry>getConnec</entry>
@@ -353,6 +352,7 @@
         <entry encoding="base64">XDxfaW5mb19oZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxzdHJpbmdpZnlfcG9pbnRfZGF0YVw+</entry>
         <entry>TecWriter</entry>
+        <entry>unite(</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
