@@ -59,24 +59,30 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1492552391870">
-        <mark key="'" line="235" column="25" />
-        <mark key="[" line="89" column="28" />
-        <mark key="]" line="238" column="52" />
-        <mark key="." line="238" column="52" />
-        <mark key="^" line="238" column="52" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1492553677896">
+        <mark key="'" line="248" column="25" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1492553636702">
+        <mark key="'" line="601" column="38" />
+        <mark key="[" line="634" column="0" />
+        <mark key="]" line="634" column="0" />
+        <mark key="." line="634" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
         <mark key="[" line="12" column="8" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1492458099378">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1492553588571">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="16" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="66" column="17" />
+        <mark key="[" line="644" column="0" />
+        <mark key="]" line="644" column="0" />
         <mark key="^" line="66" column="17" />
+        <mark key="." line="644" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1487188029487">
         <mark key="[" line="0" column="0" />
@@ -118,10 +124,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1492454582899">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="89" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1492553577902">
+        <mark key="[" line="20" column="26" />
+        <mark key="]" line="17" column="24" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="24" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492200584594">
         <mark key="'" line="2364" column="22" />
@@ -165,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3160" column="155" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3161" column="57" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3163" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="3165" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -265,55 +271,56 @@
       <jump line="196" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="230" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="233" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
+      <jump line="601" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBtb2NrX21lc2hfYWRkLmNhbGxfYXJnc19saXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UudGVzc2VsbGF0ZSBhcyB0ZXNzCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>call_args_list</text>
+        <text>TestCha</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmlvLlRlY3Bsb3QuYWRkX21lc2gnKQogICAgZGVmIHRlc3RfYWRkX25hbWVkX21lc2hlcyhzZWxmLCBtb2NrX21lc2hfYWRkKToKICAgICAgICAjIGNhbGwKICAgICAgICB0ZWMgPSBpby5UZWNwbG90KCkKICAgICAgICB0ZWMuYWRkX21lc2hlcygicHJlZml4IiwgW10sIHsnZm9vJzogJ2Jhcid9KQogICAgICAgIGFzc2VydCBtb2NrX21lc2hfYWRkLmNhbGxlZAogICAgICAgIGFzc2VydCBtb2NrX21lc2hfYWRkLmNhbGxfYXJnc1swXSA9PSAoJ2JhcicsICdwcmVmaXhmb28nKQo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdENoYXJFbnRpdHlMZW5ndGgodW5pdHRlc3QuVGVzdENhc2UpOgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5nZXRfYmJveCcpCiAgICBkZWYgdGVzdF9jaGFyX2xlbmd0aChzZWxmLCBtb2NrX2Jib3gpOgogICAgICAgIF9sb3cgPSAoMSwgMiwgMykKICAgICAgICBfaGkgPSAoLTQsIC01LCAtNikKICAgICAgICBtb2NrX2Jib3gucmV0dXJuX3ZhbHVlID0gKF9sb3csIF9oaSkKICAgICAgICBtYXhfZGlzdCA9IG1heCgoYWJzKF9oaVswXSAtIF9sb3dbMF0pLCBhYnMoX2hpWzFdLV9sb3dbMV0pLCBhYnMoX2hpWzJdLV9sb3dbMl0pKSkKICAgICAgICAjIGNhbGwKICAgICAgICBtYXhfbGVuZ3RoX2ZyYWMgPSBzYy5jaGFyYWN0ZXJpc3RpY19lbnRpdHlfbGVuZ3RoKCJzb21lX2VudGl0eSIpCiAgICAgICAgYXNzZXJ0IG1heF9sZW5ndGhfZnJhYyA9PSAwLjAyICogbWF4X2Rpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBtb2NrX21lc2hfYWRkLmNhbGxfYXJnc19saXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UudGVzc2VsbGF0ZSBhcyB0ZXNzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWF4X2xlbmd0aF9mcmFjID09IDAuMDIgKiBtYXhfZGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfbGVuZ3RoX2ZyYWMgPSBzYy5jaGFyYWN0ZXJpc3RpY19lbnRpdHlfbGVuZ3RoKCJzb21lX2VudGl0eSIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhfZGlzdCA9IG1heCgoYWJzKF9oaVswXSAtIF9sb3dbMF0pLCBhYnMoX2hpWzFdLV9sb3dbMV0pLCBhYnMoX2hpWzJdLV9sb3dbMl0pKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrX2Jib3gucmV0dXJuX3ZhbHVlID0gKF9sb3csIF9oaSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfaGkgPSAoLTQsIC01LCAtNikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfbG93ID0gKDEsIDIsIDMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>call_args_list</last-search>
+      <last-search>TestCha</last-search>
       <last-offset />
-      <last-pattern>call_args_list</last-pattern>
+      <last-pattern>TestCha</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -321,7 +328,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connected_bezier</entry>
         <entry>arc_</entry>
         <entry>conic</entry>
         <entry>arc</entry>
@@ -341,6 +347,7 @@
         <entry encoding="base64">XDxzRW50aXR5UHRyVmVjXD4=</entry>
         <entry>call_args</entry>
         <entry>call_args_list</entry>
+        <entry>TestCha</entry>
       </history-search>
       <history-cmd>
         <entry>139</entry>
