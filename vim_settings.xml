@@ -92,6 +92,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1493226838126">
+        <mark key="[" line="161" column="7" />
+        <mark key="]" line="166" column="85" />
+        <mark key="." line="166" column="85" />
+        <mark key="^" line="166" column="85" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1492541525061">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -122,17 +128,13 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tessellate.py" timestamp="1493225631655" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492200584594">
         <mark key="'" line="2364" column="22" />
         <mark key="[" line="2785" column="4" />
         <mark key="]" line="2790" column="31" />
         <mark key="." line="2790" column="31" />
         <mark key="^" line="2790" column="31" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1491601884979">
-        <mark key="'" line="0" column="0" />
-        <mark key="m" line="1885" column="8" />
-        <mark key="n" line="1885" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
@@ -266,11 +268,11 @@
       <jump line="601" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UuY2ludGVyZmFjZQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>TestCha</text>
