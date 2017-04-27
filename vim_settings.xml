@@ -21,11 +21,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1492201742292">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1493318980825">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1930" column="27" />
-        <mark key="]" line="1930" column="27" />
-        <mark key="." line="1930" column="27" />
+        <mark key="[" line="1946" column="30" />
+        <mark key="]" line="1946" column="30" />
+        <mark key="." line="1946" column="30" />
+        <mark key="^" line="1928" column="0" />
       </file>
       <file name="/Python Console" timestamp="1493227850905">
         <mark key="]" line="2" column="3" />
@@ -78,8 +79,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/revolve_bug.py" timestamp="1493315774381">
-        <mark key="[" line="13" column="30" />
+      <file name="$USER_HOME$/workspace/revolve_bug.py" timestamp="1493318892547">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10" column="104" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -238,7 +242,6 @@
       <jump line="1574" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2319" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2364" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="607" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="187" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
@@ -248,10 +251,11 @@
       <jump line="230" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="233" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="601" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -260,37 +264,37 @@
         <text>TestCha</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpZiBlbnRpdHlfY2xhc3MgaXMgY3VydmUuSW50ZXJwb2xhdGVkU3BsaW5lLl9fbmFtZV9fOgogICAgICAgICAgICByZXR1cm4gVGVjcGxvdERhdGEuaW50ZXJwb2xhdGVkX3NwbGluZV9hZGFwdGVyCiA=</text>
+        <text encoding="base64">bGVnMSA9IGxpbmUoKDAsIDAsIDApLCAoMSwgMCwgMCkpCmxlZzIgPSBsaW5lKCgxLCAwLCAwKSwgKDAsIDAsIDEpKQpsZWczID0gbGluZSgoMCwgMCwgMSksICgwLCAwLCAwKSkKcHJvZmlsZSA9IG1ha2Vfd2lyZShbbGVnMSwgbGVnMiwgbGVnM10pCiMgdGhpcyB3b3JrcyAuLi4uCiMgYm9keT1yZXZvbHZlKHByb2ZpbGUsICgwLjAsMC4wLDEuMCksICgxLjAsMC4wLDAuMCksIGFuZ2xlPTM2MC4wLCBkZWdyZWVzPVRydWUsIGNyZWF0ZV9zb2xpZD1UcnVlKQojIHRoaXMgZmFpbHMgLi4uLgpib2R5ID0gcmV2b2x2ZShwcm9maWxlLCAoMC4wLCAwLjAsIDEwLjApLCAoMS4wLCAwLjAsIDAuMCksIGFuZ2xlPTM2MC4wLCBkZWdyZWVzPVRydWUsIGNyZWF0ZV9zb2xpZD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfcmV2b2x2ZV9vZmZzZXRfYXhpcygpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0aGlzIGZhaWxzIC4uLi4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjbC53cml0ZV9wb2ludHMgPSB3cml0ZV9wb2ludHNfbW9jawo=</text>
+        <text encoding="base64">IyBib2R5PXJldm9sdmUocHJvZmlsZSwgKDAuMCwwLjAsMS4wKSwgKDEuMCwwLjAsMC4wKSwgYW5nbGU9MzYwLjAsIGRlZ3JlZXM9VHJ1ZSwgY3JlYXRlX3NvbGlkPVRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjbC53cml0ZV9oZWFkZXIgPSB3cml0ZV9oZWFkZXJfbW9jawo=</text>
+        <text encoding="base64">IyB0aGlzIHdvcmtzIC4uLi4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjd3JpdGVfcG9pbnRzX21vY2sgPSBtb2NrLk1vY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjd3JpdGVfaGVhZGVyX21vY2sgPSBtb2NrLk1vY2soKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoLm9iamVjdChzYWdlLnRlY2lvLkxpbmVab25lLCAnd3JpdGVfaGVhZGVyJykK</text>
+        <text encoding="base64">ICAgICAgICAjbC53cml0ZV9wb2ludHMgPSB3cml0ZV9wb2ludHNfbW9jawo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV9oZWFkZXJfbW9jayA9IG1vY2sucGF0Y2gub2JqZWN0KGwsICd3cml0ZV9oZWFkZXInKS5yZXR1cm5fdmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAjbC53cml0ZV9oZWFkZXIgPSB3cml0ZV9oZWFkZXJfbW9jawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLnRlY2lvLlRyaVpvbmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAjd3JpdGVfcG9pbnRzX21vY2sgPSBtb2NrLk1vY2soKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -333,7 +337,6 @@
         <entry>1612</entry>
         <entry>1546</entry>
         <entry>1559</entry>
-        <entry>wq</entry>
         <entry>%s/fc/mesh/gc</entry>
         <entry>1368</entry>
         <entry>%s/Cost/Stock</entry>
@@ -346,6 +349,7 @@
         <entry>%s/Box/BBox/gc</entry>
         <entry>e</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
