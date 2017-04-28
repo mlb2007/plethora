@@ -56,6 +56,11 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/GraphAlgos/test_node.py" timestamp="1493404441160">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484961815716">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -92,10 +97,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493403009975">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493404332116">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
         <mark key="[" line="33" column="16" />
@@ -122,11 +127,10 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493402261737">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493403805946">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492200584594">
         <mark key="'" line="2364" column="22" />
@@ -274,43 +278,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhZGogPSBncmFwaC5BZGphY2VuY3lMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGFkaikgPT0gMwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TestCha</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1wb3J0IG1vY2sKaW1wb3J0IHVuaXR0ZXN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vY2sKaW1wb3J0IHVuaXR0ZXN0CmltcG9ydCBweXRlc3QKCmltcG9ydCBncmFwaAoKCmNsYXNzIFRlc3RBZGphY2VuY3lMaXN0KHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X3NldGl0ZW0oc2VsZik6CiAgICAgICAgYWRqID0gZ3JhcGguQWRqYWNlbmN5TGlzdCgpCiAgICAgICAgYWRqWzFdID0gMgogICAgICAgIGFzc2VydCBhZGpbMV0gPT0gWzJdCiAgICAgICAgYWRqWzFdLmFwcGVuZCgzKQogICAgICAgIGFzc2VydCBhZGpbMV0gPT0gWzIsIDNdCiAgICAgICAgIyB0cnkgdG8gcmUtaW5zZXJ0IHNhbWUgZGF0YSBhZ2FpbiByZXN1bHRzIGluIGVycm9yCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKEtleUVycm9yKToKICAgICAgICAgICAgYWRqWzFdID0gMgoKICAgIGRlZiB0ZXN0X2dldGl0ZW0oc2VsZik6CiAgICAgICAgYWRqID0gZ3JhcGguQWRqYWNlbmN5TGlzdCgpCiAgICAgICAgYXNzZXJ0IGFkalsxXSA9PSBbXQogICAgICAgIGFkalsxXSA9IDEKICAgICAgICBhZGpbMV0uZXh0ZW5kKFsyLCAzXSkKICAgICAgICBhc3NlcnQgYWRqWzFdID09IFsxLCAyLCAzXQoKICAgIGRlZiB0ZXN0X2l0ZXJhdG9yKHNlbGYpOgogICAgICAgIGFkaiA9IGdyYXBoLkFkamFjZW5jeUxpc3QoKQogICAgICAgIGFzc2VydCBhZGpbMV0gPT0gW10KICAgICAgICBhZGpbMV0gPSAxCiAgICAgICAgYWRqWzFdLmV4dGVuZChbMiwgM10pCiAgICAgICAgZm9yIGtleSwgdmFsdWUgaW4gYWRqOgogICAgICAgICAgICBhc3NlcnQga2V5ID09IDEKICAgICAgICAgICAgYXNzZXJ0IHZhbHVlID09IFsxLCAyLCAzXQoKICAgIGRlZiB0ZXN0X2xlbihzZWxmKToKICAgICAgICBhZGogPSBncmFwaC5BZGphY2VuY3lMaXN0KCkKICAgICAgICBhZGpbMF0gPSAxCiAgICAgICAgYWRqWzFdID0gMQogICAgICAgIGFkalsxXS5hcHBlbmQoMikKICAgICAgICBhZGpbMl0gPSBOb25lCiAgICAgICAgYXNzZXJ0IGxlbihhZGopID09IDMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZGogPSBncmFwaC5BZGphY2VuY3lMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGFkaikgPT0gMwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQCg==</text>
+        <text encoding="base64">ICAgICAgICBhZGpbMl0gPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGogPSBncmFwaC5BZGphY2VuY3lMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBhZGpbMV0uYXBwZW5kKDIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhZGpbMV0gPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRqWzFdID09IFsyXQo=</text>
+        <text encoding="base64">ICAgICAgICBhZGpbMF0gPSAxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGogPSBncmFwaC5BZGphY2VuY3lMaXN0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xlbihzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fYWRqbWFwW2l0ZW1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrZXldLmFwcGVuZCh2YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IHZhbHVlID09IFsxLCAyLCAzXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
