@@ -124,6 +124,12 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493399053747">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="27" column="14" />
+        <mark key="^" line="27" column="14" />
+        <mark key="." line="27" column="14" />
+      </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -252,7 +258,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgZmluaXNoX3RpbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2Z0aW1lCgogICAgQGZpbmlzaF90aW1lLnNldHRlcgogICAgZGVmIGZpbmlzaF90aW1lKHNlbGYsIHZhbCk6CiAgICAgICAgc2VsZi5fZnRpbWUgPSB2YWwK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -261,7 +267,7 @@
         <text>TestCha</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bGVnMSA9IGxpbmUoKDAsIDAsIDApLCAoMSwgMCwgMCkpCmxlZzIgPSBsaW5lKCgxLCAwLCAwKSwgKDAsIDAsIDEpKQpsZWczID0gbGluZSgoMCwgMCwgMSksICgwLCAwLCAwKSkKcHJvZmlsZSA9IG1ha2Vfd2lyZShbbGVnMSwgbGVnMiwgbGVnM10pCiMgdGhpcyB3b3JrcyAuLi4uCiMgYm9keT1yZXZvbHZlKHByb2ZpbGUsICgwLjAsMC4wLDEuMCksICgxLjAsMC4wLDAuMCksIGFuZ2xlPTM2MC4wLCBkZWdyZWVzPVRydWUsIGNyZWF0ZV9zb2xpZD1UcnVlKQojIHRoaXMgZmFpbHMgLi4uLgpib2R5ID0gcmV2b2x2ZShwcm9maWxlLCAoMC4wLCAwLjAsIDEwLjApLCAoMS4wLCAwLjAsIDAuMCksIGFuZ2xlPTM2MC4wLCBkZWdyZWVzPVRydWUsIGNyZWF0ZV9zb2xpZD1UcnVlKQo=</text>
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgZmluaXNoX3RpbWUoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYuX2Z0aW1lCgogICAgQGZpbmlzaF90aW1lLnNldHRlcgogICAgZGVmIGZpbmlzaF90aW1lKHNlbGYsIHZhbCk6CiAgICAgICAgc2VsZi5fZnRpbWUgPSB2YWwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIHRlc3RfcmV2b2x2ZV9vZmZzZXRfYXhpcygpOgo=</text>
@@ -291,7 +297,7 @@
         <text encoding="base64">ICAgICAgICAjd3JpdGVfcG9pbnRzX21vY2sgPSBtb2NrLk1vY2soKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -345,8 +351,8 @@
         <entry>%s/Point2D/Point2DEntity/gc</entry>
         <entry>%s/Box/BBox/gc</entry>
         <entry>e</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
