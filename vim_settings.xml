@@ -97,12 +97,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493665349361">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493667804369">
         <mark key="'" line="116" column="25" />
-        <mark key="[" line="168" column="45" />
-        <mark key="]" line="168" column="44" />
-        <mark key="." line="168" column="44" />
-        <mark key="^" line="168" column="44" />
+        <mark key="[" line="190" column="27" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493661140855">
         <mark key="[" line="104" column="78" />
@@ -276,21 +275,21 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>TestCha</text>
       </register>
       <register name="0" type="4">
-        <text>class TestLineZone(unittest.TestCase):
+        <text>class TestTriZone(unittest.TestCase):
     def test_write(self):
-        pts = [(1, 2), (4, 5), (7, 8)]
+        pts = [(1, 2, 3), (4, 5, 6), (7, 8, 9)]
         mesh_mock = mock.Mock()
         p = mock.PropertyMock()
         p.return_value = pts
         type(mesh_mock).elements = p
 
-        l = tecio.LineZone(mesh_mock, 'foo')
+        l = tecio.TriZone(mesh_mock, 'foo')
 
         with mock.patch.object(l, 'write_header') as write_header_mock:
             with mock.patch.object(l, 'write_points') as write_points_mock:
@@ -299,7 +298,7 @@
                 write_header_mock.assert_called_once_with(f)
                 write_points_mock.assert_called_once_with(f)
                 assert f.write.call_count == 3
-                assert f.write.call_args_list == [mock.call(&quot;2 3\n&quot;), mock.call(&quot;5 6\n&quot;), mock.call(&quot;8 9\n&quot;)]
+                assert f.write.call_args_list == [mock.call(&quot;2 3 4\n&quot;), mock.call(&quot;5 6 7\n&quot;), mock.call(&quot;8 9 10\n&quot;)]
 
     def test_write_header(self):
         mesh_mock = mock.Mock()
@@ -310,39 +309,39 @@
         eles.return_value = 2
         type(mesh_mock).element_count = eles
 
-        l = tecio.LineZone(mesh_mock, 'foo')
+        l = tecio.TriZone(mesh_mock, 'foo')
         f = mock.Mock()
         l.write_header(f)
         assert f.write.call_count == 1
-        expected_header = 'ZONE T=&quot;foo&quot;, NODES=3, ELEMENTS=2, DATAPACKING=POINT, ZONETYPE=FELINESEG\n'
+        expected_header = 'ZONE T=&quot;foo&quot;, NODES=3, ELEMENTS=2, DATAPACKING=POINT, ZONETYPE=FETRIANGLE\n'
         assert f.write.call_args_list == [mock.call(expected_header)]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3BvaW50c19tb2NrLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKGYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVfaGVhZGVyX21vY2suYXNzZXJ0X2NhbGxlZF9vbmNlX3dpdGgoZikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5uYW1lLCBzZWxmLm1lc2gubm9kZV9jb3VudCwgc2VsZi5tZXNoLmVsZW1lbnRfY291bnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBtb2NrLnBhdGNoLm9iamVjdChsLCAnd3JpdGVfcG9pbnRzJykgYXMgd3JpdGVfcG9pbnRzX21vY2s6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAlICgK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KGwsICd3cml0ZV9oZWFkZXInKSBhcyB3cml0ZV9oZWFkZXJfbW9jazoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlX3BvaW50c19tb2NrLmFzc2VydF9jYWxsZWRfb25jZV93aXRoKGYpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZV9oZWFkZXJfbW9jay5hc3NlcnRfY2FsbGVkX29uY2Vfd2l0aChmKQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5uYW1lLCBzZWxmLm1lc2gubm9kZV9jb3VudCwgc2VsZi5tZXNoLmVsZW1lbnRfY291bnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
