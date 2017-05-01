@@ -102,10 +102,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493660268529">
-        <mark key="[" line="106" column="13" />
-        <mark key="]" line="107" column="0" />
-        <mark key="." line="107" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493661140855">
+        <mark key="[" line="104" column="78" />
+        <mark key="]" line="105" column="69" />
+        <mark key="." line="105" column="69" />
+        <mark key="^" line="105" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
         <mark key="[" line="33" column="16" />
@@ -132,11 +133,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493660654605">
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493661131321">
         <mark key="'" line="75" column="7" />
-        <mark key="[" line="86" column="16" />
-        <mark key="]" line="86" column="16" />
-        <mark key="." line="86" column="16" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492200584594">
         <mark key="'" line="2364" column="22" />
@@ -150,8 +151,8 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493412365863">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493661533307">
+        <mark key="[" line="66" column="25" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -282,8 +283,8 @@
       <jump line="75" column="7" filename="$USER_HOME$/GraphAlgos/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJub2RlcyAuLi4iLCBpbnQoY2xpbmVbMF0pLCBpbnQoY2xpbmVbMV0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -295,31 +296,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2FkZGVkZ2Uoc2VsZik6CiAgICAgICAgZyA9IGdyYXBoLkdyYXBoKCkKICAgICAgICBuZDEgPSBub2RlLk5vZGUoMSkKICAgICAgICBuZDIgPSBub2RlLk5vZGUoMikKICAgICAgICBnLmFkZF9lZGdlKG5kMSwgbmQyKQogICAgICAgIGFzc2VydCBnLmVkZ2VfY291bnQgPT0gMQogICAgICAgIGcuYWRkX2VkZ2UobmQyLCBuZDEpCiAgICAgICAgYXNzZXJ0IGcuZWRnZV9jb3VudCA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50IHZ2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJub2RlcyAuLi4iLCBpbnQoY2xpbmVbMF0pLCBpbnQoY2xpbmVbMV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3Z2ID0gZi5yZWFkbGluZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJMSU5FOiIsIGxpbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50ICJGSUxFIEhBTkRMRToiLCBmLnJldHVybl92YWx1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICdzb21lJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50IHZ2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja19maWxlLnJldHVybl92YWx1ZSA9ICczMzMsIDEnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3Z2ID0gZi5yZWFkbGluZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja19maWxlLnJldHVybl92YWx1ZSA9IG1vY2subW9ja19vcGVuKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3ByaW50ICJGSUxFIEhBTkRMRToiLCBmLnJldHVybl92YWx1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZV9jb250ZW50cyA9ICIwIDEiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI21vY2tfZmlsZS5fX2l0ZXJfXy5yZXR1cm5fdmFsdWUgPSBbWzAsIDFdXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja19maWxlLnJldHVybl92YWx1ZSA9ICczMzMsIDEnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9ja19maWxlLnJldHVybl92YWx1ZS5yZXR1cm5fdmFsdWUucmV0dXJuX3ZhbHVlLnNpZGVfZWZmZWN0ID0gWzAsIDFdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9ja19maWxlLnJldHVybl92YWx1ZSA9IG1vY2subW9ja19vcGVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
