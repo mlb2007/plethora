@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1491587772073">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/entity.py" timestamp="1489528777454">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -35,16 +32,10 @@
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1490815222462">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489424967392">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/matt_geom.py" timestamp="1491595830053">
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mock_test.py" timestamp="1492452236295">
         <mark key="[" line="18" column="0" />
@@ -139,31 +130,21 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492200584594">
-        <mark key="'" line="2364" column="22" />
-        <mark key="[" line="2785" column="4" />
-        <mark key="]" line="2790" column="31" />
-        <mark key="." line="2790" column="31" />
-        <mark key="^" line="2790" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493661533307">
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493661812410">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="57" column="3" />
+        <mark key="." line="57" column="3" />
+        <mark key="^" line="57" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/cinterface.py" timestamp="1491859548019">
-        <mark key="'" line="719" column="4" />
-        <mark key="[" line="710" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492541379230">
         <mark key="[" line="166" column="57" />
@@ -175,9 +156,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/entity.py" timestamp="1491932158208">
-        <mark key="[" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
