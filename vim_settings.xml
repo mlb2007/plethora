@@ -102,10 +102,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493607565136">
-        <mark key="[" line="114" column="35" />
-        <mark key="]" line="114" column="36" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493657978337">
+        <mark key="[" line="112" column="12" />
+        <mark key="]" line="108" column="34" />
+        <mark key="." line="108" column="34" />
+        <mark key="^" line="108" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
         <mark key="[" line="33" column="16" />
@@ -132,11 +133,12 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493607664095">
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493658056503">
         <mark key="'" line="75" column="7" />
-        <mark key="[" line="78" column="31" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="78" column="12" />
+        <mark key="]" line="78" column="12" />
+        <mark key="." line="78" column="12" />
+        <mark key="^" line="78" column="11" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1492200584594">
         <mark key="'" line="2364" column="22" />
@@ -282,11 +284,11 @@
       <jump line="75" column="7" filename="$USER_HOME$/GraphAlgos/graph.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiYWRkaW5nIC4uLiIsIHUsIHYK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>TestCha</text>
