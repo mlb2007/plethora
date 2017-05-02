@@ -47,10 +47,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test_node.py" timestamp="1493404832325">
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/test_node.py" timestamp="1493745426903">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sBezier.py" timestamp="1484961815716">
         <mark key="[" line="19" column="0" />
@@ -93,10 +93,10 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493700785807">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493745538434">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
@@ -105,10 +105,11 @@
         <mark key="^" line="200" column="3" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493699035298">
-        <mark key="[" line="105" column="53" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493744676678">
+        <mark key="[" line="137" column="12" />
+        <mark key="]" line="138" column="21" />
+        <mark key="." line="138" column="21" />
+        <mark key="^" line="138" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
         <mark key="[" line="33" column="16" />
@@ -141,22 +142,23 @@
         <mark key="^" line="2" column="2" />
         <mark key="." line="2" column="2" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493700061754">
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493744810137">
         <mark key="'" line="82" column="7" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="104" column="18" />
+        <mark key="]" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+        <mark key="^" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493698222003">
-        <mark key="[" line="63" column="31" />
-        <mark key="]" line="63" column="33" />
-        <mark key="." line="63" column="33" />
-        <mark key="^" line="63" column="33" />
+      <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1493745298138">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="63" column="31" />
+        <mark key="." line="63" column="31" />
+        <mark key="^" line="63" column="31" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
         <mark key="[" line="96" column="0" />
@@ -279,76 +281,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHMudmlzaXRlZCA9IFRydWUK</text>
+        <text encoding="base64">ZGVmIGRvX3ZhbmlsbGFfZGZzKGZpbGVuYW1lKToK</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>TestCha</text>
       </register>
       <register name="0" type="4">
-        <text>class TestTriZone(unittest.TestCase):
-    def test_write(self):
-        pts = [(1, 2, 3), (4, 5, 6), (7, 8, 9)]
-        mesh_mock = mock.Mock()
-        p = mock.PropertyMock()
-        p.return_value = pts
-        type(mesh_mock).elements = p
-
-        l = tecio.TriZone(mesh_mock, 'foo')
-
-        with mock.patch.object(l, 'write_header') as write_header_mock:
-            with mock.patch.object(l, 'write_points') as write_points_mock:
-                f = mock.Mock()
-                l.write(f)
-                write_header_mock.assert_called_once_with(f)
-                write_points_mock.assert_called_once_with(f)
-                assert f.write.call_count == 3
-                assert f.write.call_args_list == [mock.call(&quot;2 3 4\n&quot;), mock.call(&quot;5 6 7\n&quot;), mock.call(&quot;8 9 10\n&quot;)]
-
-    def test_write_header(self):
-        mesh_mock = mock.Mock()
-        nds = mock.PropertyMock()
-        nds.return_value = 3
-        type(mesh_mock).node_count = nds
-        eles = mock.PropertyMock()
-        eles.return_value = 2
-        type(mesh_mock).element_count = eles
-
-        l = tecio.TriZone(mesh_mock, 'foo')
-        f = mock.Mock()
-        l.write_header(f)
-        assert f.write.call_count == 1
-        expected_header = 'ZONE T=&quot;foo&quot;, NODES=3, ELEMENTS=2, DATAPACKING=POINT, ZONETYPE=FETRIANGLE\n'
-        assert f.write.call_args_list == [mock.call(expected_header)]</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3dlaWdodChzZWxmKToKICAgICAgICBuZCA9IG5vZGUuTm9kZSgxKQogICAgICAgIGFzc2VydCBuZC53ZWlnaHQgPT0gMAogICAgICAgIG5kLndlaWdodCA9IDIzCiAgICAgICAgYXNzZXJ0IG5kLndlaWdodCA9PSAyMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHMudmlzaXRlZCA9IFRydWUK</text>
+        <text encoding="base64">ZGVmIGRvX3ZhbmlsbGFfZGZzKGZpbGVuYW1lKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIm5vZGU6IiwgbmQsICIgaGFzIGJlZW4gdmlzaXRlZCAuLi4iCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmQud2VpZ2h0ID09IDIzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiZWRnZXMgb2Y6Iiwgbm9kZSwgIiBhcmU6IiwgZy5uZWlnaGJvcnMobm9kZSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmQuY29tcG9uZW50X2lkIGlzIE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBub2RlIGluIGcubm9kZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZC53ZWlnaHQgPSAyMwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVkZ2UgaW4gZWxpc3Q6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbmQuY29tcG9uZW50X2lkID09IG5kMgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJub2RlIGNvdW50OiIsIGcubm9kZV9jb3VudCwgCg==</text>
+        <text encoding="base64">ICAgICAgICBuZCA9IG5vZGUuTm9kZSgxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiXG5iYWNrICAgIiwgZ3Jldi5lZGdlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiXG5mb3J3YXJkIiwgZy5lZGdlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
