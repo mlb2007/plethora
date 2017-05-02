@@ -26,7 +26,7 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="1928" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1493660796878">
+      <file name="/Python Console" timestamp="1493699512245">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
@@ -93,11 +93,11 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493699213429">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
-        <mark key="^" line="4" column="7" />
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493700353561">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
@@ -136,12 +136,17 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493698886899">
-        <mark key="'" line="75" column="7" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/test.txt" timestamp="1493700297073">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="^" line="2" column="2" />
+        <mark key="." line="2" column="2" />
+      </file>
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493700061754">
+        <mark key="'" line="82" column="7" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
@@ -275,7 +280,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVkZ2UgaW4gZWxpc3Q6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -320,31 +325,31 @@
         assert f.write.call_args_list == [mock.call(expected_header)]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGVkZ2UgaW4gZWxpc3Q6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJub2RlIGNvdW50OiIsIGcubm9kZV9jb3VudCwgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXJzZV9saW5lKGxpbmUpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZDAgPSBub2RlLk5vZGUoMCkK</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZV9saW5lKGxpbmUpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRqWzFdID09IFtdCg==</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZDEgPSBub2RlLk5vZGUoMSkK</text>
+        <text encoding="base64">ICAgICAgICBuZDAgPSBub2RlLk5vZGUoMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWRqWzFdID09IFtdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0eXBlKG1lc2hfbW9jaykuZWxlbWVudF9jb3VudCA9IGVsZXMK</text>
+        <text encoding="base64">ICAgICAgICBuZDEgPSBub2RlLk5vZGUoMSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
