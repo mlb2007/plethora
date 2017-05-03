@@ -93,11 +93,10 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493838927135">
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="46" column="88" />
-        <mark key="." line="46" column="88" />
-        <mark key="^" line="46" column="88" />
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493843966809">
+        <mark key="[" line="97" column="18" />
+        <mark key="]" line="97" column="20" />
+        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
@@ -280,7 +279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF92YW5pbGxhX2RmcyhnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbmQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -296,31 +295,31 @@
             _vanilla_dfs_src(g, nd)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF92YW5pbGxhX2RmcyhnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbmQK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZGVmIF92YW5pbGxhX2RmcyhnKToKICAgIGZvciBuZCBpbiBnLm5vZGVzOgogICAgICAgIGlmIG5vdCBuZC52aXNpdGVkOgogICAgICAgICAgICBwcmludCAiTm90IHZpc2l0ZWQgb3V0ZXI6IiwgbmQKICAgICAgICAgICAgX3ZhbmlsbGFfZGZzX3NyYyhnLCBuZCkK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImEgY29tZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJjb21lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF92YW5pbGxhX2RmcyhnKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZGVmIF92YW5pbGxhX2RmcyhnKToKICAgIGZvciBuZCBpbiBnLm5vZGVzOgogICAgICAgIGlmIG5vdCBuZC52aXNpdGVkOgogICAgICAgICAgICBwcmludCAiTm90IHZpc2l0ZWQgb3V0ZXI6IiwgbmQKICAgICAgICAgICAgX3ZhbmlsbGFfZGZzX3NyYyhnLCBuZCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGsuYXBwZW5kKG5icikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiUmVjdXJzaW5nIHRvIG5icjoiLCBuYnIsICIgb2Ygc3JjOiIsIHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
