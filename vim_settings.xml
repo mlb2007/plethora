@@ -26,7 +26,8 @@
         <mark key="'" line="0" column="0" />
         <mark key="^" line="1928" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1493775877989">
+      <file name="/Python Console" timestamp="1493832934963">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
@@ -92,10 +93,11 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493831912917">
-        <mark key="[" line="115" column="16" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493832998071">
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
