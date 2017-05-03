@@ -27,7 +27,6 @@
         <mark key="^" line="1928" column="0" />
       </file>
       <file name="/Python Console" timestamp="1493751274191">
-        <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
         <mark key="." line="2" column="3" />
@@ -105,7 +104,7 @@
         <mark key="^" line="200" column="3" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493763989997">
+      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493774611458">
         <mark key="[" line="75" column="22" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -141,12 +140,12 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493763830873">
-        <mark key="'" line="99" column="7" />
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="19" />
-        <mark key="." line="48" column="19" />
-        <mark key="^" line="48" column="19" />
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493774586970">
+        <mark key="'" line="103" column="7" />
+        <mark key="[" line="115" column="16" />
+        <mark key="]" line="115" column="28" />
+        <mark key="." line="115" column="28" />
+        <mark key="^" line="115" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
@@ -278,11 +277,11 @@
       <jump line="116" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHUgPSBnLm5vZGVzW3VfaWRdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>TestCha</text>
@@ -291,31 +290,31 @@
         <text encoding="base64">ICAgZ2xvYmFsIGdfZmluaXNoX3RpbWUKICAgIGdfZmluaXNoX3RpbWUgPSBsZW4oZy5ub2RlcykKICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fbm9kZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHUgPSBnLm5vZGVzW3VfaWRdCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIk5vZGUoezB9KVt7MX1dIi5mb3JtYXQoc2VsZi5faWQsIGhleChpZChzZWxmKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fbm9kZXNbbm9kZV9pZF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHYgbm90IGluIGcubm9kZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fbm9kZXNbbm9kZV9pZF0gPSBub2RlLk5vZGUobm9kZV9pZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHUgbm90IGluIGcubm9kZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbmQgbm90IGluIHNlbGYubm9kZXM6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmQgPSBuZC5pZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKG5kLCBub2RlLk5vZGUpOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBubwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fbm9kZXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHUgbm90IGluIGcubm9kZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIk5vZGUoezB9KVt7MX1dIi5mb3JtYXQoc2VsZi5faWQsIGhleChpZChzZWxmKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzZWxmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHYgbm90IGluIGcubm9kZXM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
