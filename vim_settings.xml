@@ -93,12 +93,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493872909274">
-        <mark key="'" line="19" column="29" />
-        <mark key="[" line="156" column="4" />
-        <mark key="]" line="162" column="29" />
-        <mark key="." line="162" column="29" />
-        <mark key="^" line="162" column="29" />
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493874287697">
+        <mark key="'" line="140" column="4" />
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+        <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
@@ -138,11 +138,11 @@
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test.txt" timestamp="1493781364835">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="^" line="4" column="2" />
-        <mark key="." line="4" column="2" />
+      <file name="$USER_HOME$/GraphAlgos/test.txt" timestamp="1493874185398">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="7" column="2" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="7" column="2" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493865041551">
         <mark key="'" line="102" column="7" />
@@ -178,15 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3259" column="79" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3261" column="210" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3263" column="155" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3264" column="57" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3266" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3268" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3270" column="61" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="3427" column="85" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
-      <jump line="293" column="64" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="308" column="20" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="309" column="79" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="311" column="214" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -273,11 +264,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="75" column="7" filename="$USER_HOME$/GraphAlgos/graph.py" />
       <jump line="116" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" />
-      <jump line="140" column="18" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="4" column="0" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="58" column="35" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="64" column="29" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="19" column="29" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="27" column="19" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="28" column="62" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="29" column="28" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="30" column="12" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="72" column="19" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="73" column="28" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="74" column="12" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="125" column="11" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="140" column="4" filename="$USER_HOME$/GraphAlgos/scc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -287,7 +287,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>stack</text>
+        <text encoding="base64">XDxnX2ZpbmlzaF90aW1lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHdpdGggb3BlbihmaWxlbmFtZSwgJ3InKSBhcyBmOgogICAgICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgIA==</text>
@@ -324,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stack</last-search>
+      <last-search encoding="base64">XDxnX2ZpbmlzaF90aW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>stack</last-pattern>
+      <last-pattern encoding="base64">XDxnX2ZpbmlzaF90aW1lXD4=</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>1</last-dir>
@@ -334,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conic</entry>
         <entry>arc</entry>
         <entry>import</entry>
         <entry>read</entry>
@@ -354,6 +353,7 @@
         <entry>call_args_list</entry>
         <entry>TestCha</entry>
         <entry>stack</entry>
+        <entry encoding="base64">XDxnX2ZpbmlzaF90aW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1619</entry>
