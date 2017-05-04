@@ -93,12 +93,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493863438435">
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493865328947">
         <mark key="'" line="19" column="29" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="58" column="37" />
+        <mark key="[" line="154" column="25" />
+        <mark key="]" line="154" column="27" />
+        <mark key="." line="154" column="27" />
+        <mark key="^" line="154" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
@@ -144,10 +144,10 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493845462826">
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1493865041551">
         <mark key="'" line="102" column="7" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
+        <mark key="[" line="104" column="7" />
+        <mark key="]" line="106" column="7" />
         <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
@@ -280,8 +280,8 @@
       <jump line="19" column="29" filename="$USER_HOME$/GraphAlgos/scc.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHN0YWNrX2RlcHRoID0gbGVuKHN0aykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -290,38 +290,34 @@
         <text>stack</text>
       </register>
       <register name="0" type="4">
-        <text>def _vanilla_dfs(g):
-    for nd in g.nodes:
-        if not nd.visited:
-            print &quot;Not visited outer:&quot;, nd
-            _vanilla_dfs_src(g, nd)</text>
+        <text encoding="base64">IHdpdGggb3BlbihmaWxlbmFtZSwgJ3InKSBhcyBmOgogICAgICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YWNrX2RlcHRoID0gbGVuKHN0aykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgiJWQgIiAlIGtleS5pZCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJTdGFjayBkZXB0aDoiLCBzdGFja19kZXB0aAo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGxpbmUgaW4gZjoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlByb2Nlc3NpbmcgZmluaXNoIHRpbWU6IiwgdCwgIiBhbmQgbm9kZToiLCBuZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBvcmRlciBvZiBmaW5pc2ggdGltZXMgLi4uCg==</text>
+        <text encoding="base64">ICAgICMgICAgIHByaW50ICJmd2QtdmlzaXQgdGltZToiLCBuZC5maW5pc2hfdGltZSwgIiBmb3IgbmQ6IiwgbmQK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aWYgZmlyc3RwYXNzOgogICAgICAgICAgICAgICAgbmRfbGlzdFtzLmZpbmlzaF90aW1lXSA9IHMKIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICMgZm9yIG5kIGluIGdyZXYubm9kZXM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50ICJyZXYtdmlzaXQgdGltZToiLCBuZC5maW5pc2hfdGltZSwgIiBmb3IgbmQ6IiwgbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGZpcnN0cGFzczoK</text>
+        <text encoding="base64">ICAgIHN0YWNrX2RlcHRoID0gbGVuKHN0aykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkluc2VydGluZyBpbnRvIgo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJTdGFjayBkZXB0aDoiLCBzdGFja19kZXB0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
