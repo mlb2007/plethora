@@ -92,11 +92,12 @@
         <mark key="]" line="89" column="0" />
         <mark key="." line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493918208336">
-        <mark key="'" line="143" column="8" />
-        <mark key="[" line="73" column="34" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493919118826">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="167" column="4" />
+        <mark key="]" line="133" column="4" />
+        <mark key="." line="133" column="4" />
+        <mark key="^" line="133" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
         <mark key="'" line="116" column="25" />
@@ -176,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="79" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="311" column="214" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="313" column="159" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="314" column="57" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -267,7 +267,6 @@
       <jump line="19" column="29" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="8" column="0" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="27" column="19" filename="$USER_HOME$/GraphAlgos/scc.py" />
-      <jump line="28" column="62" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="29" column="28" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="30" column="12" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="72" column="19" filename="$USER_HOME$/GraphAlgos/scc.py" />
@@ -276,55 +275,57 @@
       <jump line="125" column="11" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="140" column="4" filename="$USER_HOME$/GraphAlgos/scc.py" />
       <jump line="139" column="8" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="78" column="28" filename="$USER_HOME$/GraphAlgos/scc.py" />
+      <jump line="28" column="20" filename="$USER_HOME$/GraphAlgos/scc.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNpZiBub3QgZ19zY2Nfcm9vdCA9PSBzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICI8PT0+IE5vZGU6IiwgcywgIiBoYXMgZmluaXNoIHRpbWUgc2V0IHRvOiIsIHMuZmluaXNoX3RpbWUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmludFw+</text>
+        <text encoding="base64">XDxOb2RlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGZvciBuZCBpbiBnLm5vZGVzOgogICAgICAgcHJpbnQgbmQsCiAgICBwcmludCAiXG5lZGdlczoiLCBnLmVkZ2VzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICNpZiBub3QgZ19zY2Nfcm9vdCA9PSBzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICI8PT0+IE5vZGU6IiwgcywgIiBoYXMgZmluaXNoIHRpbWUgc2V0IHRvOiIsIHMuZmluaXNoX3RpbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gd2FyZCBvZiB0cml2aWFsIG5vZGUgcmVhY2hhYmxlIGZyb20gaXRzZWxmLCB3ZSBoYXZlIHRoaXMgY2hlY2sgLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICNpZiBub3QgZ19zY2Nfcm9vdCA9PSBzOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdG8gd2FyZCBvZiB0cml2aWFsIG5vZGUgcmVhY2hhYmxlIGZyb20gaXRzZWxmLCB3ZSBoYXZlIHRoaXMgY2hlY2sgLi4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZGVsIG5vdCBkb25lIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZGVsIG5vdCBkb25lIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWwgY29tcHNbY29tcHMuaW5kZXgocyldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZGVsIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWwgY29tcHNbY29tcHMuaW5kZXgocyldCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiZGVsIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuYnIudmlzaXRlZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmludFw+</last-search>
+      <last-search encoding="base64">XDxOb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmludFw+</last-pattern>
+      <last-pattern encoding="base64">XDxOb2RlXD4=</last-pattern>
       <last-replace>BBox</last-replace>
       <last-substitute>Box</last-substitute>
       <last-dir>-1</last-dir>
@@ -332,7 +333,6 @@
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry>read</entry>
         <entry>revolve(</entry>
         <entry>_entity_type</entry>
@@ -352,6 +352,7 @@
         <entry>stack</entry>
         <entry encoding="base64">XDxnX2ZpbmlzaF90aW1lXD4=</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
+        <entry encoding="base64">XDxOb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1619</entry>
