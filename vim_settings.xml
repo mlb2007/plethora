@@ -96,11 +96,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1494367202612">
-        <mark key="[" line="155" column="24" />
-        <mark key="]" line="155" column="28" />
-        <mark key="." line="155" column="28" />
-        <mark key="^" line="155" column="28" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1494369414281">
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/scc.py" timestamp="1493922106609">
         <mark key="'" line="92" column="16" />
@@ -304,47 +303,47 @@
       <jump line="73" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>make_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bWVzaCA9IHRlc3NlbGxhdGUudGVzc2VsbGF0ZV9lbnRpdHkoZW50aXR5LCBvcHRpb25zKQogICAgICAgIHRlYy5hZGRfbWVzaChwcmVmaXgsIG1lc2gpCg==</text>
+        <text encoding="base64">IHN1cGVyKFdpcmVBZGFwdGVyLCBzZWxmKS5hZGRfem9uZXModGVjLCBwcmVmaXgsIGVudGl0eSwgb3B0aW9ucyk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVjLmFkZF9tZXNoKHByZWZpeCtjc3VmZml4LCBjbWVzaCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGNtZXNoID0gdGVzc2VsbGF0ZS50ZXNzZWxsYXRlX2VudGl0eShlZGdlX29mX3dpcmUsIG9wdGlvbnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdWZmaXggPSAnX2VkZ2UnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3N1ZmZpeCA9ICdfd2lyZV9lZGdlezB9Jy5mb3JtYXQoaWR4KzEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVjLmFkZF9wb2ludHMocHJlZml4ICsgJ19jb250cm9sX3BvaW50cycsIGJ6X3BvaW50cykK</text>
+        <text encoding="base64">ICAgIF9iZXppZXJfYWRhcHRlciA9IEJlemllckFkYXB0ZXIoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPSBbZW50aXR5LnAxLCBlbnRpdHkucDIsIGVudGl0eS5wMywgZW50aXR5LnA0XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQgKz0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoID0gdGVzc2VsbGF0ZS50ZXNzZWxsYXRlX2VudGl0eShlbnRpdHksIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWMuYWRkX21lc2gocHJlZml4LCBtZXNoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWZmaXggPSAnX2VkZ2UnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXJlX21lc2ggPSB0ZXNzZWxsYXRlLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eS4sIG9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVjLmFkZF9wb2ludHMocHJlZml4ICsgJ19jb250cm9sX3BvaW50cycsIGJ6X3BvaW50cykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbTEubWlycm9yLmNhbGxlZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPSBbZW50aXR5LnAxLCBlbnRpdHkucDIsIGVudGl0eS5wMywgZW50aXR5LnA0XQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -397,9 +396,9 @@
         <entry>%s/Point2D/Point2DEntity/gc</entry>
         <entry>%s/Box/BBox/gc</entry>
         <entry>e</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
