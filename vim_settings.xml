@@ -86,11 +86,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1494351158651">
-        <mark key="[" line="295" column="55" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="305" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1494352413684">
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="277" column="0" />
+        <mark key="." line="277" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -158,10 +157,10 @@
         <mark key="]" line="106" column="7" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1494351237873">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1494352526591">
+        <mark key="[" line="67" column="38" />
+        <mark key="]" line="67" column="37" />
+        <mark key="." line="67" column="37" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1494279795466">
         <mark key="[" line="1458" column="0" />
@@ -194,11 +193,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1494351709197">
-        <mark key="[" line="532" column="25" />
-        <mark key="]" line="527" column="19" />
-        <mark key="." line="527" column="19" />
-        <mark key="^" line="527" column="19" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1494352398740">
+        <mark key="[" line="531" column="15" />
+        <mark key="]" line="531" column="0" />
+        <mark key="." line="531" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -304,75 +302,44 @@
       <jump line="692" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>call_</text>
       </register>
       <register name="0" type="4">
-        <text>class TestInterpolatedSpline(TestCurve):
-    def get_smart_curve(self, mock_edge):
-        p1 = mock.Mock()
-        p2 = mock.Mock()
-        p3 = mock.Mock()
-
-        return sc.InterpolatedSpline(mock_edge, [p1, p2, p3])
-
-    def test_constructor(self):
-        p1 = sc.ORIGIN
-        p2 = sc.UNIT_VEC_X
-        p3 = sc.UNIT_VEC_Y
-        p4 = (1, 2, 3)
-        p5 = [1, -1, 0]
-        p6 = p1.copy()
-
-        pts = [p1, p2, p3, p4, p5, p6]
-        e = mock.Mock()
-        b = sc.InterpolatedSpline(e, pts)
-        pts.append(p1)
-        assert len(b.interpolated_points) == 6
-
-    def test_copy(self):
-        p = mock.Mock(wrap=sc.Point3D(1, 3, -1.5))
-        pts = [p, p, p, p, p]
-        e = mock.Mock()
-        b = sc.InterpolatedSpline(e, pts)
-
-        b2 = b.copy()
-        assert isinstance(b2, sc.InterpolatedSpline)
-        assert b.s_entity.clone.called
-        assert p.copy.call_count == 5</text>
+        <text encoding="base64">IHN1cGVyKFdpcmUsIHNlbGYpLg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fdG9wX2xldmVsX3B5X2VudGl0aWVzLl9fbGVuX18oKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcC5jb3B5LmNhbGxfY291bnQgPT0gNQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnQgPSBjb3VudCArIDEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYi5zX2VudGl0eS5jbG9uZS5jYWxsZWQK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZmYgaW4gdzoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShiMiwgc2MuSW50ZXJwb2xhdGVkU3BsaW5lKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiMiA9IGIuY29weSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBsZW4ocGllY2VzKSwgIiBwaWVjZXMiCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiID0gc2MuSW50ZXJwb2xhdGVkU3BsaW5lKGUsIHB0cykK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoV2lyZSwgc2VsZikuX19sZW5fXygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2xlbl9fKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdHMgPSBbcCwgcCwgcCwgcCwgcF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
