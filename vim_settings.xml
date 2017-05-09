@@ -86,8 +86,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1494349480959">
-        <mark key="[" line="304" column="55" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1494351158651">
+        <mark key="[" line="295" column="55" />
         <mark key="]" line="305" column="0" />
         <mark key="." line="305" column="0" />
         <mark key="^" line="305" column="0" />
@@ -158,6 +158,11 @@
         <mark key="]" line="106" column="7" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1494351237873">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1494279795466">
         <mark key="[" line="1458" column="0" />
         <mark key="]" line="1458" column="22" />
@@ -188,6 +193,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1494351709197">
+        <mark key="[" line="532" column="25" />
+        <mark key="]" line="527" column="19" />
+        <mark key="." line="527" column="19" />
+        <mark key="^" line="527" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -294,7 +305,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -303,34 +314,65 @@
         <text>call_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuZ2V0X3NfZW50aXR5JykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLm1ha2VXaXJlRnJvbUVkZ2VzJywgcmV0dXJuX3ZhbHVlPSd3aXJlJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2Uuc0VudGl0eVB0clZlYycpCiAgICBkZWYgdGVzdF93aXJlX2Zyb20yKHNlbGYsIGNsaXN0X21vY2ssIHdpcmVfbW9jaywgZ2V0X2VudF9tb2NrKToKICAgICAgICAjIG5lZWQgdGhlIHJldHVybiB2YWx1ZSB0byBiZSBpdGVyYWJsZQogICAgICAgIGNsaXN0X21vY2sucmV0dXJuX3ZhbHVlID0gbW9jay5NYWdpY01vY2soKQoKICAgICAgICAjIGNhbGwgbGlrZSBhIGNvbW1hIHNlcGFyYXRlZCBsaXN0IG9mIGVkZ2VzIC4uLgogICAgICAgIHNjLndpcmVfZnJvbSgnZTEnLCAnZTInKQoKICAgICAgICBhc3NlcnQgZ2V0X2VudF9tb2NrLmNhbGxfY291bnQgPT0gMgogICAgICAgIGFzc2VydCBnZXRfZW50X21vY2suY2FsbF9hcmdzX2xpc3QgPT0gW21vY2suY2FsbCgnZTEnKSwgbW9jay5jYWxsKCdlMicpXQogICAgICAgIGFzc2VydCBjbGlzdF9tb2NrLnJldHVybl92YWx1ZS5hcHBlbmQuY2FsbF9jb3VudCA9PSAyCiAgICAgICAgYXNzZXJ0IHdpcmVfbW9jay5jYWxsZWQKICAgICAgICBhc3NlcnQgd2lyZV9tb2NrLmNhbGxfYXJnc1swXSA9PSAoY2xpc3RfbW9jay5yZXR1cm5fdmFsdWUsKQ==</text>
+        <text>class TestInterpolatedSpline(TestCurve):
+    def get_smart_curve(self, mock_edge):
+        p1 = mock.Mock()
+        p2 = mock.Mock()
+        p3 = mock.Mock()
+
+        return sc.InterpolatedSpline(mock_edge, [p1, p2, p3])
+
+    def test_constructor(self):
+        p1 = sc.ORIGIN
+        p2 = sc.UNIT_VEC_X
+        p3 = sc.UNIT_VEC_Y
+        p4 = (1, 2, 3)
+        p5 = [1, -1, 0]
+        p6 = p1.copy()
+
+        pts = [p1, p2, p3, p4, p5, p6]
+        e = mock.Mock()
+        b = sc.InterpolatedSpline(e, pts)
+        pts.append(p1)
+        assert len(b.interpolated_points) == 6
+
+    def test_copy(self):
+        p = mock.Mock(wrap=sc.Point3D(1, 3, -1.5))
+        pts = [p, p, p, p, p]
+        e = mock.Mock()
+        b = sc.InterpolatedSpline(e, pts)
+
+        b2 = b.copy()
+        assert isinstance(b2, sc.InterpolatedSpline)
+        assert b.s_entity.clone.called
+        assert p.copy.call_count == 5</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcC5jb3B5LmNhbGxfY291bnQgPT0gNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgV2lyZShFbnRpdHlHcm91cCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYi5zX2VudGl0eS5jbG9uZS5jYWxsZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgaXNpbnN0YW5jZShiMiwgc2MuSW50ZXJwb2xhdGVkU3BsaW5lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2xpc3RfbW9jay5yZXR1cm5fdmFsdWUuYXBwZW5kLmNhbGxfY291bnQgPT0gMgo=</text>
+        <text encoding="base64">ICAgICAgICBiMiA9IGIuY29weSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjZ2V0X2VudF9tb2NrLnJldHVybl92YWx1ZS5zaWRlX2VmZmVjdCA9IFsxLCAyLCAzXQo=</text>
+        <text encoding="base64">ICAgICAgICBiID0gc2MuSW50ZXJwb2xhdGVkU3BsaW5lKGUsIHB0cykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZW50bGlzdF9tb2NrLnJldHVybl92YWx1ZS5yZXR1cm5fdmFsdWVbMF0gPT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBlID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBwdHMgPSBbcCwgcCwgcCwgcCwgcF0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
