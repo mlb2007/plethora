@@ -37,6 +37,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1494473536886">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mock_test.py" timestamp="1492452236295">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -100,18 +103,16 @@
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1493671715113">
-        <mark key="'" line="116" column="25" />
-        <mark key="[" line="200" column="26" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="200" column="3" />
-        <mark key="." line="200" column="0" />
-      </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
         <mark key="]" line="170" column="46" />
         <mark key="." line="170" column="46" />
         <mark key="^" line="170" column="46" />
+      </file>
+      <file name="$USER_HOME$/GraphAlgos/test/test_dijk.txt" timestamp="1494472612312">
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mesh_options/mesh_opt.py" timestamp="1484947382763">
         <mark key="[" line="33" column="16" />
@@ -144,11 +145,11 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1494472171239">
-        <mark key="'" line="102" column="7" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1494474728822">
+        <mark key="'" line="104" column="7" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
@@ -180,6 +181,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/GraphAlgos/test/test_graph.py" timestamp="1494474820003">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="118" column="89" />
+        <mark key="]" line="118" column="89" />
+        <mark key="." line="118" column="89" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492541379230">
         <mark key="[" line="166" column="57" />
         <mark key="]" line="167" column="11" />
@@ -198,10 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="342" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="347" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="348" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="376" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="124" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="126" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
@@ -298,63 +301,66 @@
       <jump line="494" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="793" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="4" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
+      <jump line="9" column="4" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
+      <jump line="131" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>test_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QHN0YXRpY21ldGhvZAogICAgZGVmIGdyYXBoX2Zyb21fZmlsZShmaWxlbmFtZSk6CiAgICAgICAgZyA9IEdyYXBoKCkKICAgICAgICB3aXRoIG9wZW4oZmlsZW5hbWUsICdyJykgYXMgZjoKICAgICAgICAgICAgZm9yIGxpbmUgaW4gZjoKICAgICAgICAgICAgICAgIGNsaW5lID0gbGluZS5zcGxpdCgpCiAgICAgICAgICAgICAgICBpZiBsZW4oY2xpbmUpID4gMjoKICAgICAgICAgICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoIklucHV0IGNvbnRhaW5zID4gdHdvIGVudHJpZXMsIGNhbm5vdCB1bmRlcnN0YW5kICVkIiAlIGxlbihjbGluZSkpCiAgICAgICAgICAgICAgICB1X2lkID0gaW50KGNsaW5lWzBdKQogICAgICAgICAgICAgICAgdl9pZCA9IGludChjbGluZVsxXSkKICAgICAgICAgICAgICAgIHUgPSBnLmFkZF9ub2RlKHVfaWQpCiAgICAgICAgICAgICAgICB2ID0gZy5hZGRfbm9kZSh2X2lkKQogICAgICAgICAgICAgICAgZy5hZGRfZWRnZSh1LCB2KQogICAgICAgIHJldHVybiBnCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfZ3JhcGhfZnJvbV9maWxlKHNlbGYpOgogICAgICAgIHdpdGggbW9jay5wYXRjaCgnX19idWlsdGluX18ub3BlbicsIG1vY2subW9ja19vcGVuKHJlYWRfZGF0YT0nMCAxXG4xIDInKSkgYXMgbW9ja19maWxlOgogICAgICAgICAgICAjIGVsYWJvcmF0ZSBsYW1iZGEgdG8gaXRlcmF0ZSB3aXRoaW4gYSBjb250ZXh0IG1hbmFnZXIgLi4uCiAgICAgICAgICAgIG1vY2tfZmlsZS5yZXR1cm5fdmFsdWUuX19pdGVyX18gPSBsYW1iZGEgc2VsZl9maDogaXRlcihzZWxmX2ZoLnJlYWRsaW5lLCAnJykKCiAgICAgICAgICAgICMgY2FsbAogICAgICAgICAgICBnID0gZ3JhcGguR3JhcGguZ3JhcGhfZnJvbV9maWxlKG1vY2tfZmlsZSkKCiAgICAgICAgICAgICMgYXNzZXJ0CiAgICAgICAgICAgIG1vY2tfZmlsZS5hc3NlcnRfY2FsbGVkX3dpdGgobW9ja19maWxlLCAncicpCiAgICAgICAgICAgIGFzc2VydCBtb2NrX2ZpbGUucmV0dXJuX3ZhbHVlLnJlYWRsaW5lLmNhbGxlZAogICAgICAgICAgICBhc3NlcnQgZy5ub2RlX2NvdW50ID09IDMKICAgICAgICAgICAgYXNzZXJ0IGcuZWRnZV9jb3VudCA9PSAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlx0Q3JlYXRpbmcgbm9kZSB3aXRoIGlkOiIsIG5vZGVfaWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUgPSBnLmFkZF9ub2RlKHVfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlx0dXUgaXM6IiwgdXUsIGhleChpZCh1dSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUgPSBnLmFkZF9ub2RlKHVfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlx0Y2hlY2sgZm9yIG5vZGUgaWQ6Iiwgbm9kZV9pZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCAiXG5hZGRlZCB2IG5vZGU6Iiwgdl9pZCwgaGV4KGlkKHYpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYWlzZSBUeXBlRXJyb3IoIklucHV0IGNvbnRhaW5zID4gdHdvIGVudHJpZXMsIGNhbm5vdCB1bmRlcnN0YW5kICVkIiAlIGxlbihjbGluZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJcbmFkZGVkIHUgbm9kZToiLCB1X2lkLCBoZXgoaWQodSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGxlbihjbGluZSkgPiAyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICJhZGRlZCBub2RlOiIsIHVfaWQsIGhleChpZCh1KSkgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9hZGpMaXN0W3VdID0gdl93Cg==</text>
+        <text encoding="base64">NyA1Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/test_/no_test_/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>test_</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
-      <last-replace>BBox</last-replace>
-      <last-substitute>Box</last-substitute>
+      <last-pattern>test_</last-pattern>
+      <last-replace>no_test_</last-replace>
+      <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>unite(</entry>
         <entry encoding="base64">XDxjaW50ZXJmYWNlXD4=</entry>
         <entry>entity_type</entry>
         <entry>chop</entry>
@@ -374,10 +380,9 @@
         <entry>cinterface</entry>
         <entry>make_</entry>
         <entry>print</entry>
+        <entry>test_</entry>
       </history-search>
       <history-cmd>
-        <entry>1619</entry>
-        <entry>1686</entry>
         <entry>1712</entry>
         <entry>1612</entry>
         <entry>1546</entry>
@@ -395,7 +400,9 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>%s/test_/no_test/gc</entry>
         <entry>w</entry>
+        <entry>%s/test_/no_test_/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
