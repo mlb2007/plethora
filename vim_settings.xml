@@ -181,9 +181,9 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/test/test_graph.py" timestamp="1494474820003">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="118" column="89" />
+      <file name="$USER_HOME$/GraphAlgos/test/test_graph.py" timestamp="1494509615126">
+        <mark key="'" line="189" column="16" />
+        <mark key="[" line="129" column="35" />
         <mark key="]" line="118" column="89" />
         <mark key="." line="118" column="89" />
       </file>
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="124" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="126" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
       <jump line="120" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" />
@@ -305,6 +304,7 @@
       <jump line="9" column="4" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
       <jump line="131" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
       <jump line="0" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
+      <jump line="186" column="16" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -314,7 +314,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>test_</text>
+        <text>no_test_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfZ3JhcGhfZnJvbV9maWxlKHNlbGYpOgogICAgICAgIHdpdGggbW9jay5wYXRjaCgnX19idWlsdGluX18ub3BlbicsIG1vY2subW9ja19vcGVuKHJlYWRfZGF0YT0nMCAxXG4xIDInKSkgYXMgbW9ja19maWxlOgogICAgICAgICAgICAjIGVsYWJvcmF0ZSBsYW1iZGEgdG8gaXRlcmF0ZSB3aXRoaW4gYSBjb250ZXh0IG1hbmFnZXIgLi4uCiAgICAgICAgICAgIG1vY2tfZmlsZS5yZXR1cm5fdmFsdWUuX19pdGVyX18gPSBsYW1iZGEgc2VsZl9maDogaXRlcihzZWxmX2ZoLnJlYWRsaW5lLCAnJykKCiAgICAgICAgICAgICMgY2FsbAogICAgICAgICAgICBnID0gZ3JhcGguR3JhcGguZ3JhcGhfZnJvbV9maWxlKG1vY2tfZmlsZSkKCiAgICAgICAgICAgICMgYXNzZXJ0CiAgICAgICAgICAgIG1vY2tfZmlsZS5hc3NlcnRfY2FsbGVkX3dpdGgobW9ja19maWxlLCAncicpCiAgICAgICAgICAgIGFzc2VydCBtb2NrX2ZpbGUucmV0dXJuX3ZhbHVlLnJlYWRsaW5lLmNhbGxlZAogICAgICAgICAgICBhc3NlcnQgZy5ub2RlX2NvdW50ID09IDMKICAgICAgICAgICAgYXNzZXJ0IGcuZWRnZV9jb3VudCA9PSAyCg==</text>
@@ -347,21 +347,20 @@
         <text encoding="base64">NyA1Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/test_/no_test_/gc</text>
+        <text>%s/no_test_/test_/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>test_</last-search>
+      <last-search>no_test_</last-search>
       <last-offset />
-      <last-pattern>test_</last-pattern>
-      <last-replace>no_test_</last-replace>
-      <last-substitute>test_</last-substitute>
+      <last-pattern>no_test_</last-pattern>
+      <last-replace>test_</last-replace>
+      <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaW50ZXJmYWNlXD4=</entry>
         <entry>entity_type</entry>
         <entry>chop</entry>
         <entry>call_args</entry>
@@ -381,9 +380,9 @@
         <entry>make_</entry>
         <entry>print</entry>
         <entry>test_</entry>
+        <entry>no_test_</entry>
       </history-search>
       <history-cmd>
-        <entry>1712</entry>
         <entry>1612</entry>
         <entry>1546</entry>
         <entry>1559</entry>
@@ -403,6 +402,7 @@
         <entry>%s/test_/no_test/gc</entry>
         <entry>w</entry>
         <entry>%s/test_/no_test_/gc</entry>
+        <entry>%s/no_test_/test_/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
