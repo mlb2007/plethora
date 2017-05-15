@@ -16,7 +16,8 @@
       <file name="/start_script.py" timestamp="1494472393941">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1494438374759">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1494878373826">
+        <mark key="'" line="11" column="39" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="0" />
@@ -26,7 +27,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1494527928643">
+      <file name="/Python Console" timestamp="1494877832505">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
@@ -60,11 +61,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1494875841634">
-        <mark key="'" line="722" column="21" />
-        <mark key="[" line="717" column="26" />
-        <mark key="]" line="717" column="0" />
-        <mark key="." line="717" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1494879884841">
+        <mark key="'" line="161" column="4" />
+        <mark key="[" line="805" column="47" />
+        <mark key="]" line="805" column="47" />
+        <mark key="." line="805" column="47" />
+        <mark key="^" line="805" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
         <mark key="[" line="12" column="8" />
@@ -105,6 +107,9 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
@@ -211,22 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2684" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2785" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2840" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2935" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3970" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1484" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1574" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2319" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2364" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="607" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="187" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" />
-      <jump line="156" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
-      <jump line="192" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
-      <jump line="196" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
-      <jump line="230" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
-      <jump line="233" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="75" column="7" filename="$USER_HOME$/GraphAlgos/graph.py" />
       <jump line="116" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" />
@@ -287,7 +276,6 @@
       <jump line="615" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="680" column="5" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="494" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="793" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="4" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -311,55 +299,72 @@
       <jump line="6" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="715" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="720" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="211" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="224" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="749" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="750" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="172" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="185" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="198" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" />
+      <jump line="751" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="76" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="7" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="8" column="49" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="11" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="746" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="161" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9jaGVja19tb3JwaF9wcm9maWxlX3R5cGUoc2VsZiwgbV9lbnRfdHlwZSk6CiAgICAgICAgcHJvZmlsZSA9IG1vY2suTW9jaygpCgogICAgICAgIHBtID0gbW9jay5Qcm9wZXJ0eU1vY2soKQogICAgICAgIHBtLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUuYm9keQogICAgICAgIHR5cGUocHJvZmlsZSkuc19lbnRpdHkgPSBwbQoKICAgICAgICBwYXRoID0gbW9jay5Nb2NrKCkKICAgICAgICBwbTIgPSBtb2NrLlByb3BlcnR5TW9jaygpCiAgICAgICAgcG0yLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUud2lyZQogICAgICAgIHR5cGUocGF0aCkuc19lbnRpdHkgPSBwbTIKCiAgICAgICAgbV9lbnRfdHlwZS50eXBlX29mLnNpZGVfZWZmZWN0ID0gW3BtLnJldHVybl92YWx1ZSwgcG0yLnJldHVybl92YWx1ZV0KCiAgICAgICAgc3dlZXBfaW5zdCA9IHNjLl9Td2VlcChwcm9maWxlLCBwYXRoKQoKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToKICAgICAgICAgICAgc3dlZXBfaW5zdC5jaGVja19hbmRfbW9ycGhfaW5wdXRzKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRfY2FsbGVkXD4=</text>
+        <text encoding="base64">XDxfZW50aXR5X3R5cGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdE1ha2VXaXJlKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X2FyZ3Moc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBzYy5tYWtlX3dpcmUoW10pCiAgICAgICAgb25lX2VkZ2UgPSBtb2NrLk1vY2soKQogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhUeXBlRXJyb3IpOgogICAgICAgICAgICBzYy5tYWtlX3dpcmUob25lX2VkZ2UpCgogICAgQG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5nZXRfc19lbnRpdHknKQogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5HZW9tZXRyeU9wZXJhdGlvbnMubWFrZVdpcmVGcm9tRWRnZXMnLCByZXR1cm5fdmFsdWU9J3dpcmUnKQogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5zRW50aXR5UHRyVmVjJykKICAgIGRlZiB0ZXN0X3dpcmVfZnJvbShzZWxmLCBjbGlzdF9tb2NrLCB3aXJlX21vY2ssIGdldF9lbnRfbW9jayk6CiAgICAgICAgIyBuZWVkIHRoZSByZXR1cm4gdmFsdWUgdG8gYmUgaXRlcmFibGUKICAgICAgICBjbGlzdF9tb2NrLnJldHVybl92YWx1ZSA9IG1vY2suTWFnaWNNb2NrKCkKCiAgICAgICAgIyBjYWxsIGxpa2UgYSBsaXN0IG9mIGVkZ2VzIC4uLgogICAgICAgIHNjLm1ha2Vfd2lyZShbJ2UxJywgJ2UyJ10pCgogICAgICAgIGFzc2VydCBnZXRfZW50X21vY2suY2FsbF9jb3VudCA9PSAyCiAgICAgICAgYXNzZXJ0IGdldF9lbnRfbW9jay5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKCdlMScpLCBtb2NrLmNhbGwoJ2UyJyldCiAgICAgICAgYXNzZXJ0IGNsaXN0X21vY2sucmV0dXJuX3ZhbHVlLmFwcGVuZC5jYWxsX2NvdW50ID09IDIKICAgICAgICBhc3NlcnQgd2lyZV9tb2NrLmNhbGxlZAogICAgICAgIGFzc2VydCB3aXJlX21vY2suY2FsbF9hcmdzWzBdID09IChjbGlzdF9tb2NrLnJldHVybl92YWx1ZSwpCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9jaGVja19tb3JwaF9wcm9maWxlX3R5cGUoc2VsZiwgbV9lbnRfdHlwZSk6CiAgICAgICAgcHJvZmlsZSA9IG1vY2suTW9jaygpCgogICAgICAgIHBtID0gbW9jay5Qcm9wZXJ0eU1vY2soKQogICAgICAgIHBtLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUuYm9keQogICAgICAgIHR5cGUocHJvZmlsZSkuc19lbnRpdHkgPSBwbQoKICAgICAgICBwYXRoID0gbW9jay5Nb2NrKCkKICAgICAgICBwbTIgPSBtb2NrLlByb3BlcnR5TW9jaygpCiAgICAgICAgcG0yLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUud2lyZQogICAgICAgIHR5cGUocGF0aCkuc19lbnRpdHkgPSBwbTIKCiAgICAgICAgbV9lbnRfdHlwZS50eXBlX29mLnNpZGVfZWZmZWN0ID0gW3BtLnJldHVybl92YWx1ZSwgcG0yLnJldHVybl92YWx1ZV0KCiAgICAgICAgc3dlZXBfaW5zdCA9IHNjLl9Td2VlcChwcm9maWxlLCBwYXRoKQoKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToKICAgICAgICAgICAgc3dlZXBfaW5zdC5jaGVja19hbmRfbW9ycGhfaW5wdXRzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcGF0aF90eXBlID09IHNjLkVudGl0eVR5cGUud2lyZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcHJvZmlsZV90eXBlID09IHNjLkVudGl0eVR5cGUuZmFjZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcGF0aCA9PSBwYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcG9pbnRfbW9jay5jYWxsZWRfd2l0aCgnMScsICcyJywgJzMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcHJvZmlsZSA9PSBwcm9maWxlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19nZXRfZW50X3R5cGUuY2FsbGVkX3dpdGgoImFueSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcHJvZmlsZV90eXBlID09IHNjLkVudGl0eVR5cGUuZmFjZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuZ2V0X3NfZW50aXR5JykK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcHJvZmlsZV90eXBlID09IHNjLkVudGl0eVR5cGUuZmFjZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuX2VudGl0eV90eXBlJykK</text>
+        <text encoding="base64">ICAgICAgICAjbV9jcHBfZW50X3R5cGUuc2lkZV9lZmZlY3QgPSBbcG0ucmV0dXJuX3ZhbHVlLCBwbTIucmV0dXJuX3ZhbHVlXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGwgbGlrZSBhIGxpc3Qgb2YgZWRnZXMgLi4uCg==</text>
+        <text encoding="base64">ICAgICNAbW9jay5wYXRjaCgncHlzYWdlLkdlb21ldHJ5T3BlcmF0aW9ucy5nZXRfc0VudGl0eVR5cGUnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRfY2FsbGVkXD4=</last-search>
+      <last-search encoding="base64">XDxfZW50aXR5X3R5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRfY2FsbGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfZW50aXR5X3R5cGVcPg==</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -367,12 +372,8 @@
     </search>
     <history>
       <history-search>
-        <entry>stack</entry>
-        <entry encoding="base64">XDxnX2ZpbmlzaF90aW1lXD4=</entry>
-        <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDxOb2RlXD4=</entry>
         <entry encoding="base64">XDxpZlw+</entry>
-        <entry>s_entity</entry>
         <entry>join</entry>
         <entry encoding="base64">XDxzRW50aXR5UHRyVmVjXD4=</entry>
         <entry>call_c</entry>
@@ -384,9 +385,13 @@
         <entry>no_test_</entry>
         <entry>swee</entry>
         <entry>sweep</entry>
-        <entry encoding="base64">XDxfZW50aXR5X3R5cGVcPg==</entry>
         <entry>sweep(</entry>
         <entry encoding="base64">XDxhc3NlcnRfY2FsbGVkXD4=</entry>
+        <entry>PropertyMock</entry>
+        <entry>type(</entry>
+        <entry encoding="base64">XDxzX2VudGl0eVw+</entry>
+        <entry>s_entity</entry>
+        <entry encoding="base64">XDxfZW50aXR5X3R5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1612</entry>
