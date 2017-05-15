@@ -69,12 +69,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1494868676321">
-        <mark key="'" line="665" column="47" />
-        <mark key="[" line="679" column="0" />
-        <mark key="]" line="679" column="0" />
-        <mark key="^" line="679" column="0" />
-        <mark key="." line="679" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1494871608642">
+        <mark key="[" line="665" column="0" />
+        <mark key="]" line="665" column="0" />
+        <mark key="." line="665" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1494438349793">
         <mark key="[" line="10" column="84" />
@@ -312,43 +310,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHByb2ZpbGVfdHlwZSBpcyBub3QgRW50aXR5VHlwZS5mYWNlOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>sweep(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHJldm9sdmUocHJvZmlsZSwgYXhpc19wb2ludCwgYXhpcywgYW5nbGU9MzYwLCBkZWdyZWVzPVRydWUsIGNyZWF0ZV9zb2xpZD1UcnVlKToKICAgICIiIgoKICAgIEEgcm91dGluZSB0byByZXZvbHZlIGEgcHJvZmlsZSBhcm91bmQgYW4gYXhpcyB0byBnZW5lcmF0ZSBhIHN1cmZhY2Ugb3IgYSBib2R5CgogICAgOnBhcmFtIHByb2ZpbGU6IEEgU0FHRSBlZGdlL3dpcmUgZW50aXR5IHRoYXQgZGVzY3JpYmVzIHRoZSBwcm9maWxlIHRvIGJlIHJldm9sdmVkLiBDYW4gYmUgb3BlbiBvciBjbG9zZWQuCgogICAgOnBhcmFtIGF4aXNfcG9pbnQ6ICh4LHkseikgY29vcmRpbmF0ZXMgdGhhdCBkZXNjcmliZXMgdGhlIGF4aXMgb3JpZ2luIHBvaW50CgogICAgOnBhcmFtIGF4aXM6ICh4LHkseikgdmFsdWVzIHRoYXQgZGVzY3JpYmUgdGhlIGF4aXMgYWJvdXQgd2hpY2ggcHJvZmlsZSBpcyB0byBiZSByZXZvbHZlZAoKICAgIDpwYXJhbSBhbmdsZTogQSBmbG9hdCB2YWx1ZSAoaW4gZGVncmVlcykgdGhyb3VnaCB3aGljaCB0aGUgcHJvZmlsZSBpcyB0byBiZSByZXZvbHZlZAoKICAgIDpwYXJhbSBkZWdyZWVzOiBBIGJvb2xlYW4gdGhhdCBkZW5vdGVzIGlmIHRoZSBpbnB1dCBhbmdsZSBvZiByZXZvbHV0aW9uIGlzIGluIGRlZ3JlZXMgb3IgcmFkaWFucwoKICAgIDpwYXJhbSBjcmVhdGVfc29saWQ6IEEgYm9vbGVhbiB0aGF0IGRlbm90ZXMgaWYgYSBzdXJmYWNlIG9yIGEgc29saWQgaXMgdG8gYmUgZ2VuZXJhdGVkCgogICAgOnJldHVybjogQSByZXZvbHZlZCBzdXJmYWNlL2JvZHkgU0FHRSBlbnRpdHkKICAgIAogICAgOlVzYWdlOiBFeGFtcGxlIDEuMywgMS42CgogICAgIiIiCiAgICBheGlzX3BvaW50ID0gUG9pbnQzRChheGlzX3BvaW50KQogICAgYXhpc19wb2ludCA9IHB5c2FnZS5Qb2ludDNEKGF4aXNfcG9pbnRbMF0sIGF4aXNfcG9pbnRbMV0sIGF4aXNfcG9pbnRbMl0pCiAgICBheGlzID0gcHlzYWdlLnNWZWN0b3IzRChheGlzWzBdLCBheGlzWzFdLCBheGlzWzJdKQogICAgaWYgZGVncmVlczoKICAgICAgICBhbmdsZSA9IG1hdGgucmFkaWFucyhhbmdsZSkKICAgIHJldm9sdmVfcmVzdWx0ID0gcHlzYWdlLkdlb21ldHJ5T3BlcmF0aW9ucy5yZXZvbHZlRW50aXR5KHByb2ZpbGUsIGF4aXNfcG9pbnQsIGF4aXMsIGFuZ2xlLCBjcmVhdGVfc29saWQpCiAgICByZXR1cm4gcmV2b2x2ZV9yZXN1bHQKCgpkZWYgc3dlZXAocHJvZmlsZSwgZWRnZV9vcl93aXJlKToKICAgICIiIgoKICAgIEEgcm91dGluZSB0byBzd2VlcCBhIHByb2ZpbGUgYWxvbmcgYW4gZWRnZSBvciBhIHNldCBvZiBjb25uZWN0ZWQgZWRnZXMgKCJ3aXJlIikgdG8gZ2VuZXJhdGUgYSBzd2VwdCBTQUdFIGJvZHkgZW50aXR5CgogICAgOnBhcmFtIHByb2ZpbGU6IEEgU0FHRSBlZGdlL3dpcmUgZW50aXR5IHRoYXQgZGVzY3JpYmVzIHRoZSBwcm9maWxlIHRvIGJlIHN3ZXB0LiBDYW4gYmUgb3BlbiBvciBjbG9zZWQuCgogICAgOnBhcmFtIGVkZ2Vfb3Jfd2lyZTogQSBTQUdFIGVkZ2Ugb3IgY29ubmVjdGVkIHdpcmUgZW50aXR5IHRocm91Z2ggd2hpY2ggdGhlIHByb2ZpbGUgaXMgc3dlcHQuCgogICAgOnJldHVybjogQSBzd2VwdCBTQUdFIGJvZHkgb3IgRmFjZSBlbnRpdHkgZXBlbmRpbmcgb24gdGhlIHN3ZWVwIHByb2ZpbGUgYW5kIHBhdGguCiAgICAKICAgIDpVc2FnZTogRXhhbXBsZSAxLjMsIDIuMgogICAgIiIiCiAgICBpZiBpc2luc3RhbmNlKGVkZ2Vfb3Jfd2lyZSwgcHlzYWdlLnNFZGdlKToKICAgICAgICBwYXRoID0gbWFrZV93aXJlKGVkZ2Vfb3Jfd2lyZSkKICAgIGVsc2U6CiAgICAgICAgcGF0aCA9IGVkZ2Vfb3Jfd2lyZQoKICAgIGlmIGlzaW5zdGFuY2UocHJvZmlsZSwgcHlzYWdlLnNFZGdlKToKICAgICAgICB3aXJlID0gbWFrZV93aXJlKHByb2ZpbGUpCiAgICAgICAgcmV0dXJuIHB5c2FnZS5HZW9tZXRyeU9wZXJhdGlvbnMuc3dlZXBXaXJlQWxvbmdXaXJlKHdpcmUsIHBhdGgpCiAgICBlbGlmIGlzaW5zdGFuY2UocHJvZmlsZSwgcHlzYWdlLnNGYWNlKToKICAgICAgICByZXR1cm4gcHlzYWdlLkdlb21ldHJ5T3BlcmF0aW9ucy5zd2VlcEZhY2VBbG9uZ1dpcmUocHJvZmlsZSwgcGF0aCkKICAgIHN3ZWVwX3Jlc3VsdCA9IHB5c2FnZS5HZW9tZXRyeU9wZXJhdGlvbnMuc3dlZXBXaXJlQWxvbmdXaXJlKHByb2ZpbGUsIHBhdGgpCiAgICByZXR1cm4gc3dlZXBfcmVzdWx0Cg==</text>
+        <text encoding="base64">aWYgcHJvZmlsZV90eXBlIGlzIEVudGl0eVR5cGUuZWRnZToKICAgICAgICBwcm9maWxlID0gbWFrZV93aXJlKHByb2ZpbGUuY29weSgpKQogICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHByb2ZpbGVfdHlwZSBpcyBub3QgRW50aXR5VHlwZS5mYWNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHByb2ZpbGVfdHlwZSBpcyBub3QgRW50aXR5VHlwZS53aXJlIG9yIFwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyA9PT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzd2VlcF9yZXN1bHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN3ZWVwX3Jlc3VsdCA9IE5vbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIE1lc2hpbmcgIyMjCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvcGllZF9wcm9kaSAgICAK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF4aXNfcG9pbnQgPSBQb2ludDNEKGF4aXNfcG9pbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gbWFrZV93aXJlKHByb2ZpbGUuY29weSgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIHByb2ZpbGVfdHlwZSBpcyBFbnRpdHlUeXBlLmVkZ2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
