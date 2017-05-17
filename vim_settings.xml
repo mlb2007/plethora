@@ -71,11 +71,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1495043542452">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="10" column="61" />
-        <mark key="." line="10" column="61" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1494438349793">
         <mark key="[" line="10" column="84" />
         <mark key="]" line="10" column="94" />
@@ -133,10 +128,10 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1491424405582">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1495045388415">
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/samples/pysage/3.3-trapezoidal_wing.py" timestamp="1489438492407">
         <mark key="[" line="114" column="0" />
@@ -320,19 +315,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>slice_</text>
+        <text>raw_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGRpamsoZywgcHEpOgogICAgd2hpbGUgbGVuKHBxKSA+IDA6CiAgICAgICAgcG9wX25vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgIGZvciBuYnIsIGVkZ2Vfd3QgaW4gZy5uZWlnaGJvcnMocG9wX25vZGUpOgogICAgICAgICAgICBjYWxjX2Nvc3QgPSBwb3Bfbm9kZS53ZWlnaHQgKyBlZGdlX3d0CiAgICAgICAgICAgIGlmIG5vdCBuYnIudmlzaXRlZCBvciBuYnIud2VpZ2h0ID4gY2FsY19jb3N0OgogICAgICAgICAgICAgICAgbmJyLndlaWdodCA9IGNhbGNfY29zdAogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIG5icl9pbmRleCA9IHBxLmluZGV4KG5icikKICAgICAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZGVsIHBxW25icl9pbmRleF0KICAgICAgICAgICAgICAgIG5ici5jb21wb25lbnRfaWQgPSBwb3Bfbm9kZQogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIG5icikKICAgICAgICAgICAgICAgIG5ici52aXNpdGVkID0gVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3NhZ2UuZXhwb3J0KGNsb3NlZF9zcGxpbmUsICJjbG9zZWRfc3BsaW5lLnNhdCIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,31 +336,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ici52aXNpdGVkID0gVHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYXBxLmhlYXBwdXNoKHBxLCBuYnIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ici52aXNpdGVkID0gVHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIG5icl9uYnIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYXBxLmhlYXBwdXNoKHBxLCBuYnIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmJyX25ici5jb21wb25lbnRfaWQgPSBuYnIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIG5icl9uYnIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbCBwcVtuYnJfbmJyX2luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmJyX25ici5jb21wb25lbnRfaWQgPSBuYnIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlbCBwcVtuYnJfbmJyX2luZGV4XQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>slice_</last-search>
+      <last-search>raw_</last-search>
       <last-offset />
-      <last-pattern>slice_</last-pattern>
+      <last-pattern>raw_</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -373,7 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test_</entry>
         <entry>no_test_</entry>
         <entry>swee</entry>
         <entry>sweep</entry>
@@ -393,6 +387,7 @@
         <entry>revolve</entry>
         <entry>get_slice</entry>
         <entry>slice_</entry>
+        <entry>raw_</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
