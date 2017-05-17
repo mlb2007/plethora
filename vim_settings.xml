@@ -164,6 +164,10 @@
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/GraphAlgos/dijkstra/djkout.txt" timestamp="1495039635807">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -325,7 +329,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>2599,2610,2947,2052,2367,2399,2029,2442,2505,3068,</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -334,7 +338,7 @@
         <text>pysage.sVector3D</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9hcHBseShzZWxmLCB0cmFuc2Zvcm1hdGlvbik6CiAgICAgICAgcCA9IGdldF9zX2VudGl0eShzZWxmKQogICAgICAgIHEgPSB0cmFuc2Zvcm1hdGlvbiAqIHAKICAgICAgICBzZWxmLl9jb29yZHMgPSAocS5nZXRDb29yZCgwKSwgcS5nZXRDb29yZCgxKSwgcS5nZXRDb29yZCgyKSkK</text>
+        <text>2599,2610,2947,2052,2367,2399,2029,2442,2505,3068,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGNfY29zdCA9IHBvcF9ub2RlLndlaWdodCArIGVkZ2Vfd3QK</text>
