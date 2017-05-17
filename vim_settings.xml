@@ -61,11 +61,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1495043635995">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="94" column="38" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1495044513831">
+        <mark key="]" line="734" column="44" />
+        <mark key="^" line="734" column="44" />
+        <mark key="." line="734" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
         <mark key="[" line="12" column="8" />
@@ -73,11 +72,9 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1495043542452">
-        <mark key="'" line="428" column="19" />
-        <mark key="[" line="726" column="61" />
-        <mark key="]" line="726" column="61" />
-        <mark key="^" line="172" column="29" />
-        <mark key="." line="726" column="61" />
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="10" column="61" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1494438349793">
         <mark key="[" line="10" column="84" />
@@ -172,7 +169,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1494873498952">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495044751743">
+        <mark key="'" line="3791" column="15" />
         <mark key="[" line="2626" column="0" />
         <mark key="]" line="2626" column="33" />
         <mark key="." line="2626" column="0" />
@@ -217,16 +215,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_point.py" timestamp="1494973757563">
-        <mark key="'" line="301" column="0" />
-        <mark key="[" line="380" column="11" />
-        <mark key="]" line="385" column="0" />
-        <mark key="." line="385" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="793" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="4" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="7" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
       <jump line="9" column="4" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
       <jump line="131" column="0" filename="$USER_HOME$/GraphAlgos/test/test_graph.py" />
@@ -325,6 +315,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="173" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="428" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="2576" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3791" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +326,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>revolve</text>
+        <text>slice_</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGRpamsoZywgcHEpOgogICAgd2hpbGUgbGVuKHBxKSA+IDA6CiAgICAgICAgcG9wX25vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgIGZvciBuYnIsIGVkZ2Vfd3QgaW4gZy5uZWlnaGJvcnMocG9wX25vZGUpOgogICAgICAgICAgICBjYWxjX2Nvc3QgPSBwb3Bfbm9kZS53ZWlnaHQgKyBlZGdlX3d0CiAgICAgICAgICAgIGlmIG5vdCBuYnIudmlzaXRlZCBvciBuYnIud2VpZ2h0ID4gY2FsY19jb3N0OgogICAgICAgICAgICAgICAgbmJyLndlaWdodCA9IGNhbGNfY29zdAogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIG5icl9pbmRleCA9IHBxLmluZGV4KG5icikKICAgICAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZGVsIHBxW25icl9pbmRleF0KICAgICAgICAgICAgICAgIG5ici5jb21wb25lbnRfaWQgPSBwb3Bfbm9kZQogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIG5icikKICAgICAgICAgICAgICAgIG5ici52aXNpdGVkID0gVHJ1ZQo=</text>
@@ -371,9 +363,9 @@
       </register>
     </registers>
     <search>
-      <last-search>revolve</last-search>
+      <last-search>slice_</last-search>
       <last-offset />
-      <last-pattern>revolve</last-pattern>
+      <last-pattern>slice_</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -381,8 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make_</entry>
-        <entry>print</entry>
         <entry>test_</entry>
         <entry>no_test_</entry>
         <entry>swee</entry>
@@ -401,6 +391,8 @@
         <entry>pysage.Point3D</entry>
         <entry>pysage.sVector3D</entry>
         <entry>revolve</entry>
+        <entry>get_slice</entry>
+        <entry>slice_</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
