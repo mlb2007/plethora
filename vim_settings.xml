@@ -126,10 +126,11 @@
         <mark key="]" line="32" column="37" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/dijkstra/dijk.py" timestamp="1495025282835">
-        <mark key="[" line="47" column="27" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/dijkstra/dijk.py" timestamp="1495026170837">
+        <mark key="[" line="53" column="28" />
+        <mark key="]" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="15" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491933805306">
         <mark key="[" line="115" column="0" />
@@ -323,11 +324,11 @@
       <jump line="173" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>pysage.sVector3D</text>
@@ -336,7 +337,7 @@
         <text encoding="base64">ZGVmIF9hcHBseShzZWxmLCB0cmFuc2Zvcm1hdGlvbik6CiAgICAgICAgcCA9IGdldF9zX2VudGl0eShzZWxmKQogICAgICAgIHEgPSB0cmFuc2Zvcm1hdGlvbiAqIHAKICAgICAgICBzZWxmLl9jb29yZHMgPSAocS5nZXRDb29yZCgwKSwgcS5nZXRDb29yZCgxKSwgcS5nZXRDb29yZCgyKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGNfY29zdCA9IHBvcF9ub2RlLndlaWdodCArIGVkZ2Vfd3QK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -344,23 +345,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ZGVmIGdldF9zX2VudGl0eShvYmopOgogICAgaWYgaGFzYXR0cihvYmosICdzX2VudGl0eScpOgogICAgICAgIHJldHVybiBvYmouc19lbnRpdHkKICAgIGVsaWYgaXNpbnN0YW5jZShvYmosIHB5c2FnZS5zRW50aXR5KToKICAgICAgICByZXR1cm4gb2JqCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiT2JqZWN0IGlzIG5vdCBhbiBzRW50aXR5IGFuZCBkb2VzIG5vdCBjb250YWluIGEgcHJvcGVydHkgY2FsbGVkIHNfZW50aXR5IikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA0MjQyNjQwNjg3MTE5Mjg1LCAwLjU2NTY4NTQyNDk0OTIzOCwgMC43MDcxMDY3ODExODY1NDc1KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwbS5yZXR1cm5fdmFsdWUgPSAncHJvcF9yZXR1cm4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBwbS5yZXR1cm5fdmFsdWUgPSAncHJvcF9yZXR1cm4nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
