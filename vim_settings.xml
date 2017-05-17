@@ -61,9 +61,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1494973235754">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1495043635995">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+        <mark key="[" line="94" column="38" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -72,12 +72,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1494974758524">
-        <mark key="'" line="178" column="15" />
-        <mark key="[" line="174" column="29" />
-        <mark key="]" line="172" column="29" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1495043542452">
+        <mark key="'" line="428" column="19" />
+        <mark key="[" line="726" column="61" />
+        <mark key="]" line="726" column="61" />
         <mark key="^" line="172" column="29" />
-        <mark key="." line="172" column="29" />
+        <mark key="." line="726" column="61" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1494438349793">
         <mark key="[" line="10" column="84" />
@@ -288,7 +288,6 @@
       <jump line="230" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="323" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="381" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="428" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="497" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="516" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="540" column="57" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -325,16 +324,17 @@
       <jump line="85" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="173" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="428" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>pysage.sVector3D</text>
+        <text>revolve</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGRpamsoZywgcHEpOgogICAgd2hpbGUgbGVuKHBxKSA+IDA6CiAgICAgICAgcG9wX25vZGUgPSBoZWFwcS5oZWFwcG9wKHBxKQogICAgICAgIGZvciBuYnIsIGVkZ2Vfd3QgaW4gZy5uZWlnaGJvcnMocG9wX25vZGUpOgogICAgICAgICAgICBjYWxjX2Nvc3QgPSBwb3Bfbm9kZS53ZWlnaHQgKyBlZGdlX3d0CiAgICAgICAgICAgIGlmIG5vdCBuYnIudmlzaXRlZCBvciBuYnIud2VpZ2h0ID4gY2FsY19jb3N0OgogICAgICAgICAgICAgICAgbmJyLndlaWdodCA9IGNhbGNfY29zdAogICAgICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgICAgIG5icl9pbmRleCA9IHBxLmluZGV4KG5icikKICAgICAgICAgICAgICAgIGV4Y2VwdCBWYWx1ZUVycm9yOgogICAgICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZGVsIHBxW25icl9pbmRleF0KICAgICAgICAgICAgICAgIG5ici5jb21wb25lbnRfaWQgPSBwb3Bfbm9kZQogICAgICAgICAgICAgICAgaGVhcHEuaGVhcHB1c2gocHEsIG5icikKICAgICAgICAgICAgICAgIG5ici52aXNpdGVkID0gVHJ1ZQo=</text>
@@ -371,9 +371,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pysage.sVector3D</last-search>
+      <last-search>revolve</last-search>
       <last-offset />
-      <last-pattern>pysage.sVector3D</last-pattern>
+      <last-pattern>revolve</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +381,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cinterface</entry>
         <entry>make_</entry>
         <entry>print</entry>
         <entry>test_</entry>
@@ -401,6 +400,7 @@
         <entry>pysage.Point</entry>
         <entry>pysage.Point3D</entry>
         <entry>pysage.sVector3D</entry>
+        <entry>revolve</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
