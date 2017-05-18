@@ -139,10 +139,11 @@
         <mark key="." line="8" column="97" />
         <mark key="^" line="8" column="97" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/samples/pysage/3.3-trapezoidal_wing.py" timestamp="1489438492407">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/sandbox/build/install/samples/pysage/3.3-trapezoidal_wing.py" timestamp="1495114950468">
+        <mark key="[" line="78" column="5" />
+        <mark key="]" line="76" column="12" />
+        <mark key="." line="76" column="12" />
+        <mark key="^" line="76" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
@@ -170,11 +171,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495063745886">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495115219481">
         <mark key="'" line="1447" column="11" />
         <mark key="[" line="1521" column="22" />
-        <mark key="]" line="1521" column="29" />
-        <mark key="." line="1521" column="29" />
+        <mark key="]" line="1521" column="22" />
+        <mark key="." line="1521" column="22" />
         <mark key="^" line="1521" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
@@ -270,7 +271,6 @@
       <jump line="3791" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4026" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="156" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="186" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="198" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="200" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -317,18 +317,19 @@
       <jump line="22" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1192" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1349" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1447" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1987" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1447" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</text>
+        <text>make_wire</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lKCk6CiAgICBwMSA9IHNhZ2UuUG9pbnQzRCgoMCwgMSwgMCkpCiAgICBwMiA9IHNhZ2UuUG9pbnQzRCgoMSwgMCwgMCkpCiAgICBwMyA9IHNhZ2UuUG9pbnQzRCgoMCwgLTEsIDApKQogICAgcDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkKICAgIGNsb3NlZF9zcGxpbmUgPSBzYWdlLmJfc3BsaW5lKFtwMSwgcDIsIHAzLCBwNF0sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YLCBwZXJpb2RpYz1UcnVlKQogICAgZW5kX3RhbiA9IHNhZ2UuZ2V0X2VkZ2VfZW5kX3RhbmdlbnQoY2xvc2VkX3NwbGluZSkKICAgIHN0YXJ0X3RhbiA9IHNhZ2UuZ2V0X2VkZ2Vfc3RhcnRfdGFuZ2VudChjbG9zZWRfc3BsaW5lKQogICAgYXNzZXJ0X3BvaW50cyhlbmRfdGFuLCBzdGFydF90YW4pCg==</text>
@@ -361,13 +362,13 @@
         <text encoding="base64">c2FnZS5leHBvcnQoY2xvc2VkX3NwbGluZSwgImNsb3NlZF9zcGxpbmUuc2F0IikK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</last-search>
+      <last-search>make_wire</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</last-pattern>
+      <last-pattern>make_wire</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -393,8 +394,8 @@
         <entry>raw_</entry>
         <entry>raise</entry>
         <entry>b_spline</entry>
-        <entry>make_wire</entry>
         <entry encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</entry>
+        <entry>make_wire</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
@@ -415,8 +416,8 @@
         <entry>%s/test_/no_test_/gc</entry>
         <entry>%s/no_test_/test_/gc</entry>
         <entry>/pysage</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
