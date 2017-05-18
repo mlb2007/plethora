@@ -76,6 +76,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495116990026">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1494438349793">
         <mark key="[" line="10" column="84" />
         <mark key="]" line="10" column="94" />
@@ -139,12 +142,6 @@
         <mark key="." line="8" column="97" />
         <mark key="^" line="8" column="97" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/samples/pysage/3.3-trapezoidal_wing.py" timestamp="1495114950468">
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="76" column="12" />
-        <mark key="." line="76" column="12" />
-        <mark key="^" line="76" column="12" />
-      </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="16" />
@@ -171,11 +168,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495115219481">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495116706715">
         <mark key="'" line="1447" column="11" />
         <mark key="[" line="1521" column="22" />
-        <mark key="]" line="1521" column="22" />
-        <mark key="." line="1521" column="22" />
+        <mark key="]" line="1521" column="29" />
+        <mark key="." line="1521" column="29" />
         <mark key="^" line="1521" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
@@ -220,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="922" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="288" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_point.py" />
       <jump line="4" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="7" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -320,6 +316,7 @@
       <jump line="1987" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="156" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1447" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -329,7 +326,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>make_wire</text>
+        <text>rotate</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lKCk6CiAgICBwMSA9IHNhZ2UuUG9pbnQzRCgoMCwgMSwgMCkpCiAgICBwMiA9IHNhZ2UuUG9pbnQzRCgoMSwgMCwgMCkpCiAgICBwMyA9IHNhZ2UuUG9pbnQzRCgoMCwgLTEsIDApKQogICAgcDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkKICAgIGNsb3NlZF9zcGxpbmUgPSBzYWdlLmJfc3BsaW5lKFtwMSwgcDIsIHAzLCBwNF0sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YLCBwZXJpb2RpYz1UcnVlKQogICAgZW5kX3RhbiA9IHNhZ2UuZ2V0X2VkZ2VfZW5kX3RhbmdlbnQoY2xvc2VkX3NwbGluZSkKICAgIHN0YXJ0X3RhbiA9IHNhZ2UuZ2V0X2VkZ2Vfc3RhcnRfdGFuZ2VudChjbG9zZWRfc3BsaW5lKQogICAgYXNzZXJ0X3BvaW50cyhlbmRfdGFuLCBzdGFydF90YW4pCg==</text>
@@ -366,9 +363,9 @@
       </register>
     </registers>
     <search>
-      <last-search>make_wire</last-search>
+      <last-search>rotate</last-search>
       <last-offset />
-      <last-pattern>make_wire</last-pattern>
+      <last-pattern>rotate</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -376,7 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhc3NlcnRfY2FsbGVkXD4=</entry>
         <entry>PropertyMock</entry>
         <entry>type(</entry>
         <entry encoding="base64">XDxzX2VudGl0eVw+</entry>
@@ -396,6 +392,7 @@
         <entry>b_spline</entry>
         <entry encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</entry>
         <entry>make_wire</entry>
+        <entry>rotate</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
