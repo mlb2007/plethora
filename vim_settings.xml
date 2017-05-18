@@ -27,10 +27,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1495064727636">
-        <mark key="[" line="1980" column="0" />
-        <mark key="]" line="1980" column="0" />
-        <mark key="." line="1980" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1495065768020">
+        <mark key="[" line="2025" column="30" />
+        <mark key="]" line="2025" column="30" />
+        <mark key="." line="2025" column="30" />
       </file>
       <file name="/Python Console" timestamp="1494881174145">
         <mark key="[" line="0" column="0" />
@@ -321,11 +321,11 @@
       <jump line="1987" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</text>
@@ -334,34 +334,34 @@
         <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lKCk6CiAgICBwMSA9IHNhZ2UuUG9pbnQzRCgoMCwgMSwgMCkpCiAgICBwMiA9IHNhZ2UuUG9pbnQzRCgoMSwgMCwgMCkpCiAgICBwMyA9IHNhZ2UuUG9pbnQzRCgoMCwgLTEsIDApKQogICAgcDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkKICAgIGNsb3NlZF9zcGxpbmUgPSBzYWdlLmJfc3BsaW5lKFtwMSwgcDIsIHAzLCBwNF0sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YLCBwZXJpb2RpYz1UcnVlKQogICAgZW5kX3RhbiA9IHNhZ2UuZ2V0X2VkZ2VfZW5kX3RhbmdlbnQoY2xvc2VkX3NwbGluZSkKICAgIHN0YXJ0X3RhbiA9IHNhZ2UuZ2V0X2VkZ2Vfc3RhcnRfdGFuZ2VudChjbG9zZWRfc3BsaW5lKQogICAgYXNzZXJ0X3BvaW50cyhlbmRfdGFuLCBzdGFydF90YW4pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
+        <text encoding="base64">ZGVmIHRlc3Rfbm9uX3BlcmlvZGljX3NwbGluZSgpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoZW5kX3Rhbiwgc2FnZS5VTklUX1ZFQ19ZKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBGYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lX2RlZl9hcmdzc19mb3JfdGFuZ2VudHMoKToK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoZW5kX3Rhbiwgc2FnZS5VTklUX1ZFQ19ZKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lX3JlcGVhdF9maXJzdF9wdCgpOgo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lX2RlZl9hcmdzc19mb3JfdGFuZ2VudHMoKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lKCk6Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lX3JlcGVhdF9maXJzdF9wdCgpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWNfc3BsaW5lKCk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIwo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoY2xvc2VkX3NwbGluZSwgImNsb3NlZF9zcGxpbmUuc2F0IikK</text>
+        <text encoding="base64">ICAgIwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnQgInN0YXJ0LCBlbmQgdGFuZ2VudHM6Iiwgc3RhcnRfdGFuLCBlbmRfdGFuCg==</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoY2xvc2VkX3NwbGluZSwgImNsb3NlZF9zcGxpbmUuc2F0IikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -411,12 +411,12 @@
         <entry>%s/Box/BBox/gc</entry>
         <entry>e</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>%s/test_/no_test/gc</entry>
         <entry>%s/test_/no_test_/gc</entry>
         <entry>%s/no_test_/test_/gc</entry>
         <entry>/pysage</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
