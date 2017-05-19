@@ -170,8 +170,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495214996110">
-        <mark key="'" line="431" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495230284308">
+        <mark key="'" line="1603" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3791" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4026" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="186" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="198" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -315,6 +314,7 @@
       <jump line="2472" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2491" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="431" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1603" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -324,7 +324,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>_check_return</text>
+        <text>sweep</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfaXNvX3Vfdl9lZGdlc19vZl9mYWNlKCk6CiAgICBwMSA9IHNhZ2UuUG9pbnQzRCgoMCwgMCwgMCkpCiAgICBlZGdlID0gc2FnZS5jaXJjbGVfY2VudGVyX3JhZGl1c19ub3JtYWwoY2VudGVyPXAxLCByYWRpdXM9MTAsIG5vcm1hbD1zYWdlLlVOSVRfVkVDX1opCiAgICBmYWNlID0gc2FnZS5tYWtlX2ZhY2UoZWRnZSkKICAgIGlzb191X2VkZ2UgPSBzYWdlLmdldF9mYWNlX2lzb191X2VkZ2VzKGZhY2UsIDAuMjUsIGV4cGVjdF9zaW5nbGU9VHJ1ZSkKICAgIGlzb192X2VkZ2UgPSBzYWdlLmdldF9mYWNlX2lzb192X2VkZ2VzKGZhY2UsIDAuNSwgZXhwZWN0X3NpbmdsZT1UcnVlKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLmdldF9lZGdlX3N0YXJ0KGlzb191X2VkZ2UpLCBzYWdlLlBvaW50M0QoMC41LCAwLCAwKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3VfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLmdldF9lZGdlX3N0YXJ0KGlzb192X2VkZ2UpLCBzYWdlLlBvaW50M0QoMC41LCAwLCAwKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3ZfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQo=</text>
@@ -361,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_check_return</last-search>
+      <last-search>sweep</last-search>
       <last-offset />
-      <last-pattern>_check_return</last-pattern>
+      <last-pattern>sweep</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -371,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>slice_</entry>
         <entry>raw_</entry>
         <entry>raise</entry>
         <entry>b_spline</entry>
@@ -391,6 +390,7 @@
         <entry>face_is</entry>
         <entry>_check_entity</entry>
         <entry>_check_return</entry>
+        <entry>sweep</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
