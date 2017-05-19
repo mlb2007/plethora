@@ -27,11 +27,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1495214009995">
-        <mark key="[" line="2040" column="64" />
-        <mark key="]" line="2043" column="62" />
-        <mark key="." line="2043" column="62" />
-        <mark key="^" line="2043" column="62" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1495214858098">
+        <mark key="[" line="2053" column="0" />
+        <mark key="]" line="2053" column="0" />
+        <mark key="." line="2053" column="0" />
       </file>
       <file name="/Python Console" timestamp="1494881174145">
         <mark key="[" line="0" column="0" />
@@ -171,12 +170,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495213009234">
-        <mark key="'" line="3047" column="32" />
-        <mark key="[" line="1622" column="18" />
-        <mark key="]" line="1649" column="23" />
-        <mark key="." line="1649" column="23" />
-        <mark key="^" line="1649" column="23" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495214996110">
+        <mark key="'" line="431" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -220,15 +215,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="813" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="826" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="85" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="173" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="428" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="2576" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3791" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4026" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="186" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="198" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="200" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -320,55 +308,62 @@
       <jump line="423" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1920" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3047" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3138" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="410" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1930" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2472" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2491" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="431" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>face_is</text>
+        <text>_check_return</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfaXNvX3Vfdl9lZGdlc19vZl9mYWNlKCk6CiAgICBwMSA9IHNhZ2UuUG9pbnQzRCgoMCwgMCwgMCkpCiAgICBlZGdlID0gc2FnZS5jaXJjbGVfY2VudGVyX3JhZGl1c19ub3JtYWwoY2VudGVyPXAxLCByYWRpdXM9MTAsIG5vcm1hbD1zYWdlLlVOSVRfVkVDX1opCiAgICBmYWNlID0gc2FnZS5tYWtlX2ZhY2UoZWRnZSkKICAgIGlzb191X2VkZ2UgPSBzYWdlLmdldF9mYWNlX2lzb191X2VkZ2VzKGZhY2UsIDAuMjUsIGV4cGVjdF9zaW5nbGU9VHJ1ZSkKICAgIGlzb192X2VkZ2UgPSBzYWdlLmdldF9mYWNlX2lzb192X2VkZ2VzKGZhY2UsIDAuNSwgZXhwZWN0X3NpbmdsZT1UcnVlKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLmdldF9lZGdlX3N0YXJ0KGlzb191X2VkZ2UpLCBzYWdlLlBvaW50M0QoMC41LCAwLCAwKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3VfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQogICAgYXNzZXJ0X3BvaW50cyhzYWdlLmdldF9lZGdlX3N0YXJ0KGlzb192X2VkZ2UpLCBzYWdlLlBvaW50M0QoMC41LCAwLCAwKSkKICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3ZfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZWRnZV9lZGdlX2ludGVyc2VjdGlvbigpOgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoc2FnZS5Qb2ludDNEKHBpbnQpLCBzYWdlLlBvaW50M0QoMC41LCAwLCAwKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfaXNvX3Vfdl9lZGdlc19vZl9mYWNlKCk6Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IHBpbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfZmFjZV9wYXJhbXMoKToK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBwaW50WzBdWzBdID09IDAuNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfZWRnZV9lZGdlX2ludGVyc2VjdGlvbigpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfaXNvX3Vfdl9lZGdlc19vZl9mYWNlKCk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3ZfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQo=</text>
+        <text encoding="base64">ZGVmIHRlc3RfZmFjZV9wYXJhbXMoKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9zdGFydChpc29fdl9lZGdlKSwgc2FnZS5Qb2ludDNEKDAuNSwgMCwgMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3VfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9zdGFydChpc29fdV9lZGdlKSwgc2FnZS5Qb2ludDNEKDAuNSwgMCwgMCkpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9wb2ludHMoc2FnZS5nZXRfZWRnZV9lbmQoaXNvX3ZfZWRnZSksIHNhZ2UuUG9pbnQzRCgwLjUsIDAsIDApKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>face_is</last-search>
+      <last-search>_check_return</last-search>
       <last-offset />
-      <last-pattern>face_is</last-pattern>
+      <last-pattern>_check_return</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -376,8 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry>revolve</entry>
-        <entry>get_slice</entry>
         <entry>slice_</entry>
         <entry>raw_</entry>
         <entry>raise</entry>
@@ -396,6 +389,8 @@
         <entry>isEntityNull</entry>
         <entry>slice</entry>
         <entry>face_is</entry>
+        <entry>_check_entity</entry>
+        <entry>_check_return</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
