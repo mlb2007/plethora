@@ -134,10 +134,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1495125960531">
-        <mark key="[" line="16" column="60" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1495172959563">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="27" />
+        <mark key="." line="27" column="27" />
+        <mark key="^" line="27" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
@@ -165,12 +166,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495171935146">
-        <mark key="'" line="1395" column="9" />
-        <mark key="[" line="1616" column="11" />
-        <mark key="]" line="1617" column="0" />
-        <mark key="^" line="1612" column="63" />
-        <mark key="." line="1617" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495172838855">
+        <mark key="'" line="1642" column="40" />
+        <mark key="[" line="1579" column="5" />
+        <mark key="]" line="1642" column="40" />
+        <mark key="." line="1642" column="40" />
+        <mark key="^" line="1642" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -214,12 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="195" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="233" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="243" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="245" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="249" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="251" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="498" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="517" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -314,55 +309,65 @@
       <jump line="2354" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1388" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1395" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1605" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1800" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1811" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1613" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1623" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1642" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>get_edge_pa</text>
+        <text>make_face</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIGdldF9lZGdlX3BvaW50X2F0X3BhcmFtKGVkZ2UsIHBhcmFtKToKICAgICIiIgoKICAgIFJldHVybiB0aGUgcG9pbnQgb24gdGhlIGVkZ2UgYXQgdGhlIGdpdmVuIHBhcmFtIHdob3NlIHJhbmdlIGlzIFswLDFdCgogICAgOnBhcmFtIGVkZ2U6IElucHV0IGVkZ2UgdGhhdCBpcyBiZWluZyBxdWVyaWVkCgogICAgOnBhcmFtIHBhcmFtOiBQYXJhbWF0ZXIgdmFsdWUgZm9yIHRoZSBlZGdlIGluIHRoZSByYW5lZyBbMCwxXQoKICAgIDpyZXR1cm46IFRoZSBwb2ludCBvbiB0aGUgZWRnZSBjb3JyZXNwb25kaW5nIHRvIHRoZSBwYXJhbWF0ZXIgdmFsdWUKICAgICIiIgogICAgcCA9IGVkZ2UuUG9pbnRBdE5vcm1hbGl6ZWRQYXJhbShwYXJhbSkKICAgIHJldHVybiBQb2ludDNEKFtwLmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXSkKCgpkZWYgZ2V0X2VkZ2VfcGFyYW1fYXRfcG9pbnQoZWRnZSwgcG9pbnQpOgogICAgIiIiCgogICAgUmV0dXJuIHRoZSBub3JtYWxpemVkIHBhcmFtZXRlciBpbiByYW5nZSBbMCwxXSBhdCBnaXZlbiBwb2ludCBvbiB0aGUgZWRnZSAKCiAgICA6cGFyYW0gZWRnZTogSW5wdXQgZWRnZSB0aGF0IGlzIGJlaW5nIHF1ZXJpZWQKCiAgICA6cGFyYW0gcG9pbnQ6IFBvaW50IG9uIHRoZSBlZGdlIGFzIFt4LHksel0KCiAgICA6cmV0dXJuOiBUaGUgbm9ybWFsaXplZCBwYXJhbWV0ZXIgdmFsdWUgKGRvdWJsZSB2YWx1ZSkgY29ycmVzcG9uZGluZyB0byB0aGUgZWRnZSBwb2ludAogICAgIiIiCiAgICBwID0gZWRnZS5Ob3JtYWxpemVkUGFyYW1BdFBvaW50KHB5c2FnZS5Qb2ludDNEKHBvaW50WzBdLCBwb2ludFsxXSwgcG9pbnRbMl0pKQogICAgcmV0dXJuIHAuZ2V0Q29vcmQoMCkK</text>
+        <text>#p1 = sage.Point3D((0, 1, 0))
+#p2 = sage.Point3D((1, 0, 0))
+#p3 = sage.Point3D((0, -1, 0))
+#p4 = sage.Point3D((-1, 0, 0))
+#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3NhZ2UuZXhwb3J0KGNsb3NlZF9zcGxpbmUsICJjbG9zZWRfc3BsaW5lLnNhdCIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cDQgPSBzYWdlLlBvaW50M0QoKDAsIDEsIDApKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlcy5hcHBlbmQoZS5jbG9uZSgpKQo=</text>
+        <text encoding="base64">cDMgPSBzYWdlLlBvaW50M0QoKDEsIDEsIDApKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBlIGluIGVkZ2VfbGlzdDoK</text>
+        <text encoding="base64">cDIgPSBzYWdlLlBvaW50M0QoKDEsIDAsIDApKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlX2xpc3QgPSBlZGdlcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgIElucHV0IGZhY2UgdXNlZCBpbiBxdWVyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiQ2Fubm90IG1ha2Ugd2lyZSBnaXZlbiBhIHNpbmdsZSBvYmplY3Qgb2YgdHlwZSAlcyIgJSB0eXBlKG9iaikpCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBmYWNlOiBJbnB1dCBmYWNlIHVzZWQgaW4gcXVlcnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_edge_pa</last-search>
+      <last-search>make_face</last-search>
       <last-offset />
-      <last-pattern>get_edge_pa</last-pattern>
+      <last-pattern>make_face</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -370,8 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzX2VudGl0eVw+</entry>
-        <entry>s_entity</entry>
         <entry encoding="base64">XDxfZW50aXR5X3R5cGVcPg==</entry>
         <entry>mock.call</entry>
         <entry>pysage</entry>
@@ -390,6 +393,8 @@
         <entry>get_s_entity</entry>
         <entry>get_face</entry>
         <entry>get_edge_pa</entry>
+        <entry>expect_single</entry>
+        <entry>make_face</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
