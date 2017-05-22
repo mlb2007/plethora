@@ -171,18 +171,18 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1495476790996">
-        <mark key="'" line="3627" column="4" />
-        <mark key="[" line="2126" column="8" />
-        <mark key="]" line="2126" column="98" />
-        <mark key="." line="2126" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1495478410034">
+        <mark key="'" line="3629" column="4" />
+        <mark key="[" line="2128" column="8" />
+        <mark key="]" line="2128" column="98" />
+        <mark key="." line="2128" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495475682799">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495477803224">
         <mark key="'" line="1205" column="11" />
         <mark key="[" line="2926" column="24" />
         <mark key="]" line="2926" column="37" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1519" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1534" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1545" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1598" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -309,7 +308,6 @@
       <jump line="431" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1603" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2763" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1205" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="31" column="28" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2056" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2129" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -331,6 +329,8 @@
       <jump line="1553" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="5" column="18" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="3600" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2214" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1205" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -340,7 +340,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>after_join_edges</text>
+        <text>join_edges</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgQ2FsbGFiYWxlRGVjbyhvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZ1bmMpOgogICAgICAgICNzZWxmLl9kZWNvX2FyZ3MgPSBhcmdzCiAgICAgICAgI3NlbGYuX2RlY29fa3dhcmdzID0ga3dhcmdzCiAgICAgICAgc2VsZi5fZnVuYyA9IGZ1bmMKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc2VsZi5fZnVuYygqYXJncywgKiprd2FyZ3MpCg==</text>
@@ -377,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>after_join_edges</last-search>
+      <last-search>join_edges</last-search>
       <last-offset />
-      <last-pattern>after_join_edges</last-pattern>
+      <last-pattern>join_edges</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -403,10 +403,10 @@
         <entry>_check_entity</entry>
         <entry>_check_return</entry>
         <entry>sweep</entry>
-        <entry>join_edges</entry>
         <entry>exit(</entry>
         <entry>hyper_stretch</entry>
         <entry>after_join_edges</entry>
+        <entry>join_edges</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
