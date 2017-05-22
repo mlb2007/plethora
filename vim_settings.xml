@@ -171,13 +171,23 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1495476790996">
+        <mark key="'" line="3627" column="4" />
+        <mark key="[" line="2126" column="8" />
+        <mark key="]" line="2126" column="98" />
+        <mark key="." line="2126" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495230284308">
-        <mark key="'" line="1603" column="20" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1495475682799">
+        <mark key="'" line="1205" column="11" />
+        <mark key="[" line="2926" column="24" />
+        <mark key="]" line="2926" column="37" />
+        <mark key="." line="2926" column="37" />
+        <mark key="^" line="2926" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -221,29 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4026" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="186" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="198" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="200" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="361" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="406" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="416" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="519" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="556" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="606" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="653" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="731" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="823" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="956" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1214" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1320" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1326" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1335" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1341" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1409" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1471" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1501" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1510" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1519" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1534" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1545" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -321,55 +308,78 @@
       <jump line="2491" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="431" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1603" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2763" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1205" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="31" column="28" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2056" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2129" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2169" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2785" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2823" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="2828" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="3486" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="225" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="554" column="10" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1036" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1389" column="16" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="11" column="32" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1423" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1429" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1443" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1453" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1550" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="1553" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="5" column="18" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="3600" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzYWdlLmV4cG9ydChbc3VyZmFjZSwgZWVbMF0sIGVlWzFdLCBlZVsyXSwgZWVbM10sIGVlWzRdLCBlZVs1XSwgZWVbNl1dLCAic2xpY2VfZWRnZXMuc2F0IikK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sweep</text>
+        <text>after_join_edges</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgQ2FsbGFiYWxlRGVjbyhvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZ1bmMpOgogICAgICAgICNzZWxmLl9kZWNvX2FyZ3MgPSBhcmdzCiAgICAgICAgI3NlbGYuX2RlY29fa3dhcmdzID0ga3dhcmdzCiAgICAgICAgc2VsZi5fZnVuYyA9IGZ1bmMKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc2VsZi5fZnVuYygqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5fZGVjb19rd2FyZ3MgPSBrd2FyZ3MK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmV4cG9ydChbc3VyZmFjZSwgZWVbMF0sIGVlWzFdLCBlZVsyXSwgZWVbM10sIGVlWzRdLCBlZVs1XSwgZWVbNl1dLCAic2xpY2VfZWRnZXMuc2F0IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5fZGVjb19hcmdzID0gYXJncwo=</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmV4cG9ydChbYm94LCBzbGljZV0sICJjdWxwcml0X2ludGVyc2VjdC5zYXQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib3ggPSBzYWdlLmJveCgoLTUwMDAsIC0xMzAsIDEwKSwgKDUwMDAsIDEsIDEzMCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IGYoMSwgMikK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmV4cG9ydChlZGdlc1swXSwgImlucHV0XzEuc2F0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGYgPSBsYW1iZGEgeCwgeTogKHggKyAxLCB5ICsgMikK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9mdW5jID0gZnVuYwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiPT09PT09PT0+IElucHV0IG51bWJlciBvZiBlZGdlczogPT09PjogIiwgbGVuKGVkZ2VzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd3JhcHBlcgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiPT0gSU5URVJTRUNUID09PT4gRkFDRS1FREdFID09Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ0NhbGxhYmxlIGRlY28gYXJnczonLCBzZWxmLl9kZWNvX2FyZ3MsIHNlbGYuX2RlY29fa3dhcmdzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiPT0gSU5URVJTRUNUID09PT4gRURHRS1GQUNFID09Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgd3JhcHBlcigqYXJncywgKiprd2FyZ3MpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiPT0gSU5URVJTRUNUID09PT4gRkFDRS1GQUNFID09Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sweep</last-search>
+      <last-search>after_join_edges</last-search>
       <last-offset />
-      <last-pattern>sweep</last-pattern>
+      <last-pattern>after_join_edges</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -377,10 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>raw_</entry>
-        <entry>raise</entry>
-        <entry>b_spline</entry>
-        <entry encoding="base64">XDxhc3NlcnRfcG9pbnRzXD4=</entry>
         <entry>make_wire</entry>
         <entry>rotate</entry>
         <entry>get_s_entity</entry>
@@ -397,6 +403,10 @@
         <entry>_check_entity</entry>
         <entry>_check_return</entry>
         <entry>sweep</entry>
+        <entry>join_edges</entry>
+        <entry>exit(</entry>
+        <entry>hyper_stretch</entry>
+        <entry>after_join_edges</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
