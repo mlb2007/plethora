@@ -171,12 +171,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1495558225622">
-        <mark key="'" line="2126" column="72" />
-        <mark key="[" line="3711" column="4" />
-        <mark key="]" line="2126" column="72" />
-        <mark key="." line="2126" column="72" />
-        <mark key="^" line="2126" column="72" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1495563978484">
+        <mark key="'" line="3714" column="4" />
+        <mark key="[" line="2127" column="8" />
+        <mark key="]" line="3714" column="4" />
+        <mark key="." line="3714" column="4" />
+        <mark key="^" line="3714" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="675" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="724" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="247" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -331,6 +330,7 @@
       <jump line="2159" column="33" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2389" column="36" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2126" column="72" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="3714" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -340,7 +340,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>join_edges</text>
+        <text>SLICE</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgQ2FsbGFiYWxlRGVjbyhvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZ1bmMpOgogICAgICAgICNzZWxmLl9kZWNvX2FyZ3MgPSBhcmdzCiAgICAgICAgI3NlbGYuX2RlY29fa3dhcmdzID0ga3dhcmdzCiAgICAgICAgc2VsZi5fZnVuYyA9IGZ1bmMKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc2VsZi5fZnVuYygqYXJncywgKiprd2FyZ3MpCg==</text>
@@ -377,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>join_edges</last-search>
+      <last-search>SLICE</last-search>
       <last-offset />
-      <last-pattern>join_edges</last-pattern>
+      <last-pattern>SLICE</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -387,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rotate</entry>
         <entry>get_s_entity</entry>
         <entry>get_face</entry>
         <entry>get_edge_pa</entry>
@@ -407,6 +406,7 @@
         <entry>after_join_edges</entry>
         <entry>intersect(</entry>
         <entry>join_edges</entry>
+        <entry>SLICE</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
