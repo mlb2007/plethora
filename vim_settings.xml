@@ -155,11 +155,11 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="2" />
       </file>
-      <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495469990577">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="32" column="0" />
+      <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/graph.py" timestamp="1494474728822">
         <mark key="'" line="104" column="7" />
@@ -334,43 +334,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>SLICE</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgQ2FsbGFiYWxlRGVjbyhvYmplY3QpOgogICAgZGVmIF9faW5pdF9fKHNlbGYsIGZ1bmMpOgogICAgICAgICNzZWxmLl9kZWNvX2FyZ3MgPSBhcmdzCiAgICAgICAgI3NlbGYuX2RlY29fa3dhcmdzID0ga3dhcmdzCiAgICAgICAgc2VsZi5fZnVuYyA9IGZ1bmMKCiAgICBkZWYgX19jYWxsX18oc2VsZiwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICByZXR1cm4gc2VsZi5fZnVuYygqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">QENhbGxhYmFsZURlY29XaXRoQXJncygiaGkiLCBsPTEpCmRlZiBvdXRlcl9mdW5jKGEsIGIpOgogICAgcHJpbnQgIk91dGVyIGFyZ3MgYSwgYiBhcmU6IiwgYSwgYgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBpZiB3ZSBkb24ndCBoYXZlIGFueSBhcmd1bWVudHMgZm9yIHRoZSBkZWNvcmF0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZyb20gc2FnZS5hcGkgaW1wb3J0ICoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgJ0RlY29yYXRvciBhcmdzOicsIHNlbGYuX2RlY29fYXJncywgc2VsZi5fZGVjb19rd2FyZ3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIltQWUlORk9dIENvbWJpbmUgZWRnZXMgLi4uIgo=</text>
+        <text encoding="base64">ICAgIG91dGVyX2Z1bmMoMywgNCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICI9PSBJTlRFUlNFQ1QgPT09PiBCT0RZLUJPRFkgPT0iCg==</text>
+        <text encoding="base64">ICAgICMgb3V0ZXIoMiwgNCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiPT0gSU5URVJTRUNUID09PT4gRkFDRS1FREdFID09Igo=</text>
+        <text encoding="base64">ICAgICMgb3V0ZXJfZnVuYyA9IGRlY28ob3V0ZXIsICdoaScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiPT0gSU5URVJTRUNUID09PT4gRURHRS1GQUNFID09Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiPT0gSU5URVJTRUNUID09PT4gRkFDRS1GQUNFID09Igo=</text>
+        <text encoding="base64">ICAgIGZyb20gc2FnZS5hcGkgaW1wb3J0ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmV4cG9ydChbc3VyZmFjZSwgZWVbMF0sIGVlWzFdLCBlZVsyXSwgZWVbM10sIGVlWzRdLCBlZVs1XSwgZWVbNl1dLCAic2xpY2VfZWRnZXMuc2F0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIltQWUlORk9dIENvbWJpbmUgZWRnZXMgLi4uIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmV4cG9ydChbYm94LCBzbGljZV0sICJjdWxwcml0X2ludGVyc2VjdC5zYXQiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICI9PSBJTlRFUlNFQ1QgPT09PiBCT0RZLUJPRFkgPT0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
