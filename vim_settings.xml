@@ -176,11 +176,11 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1495833022444">
+      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1496172318869">
         <mark key="'" line="2127" column="8" />
-        <mark key="[" line="3688" column="85" />
-        <mark key="]" line="3693" column="39" />
-        <mark key="." line="3677" column="3" />
+        <mark key="[" line="3690" column="4" />
+        <mark key="]" line="3691" column="4" />
+        <mark key="." line="3691" column="4" />
         <mark key="^" line="3677" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
@@ -339,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICMgYyA9IGFyY19jZW50ZXJfc3RhcnRfYW5nbGVfbm9ybWFsKE9SSUdJTiwgLVVOSVRfVkVDX1ogKiAzLCAzNjAsIFVOSVRfVkVDX1gpCiAgICBlMSA9IHNhZ2UuY29uaWNfc3RhcnRfZW5kX3Rhbl9yaG8oc2FnZS5VTklUX1ZFQ19aICogMywgc2FnZS5VTklUX1ZFQ19ZICogMywgc2FnZS5VTklUX1ZFQ19ZLCAtc2FnZS5VTklUX1ZFQ19aLCAwLjQxNDIpCiAgICBlMiA9IHNhZ2UuY29uaWNfc3RhcnRfZW5kX3Rhbl9yaG8oc2FnZS5VTklUX1ZFQ19ZICogMywgLXNhZ2UuVU5JVF9WRUNfWiAqIDMsIC1zYWdlLlVOSVRfVkVDX1osIC1zYWdlLlVOSVRfVkVDX1ksIDAuNDE0MikKICAgIGUgPSBzYWdlLmpvaW5fZWRnZXMoZTEsIGUyKQogICAgYyA9IHNhZ2UubWFrZV93aXJlKGUsIHNhZ2UubWlycm9yKGUsIHNhZ2UuVU5JVF9WRUNfWSkpCiAgICBiID0gc2FnZS5zd2VlcChjLCBzYWdlLmxpbmUoKDAsIDMsIDApLCAoMTAsIDMsIDApKSkKICAgIHNhZ2UuY29sb3JfZW50aXR5KGIsIDEsIDAsIDApCiAgICBzYWdlLmV4cG9ydChiLCAndGVzdF9zbGljZS5zYXQnKQogICAgIyBsID0gbGluZSgoMCwgMywgMCksICgxMCwgMywgMCkpCiAgICAjIGIgPSByZXZvbHZlKGwsIE9SSUdJTiwgVU5JVF9WRUNfWCkKCiAgICB3ID0gc2FnZS5zbGljZV9ib2R5X3dpdGhfcGxhbmUoYiwgc2FnZS5VTklUX1ZFQ19ZLCBzYWdlLk9SSUdJTiArIHNhZ2UuUG9pbnQzRCgwLCAxZS02LCAwKSkKICAgIGVkZ2VzID0gc2FnZS5nZXRfZWRnZXModykKICAgIHByaW50ICJOdW1iZXIgb2YgZWRnZXMiLCBsZW4oZWRnZXMpCiAgICAjYXNzZXJ0IGxlbihlZGdlcykgPT0gNAoKICAgIGZpbmFsX2VkZ2UgPSBzYWdlLmpvaW5fZWRnZXMoZWRnZXMpCg==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>SLICE</text>
