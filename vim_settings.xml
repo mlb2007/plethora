@@ -94,12 +94,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496253940636">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="684" column="11" />
-        <mark key="]" line="739" column="51" />
-        <mark key="." line="739" column="51" />
-        <mark key="^" line="739" column="51" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496265512053">
+        <mark key="[" line="774" column="38" />
+        <mark key="]" line="774" column="69" />
+        <mark key="." line="774" column="69" />
+        <mark key="^" line="774" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -241,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2823" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2828" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="3486" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="225" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -341,10 +339,11 @@
       <jump line="1873" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1876" column="80" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1878" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="743" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRvaW5nIGFueSBvcGVyYXRpb24gb24gdGhlIGVudGl0eQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -353,38 +352,34 @@
         <text>intersectFaceFace</text>
       </register>
       <register name="0" type="4">
-        <text>#p1 = sage.point3d((0, 1, 0))
-#p2 = sage.point3d((1, 0, 0))
-#p3 = sage.Point3D((0, -1, 0))
-#p4 = sage.Point3D((-1, 0, 0))
-#</text>
+        <text encoding="base64">ICAgICIiIgogICAgQXR0YWNoIGF0dHJpYnV0ZSB0byB2ZXJ0aWNlcyBvZiBlbnRpdHkgdG8gZW5zdXJlIHRoYXQgdGhlIHZlcnRpY2VzIGRvbid0IGdldCBtZXJnZWQgdXBvbgogICAgZG9pbmcgYW55IG9wZXJhdGlvbiBvbiB0aGUgZW50aXR5CiAgICA6cGFyYW0gZW50aXR5OiBJbnB1dCBlbnRpdHkgd2hvc2UgdmVydGljZXMgbmVlZCB0byBiZSBtYXJrZWQgd2l0aCBub19tZXJnZSBhdHRyaWJ1dGUKICAgIDpyZXR1cm46IE5vbmUKICAgICIiIgog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3BsaW5lX2V4dCA9IHNhZ2UuZXh0ZW5kX2VkZ2Uoc3BsaW5lLCAoLTEsIC0xLCAwKSwgKDMsIC0zLCAwKSkK</text>
+        <text encoding="base64">ICAgIGRvaW5nIGFueSBvcGVyYXRpb24gb24gdGhlIGVudGl0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybmVkX2VkZ2UgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmV4dGVuZF9lZGdlKGVkZ2UsIGZyb21fcG9zLCB0b19wb3MpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnNwbGl0X2VkZ2VfYXRfcG9zaXRpb24oZWRnZV9jb3B5LCBxLnNfZW50aXR5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3BsaW5lID0gc2FnZS5iX3NwbGluZShbcDEsIHAyLCBwM10sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YKQo=</text>
+        <text encoding="base64">c3BsaW5lX2V4dCA9IHNhZ2UuZXh0ZW5kX2VkZ2Uoc3BsaW5lLCAoLTEsIC0xLCAwKSwgKDMsIC0zLCAwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkK</text>
+        <text encoding="base64">ICAgIHJldHVybmVkX2VkZ2UgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmV4dGVuZF9lZGdlKGVkZ2UsIGZyb21fcG9zLCB0b19wb3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoZXh0X2VkZ2UsIDEsIDAsIDApCg==</text>
+        <text encoding="base64">c3BsaW5lID0gc2FnZS5iX3NwbGluZShbcDEsIHAyLCBwM10sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c3BsaW5lX2V4dCA9IAo=</text>
+        <text encoding="base64">cDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXh0X2VkZ2UgPSBzYWdlLmV4dGVuZF9lZGdlKGVkZ2UsICgtMSwgLTEsIDIpLCAoMTAsIDEwLCAyKSkK</text>
+        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoZXh0X2VkZ2UsIDEsIDAsIDApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW2VkZ2UsIGV4dF9lZGdlXSwgImV4dGVuZHMuc2F0IikK</text>
+        <text encoding="base64">c3BsaW5lX2V4dCA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXh0X2VkZ2UgPSBzYWdlLmV4dGVuZF9lZGdlKGVkZ2UsICgtMSwgLTEsIDIpLCAoMTAsIDEwLCAyKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
