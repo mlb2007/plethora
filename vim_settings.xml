@@ -93,11 +93,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496271126903">
-        <mark key="'" line="532" column="4" />
-        <mark key="[" line="693" column="78" />
-        <mark key="]" line="701" column="0" />
-        <mark key="." line="701" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496273075866">
+        <mark key="'" line="742" column="4" />
+        <mark key="[" line="741" column="25" />
+        <mark key="]" line="741" column="24" />
+        <mark key="." line="741" column="24" />
+        <mark key="^" line="741" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -239,8 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3486" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="225" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="554" column="10" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1036" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1389" column="16" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -339,6 +338,8 @@
       <jump line="1878" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="743" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="532" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="700" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="742" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -348,7 +349,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>attach</text>
+        <text>isClosed</text>
       </register>
       <register name="0" type="4">
         <text>pysage.GeometryOperations.s</text>
@@ -381,21 +382,20 @@
         <text encoding="base64">ICAgICAgICAgICAgcCArPSAxLjAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/isClosed/isPeriodic/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>attach</last-search>
+      <last-search>isClosed</last-search>
       <last-offset />
-      <last-pattern>attach</last-pattern>
-      <last-replace>test_</last-replace>
-      <last-substitute>no_test_</last-substitute>
+      <last-pattern>isClosed</last-pattern>
+      <last-replace>isPeriodic</last-replace>
+      <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sweep</entry>
         <entry>exit(</entry>
         <entry>hyper_stretch</entry>
         <entry>after_join_edges</entry>
@@ -415,9 +415,9 @@
         <entry>intersect</entry>
         <entry>intersectFaceFace</entry>
         <entry>attach</entry>
+        <entry>isClosed</entry>
       </history-search>
       <history-cmd>
-        <entry>1546</entry>
         <entry>1559</entry>
         <entry>%s/fc/mesh/gc</entry>
         <entry>1368</entry>
@@ -437,6 +437,7 @@
         <entry>/pysage</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>%s/isClosed/isPeriodic/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
