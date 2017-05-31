@@ -145,10 +145,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496195077833">
-        <mark key="[" line="54" column="43" />
-        <mark key="]" line="53" column="34" />
-        <mark key="." line="53" column="34" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496196477989">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="88" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
@@ -344,8 +345,8 @@
       <jump line="4405" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3BsaW5lID0gc2FnZS5iX3NwbGluZShbcDEsIHAyLCBwM10sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YKQo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -361,31 +362,31 @@
 #</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkK</text>
+        <text encoding="base64">c3BsaW5lID0gc2FnZS5iX3NwbGluZShbcDEsIHAyLCBwM10sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoZXh0X2VkZ2UsIDEsIDAsIDApCg==</text>
+        <text encoding="base64">cDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3BsaW5lX2V4dCA9IAo=</text>
+        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoZXh0X2VkZ2UsIDEsIDAsIDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXh0X2VkZ2UgPSBzYWdlLmV4dGVuZF9lZGdlKGVkZ2UsICgtMSwgLTEsIDIpLCAoMTAsIDEwLCAyKSkK</text>
+        <text encoding="base64">c3BsaW5lX2V4dCA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2FnZS5leHBvcnQoW2VkZ2UsIGV4dF9lZGdlXSwgImV4dGVuZHMuc2F0IikK</text>
+        <text encoding="base64">ZXh0X2VkZ2UgPSBzYWdlLmV4dGVuZF9lZGdlKGVkZ2UsICgtMSwgLTEsIDIpLCAoMTAsIDEwLCAyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2FnZS5leHBvcnQoW2VkZ2UsIGV4dF9lZGdlXSwgImV4dGVuZHMuc2F0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyNjbG9zZWRfc3BsaW5lX3JlcGVhdF9maXJzdF9wdCA9IHNhZ2UuYl9zcGxpbmUoW3AxLCBwMiwgcDMsIHA0LCBwMV0sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YLCBwZXJpb2RpYz1UcnVlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyNjbG9zZWRfc3BsaW5lX3JlcGVhdF9maXJzdF9wdCA9IHNhZ2UuYl9zcGxpbmUoW3AxLCBwMiwgcDMsIHA0LCBwMV0sIHN0YXJ0X2Rpcj1zYWdlLlVOSVRfVkVDX1gsIGVuZF9kaXI9c2FnZS5VTklUX1ZFQ19YLCBwZXJpb2RpYz1UcnVlKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cDQgPSBzYWdlLlBvaW50M0QoKC0xLCAwLCAwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
