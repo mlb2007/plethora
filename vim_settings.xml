@@ -195,11 +195,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496199668787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4395" column="28" />
-        <mark key="]" line="4414" column="23" />
-        <mark key="." line="4414" column="23" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496247581827">
+        <mark key="'" line="218" column="4" />
+        <mark key="[" line="1818" column="12" />
+        <mark key="]" line="1818" column="12" />
+        <mark key="." line="1818" column="12" />
         <mark key="^" line="4414" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
@@ -244,11 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1836" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="423" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1920" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3047" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3138" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="410" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1930" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2472" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -343,17 +338,22 @@
       <jump line="1389" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="1071" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="4405" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4413" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1818" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1618" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1817" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="218" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3BsaW5lX2V4dCA9IHNhZ2UuZXh0ZW5kX2VkZ2Uoc3BsaW5lLCAoLTEsIC0xLCAwKSwgKDMsIC0zLCAwKSkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>is_instance</text>
+        <text encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>#p1 = sage.point3d((0, 1, 0))
@@ -394,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search>is_instance</last-search>
+      <last-search encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>is_instance</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -404,9 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_edge_edge</entry>
-        <entry>isEntityNull</entry>
-        <entry>slice</entry>
         <entry>face_is</entry>
         <entry>_check_entity</entry>
         <entry>_check_return</entry>
@@ -424,6 +421,9 @@
         <entry>PYINFO</entry>
         <entry>extend_edge</entry>
         <entry>is_instance</entry>
+        <entry>ParamAtPoint</entry>
+        <entry>param_range</entry>
+        <entry encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
