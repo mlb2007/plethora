@@ -195,8 +195,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496195256784">
-        <mark key="'" line="4405" column="3" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496198291558">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="4404" column="0" />
         <mark key="]" line="4404" column="0" />
         <mark key="." line="4404" column="0" />
@@ -249,7 +249,6 @@
       <jump line="3047" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3138" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="410" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1930" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2472" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2491" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -343,6 +342,7 @@
       <jump line="1389" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="1071" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="4405" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -352,7 +352,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>PYINFO</text>
+        <text>extend_edge</text>
       </register>
       <register name="0" type="4">
         <text>#p1 = sage.point3d((0, 1, 0))
@@ -393,9 +393,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PYINFO</last-search>
+      <last-search>extend_edge</last-search>
       <last-offset />
-      <last-pattern>PYINFO</last-pattern>
+      <last-pattern>extend_edge</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -403,7 +403,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_edge_p</entry>
         <entry>iso</entry>
         <entry>get_edge_edge</entry>
         <entry>isEntityNull</entry>
@@ -423,6 +422,7 @@
         <entry>Bounding box</entry>
         <entry>print</entry>
         <entry>PYINFO</entry>
+        <entry>extend_edge</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
