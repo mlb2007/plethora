@@ -196,8 +196,8 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496247581827">
-        <mark key="'" line="218" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496254684540">
+        <mark key="'" line="1878" column="0" />
         <mark key="^" line="4414" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
@@ -242,18 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="410" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1930" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2472" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2491" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="431" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1603" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2763" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="31" column="28" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="2056" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="2129" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="2169" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="2785" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2823" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2828" column="8" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="3486" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -342,6 +330,18 @@
       <jump line="1618" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1817" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="218" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1413" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1415" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1853" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1856" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1864" column="71" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1867" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1868" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1871" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1872" column="81" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1873" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1876" column="80" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1878" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -351,7 +351,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</text>
+        <text>intersectFaceFace</text>
       </register>
       <register name="0" type="4">
         <text>#p1 = sage.point3d((0, 1, 0))
@@ -392,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</last-search>
+      <last-search>intersectFaceFace</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</last-pattern>
+      <last-pattern>intersectFaceFace</last-pattern>
       <last-replace>test_</last-replace>
       <last-substitute>no_test_</last-substitute>
       <last-dir>1</last-dir>
@@ -402,8 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>face_is</entry>
-        <entry>_check_entity</entry>
         <entry>_check_return</entry>
         <entry>sweep</entry>
         <entry>exit(</entry>
@@ -422,6 +420,8 @@
         <entry>ParamAtPoint</entry>
         <entry>param_range</entry>
         <entry encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</entry>
+        <entry>intersect</entry>
+        <entry>intersectFaceFace</entry>
       </history-search>
       <history-cmd>
         <entry>1546</entry>
