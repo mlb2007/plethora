@@ -46,6 +46,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496349289414">
+        <mark key="'" line="1465" column="0" />
+        <mark key="[" line="1439" column="4" />
+        <mark key="]" line="1465" column="0" />
+        <mark key="." line="1465" column="0" />
+        <mark key="^" line="1465" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
         <mark key="[" line="30" column="22" />
         <mark key="]" line="31" column="0" />
@@ -180,10 +187,10 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1496177139313">
-        <mark key="'" line="2156" column="54" />
-        <mark key="[" line="3677" column="0" />
-        <mark key="]" line="3717" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1496348976388">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3717" column="4" />
+        <mark key="]" line="3720" column="29" />
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
@@ -237,11 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="554" column="10" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1036" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1389" column="16" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="11" column="32" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1423" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1429" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1443" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1453" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -337,55 +339,60 @@
       <jump line="532" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="700" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="742" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="1400" column="42" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="1465" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmFwaS5leHBvcnQocGFydHMsICdwaWVjZXMuc2F0JykK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>isClosed</text>
+        <text>Creating</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2MubWFrZV9lbGxpcHRpY19hcmMoKDAsIDAsIDApLCAoMCwgNCwgMCksIDEsICgtMSwgMCwgMCkpCiAgICAgICAgcGFydHMgPSBzYy5zcGxpdF9lZGdlX3NpbmdsZShjLCAxLCBtYWtlX2NvcHk9RmFsc2UpCiAgICAgICAgYXNzZXJ0IGxlbihwYXJ0cykgPT0gMQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IyBzdXBwcmVzc2VzIHRoZSBhbm5veWluZyAiU3RhcnRpbmcgbGljZW5zZSBjaGVja3MiCiAgICBsb2cuc2V0X2xvZ19sZXZlbChuYW1lPSJTdGFydEFjaXMiLCBsZXZlbD0id2FybmluZyIpCiAgICAjIHR1cm5zIG9mIG1lbW9yeSBtYW5hZ2VtZW50IHZpYSBhY2lzIG9iamVjdCBkZWxldGlvbiwgd2hpY2ggaXMgd2hlcmUgdGhlIHNlZyBmYXVsdCBpcyBoYXBwZW5pbmcKICAgIHN1cHByZXNzX2VudGl0eV9kZWxldGVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmFwaS5leHBvcnQocGFydHMsICdwaWVjZXMuc2F0JykK</text>
+        <text encoding="base64">ICAgIHNhZ2UubWVzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZQo=</text>
+        <text encoding="base64">ICAgIHNhZ2UubWVzaAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICNpZiBzX2VkZ2UuaXNQZXJpb2RpYygpOgogICAgIyAgICBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocGFyYW1fdmFsdWVzKToKICAgICMgICAgICAgIGlmIHAgPCAwOgogICAgIyAgICAgICAgICAgIHBhcmFtX3ZhbHVlc1tpXSArPSAxLjAKCiAgICAjZm9yIHAgaW4gcGFyYW1fdmFsdWVzOgogICAgIyAgICBwdCA9IHNfZWRnZS5Qb2ludEF0Tm9ybWFsaXplZFBhcmFtKHApCiAgICAjICAgIHB0ID0gW3B0LmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXQogICAgIyAgICBvcmRlcmVkX3BvaW50cy5hcHBlbmQocHQpCgog</text>
+      <register name="4" type="2">
+        <text encoding="base64">aQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhcmFtX3ZhbHVlcy5zb3J0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmFwaS5leHBvcnQocGFydHMsICdwaWVjZXMuc2F0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNfZWRnZS5hdHRhY2hJbnRBdHRyaWJ1dGUoMSwgJ3NwbGl0X3NlYW0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcCA9PSAwIG9yIHAgPT0gMToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICNpZiBzX2VkZ2UuaXNQZXJpb2RpYygpOgogICAgIyAgICBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocGFyYW1fdmFsdWVzKToKICAgICMgICAgICAgIGlmIHAgPCAwOgogICAgIyAgICAgICAgICAgIHBhcmFtX3ZhbHVlc1tpXSArPSAxLjAKCiAgICAjZm9yIHAgaW4gcGFyYW1fdmFsdWVzOgogICAgIyAgICBwdCA9IHNfZWRnZS5Qb2ludEF0Tm9ybWFsaXplZFBhcmFtKHApCiAgICAjICAgIHB0ID0gW3B0LmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXQogICAgIyAgICBvcmRlcmVkX3BvaW50cy5hcHBlbmQocHQpCgog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2Zyb20gbG9nIGltcG9ydCBzZXRfbG9nX2xldmVsCiNzZXRfbG9nX2xldmVsKCdXQVJOSU5HJykK</text>
+        <text encoding="base64">ICAgIHBhcmFtX3ZhbHVlcy5zb3J0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isClosed</last-search>
+      <last-search>Creating</last-search>
       <last-offset />
-      <last-pattern>isClosed</last-pattern>
+      <last-pattern>Creating</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -393,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>exit(</entry>
         <entry>hyper_stretch</entry>
         <entry>after_join_edges</entry>
         <entry>intersect(</entry>
@@ -413,6 +419,7 @@
         <entry>intersectFaceFace</entry>
         <entry>attach</entry>
         <entry>isClosed</entry>
+        <entry>Creating</entry>
       </history-search>
       <history-cmd>
         <entry>1559</entry>
