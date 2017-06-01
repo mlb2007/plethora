@@ -46,12 +46,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496349289414">
-        <mark key="'" line="1465" column="0" />
-        <mark key="[" line="1439" column="4" />
-        <mark key="]" line="1465" column="0" />
-        <mark key="." line="1465" column="0" />
-        <mark key="^" line="1465" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496350474051">
+        <mark key="'" line="760" column="4" />
+        <mark key="[" line="1473" column="0" />
+        <mark key="]" line="1473" column="0" />
+        <mark key="^" line="1478" column="25" />
+        <mark key="." line="1473" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
         <mark key="[" line="30" column="22" />
@@ -85,11 +85,11 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1496274554001">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1496350156763">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/revolve_bug.py" timestamp="1493326283252">
         <mark key="[" line="11" column="0" />
@@ -244,10 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1429" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1443" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1453" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1550" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1553" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="5" column="18" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="3600" column="4" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -344,55 +340,59 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="1465" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="801" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="781" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="941" column="38" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
+      <jump line="760" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Creating</text>
+        <text>export_wire</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBzdXBwcmVzc2VzIHRoZSBhbm5veWluZyAiU3RhcnRpbmcgbGljZW5zZSBjaGVja3MiCiAgICBsb2cuc2V0X2xvZ19sZXZlbChuYW1lPSJTdGFydEFjaXMiLCBsZXZlbD0id2FybmluZyIpCiAgICAjIHR1cm5zIG9mIG1lbW9yeSBtYW5hZ2VtZW50IHZpYSBhY2lzIG9iamVjdCBkZWxldGlvbiwgd2hpY2ggaXMgd2hlcmUgdGhlIHNlZyBmYXVsdCBpcyBoYXBwZW5pbmcKICAgIHN1cHByZXNzX2VudGl0eV9kZWxldGVzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNhZ2UubWVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhZ2UubWVzaAo=</text>
+        <text encoding="base64">ICAgICNzdXBwcmVzc19lbnRpdHlfZGVsZXRlcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+        <text encoding="base64">ICAgICMgdHVybnMgb2YgbWVtb3J5IG1hbmFnZW1lbnQgdmlhIGFjaXMgb2JqZWN0IGRlbGV0aW9uLCB3aGljaCBpcyB3aGVyZSB0aGUgc2VnIGZhdWx0IGlzIGhhcHBlbmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">ICAgICNsb2cuc2V0X2xvZ19sZXZlbChuYW1lPSJTdGFydEFjaXMiLCBsZXZlbD0id2FybmluZyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmFwaS5leHBvcnQocGFydHMsICdwaWVjZXMuc2F0JykK</text>
+        <text encoding="base64">ICAgICMgc3VwcHJlc3NlcyB0aGUgYW5ub3lpbmcgIlN0YXJ0aW5nIGxpY2Vuc2UgY2hlY2tzIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZQo=</text>
+        <text encoding="base64">ICAgIHNhZ2UuZXhwb3J0X21lc2gobWVzaEMsICdpbmxldF9jb25pY3MuZGF0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHNhZ2UuZXhwb3J0X21lc2gobWVzaEIsICduYWNlbGxlX2d1aWRlcy5kYXQnKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICNpZiBzX2VkZ2UuaXNQZXJpb2RpYygpOgogICAgIyAgICBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocGFyYW1fdmFsdWVzKToKICAgICMgICAgICAgIGlmIHAgPCAwOgogICAgIyAgICAgICAgICAgIHBhcmFtX3ZhbHVlc1tpXSArPSAxLjAKCiAgICAjZm9yIHAgaW4gcGFyYW1fdmFsdWVzOgogICAgIyAgICBwdCA9IHNfZWRnZS5Qb2ludEF0Tm9ybWFsaXplZFBhcmFtKHApCiAgICAjICAgIHB0ID0gW3B0LmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXQogICAgIyAgICBvcmRlcmVkX3BvaW50cy5hcHBlbmQocHQpCgog</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHNhZ2UuZXhwb3J0X21lc2gobWVzaEEsICdpbmxldF9ndWlkZXMuZGF0JykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcmFtX3ZhbHVlcy5zb3J0KCkK</text>
+        <text encoding="base64">ICAgIHNhZ2UubWVzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Creating</last-search>
+      <last-search>export_wire</last-search>
       <last-offset />
-      <last-pattern>Creating</last-pattern>
+      <last-pattern>export_wire</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hyper_stretch</entry>
         <entry>after_join_edges</entry>
         <entry>intersect(</entry>
         <entry>join_edges</entry>
@@ -420,6 +419,7 @@
         <entry>attach</entry>
         <entry>isClosed</entry>
         <entry>Creating</entry>
+        <entry>export_wire</entry>
       </history-search>
       <history-cmd>
         <entry>1559</entry>
