@@ -24,7 +24,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1496274597350">
+      <file name="/Python Console" timestamp="1496275514498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
@@ -61,11 +61,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1496275102129">
-        <mark key="[" line="1009" column="41" />
-        <mark key="]" line="1009" column="40" />
-        <mark key="." line="1009" column="40" />
-        <mark key="^" line="1009" column="40" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1496276436129">
+        <mark key="[" line="1034" column="0" />
+        <mark key="]" line="1034" column="0" />
+        <mark key="." line="1034" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
         <mark key="[" line="12" column="8" />
@@ -91,12 +90,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496274920988">
-        <mark key="'" line="744" column="4" />
-        <mark key="[" line="695" column="12" />
-        <mark key="]" line="713" column="15" />
-        <mark key="^" line="713" column="15" />
-        <mark key="." line="713" column="15" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496276208591">
+        <mark key="'" line="740" column="4" />
+        <mark key="[" line="696" column="0" />
+        <mark key="]" line="699" column="72" />
+        <mark key="." line="699" column="72" />
+        <mark key="^" line="699" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -341,46 +340,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmFwaS5leHBvcnQocGFydHMsICdwaWVjZXMuc2F0JykK</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>isClosed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjID0gc2MubWFrZV9lbGxpcHRpY19hcmMoKDAsIDAsIDApLCAoMCwgNCwgMCksIDEsICgtMSwgMCwgMCkpCiAgICAgICAgcGFydHMgPSBzYy5zcGxpdF9lZGdlX3NpbmdsZShjLCAwLjUsIG1ha2VfY29weT1GYWxzZSkKICAgICAgICBhc3NlcnQgbGVuKHBhcnRzKSA9PSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBjID0gc2MubWFrZV9lbGxpcHRpY19hcmMoKDAsIDAsIDApLCAoMCwgNCwgMCksIDEsICgtMSwgMCwgMCkpCiAgICAgICAgcGFydHMgPSBzYy5zcGxpdF9lZGdlX3NpbmdsZShjLCAxLCBtYWtlX2NvcHk9RmFsc2UpCiAgICAgICAgYXNzZXJ0IGxlbihwYXJ0cykgPT0gMQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmFwaS5leHBvcnQocGFydHMsICdwaWVjZXMuc2F0JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2Zyb20gbG9nIGltcG9ydCBzZXRfbG9nX2xldmVsCiNzZXRfbG9nX2xldmVsKCdXQVJOSU5HJykK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiUmVxdWVzdGVkIHNwbGl0IHBvaW50IG91dHNpZGUgdGhlIGVkZ2UiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICNpZiBzX2VkZ2UuaXNQZXJpb2RpYygpOgogICAgIyAgICBmb3IgaSwgcCBpbiBlbnVtZXJhdGUocGFyYW1fdmFsdWVzKToKICAgICMgICAgICAgIGlmIHAgPCAwOgogICAgIyAgICAgICAgICAgIHBhcmFtX3ZhbHVlc1tpXSArPSAxLjAKCiAgICAjZm9yIHAgaW4gcGFyYW1fdmFsdWVzOgogICAgIyAgICBwdCA9IHNfZWRnZS5Qb2ludEF0Tm9ybWFsaXplZFBhcmFtKHApCiAgICAjICAgIHB0ID0gW3B0LmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXQogICAgIyAgICBvcmRlcmVkX3BvaW50cy5hcHBlbmQocHQpCgog</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHAgKz0gMS4wCg==</text>
+        <text encoding="base64">ICAgIHBhcmFtX3ZhbHVlcy5zb3J0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgc19lZGdlLmlzQ2xvc2VkKCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNfZWRnZS5hdHRhY2hJbnRBdHRyaWJ1dGUoMSwgJ3NwbGl0X3NlYW0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBwIDw9IDAuMDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgcCA9PSAwIG9yIHAgPT0gMToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvaW50c19pbl9vcmRlciA9IFtQb2ludDNEKFtwLmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXSkgZm9yIHAgaW4gc3BvaW50c19pbl9vcmRlcl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwb2ludHNfaW5fb3JkZXIgPSBbc19lZGdlLlBvaW50QXROb3JtYWxpemVkUGFyYW0ocCkgZm9yIHAgaW4gcGFyYW1fdmFsdWVzXQo=</text>
+        <text encoding="base64">I2Zyb20gbG9nIGltcG9ydCBzZXRfbG9nX2xldmVsCiNzZXRfbG9nX2xldmVsKCdXQVJOSU5HJykK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/isClosed/isPeriodic/gc</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -434,8 +433,8 @@
         <entry>%s/no_test_/test_/gc</entry>
         <entry>/pysage</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>%s/isClosed/isPeriodic/gc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
