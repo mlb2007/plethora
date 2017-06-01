@@ -85,8 +85,8 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1496350156763">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1496350587510">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -346,14 +346,14 @@
       <jump line="760" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>export_wire</text>
+        <text>tessellate_entity</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IyBzdXBwcmVzc2VzIHRoZSBhbm5veWluZyAiU3RhcnRpbmcgbGljZW5zZSBjaGVja3MiCiAgICBsb2cuc2V0X2xvZ19sZXZlbChuYW1lPSJTdGFydEFjaXMiLCBsZXZlbD0id2FybmluZyIpCiAgICAjIHR1cm5zIG9mIG1lbW9yeSBtYW5hZ2VtZW50IHZpYSBhY2lzIG9iamVjdCBkZWxldGlvbiwgd2hpY2ggaXMgd2hlcmUgdGhlIHNlZyBmYXVsdCBpcyBoYXBwZW5pbmcKICAgIHN1cHByZXNzX2VudGl0eV9kZWxldGVzKCkK</text>
@@ -390,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export_wire</last-search>
+      <last-search>tessellate_entity</last-search>
       <last-offset />
-      <last-pattern>export_wire</last-pattern>
+      <last-pattern>tessellate_entity</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -400,7 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry>after_join_edges</entry>
         <entry>intersect(</entry>
         <entry>join_edges</entry>
         <entry>SLICE</entry>
@@ -420,6 +419,7 @@
         <entry>isClosed</entry>
         <entry>Creating</entry>
         <entry>export_wire</entry>
+        <entry>tessellate_entity</entry>
       </history-search>
       <history-cmd>
         <entry>1559</entry>
