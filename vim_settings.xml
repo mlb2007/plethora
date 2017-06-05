@@ -24,7 +24,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1496692817783">
+      <file name="/Python Console" timestamp="1496697625017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
@@ -68,11 +68,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1496692703280">
-        <mark key="'" line="839" column="22" />
-        <mark key="[" line="1073" column="15" />
-        <mark key="]" line="1074" column="0" />
-        <mark key="." line="1074" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1496697784736">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="1112" column="0" />
+        <mark key="]" line="1112" column="0" />
+        <mark key="." line="1112" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1496352339691">
         <mark key="'" line="59" column="0" />
@@ -101,11 +101,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496692479361">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496697662433">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="864" column="11" />
-        <mark key="]" line="864" column="11" />
-        <mark key="." line="864" column="11" />
+        <mark key="[" line="882" column="50" />
+        <mark key="]" line="882" column="51" />
+        <mark key="^" line="882" column="51" />
+        <mark key="." line="882" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -252,9 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="902" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1103" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1135" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1166" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1195" column="30" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1227" column="30" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -352,55 +350,58 @@
       <jump line="1071" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="324" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="839" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1046" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdmVjX21vY2suY2FsbF9hcmdzWzBdID09ICgxLCAtMSwgMSkK</text>
-      </register>
-      <register name="-" type="4">
-        <text>D</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsX2FyZ3NfbGlzdFw+</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">bTEgPSBtb2NrLk1vY2soKQogICAgICAgIG0xLmdldENvb3JkID0gbW9jay5Nb2NrKHNpZGVfZWZmZWN0PVswLjEsIDEsIDJdKQog</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdmVjX21vY2suY2FsbF9hcmdzWzBdID09ICgxLCAtMSwgMSkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcG9pbnRfbW9jay5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKDAsIDAsIDApLCBtb2NrLmNhbGwoMSwgMSwgMSldCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2MSA9IHNjLlZlY3RvcjNEKDMsIDQsIDUpCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
+      <register name="-" type="4">
+        <text>)</text>
+      </register>
+      <register name="/" type="4">
+        <text>with</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnRyaW1fY3VydmVfdG9fcG9pbnQnKQogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5Qb2ludDNEJykKICAgIGRlZiB0ZXN0X3RyaW1fZWRnZV90b19wb2ludF9tYWtlX2NvcHkoc2VsZiwgcG9pbnRfbW9jaywgdHJpbV9tb2NrKToKICAgICAgICBlZGdlX21vY2sgPSBtb2NrLk1hZ2ljTW9jaygpCiAgICAgICAgbTIgPSBtb2NrLk1vY2soKQogICAgICAgIGVkZ2VfbW9jay5jb3B5LnJldHVybl92YWx1ZSA9IG0yCiAgICAgICAgc2MudHJpbV9lZGdlX3RvX3BvaW50KGVkZ2VfbW9jaywgc2MuUG9pbnQzRCgxLCAyLCAzKSwgbWFrZV9jb3B5PVRydWUpCgogICAgICAgIGFzc2VydCBlZGdlX21vY2suY29weS5jYWxsX2NvdW50ID09IDEKICAgICAgICBhc3NlcnQgdHJpbV9tb2NrLmNhbGxfYXJnc1swXSA9PSAobTIsIHBvaW50X21vY2sucmV0dXJuX3ZhbHVlLCBUcnVlKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlZGdlX21vY2suY29weSA9IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZWNfbW9jay5yZXR1cm5fdmFsdWUgPSAoMiwgNywgOCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludF9tb2NrLnJldHVybl92YWx1ZSA9ICgyLCAzLCA0KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2Uuc1ZlY3RvcjNEJykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbSA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgIHNjLmxpbmVfcGxhbmVfaW50ZXJzZWN0aW9uKHNjLlBvaW50M0QoMSwgMCwgMCksIHNjLlZlY3RvcjNEKDEsIDIsIDMpLCBzYy5Qb2ludDNEKDEsIDEsIDEpLCBzYy5WZWN0b3IzRCg0LCA1LCA2KSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsX2FyZ3NfbGlzdFw+</last-search>
+      <last-search>with</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsX2FyZ3NfbGlzdFw+</last-pattern>
+      <last-pattern>with</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -408,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>PYINFO</entry>
         <entry>extend_edge</entry>
         <entry>is_instance</entry>
@@ -428,6 +428,7 @@
         <entry>type(</entry>
         <entry>getCoord</entry>
         <entry encoding="base64">XDxjYWxsX2FyZ3NfbGlzdFw+</entry>
+        <entry>with</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fc/mesh/gc</entry>
