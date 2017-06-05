@@ -70,16 +70,12 @@
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1496352277077">
         <mark key="'" line="931" column="26" />
-        <mark key="[" line="1034" column="0" />
-        <mark key="]" line="1034" column="0" />
-        <mark key="." line="1034" column="0" />
+        <mark key="[" line="1043" column="0" />
+        <mark key="]" line="1043" column="0" />
+        <mark key="." line="1043" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1496352339691">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="151" column="85" />
-        <mark key="]" line="151" column="8" />
-        <mark key="." line="151" column="8" />
-        <mark key="^" line="151" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
         <mark key="[" line="12" column="8" />
@@ -105,12 +101,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496276208591">
-        <mark key="'" line="740" column="4" />
-        <mark key="[" line="696" column="0" />
-        <mark key="]" line="699" column="72" />
-        <mark key="." line="699" column="72" />
-        <mark key="^" line="699" column="72" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496690042504">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="859" column="41" />
+        <mark key="]" line="861" column="62" />
+        <mark key="." line="861" column="62" />
+        <mark key="^" line="861" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -257,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="26" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="531" column="26" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="540" column="26" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="549" column="75" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="553" column="17" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -357,6 +351,8 @@
       <jump line="1435" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="59" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="931" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="861" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
