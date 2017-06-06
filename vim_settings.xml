@@ -43,11 +43,11 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="83" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496784312783">
-        <mark key="[" line="146" column="49" />
-        <mark key="]" line="136" column="45" />
-        <mark key="." line="136" column="45" />
-        <mark key="^" line="134" column="26" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496788489192">
+        <mark key="'" line="80" column="27" />
+        <mark key="[" line="143" column="0" />
+        <mark key="]" line="143" column="53" />
+        <mark key="." line="143" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
         <mark key="'" line="0" column="0" />
@@ -63,11 +63,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496239642782">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="43" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496788366212">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -271,10 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1545" column="31" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1835" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1839" column="31" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1864" column="30" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1870" column="32" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1946" column="33" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2150" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -371,16 +367,20 @@
       <jump line="731" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="723" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="145" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="143" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="152" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="66" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="80" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwaWNrX3BhcmFtID0gY3VydmUuZXZhbHVhdGUodG9fZGlzY2FyZCkucGFyYW0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>PointAt</text>
+        <text>line(</text>
       </register>
       <register name="0" type="4">
         <text>&quot;&quot;&quot;
@@ -391,40 +391,40 @@
         &quot;&quot;&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNwbGl0X3BhcmFtZXRlcnMgPSBwYXJhbXMK</text>
+        <text encoding="base64">ICAgICAgICBwaWNrX3BhcmFtID0gY3VydmUuZXZhbHVhdGUodG9fZGlzY2FyZCkucGFyYW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmCg==</text>
+        <text encoding="base64">ICAgIHRyaW1fcHRfMiA9IE5vbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNwbGl0X3BhcmFtZXRlcnMuYXBwZW5kKHNvcnRlZF9wYXJhbXNbcGlja19pbmRleF0pCg==</text>
+        <text encoding="base64">ICAgIHRyaW1fcHRfMSA9IE5vbmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJvZiB0aGUgY3VydmUiLmZvcm1hdCh0b19kaXNjYXJkLCBwaWNrX3BhcmFtKSkK</text>
+        <text encoding="base64">ICAgIHNwbGl0X3BhcmFtZXRlcnMgPSBwYXJhbXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJpcyBub3QgaW4gdGhlIG9wZW4gaW50ZXJ2YWwgKDAsIDEpICIK</text>
+        <text encoding="base64">ICAgIGlmCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0b19kaXNjYXJkIFt7MH1dIChQYXJhbWV0ZXI6ezF9KSAiCg==</text>
+        <text encoding="base64">ICAgIHNwbGl0X3BhcmFtZXRlcnMuYXBwZW5kKHNvcnRlZF9wYXJhbXNbcGlja19pbmRleF0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjdXR0ZXI6IHNwbGl0dGluZyBvYmplY3QocykuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJvZiB0aGUgY3VydmUiLmZvcm1hdCh0b19kaXNjYXJkLCBwaWNrX3BhcmFtKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBbc3BsaXR0ZXJdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICJpcyBub3QgaW4gdGhlIG9wZW4gaW50ZXJ2YWwgKDAsIDEpICIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsaWYgaXNpbnN0YW5jZShzcGxpdHRlciwgbnVtYmVycy5SZWFsKToK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJ0b19kaXNjYXJkIFt7MH1dIChQYXJhbWV0ZXI6ezF9KSAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>PointAt</last-search>
+      <last-search>line(</last-search>
       <last-offset />
-      <last-pattern>PointAt</last-pattern>
+      <last-pattern>line(</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -432,7 +432,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ParamAtPoint</entry>
         <entry>param_range</entry>
         <entry encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</entry>
         <entry>intersect</entry>
@@ -452,6 +451,7 @@
         <entry>trim</entry>
         <entry>Norma</entry>
         <entry>PointAt</entry>
+        <entry>line(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fc/mesh/gc</entry>
