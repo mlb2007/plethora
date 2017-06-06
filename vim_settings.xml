@@ -101,15 +101,15 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496697662433">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="882" column="50" />
-        <mark key="]" line="882" column="51" />
-        <mark key="^" line="882" column="51" />
-        <mark key="." line="882" column="51" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496766255393">
+        <mark key="'" line="723" column="4" />
+        <mark key="[" line="883" column="0" />
+        <mark key="]" line="883" column="0" />
+        <mark key="." line="883" column="0" />
+        <mark key="^" line="883" column="19" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496765238732">
-        <mark key="[" line="121" column="43" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496765947975">
+        <mark key="[" line="123" column="41" />
         <mark key="]" line="106" column="7" />
         <mark key="^" line="106" column="7" />
         <mark key="." line="106" column="7" />
@@ -259,12 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1166" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1195" column="30" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1227" column="30" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1265" column="50" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1287" column="73" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="1311" column="68" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1413" column="31" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1545" column="31" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1835" column="29" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -359,55 +353,61 @@
       <jump line="1046" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="8" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="698" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="883" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="695" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="725" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="731" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="723" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b19wb2ludCA9IGNfZWRnZS5Ob3JtYWxpemVkUGFyYW1BdFBvaW50KHEuc19lbnRpdHkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>with</text>
+        <text>Norma</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHNwbGl0KGN1cnZlLCBzcGxpdHRlcik6CiAgICAiIiIKICAgIFNwbGl0cyB0aGUgZ2l2ZW4gY3VydmUuIElmIHRoZSBnaXZlbiBzcGxpdHRlciBpcyBhIGZsb2F0aW5nLXBvaW50IHZhbHVlLCBpdCBpcyBpbnRlcnByZXRlZCBhcyBhIG5vcm1hbGl6ZWQgcGFyYW1ldGVyCiAgICB2YWx1ZSBmb3IgdGhlIGN1cnZlLiBJZiBpdCBpcyBhIHBvaW50IG9yIGlzIGNvbnZlcnRpYmxlIHRvIGEgcG9pbnQsIGl0IGlzIGludGVycHJldGVkIGFzIGEgcG9pbnQgb24gdGhlIGN1cnZlLiBJdAogICAgY2FuIGJlIGEgUGxhbmUsIGFuZCBpcyB1c2VkIGFzIHN1Y2guIElmIGl0IGlzIGFuIGl0ZXJhYmxlLCB0aGVuIGVhY2ggZWxlbWVudCB3aWxsIGJlIGludGVycHJldGVkIGFzIGEgbnVtYmVyIG9yIGEKICAgIHBvaW50LiBUaGUgaXRlcmFibGUgY2FuIGhhdmUgYm90aCBwb2ludHMgYW5kIHBhcmFtZXRlciB2YWx1ZXMuCiAgICA6cGFyYW0gY3VydmU6IHRoZSBjdXJ2ZSB0byBzcGxpdC4KICAgIDpwYXJhbSBzcGxpdHRlcjogc3BsaXR0aW5nIG9iamVjdChzKS4KICAgIDpyZXR1cm46IGEgbGlzdCBvZiBwYXJ0cyB0aGF0IGNhbiBiZSBmdXJ0aGVyIGZpbHRlcmVkLgogICAgIiIiCiAgICBpZiBpc2luc3RhbmNlKGN1cnZlLCBzYy5FbGxpcHNlT3JDaXJjbGUpOgogICAgICAgIGN1cnZlID0gY3VydmUudG9fc3BsaW5lKCkKICAgIGVsaWYgbm90IGlzaW5zdGFuY2UoY3VydmUsIHNjLkN1cnZlKToKICAgICAgICByYWlzZSBUeXBlRXJyb3IoJ2N1cnZlLnNwbGl0IGdpdmVuIGEgImN1cnZlIiBvZiB0eXBlICcgKyBzdHIodHlwZShjdXJ2ZSkpKQoKICAgIGlmIGlzaW5zdGFuY2Uoc3BsaXR0ZXIsIHNjLlBvaW50M0QpIG9yIGlzaW5zdGFuY2Uoc3BsaXR0ZXIsIG51bWJlcnMuUmVhbCk6CiAgICAgICAgYmFzZV9pdGVyYXRvciA9IGNvcmUuc3BsaXRfZWRnZV9zaW5nbGUoY3VydmUuc19lbnRpdHksIHNwbGl0dGVyKQogICAgZWxpZiBpc2luc3RhbmNlKHNwbGl0dGVyLCBjb3JlLlBsYW5lKToKICAgICAgICBwb2ludHMgPSBjdXJ2ZS5pbnRlcnNlY3Rpb25fcG9pbnRzKHNwbGl0dGVyKQogICAgICAgIGJhc2VfaXRlcmF0b3IgPSBjb3JlLnNwbGl0X2VkZ2VfbXVsdGlwbGVfcG9pbnRzKGN1cnZlLnNfZW50aXR5LCBwb2ludHMpCiAgICBlbGlmIGlzaW5zdGFuY2Uoc3BsaXR0ZXIsIGNvbGxlY3Rpb25zLkl0ZXJhYmxlKToKICAgICAgICBwb2ludHMgPSBbXQogICAgICAgIGZvciBpLCBzIGluIGVudW1lcmF0ZShzcGxpdHRlcik6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UocywgbnVtYmVycy5SZWFsKToKICAgICAgICAgICAgICAgIHBvaW50cy5hcHBlbmQoY3VydmUuZXZhbHVhdGUocykucG9zaXRpb24pCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICAgICAgcCA9IHNjLlBvaW50M0QocykKICAgICAgICAgICAgICAgICAgICBwb2ludHMuYXBwZW5kKHApCiAgICAgICAgICAgICAgICBleGNlcHQgKFZhbHVlRXJyb3IsIFR5cGVFcnJvcik6CiAgICAgICAgICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKAogICAgICAgICAgICAgICAgICAgICAgICAiRWxlbWVudCBhdCBpbmRleCAlZCBvZiBzcGxpdHRlciBpcyBuZWl0aGVyIGEgbnVtYmVyIG5vciBhIHBvaW50OiAlcyIgJSAoaSwgdHlwZShzdHIocykpKSkKICAgICAgICBiYXNlX2l0ZXJhdG9yID0gY29yZS5zcGxpdF9lZGdlX211bHRpcGxlX3BvaW50cyhjdXJ2ZS5zX2VudGl0eSwgcG9pbnRzKQogICAgZWxzZToKICAgICAgICByYWlzZSBUeXBlRXJyb3IoIkNhbm5vdCB1c2UgYSBzcGxpdHRlciBvZiB0eXBlICIgKyBzdHIodHlwZShzcGxpdHRlcikpKQogICAgcmV0dXJuIHNjLkN1cnZlUmVzdWx0cyhiYXNlX2l0ZXJhdG9yKQo=</text>
+        <text encoding="base64">dHJ5OgogICAgICAgIHEgPSBQb2ludDNEKHApCiAgICAgICAgdiA9IHNfZWRnZS5Ob3JtYWxpemVkUGFyYW1BdFBvaW50KHEuc19lbnRpdHkpCiAgICAgICAgaWYgYWJzKHYpID4gMS4wIG9yIChub3Qgc19lZGdlLmlzQ2xvc2VkKCkgYW5kIHYgPCAwLjApOgogICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIkdpdmVuIHNwbGl0IHBvaW50IGlzIG5vdCBpbnNpZGUgdGhlIGVkZ2UiKQogICAgZXhjZXB0IChWYWx1ZUVycm9yLCBUeXBlRXJyb3IpOgogICAgICAgIHQgPSBmbG9hdChwKQogICAgICAgICMgVGhpcyBpcyB3aGF0IHRoZSBDKysgY29kZSBkb2VzIGFueXdheSEgYXBpX3NwbGl0X2N1cnZlIHRha2VzIGEgcG9zaXRpb24sIHNvIHRoYXQncyB0aGUgImJhc2UiIG1ldGhvZCB3ZSB1c2UuCiAgICAgICAgcG9pbnQgPSBzX2VkZ2UuUG9pbnRBdE5vcm1hbGl6ZWRQYXJhbSh0KQogICAgICAgIHBvaW50ID0gUG9pbnQzRChbcG9pbnQuZ2V0Q29vcmQoaSkgZm9yIGkgaW4gcmFuZ2UoMyldKQogICAgICAgIHJldHVybiBzcGxpdF9lZGdlX3NpbmdsZShzX2VkZ2UsIHBvaW50KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b19wb2ludCA9IGNfZWRnZS5Ob3JtYWxpemVkUGFyYW1BdFBvaW50KHEuc19lbnRpdHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2ludCA9IHNfZWRnZS5Qb2ludEF0Tm9ybWFsaXplZFBhcmFtKHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlX21vY2suY29weSA9IAo=</text>
+        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2UodG9fcG9pbnQsIChmbG9hdCwgaW50KSk6Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGlmIGFicyh2KSA+IDEuMCBvciAobm90IHNfZWRnZS5pc0Nsb3NlZCgpIGFuZCB2IDwgMC4wKToKICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJHaXZlbiBzcGxpdCBwb2ludCBpcyBub3QgaW5zaWRlIHRoZSBlZGdlIikKIA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2ID0gc19lZGdlLk5vcm1hbGl6ZWRQYXJhbUF0UG9pbnQocS5zX2VudGl0eSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb2ludCA9IHNfZWRnZS5Qb2ludEF0Tm9ybWFsaXplZFBhcmFtKHQpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>with</last-search>
+      <last-search>Norma</last-search>
       <last-offset />
-      <last-pattern>with</last-pattern>
+      <last-pattern>Norma</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -415,8 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PYINFO</entry>
-        <entry>extend_edge</entry>
         <entry>is_instance</entry>
         <entry>ParamAtPoint</entry>
         <entry>param_range</entry>
@@ -435,6 +433,8 @@
         <entry>getCoord</entry>
         <entry encoding="base64">XDxjYWxsX2FyZ3NfbGlzdFw+</entry>
         <entry>with</entry>
+        <entry>trim</entry>
+        <entry>Norma</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fc/mesh/gc</entry>
