@@ -109,11 +109,11 @@
         <mark key="^" line="886" column="10" />
         <mark key="." line="887" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496768456670">
-        <mark key="[" line="122" column="48" />
-        <mark key="]" line="125" column="57" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496773061427">
+        <mark key="[" line="106" column="41" />
+        <mark key="]" line="106" column="41" />
         <mark key="^" line="125" column="57" />
-        <mark key="." line="125" column="57" />
+        <mark key="." line="106" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/exports.py" timestamp="1487698345977">
         <mark key="[" line="23" column="0" />
@@ -362,11 +362,11 @@
       <jump line="723" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIGlzaW5zdGFuY2Uoc3BsaXR0ZXIsIG51bWJlcnMuUmVhbCk6Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>PointAt</text>
