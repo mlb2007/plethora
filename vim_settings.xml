@@ -231,6 +231,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1496942690861">
+        <mark key="'" line="94" column="8" />
+        <mark key="[" line="215" column="24" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492541379230">
         <mark key="[" line="166" column="57" />
         <mark key="]" line="167" column="11" />
@@ -252,10 +258,14 @@
         <mark key="]" line="131" column="69" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1496941624119">
+        <mark key="[" line="440" column="10" />
+        <mark key="]" line="443" column="1" />
+        <mark key="^" line="440" column="0" />
+        <mark key="." line="440" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1946" column="33" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="2150" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2159" column="33" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2389" column="36" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2126" column="72" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -354,60 +364,57 @@
       <jump line="66" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="80" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="236" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="44" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="94" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_eval</text>
+        <text encoding="base64">XDxnZXRfbW9ja19lZGdlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;&quot;&quot;
-        Evaluate this edge at the given point or normalized parameter.
-        :param p: a normalized parameter value or a point at which to evaluate this edge.
-        :return: an EdgeEvaluation object.
-        :rtype: sage.query.EdgeEvaluation
-        &quot;&quot;&quot;</text>
+        <text encoding="base64">ZGVmIHRlc3RfZW5kX2N1cnZhdHVyZShzZWxmKToKICAgICAgICBtID0gbW9jay5Nb2NrKCkKCiAgICAgICAgdCA9IG1vY2suTW9jaygpCiAgICAgICAgdC5nZXRDb21wb25lbnQuc2lkZV9lZmZlY3QgPSBbMSwgLTEsIDFdCiAgICAgICAgbS5nZXRFbmRDdXJ2YXR1cmUucmV0dXJuX3ZhbHVlID0gdAoKICAgICAgICBxID0gc3EuRWRnZVF1ZXJ5KG0pCiAgICAgICAgcyA9IHEuZW5kX2N1cnZhdHVyZQogICAgICAgIGFzc2VydCBzWzFdID09IC1zWzJdCiAgICAgICAgYXNzZXJ0IHNbMF0gPT0gLXNbMV0KICAgICAgICBhc3NlcnQgcy5fX2NsYXNzX18gaXMgc2MuVmVjdG9yM0QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgaWYgdHJpbV9wdF8xIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtLmdldEVuZEN1cnZhdHVyZS5yZXR1cm5fdmFsdWUgPSB0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0LmdldENvbXBvbmVudC5zaWRlX2VmZmVjdCA9IFsxLCAtMSwgMV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtID0gbW9jay5Nb2NrKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNrX3BhcmFtID0gY3VydmUuZXZhbHVhdGUodG9fZGlzY2FyZCkucGFyYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyaW1fcHRfMiA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_eval</last-search>
+      <last-search encoding="base64">XDxnZXRfbW9ja19lZGdlXD4=</last-search>
       <last-offset />
-      <last-pattern>_eval</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfbW9ja19lZGdlXD4=</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -415,9 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</entry>
-        <entry>intersect</entry>
-        <entry>intersectFaceFace</entry>
         <entry>attach</entry>
         <entry>isClosed</entry>
         <entry>Creating</entry>
@@ -435,6 +439,9 @@
         <entry>PointAt</entry>
         <entry>line(</entry>
         <entry>_eval</entry>
+        <entry>evaluate</entry>
+        <entry>EdgeQuery</entry>
+        <entry encoding="base64">XDxnZXRfbW9ja19lZGdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fc/mesh/gc</entry>
