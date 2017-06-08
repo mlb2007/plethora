@@ -3,110 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/skeleton_smartcurves.py" timestamp="1484755357048">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489424967392">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496351668418">
-        <mark key="'" line="1435" column="4" />
-        <mark key="[" line="1473" column="0" />
-        <mark key="]" line="1473" column="0" />
-        <mark key="^" line="1478" column="25" />
-        <mark key="." line="1473" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/revolve_bug.py" timestamp="1493326283252">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="10" column="104" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496774959229">
-        <mark key="'" line="727" column="4" />
-        <mark key="[" line="72" column="84" />
-        <mark key="]" line="72" column="82" />
-        <mark key="^" line="72" column="82" />
-        <mark key="." line="72" column="83" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496790544437">
-        <mark key="'" line="80" column="27" />
-        <mark key="[" line="145" column="4" />
-        <mark key="]" line="142" column="5" />
-        <mark key="." line="142" column="5" />
-        <mark key="^" line="142" column="5" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
-        <mark key="[" line="140" column="30" />
-        <mark key="]" line="170" column="46" />
-        <mark key="." line="170" column="46" />
-        <mark key="^" line="170" column="46" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491933805306">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496788366212">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1496348976388">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="3717" column="4" />
-        <mark key="]" line="3720" column="29" />
-        <mark key="." line="2160" column="44" />
-        <mark key="^" line="2160" column="44" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496254684540">
-        <mark key="^" line="4414" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="51" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1496790805773">
-        <mark key="[" line="235" column="27" />
-        <mark key="]" line="236" column="38" />
-        <mark key="." line="236" column="38" />
-        <mark key="^" line="236" column="38" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_point.py" timestamp="1496775468054">
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/entity.py" timestamp="1489528777454">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -116,6 +12,11 @@
         <mark key="[" line="100" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/skeleton_smartcurves.py" timestamp="1484755357048">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Python Console" timestamp="1496767711933">
         <mark key="[" line="0" column="0" />
@@ -129,10 +30,27 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/mesh_write_slow/a330/a330-300.py" timestamp="1489424967392">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496351668418">
+        <mark key="'" line="1435" column="4" />
+        <mark key="[" line="1473" column="0" />
+        <mark key="]" line="1473" column="0" />
+        <mark key="^" line="1478" column="25" />
+        <mark key="." line="1473" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/mock_test.py" timestamp="1492452236295">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/try/reverse.py" timestamp="1487051035676">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_node.py" timestamp="1493745426903">
         <mark key="[" line="40" column="0" />
@@ -154,12 +72,37 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1496352339691">
         <mark key="'" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/boolean-test.py" timestamp="1486773568442">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="60" column="38" />
         <mark key="]" line="127" column="53" />
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/revolve_bug.py" timestamp="1493326283252">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="10" column="104" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1496774959229">
+        <mark key="'" line="727" column="4" />
+        <mark key="[" line="72" column="84" />
+        <mark key="]" line="72" column="82" />
+        <mark key="^" line="72" column="82" />
+        <mark key="." line="72" column="83" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1496941271859">
+        <mark key="'" line="80" column="27" />
+        <mark key="[" line="147" column="12" />
+        <mark key="]" line="144" column="16" />
+        <mark key="." line="144" column="16" />
+        <mark key="^" line="144" column="16" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/__init__.py" timestamp="1496350587510">
         <mark key="[" line="1" column="0" />
@@ -176,6 +119,15 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
+        <mark key="[" line="140" column="30" />
+        <mark key="]" line="170" column="46" />
+        <mark key="." line="170" column="46" />
+        <mark key="^" line="170" column="46" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test/test_dijk.txt" timestamp="1494472612312">
         <mark key="[" line="2" column="5" />
@@ -194,6 +146,23 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/entity.py" timestamp="1491933805306">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496788366212">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
@@ -217,10 +186,20 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" timestamp="1496348976388">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="3717" column="4" />
+        <mark key="]" line="3720" column="29" />
+        <mark key="." line="2160" column="44" />
+        <mark key="^" line="2160" column="44" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1496254684540">
+        <mark key="^" line="4414" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -229,11 +208,28 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="51" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/GraphAlgos/node.py" timestamp="1494566991100">
         <mark key="[" line="8" column="32" />
         <mark key="]" line="7" column="22" />
         <mark key="." line="7" column="22" />
         <mark key="^" line="7" column="22" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1496940192882">
+        <mark key="'" line="236" column="33" />
+        <mark key="[" line="235" column="27" />
+        <mark key="]" line="236" column="38" />
+        <mark key="." line="236" column="38" />
+        <mark key="^" line="236" column="38" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1492541379230">
         <mark key="[" line="166" column="57" />
@@ -246,6 +242,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_point.py" timestamp="1496775468054">
+        <mark key="[" line="264" column="0" />
+        <mark key="]" line="264" column="0" />
+        <mark key="." line="264" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1496352129047">
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="69" />
@@ -253,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1870" column="32" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="1946" column="33" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2150" column="20" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="2159" column="33" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
@@ -353,6 +353,7 @@
       <jump line="152" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="66" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="80" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="236" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -362,7 +363,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>line(</text>
+        <text>_eval</text>
       </register>
       <register name="0" type="4">
         <text>&quot;&quot;&quot;
@@ -376,7 +377,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgaWYgdHJpbV9wdF8xIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -388,25 +389,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNrX3BhcmFtID0gY3VydmUuZXZhbHVhdGUodG9fZGlzY2FyZCkucGFyYW0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyaW1fcHRfMiA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyaW1fcHRfMSA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICBwaWNrX3BhcmFtID0gY3VydmUuZXZhbHVhdGUodG9fZGlzY2FyZCkucGFyYW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNwbGl0X3BhcmFtZXRlcnMgPSBwYXJhbXMK</text>
+        <text encoding="base64">ICAgIHRyaW1fcHRfMiA9IE5vbmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>line(</last-search>
+      <last-search>_eval</last-search>
       <last-offset />
-      <last-pattern>line(</last-pattern>
+      <last-pattern>_eval</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -414,7 +415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>param_range</entry>
         <entry encoding="base64">XDxfZ2V0X2VkZ2VfcGFyYW1fcmFuZ2VcPg==</entry>
         <entry>intersect</entry>
         <entry>intersectFaceFace</entry>
@@ -434,6 +434,7 @@
         <entry>Norma</entry>
         <entry>PointAt</entry>
         <entry>line(</entry>
+        <entry>_eval</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fc/mesh/gc</entry>
