@@ -43,11 +43,12 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="83" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497026947400">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497028333819">
         <mark key="'" line="104" column="14" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="153" column="12" />
+        <mark key="]" line="171" column="42" />
+        <mark key="." line="171" column="42" />
+        <mark key="^" line="171" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
         <mark key="'" line="0" column="0" />
@@ -130,7 +131,7 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1496957995778">
+      <file name="/Python Console" timestamp="1497027295842">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
@@ -372,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImVsc2UgZmlsdGVyZWQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>filter(</text>
@@ -384,31 +385,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81KHNlbGYpOgogICAgICAgIHAgPSBzYWdlLmN1cnZlLmxpbmUuZnJvbV9lbmRfcG9pbnRzKHN0YXJ0PSgwLCAwLCAwKSwgZW5kPSgxLCAxLCAwKSkKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0ocCwgMC41LCBzYWdlLlBvaW50M0QoMCwgMCwgMCkpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDEpLnBvc2l0aW9uID09IHNhZ2UuUG9pbnQzRCgxLCAxLCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gc2FnZS5Qb2ludDNEKDAuNSwgMC41LCAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgImVsc2UgZmlsdGVyZWQiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiSW4gaGVyZSIK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICMgbm93IGRpc2NhcmQgc2VsZWN0ZWQgY3VydmUgcGllY2UKICAgIGRlZiBkaXNjYXJkX3ByZWRpY2F0ZShwaWVjZSk6CiAgICAgICAgcHJpbnQgIkluIGhlcmUiCiAgICAgICAgdHJ5OgogICAgICAgICAgICBwcmludCBwaWVjZS5ldmFsdWF0ZSgwKS5wb3NpdGlvbiwgcGllY2UuZXZhbHVhdGUoMSkucG9zaXRpb24KICAgICAgICAgICAgcGFyYW1faSA9IHBpZWNlLmV2YWx1YXRlKGRpc2NhcmRfcHQpLnBhcmFtCiAgICAgICAgICAgIHByaW50ICJwYXJhbSBpczoiLCBwYXJhbV9pCiAgICAgICAgZXhjZXB0IExvb2t1cEVycm9yOgogICAgICAgICAgICBwcmludCAicmV0dXJuIFRydWUiCiAgICAgICAgICAgIHJldHVybiBUcnVlICAjIGtlZXAgdGhpcyBwaWVjZSBhcyB0aGUgcG9pbnQgaXMgbm90IHdpdGhpbiBwYXJhbSBib3VuZHMgb2YgdGhlIHBpZWNlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcHJpbnQgInJldHVybiBGYWxzZSIKICAgICAgICAgICAgcmV0dXJuIEZhbHNlICAjIHRocm93IHRoaXMgcGllY2Ugd2hpY2ggY29udGFpbnMgdGhlIHRvX2Rpc2NhcmQgcG9pbnQK</text>
+        <text encoding="base64">IyBub3cgZGlzY2FyZCBzZWxlY3RlZCBjdXJ2ZSBwaWVjZQpkZWYga2VlcF9wcmVkaWNhdGUocGllY2UsIGRpc2NhcmRfcHQpOgogICAgcHJpbnQgIkluIGhlcmUiCiAgICB0cnk6CiAgICAgICAgcHJpbnQgcGllY2UuZXZhbHVhdGUoMCkucG9zaXRpb24sIHBpZWNlLmV2YWx1YXRlKDEpLnBvc2l0aW9uCiAgICAgICAgcGFyYW1faSA9IHBpZWNlLmV2YWx1YXRlKGRpc2NhcmRfcHQpLnBhcmFtCiAgICAgICAgcHJpbnQgInBhcmFtIGlzOiIsIHBhcmFtX2kKICAgIGV4Y2VwdCBMb29rdXBFcnJvcjoKICAgICAgICBwcmludCAicmV0dXJuIFRydWUiCiAgICAgICAgcmV0dXJuIFRydWUgICMga2VlcCB0aGlzIHBpZWNlIGFzIHRoZSBwb2ludCBpcyBub3Qgd2l0aGluIHBhcmFtIGJvdW5kcyBvZiB0aGUgcGllY2UKICAgIGVsc2U6CiAgICAgICAgcHJpbnQgInJldHVybiBGYWxzZSIKICAgICAgICByZXR1cm4gRmFsc2UgICMgdGhyb3cgdGhpcyBwaWVjZSB3aGljaCBjb250YWlucyB0aGUgdG9fZGlzY2FyZCBwb2ludAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbZmlsdGVyZWRfcGllY2UgaWYgc2MuQ3VydmVSZXN1bHRzKGZpbHRlcmVkX3BpZWNlKS5maWx0ZXIoZGlzY2FyZF9wcmVkaWNhdGUpIGVsc2UgIGZvciBmaWx0ZXJlZF9waWVjZSBpbiBzcGxpdF9waWVjZXNdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcGllY2UuZXZhbHVhdGUoMCkucG9zaXRpb24sIHBpZWNlLmV2YWx1YXRlKDEpLnBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRzX3dpdGhfcHJlZGljYXRlID0gc2MuQ3VydmVSZXN1bHRzKGZpbHRlcmVkX3BpZWNlKS5maWx0ZXIoZGlzY2FyZF9wcmVkaWNhdGUsIGRpc2NhcmRfcHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInJldHVybiBUcnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidGhpcyBwaWVjZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -447,7 +448,6 @@
         <entry>filter(</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/fc/mesh/gc</entry>
         <entry>1368</entry>
         <entry>%s/Cost/Stock</entry>
         <entry>%s/machine_cost/process_stock/gc</entry>
@@ -466,6 +466,7 @@
         <entry>wq</entry>
         <entry>%s/isClosed/isPeriodic/gc</entry>
         <entry>ew</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
