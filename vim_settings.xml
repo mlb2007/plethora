@@ -46,12 +46,12 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="83" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497289754360">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497291948074">
         <mark key="'" line="104" column="14" />
-        <mark key="[" line="165" column="31" />
-        <mark key="]" line="165" column="63" />
-        <mark key="." line="165" column="63" />
-        <mark key="^" line="165" column="63" />
+        <mark key="[" line="175" column="4" />
+        <mark key="]" line="175" column="51" />
+        <mark key="." line="175" column="51" />
+        <mark key="^" line="175" column="51" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
         <mark key="'" line="0" column="0" />
@@ -383,11 +383,11 @@
       <jump line="442" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlJlamVjdCB0aGUgcGllY2UiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>filter(</text>
