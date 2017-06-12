@@ -46,12 +46,11 @@
         <mark key="^" line="72" column="82" />
         <mark key="." line="72" column="83" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497056351443">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497284210785">
         <mark key="'" line="104" column="14" />
-        <mark key="[" line="153" column="31" />
-        <mark key="]" line="158" column="44" />
-        <mark key="." line="158" column="44" />
-        <mark key="^" line="158" column="44" />
+        <mark key="[" line="174" column="20" />
+        <mark key="]" line="174" column="56" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tecio.py" timestamp="1494878284182">
         <mark key="'" line="0" column="0" />
@@ -97,11 +96,11 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497042091314">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497283670939">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="235" column="58" />
-        <mark key="]" line="234" column="30" />
-        <mark key="." line="234" column="30" />
+        <mark key="[" line="235" column="55" />
+        <mark key="]" line="235" column="55" />
+        <mark key="." line="235" column="55" />
         <mark key="^" line="234" column="30" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/io.py" timestamp="1491863879946">
@@ -121,11 +120,12 @@
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497056279317">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497284365740">
         <mark key="'" line="449" column="8" />
-        <mark key="[" line="441" column="23" />
-        <mark key="]" line="442" column="0" />
-        <mark key="." line="442" column="0" />
+        <mark key="[" line="451" column="54" />
+        <mark key="]" line="458" column="62" />
+        <mark key="." line="458" column="62" />
+        <mark key="^" line="458" column="62" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/entity.py" timestamp="1489528777454">
         <mark key="[" line="18" column="0" />
@@ -383,10 +383,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkX3BhcmFtcy5pbnNlcnQoMCwgc29ydGVkX3BhcmFtc1stMV0pCiAgICAgICAgICAgIHNvcnRlZF9wYXJhbXMuYXBwZW5kKHNvcnRlZF9wYXJhbXNbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBvaW50IHRvIGJlIGRpc2NhcmRlZCIsIHRvX2Rpc2NhcmRfcHQK</text>
       </register>
       <register name="-" type="4">
-        <text>elliptic_arc.from_vertex_aspect_ratio_normal_angle(sage.ORIGIN, (0, 4, 0), 2,</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>filter(</text>
@@ -395,31 +395,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBiaXNlY3RfbGVmdChzcGxpdF9wYXJhbWV0ZXJzLCBwaWNrX3BhcmFtKQogICAgICAgICAgICBzcGxpdF9wYXJhbWV0ZXJzID0gW3NwbGl0X3BhcmFtZXRlcnNbaW5kZXggLSAxXSwgc3BsaXRfcGFyYW1ldGVyc1tpbmRleF1dCiAgICAgICAgICAgIGtlZXBfaW5kaWNpZXMgPSBbMCwtMV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkX3BhcmFtcy5pbnNlcnQoMCwgc29ydGVkX3BhcmFtc1stMV0pCiAgICAgICAgICAgIHNvcnRlZF9wYXJhbXMuYXBwZW5kKHNvcnRlZF9wYXJhbXNbMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBvaW50IHRvIGJlIGRpc2NhcmRlZCIsIHRvX2Rpc2NhcmRfcHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIktlZXAgdGhlIHBpZWNlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYWdlLlVOSVRfVkVDX1gsIDM2MCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gc2VsZi5tYWtlX2xpbmUoKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc3VsdHMgPSBwaWVjZXMuZmlsdGVyKHRvX2tlZXBfcHJlZGljYXRlKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcAo=</text>
+        <text encoding="base64">ICAgICAgICB0b19kaXNjYXJkX3B0ID0gZXZhbHVhdG9yLnBvc2l0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCg==</text>
+        <text encoding="base64">ICAgIHRvX2Rpc2NhcmRfcHQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBtYWtlX2xpbmUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydGVkX3BhcmFtcy5pbnNlcnQoMCwgc29ydGVkX3BhcmFtc1stMV0pCiAgICAgICAgICAgIHNvcnRlZF9wYXJhbXMuYXBwZW5kKHNvcnRlZF9wYXJhbXNbMF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
