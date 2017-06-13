@@ -166,11 +166,12 @@
         <mark key="." line="1151" column="24" />
         <mark key="^" line="1151" column="24" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497376693883">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497377935628">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="197" column="75" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="[" line="199" column="7" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="199" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
@@ -380,8 +381,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UuY3VydmVzIGFzIHNjcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -390,34 +391,34 @@
         <text encoding="base64">XDxnZXRFZGdlc1w+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdEFjaXNPcHRpb25zKHVuaXR0ZXN0LlRlc3RDYXNlKToKIA==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKHgpID09IDUKICAgICAgICBhc3NlcnQgKHhbMF0pIDwgMWUtNwogICAgICAgIGFzc2VydCAoeFsxXSAtIDAuMjUpIDwgMWUtNwogICAgICAgIGFzc2VydCAoeFsyXSAtIDAuNSkgPCAxZS03CiAgICAgICAgYXNzZXJ0ICh4WzNdIC0gMC43NSkgPCAxZS03CiAgICAgICAgYXNzZXJ0ICh4WzRdIC0gMSkgPCAxZS03Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UuY3VydmVzIGFzIHNjcwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgKHhbM10gLSAwLjc1KSA8IDFlLTcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgKHhbMV0gLSAwLjI1KSA8IDFlLTcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UuY3VydmVzIGFzIHNjcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbyA9IHRlc3MuQWNpc09wdGlvbnMoMC4xLCAxMCwgMC4yMSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtX2xvdyA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbyA9IHRlc3MuQWNpc09wdGlvbnMoMC4xLCAxMCwgMC4yMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2Jib3gucmV0dXJuX3ZhbHVlID0gWy01LCA1XQo=</text>
+        <text encoding="base64">ICAgICAgICBtX2xvdyA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
