@@ -46,9 +46,9 @@
         <mark key="^" line="73" column="4" />
         <mark key="." line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497293788782">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497451683438">
         <mark key="'" line="104" column="14" />
-        <mark key="[" line="137" column="49" />
+        <mark key="[" line="107" column="34" />
         <mark key="]" line="137" column="78" />
         <mark key="." line="137" column="78" />
         <mark key="^" line="137" column="78" />
@@ -120,11 +120,11 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497306619908">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497455097608">
         <mark key="'" line="449" column="8" />
-        <mark key="[" line="214" column="21" />
-        <mark key="]" line="272" column="8" />
-        <mark key="." line="272" column="8" />
+        <mark key="[" line="545" column="0" />
+        <mark key="]" line="551" column="0" />
+        <mark key="." line="545" column="0" />
         <mark key="^" line="270" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/entity.py" timestamp="1489528777454">
@@ -388,8 +388,8 @@
       <jump line="488" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIHRlc3RfY2lyY2xlX2Rpc2NhcmRfaGFsZl9wYXJhbV9kaXNjYXJkKHNlbGYpOgogICAgICAgIGMgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgzLCAwLCA0KSwgNCwgc2FnZS5VTklUX1ZFQ19ZKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKHNhZ2UuVU5JVF9WRUNfWiAqIDQsIHNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0oYywgcCwgMC41KQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAwCg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -398,7 +398,7 @@
         <text>Point3D</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xpbmVfcGxhbmVfcGFyYWxsZWxfdG9fbGluZV9ub3Rfb25fcGxhbmUoc2VsZik6CiAgICAgICAgcmV0X3ZhbCA9IHNjLmxpbmVfcGxhbmVfaW50ZXJzZWN0aW9uKCgwLCAwLCAwKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDAsIDEsIDApLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoMSwgMSwgMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgxLCAwLCAwKSkKICAgICAgICBhc3NlcnQgcmV0X3ZhbCBpcyBOb25lCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY2lyY2xlX2Rpc2NhcmRfaGFsZl9wYXJhbV9kaXNjYXJkKHNlbGYpOgogICAgICAgIGMgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgzLCAwLCA0KSwgNCwgc2FnZS5VTklUX1ZFQ19ZKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKHNhZ2UuVU5JVF9WRUNfWiAqIDQsIHNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0oYywgcCwgMC41KQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
