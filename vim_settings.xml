@@ -46,12 +46,12 @@
         <mark key="^" line="73" column="4" />
         <mark key="." line="73" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497451683438">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497457024652">
         <mark key="'" line="104" column="14" />
         <mark key="[" line="107" column="34" />
-        <mark key="]" line="137" column="78" />
-        <mark key="." line="137" column="78" />
-        <mark key="^" line="137" column="78" />
+        <mark key="]" line="173" column="40" />
+        <mark key="." line="173" column="40" />
+        <mark key="^" line="173" column="40" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
@@ -120,12 +120,11 @@
         <mark key="." line="245" column="0" />
         <mark key="^" line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497455097608">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497456989080">
         <mark key="'" line="449" column="8" />
-        <mark key="[" line="545" column="0" />
-        <mark key="]" line="551" column="0" />
-        <mark key="." line="545" column="0" />
-        <mark key="^" line="270" column="7" />
+        <mark key="[" line="559" column="0" />
+        <mark key="]" line="559" column="0" />
+        <mark key="." line="559" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/entity.py" timestamp="1489528777454">
         <mark key="[" line="18" column="0" />
@@ -388,8 +387,8 @@
       <jump line="488" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfY2lyY2xlX2Rpc2NhcmRfaGFsZl9wYXJhbV9kaXNjYXJkKHNlbGYpOgogICAgICAgIGMgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgzLCAwLCA0KSwgNCwgc2FnZS5VTklUX1ZFQ19ZKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKHNhZ2UuVU5JVF9WRUNfWiAqIDQsIHNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0oYywgcCwgMC41KQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAwCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMAo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -398,34 +397,34 @@
         <text>Point3D</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfY2lyY2xlX2Rpc2NhcmRfaGFsZl9wYXJhbV9kaXNjYXJkKHNlbGYpOgogICAgICAgIGMgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgzLCAwLCA0KSwgNCwgc2FnZS5VTklUX1ZFQ19ZKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKHNhZ2UuVU5JVF9WRUNfWiAqIDQsIHNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0oYywgcCwgMC41KQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAwCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY2lyY2xlX2luX3NwYWNlX2N1dF9ieV9wbGFuZShzZWxmKToKICAgICAgICBjID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMSwgMSwgMSksIDQsICgxLCAxLCAxKSkKICAgICAgICBwID0gc2FnZS5wbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMSwgMSwgMSksICgwLCAtMSwgMSkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKGMsIHAsICdzdGFydCcpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAogICAgICAgIGFzc2VydCBwaWVjZXMuZXhwZWN0X3NpbmdsZSgpLmJib3hbMV0ueiA8IDQuNQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKHNlbGYueSA9PSBvdGhlci55KSBhbmQgKHNlbGYueiA8IG90aGVyLnopKSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYueCA8IG90aGVyLngpIG9yICgoKHNlbGYueCA9PSBvdGhlci54KSBhbmQgKHNlbGYueSA8IG90aGVyLnkpKSBvcgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5iYm94WzFdLnogPCA0LjUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2x0X18oc2VsZiwgb3RoZXIpOgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICByZXR1cm4gUG9pbnQzRChbY3BvaW50LmdldENvb3JkKGkpIGZvciBpIGluIHJhbmdlKDMpXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKHNlbGYueSA9PSBvdGhlci55KSBhbmQgKHNlbGYueiA8IG90aGVyLnopKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFuZV9ub3JtYWwuc19lbnRpdHkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYueCA8IG90aGVyLngpIG9yICgoKHNlbGYueCA9PSBvdGhlci54KSBhbmQgKHNlbGYueSA8IG90aGVyLnkpKSBvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb2ludF9vbl9wbGFuZS5zX2VudGl0eSwK</text>
+        <text encoding="base64">ICAgIGRlZiBfX2x0X18oc2VsZiwgb3RoZXIpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
