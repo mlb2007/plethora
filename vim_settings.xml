@@ -40,11 +40,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1497460972069">
-        <mark key="'" line="73" column="4" />
-        <mark key="[" line="897" column="0" />
-        <mark key="]" line="897" column="0" />
-        <mark key="." line="897" column="0" />
-        <mark key="^" line="897" column="0" />
+        <mark key="[" line="893" column="0" />
+        <mark key="]" line="893" column="0" />
+        <mark key="." line="893" column="0" />
+        <mark key="^" line="893" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497457024652">
         <mark key="'" line="104" column="14" />
@@ -114,12 +113,6 @@
         <mark key="]" line="337" column="8" />
         <mark key="." line="337" column="8" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_point.py" timestamp="1497451393916">
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="." line="245" column="0" />
-        <mark key="^" line="245" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1497456989080">
         <mark key="'" line="449" column="8" />
         <mark key="[" line="559" column="0" />
@@ -168,10 +161,6 @@
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1497461032555">
         <mark key="'" line="1045" column="0" />
-        <mark key="[" line="1146" column="0" />
-        <mark key="]" line="1146" column="0" />
-        <mark key="." line="1146" column="0" />
-        <mark key="^" line="1146" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
         <mark key="'" line="5" column="0" />
