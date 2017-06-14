@@ -39,12 +39,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1497451368592">
-        <mark key="'" line="869" column="0" />
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="73" column="4" />
-        <mark key="^" line="73" column="4" />
-        <mark key="." line="73" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1497460972069">
+        <mark key="'" line="73" column="4" />
+        <mark key="[" line="897" column="0" />
+        <mark key="]" line="897" column="0" />
+        <mark key="." line="897" column="0" />
+        <mark key="^" line="897" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1497457024652">
         <mark key="'" line="104" column="14" />
@@ -166,11 +166,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1497390844973">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="1045" column="0" />
-        <mark key="]" line="1045" column="0" />
-        <mark key="." line="1045" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1497461032555">
+        <mark key="'" line="1045" column="0" />
+        <mark key="[" line="1146" column="0" />
+        <mark key="]" line="1146" column="0" />
+        <mark key="." line="1146" column="0" />
+        <mark key="^" line="1146" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
         <mark key="'" line="5" column="0" />
@@ -285,8 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="700" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="742" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="1400" column="42" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
@@ -385,55 +384,57 @@
       <jump line="407" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="471" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="488" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="73" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1045" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>Point3D</text>
+        <text>acis_trim</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfY2lyY2xlX2luX3NwYWNlX2N1dF9ieV9wbGFuZShzZWxmKToKICAgICAgICBjID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMSwgMSwgMSksIDQsICgxLCAxLCAxKSkKICAgICAgICBwID0gc2FnZS5wbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMSwgMSwgMSksICgwLCAtMSwgMSkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKGMsIHAsICdzdGFydCcpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAogICAgICAgIGFzc2VydCBwaWVjZXMuZXhwZWN0X3NpbmdsZSgpLmJib3hbMV0ueiA8IDQuNQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5iYm94WzFdLnogPCA0LjUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5iYm94WzFdLnogPCA0LjUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKHNlbGYueSA9PSBvdGhlci55KSBhbmQgKHNlbGYueiA8IG90aGVyLnopKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYueCA8IG90aGVyLngpIG9yICgoKHNlbGYueCA9PSBvdGhlci54KSBhbmQgKHNlbGYueSA8IG90aGVyLnkpKSBvcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKHNlbGYueSA9PSBvdGhlci55KSBhbmQgKHNlbGYueiA8IG90aGVyLnopKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2x0X18oc2VsZiwgb3RoZXIpOgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHNlbGYueCA8IG90aGVyLngpIG9yICgoKHNlbGYueCA9PSBvdGhlci54KSBhbmQgKHNlbGYueSA8IG90aGVyLnkpKSBvcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Point3D</last-search>
+      <last-search>acis_trim</last-search>
       <last-offset />
-      <last-pattern>Point3D</last-pattern>
+      <last-pattern>acis_trim</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -441,8 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCoord</entry>
-        <entry encoding="base64">XDxjYWxsX2FyZ3NfbGlzdFw+</entry>
         <entry>with</entry>
         <entry>trim</entry>
         <entry>Norma</entry>
@@ -461,6 +460,8 @@
         <entry>bend_entity</entry>
         <entry>Point3DPtr</entry>
         <entry>Point3D</entry>
+        <entry>acis_</entry>
+        <entry>acis_trim</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
