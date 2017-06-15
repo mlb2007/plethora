@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1497466757724">
+      <file name="/start_script.py" timestamp="1497559097346">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/skeleton_smartcurves.py" timestamp="1484755357048">
@@ -69,6 +69,9 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ML/panda_try.py" timestamp="1497559133872">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1497033840500">
         <mark key="[" line="7" column="41" />
       </file>
@@ -124,7 +127,7 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1497466689485">
+      <file name="/Python Console" timestamp="1497559297525">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
         <mark key="^" line="2" column="3" />
