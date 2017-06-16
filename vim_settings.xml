@@ -46,11 +46,12 @@
         <mark key="." line="183" column="59" />
         <mark key="^" line="183" column="59" />
       </file>
-      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1497648783189">
-        <mark key="'" line="39" column="56" />
-        <mark key="[" line="39" column="56" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1497649097100">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="47" column="106" />
+        <mark key="]" line="50" column="50" />
+        <mark key="." line="50" column="50" />
+        <mark key="^" line="50" column="50" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
@@ -293,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="1400" column="42" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
@@ -393,13 +393,14 @@
       <jump line="73" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1045" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="39" column="56" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text># adds an ` index ` column train_set, test_set = split_train_test_by_id( housing_with_id, 0.2, &quot;index&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text># adds an ` index ` column train_set, test_set = split_train_test_by_id( housing_with_id, 0.2, &quot;index&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTZcPg==</text>
@@ -408,31 +409,31 @@
         <text>urlutils.download(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHNwbGl0X3RyYWluX3Rlc3RfYnlfaWQoZGF0YSwgaWRfY29sdW1uLCB0ZXN0X3JhdGlvLCBoYXNoPWhhc2hsaWIubWQ1KToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGhhc2hsaWIgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGhvdXNpbmdfd2l0aF9pZCA9IGhvdXNpbmcucmVzZXRfaW5kZXgoKSAjIGFkZHMgYW4gYCBpbmRleCBgIGNvbHVtbiB0cmFpbl9zZXQsIHRlc3Rfc2V0ID0gc3BsaXRfdHJhaW5fdGVzdF9ieV9pZCggaG91c2luZ193aXRoX2lkLCAwLjIsICJpbmRleCIpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ZGVmIHRlc3Rfc2V0X2NoZWNrKGlkZW50aWZpZXIsIHRlc3RfcmF0aW8sIGhhc2gpOgogICAgcmV0dXJuIGhhc2goIG5wLmludDY0KCBpZGVudGlmaWVyKSkuIGRpZ2VzdCgpWy0xXSA8ICgyKio4KSAqIHRlc3RfcmF0aW8KCgpkZWYgc3BsaXRfdHJhaW5fdGVzdF9ieV9pZChkYXRhLCBpZF9jb2x1bW4sIHRlc3RfcmF0aW8sIGhhc2g9aGFzaGxpYi5tZDUpOgogICAgaWRzID0gZGF0YVtpZF9jb2x1bW5dCiAgICBpbl90ZXN0X3NldCA9IGlkcy5hcHBseShsYW1iZGEgaWRfOiB0ZXN0X3NldF9jaGVjayhpZF8sdGVzdF9yYXRpbyxoYXNoKSkgCgogICAgcmV0dXJuIGRhdGEubG9jW35pbl90ZXN0X3NldF0sIGRhdGEubG9jW2luX3Rlc3Rfc2V0XQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
+        <text encoding="base64">R8Opcm9uLCBBdXLDqWxpZW4gKDIwMTctMDMtMTMpLiBIYW5kcy1PbiBNYWNoaW5lIExlYXJuaW5nIHdpdGggU2Npa2l0LUxlYXJuIGFuZCBUZW5zb3JGbG93OiBDb25jZXB0cywgVG9vbHMsIGFuZCBUZWNobmlxdWVzIHRvIEJ1aWxkIEludGVsbGlnZW50IFN5c3RlbXMgKEtpbmRsZSBMb2NhdGlvbnMgMTAyMC0xMDM2KS4gTydSZWlsbHkgTWVkaWEuIEtpbmRsZSBFZGl0aW9uLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNmdW5jKCkK</text>
+        <text encoding="base64">aW1wb3J0IGhhc2hsaWIgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEhPVVNJTkdfRklMRU5BTUVfVEdaID0gJ2hvdXNpbmcudGd6Jwo=</text>
+        <text encoding="base64">ICAgIGhvdXNpbmdfd2l0aF9pZCA9IGhvdXNpbmcucmVzZXRfaW5kZXgoKSAjIGFkZHMgYW4gYCBpbmRleCBgIGNvbHVtbiB0cmFpbl9zZXQsIHRlc3Rfc2V0ID0gc3BsaXRfdHJhaW5fdGVzdF9ieV9pZCggaG91c2luZ193aXRoX2lkLCAwLjIsICJpbmRleCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEhPVVNJTkdfVVJMID0gRE9XTkxPQURfUk9PVCArIEhPVVNJTkdfUEFUSCArICIvaG91c2luZy50Z3oiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
