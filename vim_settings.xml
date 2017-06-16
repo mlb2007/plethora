@@ -46,6 +46,9 @@
         <mark key="." line="183" column="59" />
         <mark key="^" line="183" column="59" />
       </file>
+      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1497636444986">
+        <mark key="[" line="14" column="64" />
+      </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
         <mark key="]" line="170" column="46" />
@@ -245,11 +248,10 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/pyML/ML/pyML/download.py" timestamp="1497635637116">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
+      <file name="$USER_HOME$/pyML/ML/pyML/download.py" timestamp="1497636255632">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -390,8 +392,8 @@
       <jump line="1045" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -403,31 +405,36 @@
         <text encoding="base64">IyB0aGUgZGlzY2FyZCBwb2ludCBpcyBzdWNoIHRoYXQgYm90aCBjdXJ2ZSBwaWVjZXMgaGF2ZSBiZWVuIHRyaW1tZWQgb2ZmLCB0aHJvdwogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhSdW50aW1lRXJyb3IpOgog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
+        <text encoding="base64">ICAgICAgICB0YXJmLmNsb3NlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">ICAgIGZpbGVfd2l0aF9wYXRoID0gb3MucGF0aC5qb2luKGZpbGVwYXRoLCBmaWxlbmFtZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJGaWxlIHdpdGggcGF0aCIsIGZpbGVfd2l0aF9wYXRoCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IHNbOi0xXQo=</text>
+      <register name="5" type="4">
+        <text>f_ext = (filename.split('.')[-1]).lower()
+    if f_ext == 'tgz':
+        print &quot;Extract file:&quot;, file_with_path
+        tarf = tarfile.open(file_with_path)
+        tarf.extractall(path=filepath)
+        tarf.close()</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHMgPSBbMSwgMiwgMywgNF0K</text>
+        <text encoding="base64">ICAgICAgICByYWlzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R8Opcm9uLCBBdXLDqWxpZW4gKDIwMTctMDMtMTMpLiBIYW5kcy1PbiBNYWNoaW5lIExlYXJuaW5nIHdpdGggU2Npa2l0LUxlYXJuIGFuZCBUZW5zb3JGbG93OiBDb25jZXB0cywgVG9vbHMsIGFuZCBUZWNobmlxdWVzIHRvIEJ1aWxkIEludGVsbGlnZW50IFN5c3RlbXMgKEtpbmRsZSBMb2NhdGlvbnMgOTAxLTkwNCkuIE8nUmVpbGx5IE1lZGlhLiBLaW5kbGUgRWRpdGlvbi4gCg==</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJVbmFibGUgdG8gaGFuZGxlIGZpbGUgd2l0aCBleHRlbnNpb24ge30iLmZvcm1hdCh0eXBlKGZfZXh0KSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJGaWxlIHdpdGggcGF0aCIsIGZpbGVfd2l0aF9wYXRoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
