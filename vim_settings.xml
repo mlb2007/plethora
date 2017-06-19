@@ -46,12 +46,12 @@
         <mark key="." line="183" column="59" />
         <mark key="^" line="183" column="59" />
       </file>
-      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1497649097100">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="47" column="106" />
-        <mark key="]" line="50" column="50" />
-        <mark key="." line="50" column="50" />
-        <mark key="^" line="50" column="50" />
+      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1497896136786">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="69" column="35" />
+        <mark key="]" line="67" column="23" />
+        <mark key="." line="67" column="23" />
+        <mark key="^" line="67" column="23" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
@@ -137,8 +137,8 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1497634194187">
-        <mark key="[" line="0" column="4" />
+      <file name="/Python Console" timestamp="1497893396276">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -396,44 +396,45 @@
       <jump line="47" column="0" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># adds an ` index ` column train_set, test_set = split_train_test_by_id( housing_with_id, 0.2, &quot;index&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdHJhdF90cmFpbl9zZXQgPSBkYXRhLmxvY1t0cmFpbl9pbmRleF0K</text>
       </register>
       <register name="-" type="4">
-        <text># adds an ` index ` column train_set, test_set = split_train_test_by_id( housing_with_id, 0.2, &quot;index&quot;)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyNTZcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>urlutils.download(</text>
+        <text encoding="base64">ICAgICMgZGF0YS5oaXN0KGJpbnM9NTAsIGZpZ3NpemU9KDIwLCAxNSkpCiAgICAjIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHNwbGl0X3RyYWluX3Rlc3RfYnlfaWQoZGF0YSwgaWRfY29sdW1uLCB0ZXN0X3JhdGlvLCBoYXNoPWhhc2hsaWIubWQ1KToK</text>
+        <text encoding="base64">ICAgICAgICBzdHJhdF90cmFpbl9zZXQgPSBkYXRhLmxvY1t0cmFpbl9pbmRleF0K</text>
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>binning using sci-kit
+    split_func = StratifiedShuffleSplit.</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZGVmIHRlc3Rfc2V0X2NoZWNrKGlkZW50aWZpZXIsIHRlc3RfcmF0aW8sIGhhc2gpOgogICAgcmV0dXJuIGhhc2goIG5wLmludDY0KCBpZGVudGlmaWVyKSkuIGRpZ2VzdCgpWy0xXSA8ICgyKio4KSAqIHRlc3RfcmF0aW8KCgpkZWYgc3BsaXRfdHJhaW5fdGVzdF9ieV9pZChkYXRhLCBpZF9jb2x1bW4sIHRlc3RfcmF0aW8sIGhhc2g9aGFzaGxpYi5tZDUpOgogICAgaWRzID0gZGF0YVtpZF9jb2x1bW5dCiAgICBpbl90ZXN0X3NldCA9IGlkcy5hcHBseShsYW1iZGEgaWRfOiB0ZXN0X3NldF9jaGVjayhpZF8sdGVzdF9yYXRpbyxoYXNoKSkgCgogICAgcmV0dXJuIGRhdGEubG9jW35pbl90ZXN0X3NldF0sIGRhdGEubG9jW2luX3Rlc3Rfc2V0XQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">R8Opcm9uLCBBdXLDqWxpZW4gKDIwMTctMDMtMTMpLiBIYW5kcy1PbiBNYWNoaW5lIExlYXJuaW5nIHdpdGggU2Npa2l0LUxlYXJuIGFuZCBUZW5zb3JGbG93OiBDb25jZXB0cywgVG9vbHMsIGFuZCBUZWNobmlxdWVzIHRvIEJ1aWxkIEludGVsbGlnZW50IFN5c3RlbXMgKEtpbmRsZSBMb2NhdGlvbnMgMTAyMC0xMDM2KS4gTydSZWlsbHkgTWVkaWEuIEtpbmRsZSBFZGl0aW9uLgo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJoYXNoIHZhbDoiLCB0X3ZhbAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRfdmFsID0gZmxvYXQoaGFzaChucC5pbnQ2NChpZGVudGlmaWVyKSkuZGlnZXN0KClbLTk6LTFdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGhhc2hsaWIgCg==</text>
+        <text encoding="base64">ICAgICN0X3ZhbCA9IGhhc2gobnAuaW50NjQoaWRlbnRpZmllcikpLmRpZ2VzdCgpWy0xXSA8IDI1Ngo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhvdXNpbmdfd2l0aF9pZCA9IGhvdXNpbmcucmVzZXRfaW5kZXgoKSAjIGFkZHMgYW4gYCBpbmRleCBgIGNvbHVtbiB0cmFpbl9zZXQsIHRlc3Rfc2V0ID0gc3BsaXRfdHJhaW5fdGVzdF9ieV9pZCggaG91c2luZ193aXRoX2lkLCAwLjIsICJpbmRleCIpCg==</text>
+        <text encoding="base64">ICAgIHRfdmFsID0gaGFzaChucC5pbnQ2NChpZGVudGlmaWVyKSkuZGlnZXN0KCkgPCAoMjU2KnRlc3RfcmF0aW8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJTZXQgb2YgaW4tdGVzdDoiLCBpbl90ZXN0X3NldAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
