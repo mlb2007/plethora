@@ -64,11 +64,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1497992898904">
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="75" column="62" />
-        <mark key="." line="75" column="62" />
-        <mark key="^" line="75" column="62" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1497993147415">
+        <mark key="[" line="72" column="5" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -92,11 +92,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1497390191587">
-        <mark key="'" line="488" column="13" />
-        <mark key="[" line="538" column="0" />
-        <mark key="]" line="538" column="55" />
-        <mark key="." line="538" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1497993491435">
+        <mark key="'" line="1411" column="9" />
+        <mark key="[" line="2794" column="23" />
+        <mark key="]" line="2800" column="3" />
+        <mark key="." line="2800" column="3" />
+        <mark key="^" line="2800" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
@@ -137,7 +138,7 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
       </file>
-      <file name="/Python Console" timestamp="1497893396276">
+      <file name="/Python Console" timestamp="1497993334545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
@@ -294,14 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1400" column="42" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/join_edges/inlet.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="1465" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="801" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="781" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="941" column="38" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="760" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="1473" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="286" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="1442" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
@@ -394,16 +387,24 @@
       <jump line="1045" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="39" column="56" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
       <jump line="47" column="0" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
+      <jump line="2767" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2770" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2776" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3967" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3975" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3976" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1404" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoc3RhcnRfY2FwLCAxLCAwLCAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwyNTZcPg==</text>
+        <text encoding="base64">XDxzd2VlcFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICMgZGF0YS5oaXN0KGJpbnM9NTAsIGZpZ3NpemU9KDIwLCAxNSkpCiAgICAjIHBsdC5zaG93KCkK</text>
@@ -441,9 +442,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwyNTZcPg==</last-search>
+      <last-search encoding="base64">XDxzd2VlcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwyNTZcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzd2VlcFw+</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +452,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trim</entry>
         <entry>Norma</entry>
         <entry>PointAt</entry>
         <entry>line(</entry>
@@ -471,6 +471,7 @@
         <entry>acis_</entry>
         <entry>acis_trim</entry>
         <entry encoding="base64">XDwyNTZcPg==</entry>
+        <entry encoding="base64">XDxzd2VlcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
