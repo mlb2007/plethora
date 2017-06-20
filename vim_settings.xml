@@ -64,11 +64,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1497993788563">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="74" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1497994490337">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="82" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -92,12 +92,18 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1497993735277">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1497994475021">
         <mark key="'" line="1411" column="9" />
-        <mark key="[" line="2800" column="22" />
-        <mark key="]" line="2800" column="34" />
-        <mark key="." line="2800" column="34" />
-        <mark key="^" line="2800" column="34" />
+        <mark key="[" line="2796" column="0" />
+        <mark key="]" line="2796" column="0" />
+        <mark key="." line="2796" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
+        <mark key="'" line="1411" column="9" />
+        <mark key="[" line="2794" column="4" />
+        <mark key="]" line="2801" column="25" />
+        <mark key="^" line="2801" column="25" />
+        <mark key="." line="2801" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/spline_join.py" timestamp="1488236925303">
         <mark key="[" line="96" column="0" />
@@ -295,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1473" column="0" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="286" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="1442" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="300" column="34" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="325" column="66" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="326" column="61" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
@@ -395,44 +398,46 @@
       <jump line="3976" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1404" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1404" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
+      <jump line="1411" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSBJIGNvbWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzd2VlcFw+</text>
+        <text>sweep(</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICMgZGF0YS5oaXN0KGJpbnM9NTAsIGZpZ3NpemU9KDIwLCAxNSkpCiAgICAjIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSBJIGNvbWUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoc3RhcnRfY2FwLCAxLCAwLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSBJIGNvbWUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvZmlsZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgc2FnZS5VTklUX1ZFQ19aKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSBJIG91Z2h0IG5vdCB0byBjb21lIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJoZXJlIEkgY29tZSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSBJIGNvbWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSBJIGNvbWUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdF90cmFpbl9zZXQgPSBkYXRhLmxvY1t0cmFpbl9pbmRleF0K</text>
+        <text encoding="base64">c2FnZS5jb2xvcl9lbnRpdHkoc3RhcnRfY2FwLCAxLCAwLCAwKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>binning using sci-kit
-    split_func = StratifiedShuffleSplit.</text>
+      <register name="8" type="2">
+        <text encoding="base64">cHJvZmlsZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgc2FnZS5VTklUX1ZFQ19aKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -442,9 +447,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzd2VlcFw+</last-search>
+      <last-search>sweep(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzd2VlcFw+</last-pattern>
+      <last-pattern>sweep(</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -452,7 +457,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Norma</entry>
         <entry>PointAt</entry>
         <entry>line(</entry>
         <entry>_eval</entry>
@@ -472,6 +476,7 @@
         <entry>acis_trim</entry>
         <entry encoding="base64">XDwyNTZcPg==</entry>
         <entry encoding="base64">XDxzd2VlcFw+</entry>
+        <entry>sweep(</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
