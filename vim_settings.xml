@@ -64,11 +64,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1496788366212">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1497990607635">
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -397,7 +397,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdF90cmFpbl9zZXQgPSBkYXRhLmxvY1t0cmFpbl9pbmRleF0K</text>
+        <text encoding="base64">cHJvZmlsZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgc2FnZS5VTklUX1ZFQ19aKQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -409,11 +409,10 @@
         <text encoding="base64">ICAgICMgZGF0YS5oaXN0KGJpbnM9NTAsIGZpZ3NpemU9KDIwLCAxNSkpCiAgICAjIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJhdF90cmFpbl9zZXQgPSBkYXRhLmxvY1t0cmFpbl9pbmRleF0K</text>
+        <text encoding="base64">cHJvZmlsZSA9IHNhZ2UuY2lyY2xlX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgc2FnZS5VTklUX1ZFQ19aKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>binning using sci-kit
-    split_func = StratifiedShuffleSplit.</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -422,19 +421,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJoYXNoIHZhbDoiLCB0X3ZhbAo=</text>
+        <text encoding="base64">ICAgICAgICBzdHJhdF90cmFpbl9zZXQgPSBkYXRhLmxvY1t0cmFpbl9pbmRleF0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRfdmFsID0gZmxvYXQoaGFzaChucC5pbnQ2NChpZGVudGlmaWVyKSkuZGlnZXN0KClbLTk6LTFdKQo=</text>
+      <register name="6" type="4">
+        <text>binning using sci-kit
+    split_func = StratifiedShuffleSplit.</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICN0X3ZhbCA9IGhhc2gobnAuaW50NjQoaWRlbnRpZmllcikpLmRpZ2VzdCgpWy0xXSA8IDI1Ngo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRfdmFsID0gaGFzaChucC5pbnQ2NChpZGVudGlmaWVyKSkuZGlnZXN0KCkgPCAoMjU2KnRlc3RfcmF0aW8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJTZXQgb2YgaW4tdGVzdDoiLCBpbl90ZXN0X3NldAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJoYXNoIHZhbDoiLCB0X3ZhbAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
