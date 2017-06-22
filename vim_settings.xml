@@ -92,12 +92,11 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498159569759">
-        <mark key="'" line="2802" column="16" />
-        <mark key="[" line="2799" column="8" />
-        <mark key="]" line="2803" column="8" />
-        <mark key="^" line="2803" column="8" />
-        <mark key="." line="2803" column="8" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498161049663">
+        <mark key="'" line="1411" column="9" />
+        <mark key="[" line="2802" column="62" />
+        <mark key="]" line="2802" column="62" />
+        <mark key="." line="2802" column="62" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -308,10 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1435" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
-      <jump line="931" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="861" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="697" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1052" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="164" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -397,8 +392,6 @@
       <jump line="3967" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3975" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3976" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1404" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1404" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
       <jump line="1411" column="9" filename="$USER_HOME$/sandbox/build/install/py/sage/api.py" />
@@ -408,55 +401,61 @@
       <jump line="2731" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4366" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2802" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="428" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2940" column="49" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3981" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3982" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1404" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</text>
+        <text>sweep(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgZ2V0X2NhcHMgaXMgVHJ1ZToKICAgICAgICBzdF9jYXAgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnN3ZWVwX3N0YXJ0X2NhcChzd2VlcF9yZXN1bHQpCiAgICAgICAgaWYgbm90IGVudGl0eV9leGlzdHMoc3RfY2FwKToKICAgICAgICAgICAgc3RfY2FwID0gTm9uZQogICAgICAgIGVuZF9jYXAgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnN3ZWVwX2VuZF9jYXAoc3dlZXBfcmVzdWx0KQogICAgICAgIGlmIG5vdCBlbnRpdHlfZXhpc3RzKGVuZF9jYXApOgogICAgICAgICAgICBlbmRfY2FwID0gTm9uZQogICAgICAgIHJldHVybiBbc3dlZXBfcmVzdWx0LCBzdF9jYXAsIGVuZF9jYXBdCiAgICBlbHNlOgogICAgICAgIHJldHVybiBzd2VlcF9yZXN1bHQK</text>
+        <text encoding="base64">IHJlYWxfdHJ1dGggPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmlzX2VudGl0eV92YWxpZHMoc3RfY2FwKQogICAgICAgIHRydXRoID0gZW50aXR5X2V4aXN0cyhzdF9jYXApCiAgICAgICAgaWYgbm90ICh0cnV0aCA9PSByZWFsX3RydXRoKToKICAgICAgICAgICAgcHJpbnQgInJlYWwgdHJ1dGggaXM6IiwgcmVhbF90cnV0aCwgIiBzb21lIG90aGVyIGlzOiIsIHRydXRoCiAgICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzd2VwdExpc3RbMV0gaXMgbm90IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVhbF90cnV0aCA9IHB5c2FnZS5HZW9tZXRyeU9wZXJhdGlvbnMuaXNfZW50aXR5X3ZhbGlkcyhzdF9jYXApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBzdF9jYXAgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnN3ZWVwX3N0YXJ0X2NhcChzd2VlcF9yZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICBzYWdlLmV4cG9ydChyZXZvbHZlZCwgJ3Rlc3RfcmV2b2x2ZTEuc2F0JykK</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzd2VwdExpc3RbMV0gaXMgbm90IE5vbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICByZXZvbHZlZCA9IHNhZ2UucmV2b2x2ZShwcm9maWxlLCBheGlzX3BvcywgYXhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBheGlzID0gWzEsIDAsIDBdCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBheGlzX3BvcyA9IFswLCAwLCAwXQo=</text>
+        <text encoding="base64">IyAgICBzYWdlLmV4cG9ydChyZXZvbHZlZCwgJ3Rlc3RfcmV2b2x2ZTEuc2F0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICBwcm9maWxlID0gc2FnZS5wb2x5X2xpbmUocG9pbnRfdmVjKQo=</text>
+        <text encoding="base64">IyAgICByZXZvbHZlZCA9IHNhZ2UucmV2b2x2ZShwcm9maWxlLCBheGlzX3BvcywgYXhpcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAjIGdvdCBwcm9maWxlCg==</text>
+        <text encoding="base64">IyAgICBheGlzID0gWzEsIDAsIDBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</last-search>
+      <last-search>sweep(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</last-pattern>
+      <last-pattern>sweep(</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -464,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evaluate</entry>
         <entry>EdgeQuery</entry>
         <entry encoding="base64">XDxnZXRfbW9ja19lZGdlXD4=</entry>
         <entry>CurveResults</entry>
@@ -480,10 +478,11 @@
         <entry>acis_trim</entry>
         <entry encoding="base64">XDwyNTZcPg==</entry>
         <entry encoding="base64">XDxzd2VlcFw+</entry>
-        <entry>sweep(</entry>
         <entry>is_entity</entry>
         <entry>revolve(</entry>
         <entry encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</entry>
+        <entry encoding="base64">XDxpc0VudGl0eU51bGxcPg==</entry>
+        <entry>sweep(</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
