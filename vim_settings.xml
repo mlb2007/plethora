@@ -92,8 +92,8 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498161049663">
-        <mark key="'" line="1411" column="9" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498161852308">
+        <mark key="'" line="2812" column="16" />
         <mark key="[" line="2802" column="62" />
         <mark key="]" line="2802" column="62" />
         <mark key="." line="2802" column="62" />
@@ -307,9 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="697" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1052" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="164" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="738" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1066" column="108" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="408" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -407,6 +404,9 @@
       <jump line="3982" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1404" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1411" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2803" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2809" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2812" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,7 +416,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>sweep(</text>
+        <text encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHJlYWxfdHJ1dGggPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmlzX2VudGl0eV92YWxpZHMoc3RfY2FwKQogICAgICAgIHRydXRoID0gZW50aXR5X2V4aXN0cyhzdF9jYXApCiAgICAgICAgaWYgbm90ICh0cnV0aCA9PSByZWFsX3RydXRoKToKICAgICAgICAgICAgcHJpbnQgInJlYWwgdHJ1dGggaXM6IiwgcmVhbF90cnV0aCwgIiBzb21lIG90aGVyIGlzOiIsIHRydXRoCiAgICAgICAg</text>
@@ -453,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sweep(</last-search>
+      <last-search encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</last-search>
       <last-offset />
-      <last-pattern>sweep(</last-pattern>
+      <last-pattern encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -480,9 +480,9 @@
         <entry encoding="base64">XDxzd2VlcFw+</entry>
         <entry>is_entity</entry>
         <entry>revolve(</entry>
-        <entry encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</entry>
         <entry encoding="base64">XDxpc0VudGl0eU51bGxcPg==</entry>
         <entry>sweep(</entry>
+        <entry encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
