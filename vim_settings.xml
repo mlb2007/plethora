@@ -64,10 +64,10 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1498155986128">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1498159222446">
+        <mark key="[" line="71" column="4" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
         <mark key="^" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
@@ -91,6 +91,13 @@
         <mark key="]" line="3720" column="29" />
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498159569759">
+        <mark key="'" line="2802" column="16" />
+        <mark key="[" line="2799" column="8" />
+        <mark key="]" line="2803" column="8" />
+        <mark key="^" line="2803" column="8" />
+        <mark key="." line="2803" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -301,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="1435" column="4" filename="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" />
       <jump line="931" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="861" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -401,16 +407,17 @@
       <jump line="894" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2731" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4366" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2802" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
-        <text>revolve(</text>
+        <text encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgZ2V0X2NhcHMgaXMgVHJ1ZToKICAgICAgICBzdF9jYXAgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnN3ZWVwX3N0YXJ0X2NhcChzd2VlcF9yZXN1bHQpCiAgICAgICAgaWYgbm90IGVudGl0eV9leGlzdHMoc3RfY2FwKToKICAgICAgICAgICAgc3RfY2FwID0gTm9uZQogICAgICAgIGVuZF9jYXAgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLnN3ZWVwX2VuZF9jYXAoc3dlZXBfcmVzdWx0KQogICAgICAgIGlmIG5vdCBlbnRpdHlfZXhpc3RzKGVuZF9jYXApOgogICAgICAgICAgICBlbmRfY2FwID0gTm9uZQogICAgICAgIHJldHVybiBbc3dlZXBfcmVzdWx0LCBzdF9jYXAsIGVuZF9jYXBdCiAgICBlbHNlOgogICAgICAgIHJldHVybiBzd2VlcF9yZXN1bHQK</text>
@@ -447,9 +454,9 @@
       </register>
     </registers>
     <search>
-      <last-search>revolve(</last-search>
+      <last-search encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</last-search>
       <last-offset />
-      <last-pattern>revolve(</last-pattern>
+      <last-pattern encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -457,7 +464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_eval</entry>
         <entry>evaluate</entry>
         <entry>EdgeQuery</entry>
         <entry encoding="base64">XDxnZXRfbW9ja19lZGdlXD4=</entry>
@@ -477,6 +483,7 @@
         <entry>sweep(</entry>
         <entry>is_entity</entry>
         <entry>revolve(</entry>
+        <entry encoding="base64">XDxlbnRpdHlfZXhpc3RzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
