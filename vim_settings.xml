@@ -64,11 +64,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1498159222446">
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="71" column="4" />
-        <mark key="." line="71" column="4" />
-        <mark key="^" line="86" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1498502556045">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -92,12 +92,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498172686157">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="2798" column="28" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498502181554">
+        <mark key="'" line="522" column="8" />
+        <mark key="[" line="4636" column="39" />
+        <mark key="]" line="4636" column="50" />
+        <mark key="^" line="4636" column="50" />
+        <mark key="." line="4636" column="50" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -316,10 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="883" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="695" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="725" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="731" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="723" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="145" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="143" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
@@ -415,56 +411,64 @@
       <jump line="585" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="2806" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2731" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/test2.py" />
+      <jump line="314" column="191" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4634" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="522" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>MeshOptions</text>
+        <text>math.ra</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHJlYWxfdHJ1dGggPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmlzX2VudGl0eV92YWxpZHMoc3RfY2FwKQogICAgICAgIHRydXRoID0gZW50aXR5X2V4aXN0cyhzdF9jYXApCiAgICAgICAgaWYgbm90ICh0cnV0aCA9PSByZWFsX3RydXRoKToKICAgICAgICAgICAgcHJpbnQgInJlYWwgdHJ1dGggaXM6IiwgcmVhbF90cnV0aCwgIiBzb21lIG90aGVyIGlzOiIsIHRydXRoCiAgICAgICAg</text>
+        <text>#p1 = sage.Point3D((0, 0, 0))
+#p2 = sage.Point3D((1, 1, 0))
+#p3 = sage.Point3D((2, 0, 0))
+##spline = sage.b_spline([p1, p2, p3], start_dir=sage.UNIT_VEC_X, end_dir=sage.UNIT_VEC_X)
+#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">ICAgIGVkZ2UgPSBzYWdlLmNpcmNsZV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMCksIDMsICgwLCAwLCAxKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICBpcyB1c2VkIGFuZCB0aGUgb3B0aW9ucyBtb3N0bHkgY29ycmVzcG9uZCB0byB0aGF0IG1lc2hlcgo=</text>
+        <text encoding="base64">ICAgIHAzID0gc2FnZS5Qb2ludDNEKCgyLCAwLCAwKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICBtZXNoaW5nLiBUaGUgb3B0aW9ucyBhbHNvIHJlZmxlY3QgdGhlIGNhcGFiaWxpdHkgb2YgbWVzaGVyIGluIHF1ZXN0aW9uLiBCeSBkZWZhdWx0IEFDSVMga2VybmFsIGJhc2VkIGZhY2V0dGVyL21lc2hlcgo=</text>
+        <text encoding="base64">IyNzcGxpbmUgPSBzYWdlLmJfc3BsaW5lKFtwMSwgcDIsIHAzXSwgc3RhcnRfZGlyPXNhZ2UuVU5JVF9WRUNfWCwgZW5kX2Rpcj1zYWdlLlVOSVRfVkVDX1gpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICB3ZWxsIGFzIGZhY2UgYW5kIGJvZHkuIFNvbWUgb2YgdGhlIG9wdGlvbnMgbWFrZSBzZW5zZSBmb3IgZWRnZSBtZXNoaW5nLCB3aGlsZSBvdGhlcnMgbWFrZSBzZW5zZSBmb3Igc3VyZmFjZQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmdsZV9yYWRpYW5zID0gbWF0aC5yYWRpYW5zKGFuZ2xlX3JhZGlhbnMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBEYXRhIHR5cGUgdGhhdCBjb250cm9scyB2YXJpb3VzIG1lc2ggb3B0aW9ucyBwYXNzZWQgb24gdG8gbWVzaGVyLiBUaGlzIGluY2x1ZGVzIG1lc2hpbmcgb3B0aW9ucyBmb3IgZWRnZXMgYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIiIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW5kX2NhcCA9IE5vbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dfcmVzdWx0LmFwcGVuZChzdF9jYXApCg==</text>
+        <text encoding="base64">ICAgIHNhZ2UuZXhwb3J0KFtzd2VwdDIsIHN3ZXB0TGlzdFsxXSwgc3dlcHRMaXN0WzJdXSwgInN3ZWVwX2FnYWluLnNhdCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>MeshOptions</last-search>
+      <last-search>math.ra</last-search>
       <last-offset />
-      <last-pattern>MeshOptions</last-pattern>
+      <last-pattern>math.ra</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Point3D</entry>
         <entry>acis_</entry>
         <entry>acis_trim</entry>
         <entry encoding="base64">XDwyNTZcPg==</entry>
@@ -492,6 +495,7 @@
         <entry>real_tru</entry>
         <entry>revolve</entry>
         <entry>MeshOptions</entry>
+        <entry>math.ra</entry>
       </history-search>
       <history-cmd>
         <entry>1368</entry>
