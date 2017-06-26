@@ -92,12 +92,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498505552786">
-        <mark key="'" line="3965" column="26" />
-        <mark key="[" line="4664" column="4" />
-        <mark key="]" line="4667" column="1" />
-        <mark key="." line="4667" column="1" />
-        <mark key="^" line="4667" column="1" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498508521076">
+        <mark key="'" line="2059" column="0" />
+        <mark key="[" line="4656" column="0" />
+        <mark key="]" line="4656" column="0" />
+        <mark key="^" line="4649" column="63" />
+        <mark key="." line="4656" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -152,7 +152,7 @@
         <mark key="." line="645" column="0" />
         <mark key="^" line="2006" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1498505128708">
+      <file name="/Python Console" timestamp="1498507741467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -316,9 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="138" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="316" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="409" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="341" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="437" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
@@ -416,10 +413,13 @@
       <jump line="2022" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2038" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3965" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4657" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4649" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2059" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -430,32 +430,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIGIgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNoZWNrRWRnZVBsYW5hcml0eShjdXJ2ZSkKICAgIGlmIG5vdCBiOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiUmVmLiBjdXJ2ZSBmb3IgYmVuZGluZyBpcyBub3QgcGxhbmFyIikK</text>
       </register>
-      <register name="1" type="8">
-        <text>b = a.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDcm9zcyBpczoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJFZGdlIHBsYW5lIG5vcm1hbCBpczoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1pZF90YW5nZW50X24gPSBQb2ludDNEKG1pZF90YW5nZW50KS5ub3JtYWxpemUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNwNCA9IHNhZ2UuUG9pbnQzRCgoNCwgLTEsIDEpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoMC4xLCAtMC4xLCAwKSwgMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoLTAuMSwgMC4xLCAwLjApLCAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoLTAuMSwgMC4xLCAwKSwgMCkK</text>
+        <text encoding="base64">ICAgIHByaW50ICJOb3JtYWxpemVkIG9mZnNldCBkaXI6Iiwgb2Zmc2V0X2Rpcl9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVkZ2UgPSBzYWdlLmNpcmNsZV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMCksIDMsICgwLCAwLCAxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
