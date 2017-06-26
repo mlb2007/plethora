@@ -92,12 +92,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498504764067">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498505552786">
         <mark key="'" line="3965" column="26" />
-        <mark key="[" line="4642" column="54" />
-        <mark key="]" line="4643" column="39" />
-        <mark key="^" line="4643" column="39" />
-        <mark key="." line="4643" column="39" />
+        <mark key="[" line="4664" column="4" />
+        <mark key="]" line="4667" column="1" />
+        <mark key="." line="4667" column="1" />
+        <mark key="^" line="4667" column="1" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -152,11 +152,11 @@
         <mark key="." line="645" column="0" />
         <mark key="^" line="2006" column="24" />
       </file>
-      <file name="/Python Console" timestamp="1498166112107">
+      <file name="/Python Console" timestamp="1498505128708">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/log.py" timestamp="1496195233512">
         <mark key="[" line="0" column="0" />
@@ -418,11 +418,11 @@
       <jump line="3965" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNwNCA9IHNhZ2UuUG9pbnQzRCgoNCwgLTEsIDEpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</text>
@@ -430,32 +430,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIGIgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNoZWNrRWRnZVBsYW5hcml0eShjdXJ2ZSkKICAgIGlmIG5vdCBiOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiUmVmLiBjdXJ2ZSBmb3IgYmVuZGluZyBpcyBub3QgcGxhbmFyIikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICNwNCA9IHNhZ2UuUG9pbnQzRCgoNCwgLTEsIDEpKQo=</text>
+      <register name="1" type="8">
+        <text>b = a.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoMC4xLCAtMC4xLCAwKSwgMCkK</text>
+        <text encoding="base64">ICAgIHByaW50ICJDcm9zcyBpczoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoLTAuMSwgMC4xLCAwLjApLCAwKQo=</text>
+        <text encoding="base64">ICAgIG1pZF90YW5nZW50X24gPSBQb2ludDNEKG1pZF90YW5nZW50KS5ub3JtYWxpemUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoLTAuMSwgMC4xLCAwKSwgMCkK</text>
+        <text encoding="base64">ICAgICNwNCA9IHNhZ2UuUG9pbnQzRCgoNCwgLTEsIDEpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoMC4xLCAtMC4xLCAwKSwgMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVkZ2UgPSBzYWdlLmNpcmNsZV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMCksIDMsICgwLCAwLCAxKSkK</text>
+        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoLTAuMSwgMC4xLCAwLjApLCAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHAzID0gc2FnZS5Qb2ludDNEKCgyLCAwLCAwKSkK</text>
+        <text encoding="base64">ICAgIG9mZnNldF9lZGdlID0gc2FnZS5vZmZzZXRfZWRnZShlZGdlLCAoLTAuMSwgMC4xLCAwKSwgMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyNzcGxpbmUgPSBzYWdlLmJfc3BsaW5lKFtwMSwgcDIsIHAzXSwgc3RhcnRfZGlyPXNhZ2UuVU5JVF9WRUNfWCwgZW5kX2Rpcj1zYWdlLlVOSVRfVkVDX1gpCg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmdsZV9yYWRpYW5zID0gbWF0aC5yYWRpYW5zKGFuZ2xlX3JhZGlhbnMpCg==</text>
+        <text encoding="base64">ICAgIGVkZ2UgPSBzYWdlLmNpcmNsZV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMCksIDMsICgwLCAwLCAxKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -512,8 +512,8 @@
         <entry>%s/isClosed/isPeriodic/gc</entry>
         <entry>we</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>qw</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
