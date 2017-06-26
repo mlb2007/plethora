@@ -64,11 +64,12 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1498504702638">
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1498509544064">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="49" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="75" column="47" />
+        <mark key="." line="75" column="47" />
+        <mark key="^" line="75" column="47" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -92,12 +93,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498508521076">
-        <mark key="'" line="2059" column="0" />
-        <mark key="[" line="4656" column="0" />
-        <mark key="]" line="4656" column="0" />
-        <mark key="^" line="4649" column="63" />
-        <mark key="." line="4656" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498510032136">
+        <mark key="'" line="891" column="4" />
+        <mark key="[" line="4661" column="28" />
+        <mark key="]" line="4661" column="39" />
+        <mark key="." line="4661" column="39" />
+        <mark key="^" line="4661" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -316,8 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="409" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="341" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="437" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="442" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
@@ -416,40 +415,42 @@
       <jump line="4657" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4649" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2059" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4661" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="891" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJFZGdlIHBsYW5lIG5vcm1hbDoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</text>
+        <text>get_edge_midpoint</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGIgPSBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNoZWNrRWRnZVBsYW5hcml0eShjdXJ2ZSkKICAgIGlmIG5vdCBiOgogICAgICAgIHJhaXNlIEV4Y2VwdGlvbigiUmVmLiBjdXJ2ZSBmb3IgYmVuZGluZyBpcyBub3QgcGxhbmFyIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJFZGdlIHBsYW5lIG5vcm1hbDoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJFZGdlIHBsYW5lIG5vcm1hbCBpczoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJFZGdlIHBsYW5lIG5vcm1hbDoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJlZGdlIG1pZCBwdDoiLCBlZGdlX3N0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBzYWdlLlBvaW50M0QoZWRnZV9zdCkuZGlzdChzYWdlLlBvaW50M0Qob2Zmc2V0X2VkZ2Vfc3QpKSA9PSAxLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVkZ2Vfc3QgPSBzYWdlLmdldF9lZGdlX3N0YXJ0KGVkZ2UpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJOb3JtYWxpemVkIG9mZnNldCBkaXI6Iiwgb2Zmc2V0X2Rpcl9uCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJFZGdlIHBsYW5lIG5vcm1hbCBpczoiLCBlZGdlX3BsYW5lX25vcm1hbAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -462,9 +463,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</last-search>
+      <last-search>get_edge_midpoint</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</last-pattern>
+      <last-pattern>get_edge_midpoint</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwyNTZcPg==</entry>
         <entry encoding="base64">XDxzd2VlcFw+</entry>
         <entry>is_entity</entry>
         <entry>revolve(</entry>
@@ -492,6 +492,7 @@
         <entry>math.ra</entry>
         <entry>planar</entry>
         <entry encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</entry>
+        <entry>get_edge_midpoint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Cost/Stock</entry>
