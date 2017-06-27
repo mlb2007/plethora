@@ -46,12 +46,11 @@
         <mark key="." line="183" column="59" />
         <mark key="^" line="183" column="59" />
       </file>
-      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1498588082264">
-        <mark key="'" line="87" column="9" />
-        <mark key="[" line="94" column="97" />
-        <mark key="]" line="94" column="84" />
-        <mark key="." line="94" column="84" />
-        <mark key="^" line="94" column="84" />
+      <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1498589320886">
+        <mark key="[" line="87" column="4" />
+        <mark key="]" line="86" column="30" />
+        <mark key="^" line="86" column="30" />
+        <mark key="." line="86" column="30" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
@@ -419,8 +418,8 @@
       <jump line="88" column="9" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICNwbG90ZGF0YSA9IHVzZV9kYXRhLnBsb3Qoa2luZD0nc2NhdHRlcicsIHg9J2xvbmdpdHVkZScsIHk9J2xhdGl0dWRlJywgYWxwaGE9MC4xKQogICAgI3BsdC5zaG93KHBsb3RkYXRhKQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IGNvcnJfbWF0cml4WydtZWRpYW5faG91c2VfdmFsdWUnXS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -432,31 +431,31 @@
         <text encoding="base64">ICAgICNwbG90ZGF0YSA9IHVzZV9kYXRhLnBsb3Qoa2luZD0nc2NhdHRlcicsIHg9J2xvbmdpdHVkZScsIHk9J2xhdGl0dWRlJywgYWxwaGE9MC4xKQogICAgI3BsdC5zaG93KHBsb3RkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNwcmludCBmZgo=</text>
+        <text encoding="base64">ICAgIHByaW50IGNvcnJfbWF0cml4WydtZWRpYW5faG91c2VfdmFsdWUnXS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KHNjYXRmaWcpCg==</text>
+        <text encoding="base64">ICAgIHByaW50IGNvcnJfbWF0cml4WydtZWRpYW5faG91c2VfdmFsdWUnXS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNwcmludCBmZgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNwbHQuc2hvdyhwbG90ZGF0YSkK</text>
+        <text encoding="base64">ICAgIHBsdC5zaG93KHNjYXRmaWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsb3RkYXRhID0gdXNlX2RhdGEucGxvdChraW5kPSdzY2F0dGVyJywgeD0nbG9uZ2l0dWRlJywgeT0nbGF0aXR1ZGUnLCBhbHBoYT0wLjEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdGhlIEZyZW5ldCBmcmFtZSAuLi4K</text>
+        <text encoding="base64">ICAgICNwbHQuc2hvdyhwbG90ZGF0YSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgKEFDSVMgcmVxdWlyZXMgc29tZSBwbGFuZSBub3JtYWwpIGF0IHRoZSBtaWQgcG9pbnQgb2YgdGhlIGN1cnZlIGFueXdheSwgdG8gY2FsY3VsYXRlCg==</text>
+        <text encoding="base64">ICAgIHBsb3RkYXRhID0gdXNlX2RhdGEucGxvdChraW5kPSdzY2F0dGVyJywgeD0nbG9uZ2l0dWRlJywgeT0nbGF0aXR1ZGUnLCBhbHBoYT0wLjEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgd2h5IG1pZCBwb2ludCBhbmQgbm90IGFueSBvdGhlciBwb2ludCA/IGJlY2F1c2UgQUNJUyBzdGlja3MgdGhlIGlucHV0IGRpcmVjdGlvbgo=</text>
+        <text encoding="base64">ICAgICMgdGhlIEZyZW5ldCBmcmFtZSAuLi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdGhlIHJlc3VsdCBtYXkgbm90IGJlIGludHVpdGl2ZSB0byB0aGUgdXNlcnMgYW5kIHRoaXMga2luZCBvZiBjYXNlIGlzIHZlcnkgcmFyZQo=</text>
+        <text encoding="base64">ICAgICMgKEFDSVMgcmVxdWlyZXMgc29tZSBwbGFuZSBub3JtYWwpIGF0IHRoZSBtaWQgcG9pbnQgb2YgdGhlIGN1cnZlIGFueXdheSwgdG8gY2FsY3VsYXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
