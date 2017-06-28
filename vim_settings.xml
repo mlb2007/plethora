@@ -92,12 +92,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498516797822">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498681543832">
         <mark key="'" line="891" column="4" />
-        <mark key="[" line="4651" column="4" />
-        <mark key="]" line="4653" column="99" />
-        <mark key="^" line="4653" column="99" />
-        <mark key="." line="4653" column="99" />
+        <mark key="[" line="4634" column="18" />
+        <mark key="]" line="4634" column="21" />
+        <mark key="^" line="4634" column="21" />
+        <mark key="." line="4634" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -145,12 +145,12 @@
         <mark key="]" line="101" column="0" />
         <mark key="." line="46" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1498166061455">
-        <mark key="'" line="2133" column="4" />
-        <mark key="[" line="285" column="4" />
-        <mark key="]" line="645" column="0" />
-        <mark key="." line="645" column="0" />
-        <mark key="^" line="2006" column="24" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1498681444495">
+        <mark key="'" line="1180" column="22" />
+        <mark key="[" line="1180" column="21" />
+        <mark key="]" line="1180" column="22" />
+        <mark key="." line="1180" column="22" />
+        <mark key="^" line="1180" column="22" />
       </file>
       <file name="/Python Console" timestamp="1498507741467">
         <mark key="[" line="0" column="0" />
@@ -297,11 +297,11 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1498163292065">
-        <mark key="'" line="585" column="9" />
-        <mark key="[" line="585" column="8" />
-        <mark key="]" line="585" column="8" />
-        <mark key="^" line="585" column="8" />
-        <mark key="." line="585" column="8" />
+        <mark key="'" line="317" column="9" />
+        <mark key="[" line="317" column="8" />
+        <mark key="]" line="317" column="8" />
+        <mark key="^" line="317" column="8" />
+        <mark key="." line="317" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1497379849775">
         <mark key="[" line="166" column="4" />
@@ -316,7 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="442" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="837" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="59" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
@@ -416,55 +415,56 @@
       <jump line="4661" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="891" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="88" column="9" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
+      <jump line="1180" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNvcnJfbWF0cml4WydtZWRpYW5faG91c2VfdmFsdWUnXS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjcHRzWzFdWzBdID09IDYgCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>get_edge_midpoint</text>
+        <text>offset_planar_curve</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICNwbG90ZGF0YSA9IHVzZV9kYXRhLnBsb3Qoa2luZD0nc2NhdHRlcicsIHg9J2xvbmdpdHVkZScsIHk9J2xhdGl0dWRlJywgYWxwaGE9MC4xKQogICAgI3BsdC5zaG93KHBsb3RkYXRhKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNvcnJfbWF0cml4WydtZWRpYW5faG91c2VfdmFsdWUnXS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBjcHRzWzFdWzBdID09IDYgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNvcnJfbWF0cml4WydtZWRpYW5faG91c2VfdmFsdWUnXS5zb3J0X3ZhbHVlcyhhc2NlbmRpbmc9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgIGNwdHMgPSBjcnYuY29udHJvbF9wb2ludHMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNwcmludCBmZgo=</text>
+        <text encoding="base64">ICAgIGNwdHMgPSBjcnYuY29udHJvbF9wb2ludHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsdC5zaG93KHNjYXRmaWcpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgIj09PT09PT09PT09PT09PSIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgY3J2LmlzX3JhdGlvbmFsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNwbHQuc2hvdyhwbG90ZGF0YSkK</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgY3J2Lm5vcm1hbCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsb3RkYXRhID0gdXNlX2RhdGEucGxvdChraW5kPSdzY2F0dGVyJywgeD0nbG9uZ2l0dWRlJywgeT0nbGF0aXR1ZGUnLCBhbHBoYT0wLjEpCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgY3J2LmlzX3BsYW5hcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdGhlIEZyZW5ldCBmcmFtZSAuLi4K</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgY3J2LmlzX3BlcmlvZGljKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgKEFDSVMgcmVxdWlyZXMgc29tZSBwbGFuZSBub3JtYWwpIGF0IHRoZSBtaWQgcG9pbnQgb2YgdGhlIGN1cnZlIGFueXdheSwgdG8gY2FsY3VsYXRlCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgImtub3RzOiIsIGtub3RzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_edge_midpoint</last-search>
+      <last-search>offset_planar_curve</last-search>
       <last-offset />
-      <last-pattern>get_edge_midpoint</last-pattern>
+      <last-pattern>offset_planar_curve</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzd2VlcFw+</entry>
         <entry>is_entity</entry>
         <entry>revolve(</entry>
         <entry encoding="base64">XDxpc0VudGl0eU51bGxcPg==</entry>
@@ -492,6 +491,7 @@
         <entry>planar</entry>
         <entry encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</entry>
         <entry>get_edge_midpoint</entry>
+        <entry>offset_planar_curve</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Cost/Stock</entry>
