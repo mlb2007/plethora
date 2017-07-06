@@ -63,11 +63,12 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1499362853726">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="34" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/test2.py" timestamp="1499367357180">
+        <mark key="'" line="119" column="5" />
+        <mark key="[" line="119" column="4" />
+        <mark key="]" line="104" column="33" />
+        <mark key="." line="104" column="33" />
+        <mark key="^" line="104" column="33" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/dijkstra/deco.py" timestamp="1495578960366">
         <mark key="[" line="20" column="0" />
@@ -319,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="889" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="4266" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="8" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -419,19 +419,20 @@
       <jump line="109" column="60" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
       <jump line="122" column="70" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/test2.py" />
+      <jump line="119" column="5" filename="$USER_HOME$/workspace/bugs/test2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbHRhX3AyID0gKGtfY3VycmVudCAtIGtfZGVzKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHByaW50ICJcbkZpcnN0IGN1cnZhdHVyZToiLCBrX2RlcwogICAgcHJpbnQKICAgIHByaW50ICJEZXNpcmVkIGN1cnZhdHVyZToiLCBrX2N1cnJlbnQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0X2N1cnZlX29mZnNldFw+</text>
+        <text encoding="base64">XDxwdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNtID0gc2FnZS5jdXJ2ZW1vZC5DdXJ2ZUJTMyhzZWNvbmQuc19lbnRpdHkpCiAgICA=</text>
+        <text encoding="base64">IHByaW50ICJcbkZpcnN0IGN1cnZhdHVyZToiLCBrX2RlcwogICAgcHJpbnQKICAgIHByaW50ICJEZXNpcmVkIGN1cnZhdHVyZToiLCBrX2N1cnJlbnQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlbHRhX3AyID0gKGtfY3VycmVudCAtIGtfZGVzKQo=</text>
@@ -465,17 +466,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0X2N1cnZlX29mZnNldFw+</last-search>
+      <last-search encoding="base64">XDxwdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0X2N1cnZlX29mZnNldFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwdHNcPg==</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>revolve(</entry>
         <entry encoding="base64">XDxpc0VudGl0eU51bGxcPg==</entry>
         <entry>sweep(</entry>
         <entry>isEntity</entry>
@@ -495,6 +495,7 @@
         <entry>get_edge_midpoint</entry>
         <entry>offset_planar_curve</entry>
         <entry encoding="base64">XDx0ZXN0X2N1cnZlX29mZnNldFw+</entry>
+        <entry encoding="base64">XDxwdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Cost/Stock</entry>
