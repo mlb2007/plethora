@@ -115,10 +115,10 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499460978519">
-        <mark key="[" line="44" column="4" />
-        <mark key="]" line="44" column="39" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499462245777">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="4" />
+        <mark key="." line="78" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -430,46 +430,44 @@
       <jump line="119" column="5" filename="$USER_HOME$/workspace/bugs/test2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZfZG91YmxlX3ByaW1lID0gcDIgLSAoMiAqIHAxKSArIHAwCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text># Second derivative (upto a multiplicative constant)
-d2 = p2 - 2 * p1 + p0
-#</text>
+        <text encoding="base64">ICMgZGVncmVlIGVsZXZhdGUgdGhlIHNlY29uZCBjdXJ2ZQogICAgY20gPSBzYWdlLmN1cnZlbW9kLkN1cnZlQlMzKHNlY29uZC5zX2VudGl0eSkKICAgIGNtLmRlZ3JlZV9lbGV2YXRlKDUpCgogICAgcHRzID0gW3NhZ2UuUG9pbnQzRChwKSBmb3IgcCBpbiBjbS5jb250cm9sX3BvaW50cygpXQogICAgcDAgPSBwdHNbMF0KICAgIHAxID0gcHRzWzFdCiAgICBwMiA9IHB0c1syXQoKICAgIHByaW50CiAgICBwcmludCAiQ29udHJvbCBwb2ludHMgZm9yIGN1cnZlIHRvIGJlIG1vZGlmaWVkOiIsIHAwLCBwMSwgcDIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZfZG91YmxlX3ByaW1lID0gcDIgLSAoMiAqIHAxKSArIHAwCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICNmX2RvdWJsZV9wcmltZSA9IHAyIC0gcDEK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGRlbHRhX2ggPSAoaF9oYXQgKiBkZWx0YV9oKSAtIGgK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJGX1BSSU1FIGlzOiIsIGZfcHJpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZfZG91YmxlX3ByaW1lID0gcDIgLSAyICogcDEgKyBwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNjbS5tb2RpZnlfY29udHJvbF9wb2ludCgyLCBtb2RfcDIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNwcmludCAibW9kaWZpZWQgcHQgbG9jOiIsIG1vZF9wMiwgIiBvcmlnaW5hbCBsb2NhdGlvbjoiLCBwdHNbMl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICNtb2RfcDIgPSBwZGlyICsgaF9tb2QK</text>
+        <text encoding="base64">ICAgIGZfZG91YmxlX3ByaW1lID0gcDIgLSAoMiAqIHAxKSArIHAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNmX2RvdWJsZV9wcmltZSA9IHAyIC0gcDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
