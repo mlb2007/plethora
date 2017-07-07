@@ -115,10 +115,11 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499450292627">
-        <mark key="[" line="47" column="15" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499460298137">
+        <mark key="[" line="50" column="37" />
+        <mark key="]" line="50" column="37" />
+        <mark key="." line="50" column="37" />
+        <mark key="^" line="49" column="32" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -269,6 +270,10 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/c2_curve.py" timestamp="1499459748470">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/variadic.py" timestamp="1494450178483">
         <mark key="[" line="11" column="0" />
@@ -426,32 +431,34 @@
       <jump line="119" column="5" filename="$USER_HOME$/workspace/bugs/test2.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGRvdHAK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHByaW50ICJcbkZpcnN0IGN1cnZhdHVyZToiLCBrX2RlcwogICAgcHJpbnQKICAgIHByaW50ICJEZXNpcmVkIGN1cnZhdHVyZToiLCBrX2N1cnJlbnQK</text>
+        <text># Second derivative (upto a multiplicative constant)
+d2 = p2 - 2 * p1 + p0
+#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGRvdHAK</text>
+        <text encoding="base64">ICAgIGhfd2l0aF9zYyA9W2RlbHRhX2ggKiBoX25baV0gZm9yIGkgaW4gcmFuZ2UoMyldCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAycDEgPSAK</text>
+        <text encoding="base64">ICAgIGRlbHRhX2ggPSAoNC4vNS4pKihhX2Rpc3QqKjIpKihrX2Rlcy5ub3JtKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEgPSBwdHNbMV0gLSBwdHNbMF0K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJsbGxsOiIsIGhfd2l0aF9zYwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMocHRzWzBdICsgcHRzWzJdIC0gcHRzWzFdICogMikgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -460,10 +467,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJGaXJzdCBjdHJsIHB0czoiLCBwdHMxCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
