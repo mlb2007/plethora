@@ -97,11 +97,11 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1498685304537">
-        <mark key="'" line="4637" column="21" />
-        <mark key="[" line="4684" column="0" />
-        <mark key="]" line="4684" column="0" />
-        <mark key="." line="4684" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1499796123393">
+        <mark key="'" line="1199" column="11" />
+        <mark key="[" line="4687" column="0" />
+        <mark key="]" line="4687" column="0" />
+        <mark key="." line="4687" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -156,10 +156,9 @@
         <mark key="." line="46" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1498689491697">
-        <mark key="[" line="2447" column="0" />
-        <mark key="]" line="2447" column="0" />
-        <mark key="^" line="2347" column="0" />
-        <mark key="." line="2447" column="0" />
+        <mark key="[" line="2416" column="0" />
+        <mark key="]" line="2416" column="0" />
+        <mark key="." line="2416" column="0" />
       </file>
       <file name="/Python Console" timestamp="1498684915758">
         <mark key="[" line="0" column="0" />
@@ -310,11 +309,11 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1498163292065">
-        <mark key="'" line="317" column="9" />
-        <mark key="[" line="317" column="8" />
-        <mark key="]" line="317" column="8" />
-        <mark key="^" line="317" column="8" />
-        <mark key="." line="317" column="8" />
+        <mark key="'" line="796" column="9" />
+        <mark key="[" line="796" column="8" />
+        <mark key="]" line="796" column="8" />
+        <mark key="^" line="796" column="8" />
+        <mark key="." line="796" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1497379849775">
         <mark key="[" line="166" column="4" />
@@ -329,10 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="31" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="39" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="45" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="51" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="57" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="121" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -403,7 +398,6 @@
       <jump line="314" column="191" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="522" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4636" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1367" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1373" column="72" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2263" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -429,6 +423,11 @@
       <jump line="119" column="5" filename="$USER_HOME$/workspace/bugs/test2.py" />
       <jump line="10" column="3" filename="$USER_HOME$/workspace/c2_check.py" />
       <jump line="114" column="8" filename="$USER_HOME$/workspace/c2_check.py" />
+      <jump line="4621" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1291" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1412" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1199" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -438,7 +437,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdHNcPg==</text>
+        <text>join_edges</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAjIGRlZ3JlZSBlbGV2YXRlIHRoZSBzZWNvbmQgY3VydmUKICAgIGNtID0gc2FnZS5jdXJ2ZW1vZC5DdXJ2ZUJTMyhzZWNvbmQuc19lbnRpdHkpCiAgICBjbS5kZWdyZWVfZWxldmF0ZSgyMSkKCiAgICBwdHMgPSBbc2FnZS5Qb2ludDNEKHApIGZvciBwIGluIGNtLmNvbnRyb2xfcG9pbnRzKCldCiAgICBwMCA9IHB0c1swXQogICAgcDEgPSBwdHNbMV0KICAgIHAyID0gcHRzWzJdCgogICAgcHJpbnQKICAgIHByaW50ICJDb250cm9sIHBvaW50cyBmb3IgY3VydmUgdG8gYmUgbW9kaWZpZWQ6IiwgcDAsIHAxLCBwMgoKICAgICMgdGhlIGRpcmVjdGlvbiBvZiB0YW5nZW50IHdpdGggbWFnbml0dWRlCiAgICBmX3ByaW1lID0gcDEgLSBwMAogICA=</text>
@@ -475,19 +474,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdHNcPg==</last-search>
+      <last-search>join_edges</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdHNcPg==</last-pattern>
+      <last-pattern>join_edges</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0VudGl0eU51bGxcPg==</entry>
-        <entry>sweep(</entry>
-        <entry>isEntity</entry>
         <entry>entity_exists</entry>
         <entry encoding="base64">XDxfY2hlY2tfcmV0dXJuX2VudGl0eVw+</entry>
         <entry>is_entity_valid</entry>
@@ -505,6 +501,9 @@
         <entry>offset_planar_curve</entry>
         <entry encoding="base64">XDx0ZXN0X2N1cnZlX29mZnNldFw+</entry>
         <entry encoding="base64">XDxwdHNcPg==</entry>
+        <entry>bspline_c2</entry>
+        <entry>bspline</entry>
+        <entry>join_edges</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Cost/Stock</entry>
