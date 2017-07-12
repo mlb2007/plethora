@@ -313,11 +313,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499887471257">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499889888677">
         <mark key="'" line="150" column="41" />
-        <mark key="[" line="162" column="0" />
-        <mark key="]" line="162" column="0" />
-        <mark key="." line="162" column="0" />
+        <mark key="[" line="199" column="144" />
+        <mark key="]" line="204" column="31" />
+        <mark key="." line="199" column="143" />
+        <mark key="^" line="204" column="31" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1497379849775">
         <mark key="[" line="166" column="4" />
@@ -435,7 +436,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RfVFJJQUxfTUdfbWVzaGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBFZGdlIHRoYXQgam9pbnMgKnRoaXNfZWRnZSogVGhpcyBpcyB0aGUgZWRnZSB3aGljaCB3aWxsIGJlIG1vZGlmaWVkIHRvIG1hdGNoIGN1cnZhdHVyZXMgYXQgb25lIG9yIHR3byBvZiBpdHMgam9pbmVkIGVuZHMK</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -447,16 +448,16 @@
         <text encoding="base64">ICAgIGRlc19jdXJ2X3MgPSBzYWdlLmdldF9lZGdlX2VuZF9jdXJ2YXR1cmUoZmlyc3QpCiAgICBjb2luY19wb2ludF9zID0gc2FnZS5nZXRfZWRnZV9lbmQoZmlyc3QpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRlc3RfVFJJQUxfTUdfbWVzaGVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBFZGdlIHRoYXQgam9pbnMgKnRoaXNfZWRnZSogVGhpcyBpcyB0aGUgZWRnZSB3aGljaCB3aWxsIGJlIG1vZGlmaWVkIHRvIG1hdGNoIGN1cnZhdHVyZXMgYXQgb25lIG9yIHR3byBvZiBpdHMgam9pbmVkIGVuZHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgRWRnZSB0aGF0IGpvaW5zICp0aGlzX2VkZ2UqIFRoaXMgaXMgdGhlIGVkZ2Ugd2hpY2ggd2lsbCBiZSBtb2RpZmllZCB0byBtYXRjaCBjdXJ2YXR1cmVzIGF0IG9uZSBvciB0d28gb2YgaXRzIGpvaW5lZCBlbmRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSB0aGF0X2VkZ2U6IEVkZ2UgdGhhdCBqb2lucyAqdGhpc19lZGdlKiBUaGlzIGlzIHRoZSBlZGdlIHdoaWNoIHdpbGwgYmUgbW9kaWZpZWQgdG8gbWF0Y2ggY3VydmF0dXJlcyBhdCBvbmUgb3IgdHdvIG9mIGl0cyBqb2luZWQgZW5kcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRlc3RfVFJJQUxfTUdfbWVzaGVyKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,13 +466,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW2ZpcnN0LCBzZWNvbmQsIHJlc3VsdF0sICdvdXRfY3VydmVzLnNhdCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFwaS5jb2xvcl9lbnRpdHkoZmlyc3QsIDAsIDEsIDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwaS5jb2xvcl9lbnRpdHkocmVzdWx0LCAxLCAwLCAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
