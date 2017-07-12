@@ -103,8 +103,8 @@
         <mark key="]" line="1532" column="23" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/curvemod.py" timestamp="1499877011236">
-        <mark key="[" line="196" column="20" />
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/curvemod.py" timestamp="1499882104198">
+        <mark key="[" line="149" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -118,11 +118,12 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499881086574">
+      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499881903268">
         <mark key="'" line="137" column="8" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="36" />
-        <mark key="." line="158" column="0" />
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="260" column="0" />
+        <mark key="^" line="288" column="3" />
+        <mark key="." line="260" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -165,7 +166,7 @@
         <mark key="." line="2397" column="86" />
         <mark key="^" line="2397" column="86" />
       </file>
-      <file name="/Python Console" timestamp="1499876965059">
+      <file name="/Python Console" timestamp="1499881924738">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="8" />
@@ -313,12 +314,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499877171200">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499882183599">
         <mark key="'" line="2" column="14" />
-        <mark key="[" line="209" column="17" />
-        <mark key="]" line="209" column="17" />
-        <mark key="^" line="209" column="17" />
-        <mark key="." line="209" column="17" />
+        <mark key="[" line="149" column="27" />
+        <mark key="]" line="149" column="39" />
+        <mark key="^" line="149" column="39" />
+        <mark key="." line="149" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1497379849775">
         <mark key="[" line="166" column="4" />
@@ -436,7 +437,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwaS5jb2xvcl9lbnRpdHkoZmlyc3QsIDAsIDEsIDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -445,34 +446,40 @@
         <text>_cross</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfY3VydmF0dXJlNSgpOgoKICAgIGZpcnN0ID0gc2FnZS5hcGkuYmV6aWVyXzRwdChzYWdlLk9SSUdJTiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoMSwgMSwgMSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDMsIDIsIDIpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICg0LCAxLCAzKSkKCiAgICBzZWNvbmQgPSBzYWdlLmFwaS5iZXppZXJfNHB0KCg0LCAxLCAzKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKDUsIDAsIDQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoNiwgMiwgMCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICg3LCAwLCAwKSkKCiAgICBkZXNfY3VydiA9IHNhZ2UuYXBpLmdldF9lZGdlX2VuZF9jdXJ2YXR1cmUoZmlyc3QpCiAgICBwcmludCAiZGVzaXJlIGN1cnZhdHVyZSBpczoiLCBkZXNfY3VydiwgZGVzX2N1cnYubm9ybSgpCgogICAgcmVzdWx0ID0gc2FnZS5jdXJ2ZW1vZC5qb2luX2VkZ2Vfd2l0aF9jMl9jb250aW51aXR5KGZpcnN0LCBzZWNvbmQsIGxvY2FsaXplPTEpCgogICAgYXBpLmNvbG9yX2VudGl0eShyZXN1bHQsIDEsIDAsIDApCiAgICBhcGkuZXhwb3J0KFtmaXJzdCwgc2Vjb25kLCByZXN1bHRdLCAnb3V0X2N1cnZlcy5zYXQnKQoKICAgIGFzc2VydCBzYWdlLmFwaS5nZXRfZWRnZV9jdXJ2YXR1cmVfYXRfcGFyYW0ocmVzdWx0LCBzYWdlLmFwaS5nZXRfZWRnZV9wYXJhbV9hdF9wb2ludChyZXN1bHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnQoc2Vjb25kKSkpLm5vcm0oKSBcCiAgICAgICAgICAgPT0gZGVzX2N1cnYubm9ybSgpCgogICAgYXNzZXJ0IG5vdCBzYWdlLmFwaS5nZXRfZWRnZV9jdXJ2YXR1cmVfYXRfcGFyYW0ocmVzdWx0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnZS5hcGkuZ2V0X2VkZ2VfcGFyYW1fYXRfcG9pbnQocmVzdWx0LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnZS5hcGkuZ2V0X2VkZ2VfZW5kKHNlY29uZCkpKS5ub3JtKCkgXAogICAgICAgICAgICAgICA9PSBzYWdlLmFwaS5nZXRfZWRnZV9lbmRfY3VydmF0dXJlKHNlY29uZCkubm9ybSgpCiAgICAjCg==</text>
+        <text>assert sage.api.get_edge_curvature_at_param(result, sage.api.get_edge_param_at_point(result, coinc_point_s)).norm() \
+           == des_curv_s.norm()
+
+    assert not sage.api.get_edge_curvature_at_param(result,
+                                                    sage.api.get_edge_param_at_point(result, coinc_point_s)).norm() \
+               == sage.api.get_edge_start_curvature(second).norm()
+    #</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFwaS5jb2xvcl9lbnRpdHkoZmlyc3QsIDAsIDEsIDApCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwaS5jb2xvcl9lbnRpdHkocmVzdWx0LCAxLCAwLCAwKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvaW5jX3BvaW50ID0gc2FnZS5hcGkuZ2V0X2VkZ2VfZW5kKGZpcnN0KQo=</text>
+        <text encoding="base64">ICAgICMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJkZXNpcmUgY3VydmF0dXJlIGlzOiIsIGRlc19jdXJ2LCBkZXNfY3Vydi5ub3JtKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvaW5jX3BvaW50ID0gc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnQoZmlyc3QpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJkZXNpcmUgY3VydmF0dXJlIGlzOiIsIGRlc19jdXJ2LCBkZXNfY3Vydi5ub3JtKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvaW5jX3BvaW50ID0gc2FnZS5hcGkuZ2V0X2VkZ2VfZW5kKGZpcnN0KQo=</text>
+        <text encoding="base64">ICAgIHNlY29uZCA9IHNhZ2UuYXBpLmJfc3BsaW5lKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvaW5jX3BvaW50ID0gc2FnZS5hcGkuZ2V0X2VkZ2VfZW5kKGZpcnN0KQo=</text>
+        <text encoding="base64">ICAgIGZpcnN0ID0gc2FnZS5hcGkuYl9zcGxpbmUoW3AxLCBwMiwgcDNdLCBzdGFydF9kaXI9c2FnZS5VTklUX1ZFQ19YLCBlbmRfZGlyPS1zYWdlLlVOSVRfVkVDX1gpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBzYWdlLmFwaS5nZXRfZWRnZV9lbmRfY3VydmF0dXJlKGZpcnN0KS5ub3JtKCkgPT0gc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKHJlc3VsdCkubm9ybSgpCg==</text>
+        <text encoding="base64">ICAgIHA0ID0gc2FnZS5Qb2ludDNEKCgtMSwgMCwgMCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
