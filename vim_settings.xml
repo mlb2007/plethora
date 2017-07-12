@@ -97,8 +97,8 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1499870101967">
-        <mark key="'" line="1332" column="13" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1499872002599">
+        <mark key="'" line="1336" column="30" />
         <mark key="[" line="1503" column="0" />
         <mark key="]" line="1532" column="23" />
         <mark key="." line="5" column="0" />
@@ -115,11 +115,12 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499868863711">
+      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499875921586">
         <mark key="'" line="137" column="8" />
-        <mark key="[" line="105" column="4" />
-        <mark key="]" line="131" column="46" />
-        <mark key="." line="83" column="53" />
+        <mark key="[" line="165" column="130" />
+        <mark key="]" line="166" column="3" />
+        <mark key="." line="166" column="3" />
+        <mark key="^" line="166" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -309,12 +310,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499870174349">
-        <mark key="'" line="219" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="145" column="38" />
-        <mark key="." line="145" column="38" />
-        <mark key="^" line="145" column="38" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499875956211">
+        <mark key="'" line="228" column="0" />
+        <mark key="[" line="167" column="0" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="224" column="45" />
+        <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1497379849775">
         <mark key="[" line="166" column="4" />
@@ -329,7 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2437" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="109" column="60" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
       <jump line="122" column="70" filename="$USER_HOME$/pyML/ML/pyML/panda_try.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/test2.py" />
@@ -429,55 +429,56 @@
       <jump line="1330" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1331" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1332" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1336" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRoaXNfc3RhcnQgPSBzYWdlLmdldF9lZGdlX3N0YXJ0KHRoaXNfZWRnZSkKICAgIHRoaXNfZW5kID0gc2FnZS5nZXRfZWRnZV9zdGFydCh0aGlzX2VuZCkKICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>_cross</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHRoaXNfc3RhcnQgPSBzYWdlLmdldF9lZGdlX3N0YXJ0KHRoaXNfZWRnZSkKICAgIHRoaXNfZW5kID0gc2FnZS5nZXRfZWRnZV9zdGFydCh0aGlzX2VuZCkKICAgIA==</text>
+        <text encoding="base64">IHNhZ2UuYXBpLmdldF9lZGdlX3N0YXJ0X2N1cnZhdHVyZShyZXN1bHQpLA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXNfc3RhcnQgPSBzYWdlLmdldF9lZGdlX3N0YXJ0KHRoaXNfZWRnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBzdGFydF9jb2luYywgZW5kX2NvaW5jCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoYXRfZWRnZV9jdHJsLmRlZ3JlZV9lbGV2YXRlKDMpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJFZGdlcyBkb24ndCBjb2luY2lkZSBhdCBlaXRoZXIgc3RhcnQgb3IgZW5kIG9yIGJvdGgiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIGxlbihzdGFydF9jb2luYykgb3IgbGVuKGVuZF9jb2luYykgaXMgMDoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5kX2NvaW5jLmV4dGVuZChbJ2VuZCcsICdzdGFydCddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXNfZWRnZV9jdHJsLmRlZ3JlZV9lbGV2YXRlKDMpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0aGlzX2VuZCA9PSB0aGF0X3N0YXJ0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmRfY29pbmMuZXh0ZW5kKFsnZW5kJywgJ2VuZCddKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>_cross</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>_cross</last-pattern>
       <last-replace>isPeriodic</last-replace>
       <last-substitute>isClosed</last-substitute>
       <last-dir>1</last-dir>
@@ -485,7 +486,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PT0+</entry>
         <entry>Added</entry>
         <entry>print</entry>
         <entry>real_tru</entry>
@@ -505,6 +505,7 @@
         <entry>Curve</entry>
         <entry>c2</entry>
         <entry>start</entry>
+        <entry>_cross</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Cost/Stock</entry>
