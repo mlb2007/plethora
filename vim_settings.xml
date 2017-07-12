@@ -118,11 +118,12 @@
         <mark key="]" line="96" column="51" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499883574085">
+      <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499887157075">
         <mark key="'" line="3" column="12" />
-        <mark key="[" line="304" column="4" />
-        <mark key="]" line="310" column="29" />
-        <mark key="." line="310" column="0" />
+        <mark key="[" line="307" column="30" />
+        <mark key="]" line="309" column="6" />
+        <mark key="." line="309" column="6" />
+        <mark key="^" line="309" column="6" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -313,12 +314,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499883033086">
-        <mark key="'" line="2" column="14" />
-        <mark key="[" line="140" column="52" />
-        <mark key="]" line="141" column="55" />
-        <mark key="^" line="141" column="55" />
-        <mark key="." line="141" column="55" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499887471257">
+        <mark key="'" line="150" column="41" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1497379849775">
         <mark key="[" line="166" column="4" />
@@ -333,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="8" filename="$USER_HOME$/workspace/c2_check.py" />
       <jump line="4621" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1291" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1412" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -433,63 +432,63 @@
       <jump line="171" column="4" filename="$USER_HOME$/workspace/c2_check.py" />
       <jump line="293" column="16" filename="$USER_HOME$/workspace/c2_check.py" />
       <jump line="3" column="12" filename="$USER_HOME$/workspace/c2_check.py" />
+      <jump line="150" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNtLmNvbnRyb2xfcG9pbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZyb20gcHRzWzJdIC0gMipwdHNbMV0gKyBwdHNbMF0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>_cross</text>
+        <text>modify_curvature</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRlc19jdXJ2X3MgPSBzYWdlLmFwaS5nZXRfZWRnZV9lbmRfY3VydmF0dXJlKGZpcnN0KQogICAgY29pbmNfcG9pbnRfcyA9IHNhZ2UuYXBpLmdldF9lZGdlX2VuZChmaXJzdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50IGNtLmNvbnRyb2xfcG9pbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGZyb20gcHRzWzJdIC0gMipwdHNbMV0gKyBwdHNbMF0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNtID0gc2FnZS5jdXJ2ZW1vZC5DdXJ2ZUJTMyhlZGdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG9ubHkgYSBjb21wb25lbnQgb2YgaXQgaW4gbm9ybWFsIGRpcmVjdGlvbiBhbmQgdGh1cyB3aWxsIG5vdCBkaWZmZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICg0LCAxLCAzKSkK</text>
+        <text encoding="base64">ICAgICAgICAjICAobm90IGV4YWN0bHksIGJ1dCB0aGlzIGlzIHN1ZmZpY2llbnQgYXMgd2Ugd291bGQgYmUgZmluZGluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgzLCAyLCAyKSwK</text>
+        <text encoding="base64">ICAgICAgICAjaCA9IGZfZG91YmxlX3ByaW1lIC0gKHNhZ2UuX2RvdChmX3ByaW1lX2hhdCwgZl9kb3VibGVfcHJpbWUpLyhmX3ByaW1lLm5vcm0oKSAqKiAyKSkgKiBmX3ByaW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICgxLCAxLCAxKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlemllcl80cHQoc2FnZS5PUklHSU4sCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJlcXVpcmVkIGNvbnN0YW50cyB0byBjYWxjdWxhdGUgY2hhbmdlIG9mIGNvbnRyb2wgcHQgZm9yIGN1cnZhdHVyZSBtYXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW2ZpcnN0LCBzZWNvbmQsIHJlc3VsdF0sICdvdXRfY3VydmVzLnNhdCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3FyID0gZl9wcmltZS5ub3JtKCkgKiogMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvaW5jX3BvaW50X3MgPSBzYWdlLmFwaS5nZXRfZWRnZV9lbmQoZmlyc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBoID0gZl9kb3VibGVfcHJpbWUgLSAoc2FnZS5fZG90KGZfcHJpbWVfaGF0LCBmX2RvdWJsZV9wcmltZSkvKGZfcHJpbWUubm9ybSgpICoqIDIpKSAqIGZfcHJpbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEK</text>
+        <text encoding="base64">ICAgIHByaW50IGNtLmNvbnRyb2xfcG9pbnRzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_cross</last-search>
+      <last-search>modify_curvature</last-search>
       <last-offset />
-      <last-pattern>_cross</last-pattern>
-      <last-replace>isPeriodic</last-replace>
-      <last-substitute>isClosed</last-substitute>
+      <last-pattern>modify_curvature</last-pattern>
+      <last-replace>_modify_curvature</last-replace>
+      <last-substitute>modify_curvature</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Added</entry>
         <entry>print</entry>
         <entry>real_tru</entry>
         <entry>revolve</entry>
@@ -509,9 +508,9 @@
         <entry>c2</entry>
         <entry>start</entry>
         <entry>_cross</entry>
+        <entry>modify_curvature</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Cost/Stock</entry>
         <entry>%s/machine_cost/process_stock/gc</entry>
         <entry>1753</entry>
         <entry>2973</entry>
@@ -530,6 +529,7 @@
         <entry>we</entry>
         <entry>ew</entry>
         <entry>qw</entry>
+        <entry>%s/modify_curvature/_modify_curvature/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
