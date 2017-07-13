@@ -313,8 +313,8 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499897534364">
-        <mark key="'" line="201" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499970679140">
+        <mark key="'" line="0" column="7" />
         <mark key="[" line="166" column="68" />
         <mark key="]" line="166" column="13" />
         <mark key="." line="166" column="13" />
@@ -333,24 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="762" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="765" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="767" column="57" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="776" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="838" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="841" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="844" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="848" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="860" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="863" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="866" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="870" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="872" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="879" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="881" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="888" column="49" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="893" column="135" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="922" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="925" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="927" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="937" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -413,7 +395,6 @@
       <jump line="1331" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1332" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1336" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="2" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="171" column="4" filename="$USER_HOME$/workspace/c2_check.py" />
@@ -426,13 +407,32 @@
       <jump line="2509" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="14" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="2512" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="190" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="200" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="374" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1199" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1412" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1436" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1437" column="91" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="166" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="19" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="67" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="105" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="107" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="121" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="122" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="141" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="164" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="176" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="177" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="181" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="184" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="189" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="190" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="192" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="193" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="197" column="78" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="224" column="85" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="0" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -442,7 +442,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>join_</text>
+        <text>sage.</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfbW9kaWZ5X2N1cnZhdHVyZSgpOgogICAgZWRnZSA9IHNhZ2UuYXBpLmJfc3BsaW5lKFsoMCwgMCwgMCksICgxLCAxLCAwKSwgKDIsIDIsIDApLCAoMywgMywgMCldKQoKICAgIHNhZ2UuYXBpLmNvbG9yX2VudGl0eShlZGdlLCAwLCAxLCAwKQoKICAgIGluaV9jdXJ2ID0gc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKGVkZ2UpCiAgICBjbSA9IHNhZ2UuY3VydmVtb2QuQ3VydmVCUzMoZWRnZSkKICAgIGNtID0gY20uZGVncmVlX2VsZXZhdGUoNSkKICAgIHByaW50ICJJbml0aWFsIGN0cmwgcG9pbnRzOiIsIGNtLmNvbnRyb2xfcG9pbnRzKCkKCiAgICBkZWx0YV9jaGFuZ2UgPSAoMC4wLCAwLjAsIDEpCiAgICBjaGFuZ2VfY3VydmUgPSBzYWdlLlBvaW50M0QoaW5pX2N1cnYpICsgc2FnZS5Qb2ludDNEKGRlbHRhX2NoYW5nZSkKICAgIGNtID0gY20uX21vZGlmeV9jdXJ2YXR1cmUoJ3N0YXJ0JywgY2hhbmdlX2N1cnZlKQogICAgcmVzdWx0ID0gY20ubWFrZV9lZGdlKCkKCiAgICBjbTIgPSBzYWdlLmN1cnZlbW9kLkN1cnZlQlMzKHJlc3VsdCkKICAgIHByaW50ICJSZXN1bHQgY29udHJvbCBwb2ludHM6IiwgY20yLmNvbnRyb2xfcG9pbnRzKCkKCiAgICBkZXNfY3VydmUgPSBzYWdlLmFwaS5Qb2ludDNEKGNoYW5nZV9jdXJ2ZSkubm9ybSgpCgogICAgYXBpLmV4cG9ydChbZWRnZSwgcmVzdWx0XSwgJ2N1cnZlX2NoYW5nZS5zYXQnKQogICAgcHJpbnQgc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKHJlc3VsdCksIGluaV9jdXJ2LCBkZXNfY3VydmUKCiAgICBhc3NlcnQgYWJzKHNhZ2UuYXBpLmdldF9lZGdlX3N0YXJ0X2N1cnZhdHVyZShyZXN1bHQpLm5vcm0oKSAtIGRlc19jdXJ2ZSkgPCBzYWdlLkZMT0FUX1RPTAo=</text>
@@ -479,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search>join_</last-search>
+      <last-search>sage.</last-search>
       <last-offset />
-      <last-pattern>join_</last-pattern>
+      <last-pattern>sage.</last-pattern>
       <last-replace>_modify_curvature</last-replace>
       <last-substitute>modify_curvature</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>revolve</entry>
         <entry>MeshOptions</entry>
         <entry>math.ra</entry>
         <entry>planar</entry>
@@ -509,6 +508,7 @@
         <entry>modify_curvature</entry>
         <entry encoding="base64">XDx0ZXN0X1RSSUFMX01HX21lc2hlclw+</entry>
         <entry>join_</entry>
+        <entry>sage.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/machine_cost/process_stock/gc</entry>
