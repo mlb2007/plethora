@@ -228,6 +228,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1500053713319">
+        <mark key="'" line="139" column="53" />
+      </file>
       <file name="$USER_HOME$/GraphAlgos/test/test_dijk.txt" timestamp="1494472612312">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="4" column="0" />
@@ -245,13 +248,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1497033375490">
-        <mark key="'" line="243" column="9" />
-        <mark key="[" line="64" column="43" />
-        <mark key="]" line="63" column="26" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="63" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
@@ -333,18 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="925" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="927" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="937" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="941" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="944" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="947" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="950" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="952" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="956" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="969" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="971" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="975" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="977" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="980" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="983" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -433,6 +417,18 @@
       <jump line="197" column="78" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="224" column="85" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="0" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
+      <jump line="145" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="152" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="160" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="166" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="179" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="210" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="3" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="124" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="126" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="133" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="134" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="139" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -442,7 +438,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>sage.</text>
+        <text encoding="base64">XDxzbVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfbW9kaWZ5X2N1cnZhdHVyZSgpOgogICAgZWRnZSA9IHNhZ2UuYXBpLmJfc3BsaW5lKFsoMCwgMCwgMCksICgxLCAxLCAwKSwgKDIsIDIsIDApLCAoMywgMywgMCldKQoKICAgIHNhZ2UuYXBpLmNvbG9yX2VudGl0eShlZGdlLCAwLCAxLCAwKQoKICAgIGluaV9jdXJ2ID0gc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKGVkZ2UpCiAgICBjbSA9IHNhZ2UuY3VydmVtb2QuQ3VydmVCUzMoZWRnZSkKICAgIGNtID0gY20uZGVncmVlX2VsZXZhdGUoNSkKICAgIHByaW50ICJJbml0aWFsIGN0cmwgcG9pbnRzOiIsIGNtLmNvbnRyb2xfcG9pbnRzKCkKCiAgICBkZWx0YV9jaGFuZ2UgPSAoMC4wLCAwLjAsIDEpCiAgICBjaGFuZ2VfY3VydmUgPSBzYWdlLlBvaW50M0QoaW5pX2N1cnYpICsgc2FnZS5Qb2ludDNEKGRlbHRhX2NoYW5nZSkKICAgIGNtID0gY20uX21vZGlmeV9jdXJ2YXR1cmUoJ3N0YXJ0JywgY2hhbmdlX2N1cnZlKQogICAgcmVzdWx0ID0gY20ubWFrZV9lZGdlKCkKCiAgICBjbTIgPSBzYWdlLmN1cnZlbW9kLkN1cnZlQlMzKHJlc3VsdCkKICAgIHByaW50ICJSZXN1bHQgY29udHJvbCBwb2ludHM6IiwgY20yLmNvbnRyb2xfcG9pbnRzKCkKCiAgICBkZXNfY3VydmUgPSBzYWdlLmFwaS5Qb2ludDNEKGNoYW5nZV9jdXJ2ZSkubm9ybSgpCgogICAgYXBpLmV4cG9ydChbZWRnZSwgcmVzdWx0XSwgJ2N1cnZlX2NoYW5nZS5zYXQnKQogICAgcHJpbnQgc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKHJlc3VsdCksIGluaV9jdXJ2LCBkZXNfY3VydmUKCiAgICBhc3NlcnQgYWJzKHNhZ2UuYXBpLmdldF9lZGdlX3N0YXJ0X2N1cnZhdHVyZShyZXN1bHQpLm5vcm0oKSAtIGRlc19jdXJ2ZSkgPCBzYWdlLkZMT0FUX1RPTAo=</text>
@@ -479,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sage.</last-search>
+      <last-search encoding="base64">XDxzbVw+</last-search>
       <last-offset />
-      <last-pattern>sage.</last-pattern>
+      <last-pattern encoding="base64">XDxzbVw+</last-pattern>
       <last-replace>_modify_curvature</last-replace>
       <last-substitute>modify_curvature</last-substitute>
       <last-dir>1</last-dir>
@@ -489,7 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MeshOptions</entry>
         <entry>math.ra</entry>
         <entry>planar</entry>
         <entry encoding="base64">XDxnZXRfdGFuZ2VudF90b19lZGdlXD4=</entry>
@@ -509,6 +504,7 @@
         <entry encoding="base64">XDx0ZXN0X1RSSUFMX01HX21lc2hlclw+</entry>
         <entry>join_</entry>
         <entry>sage.</entry>
+        <entry encoding="base64">XDxzbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/machine_cost/process_stock/gc</entry>
