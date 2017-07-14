@@ -228,9 +228,12 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1500057231285">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1500065090115">
         <mark key="'" line="139" column="53" />
-        <mark key="[" line="196" column="45" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="135" column="34" />
+        <mark key="^" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test/test_dijk.txt" timestamp="1494472612312">
         <mark key="[" line="2" column="5" />
@@ -249,6 +252,12 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1500065102203">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="^" line="141" column="0" />
+        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/chop_bug.py" timestamp="1492202053016">
         <mark key="[" line="13" column="3" />
@@ -432,8 +441,8 @@
       <jump line="139" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIG1ha2Vfd2lyZSgqZWRnZXMpOgogICAgIiIiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3MgRW50aXR5QWRhcHRlcihvYmplY3QpOgogICAgZGVmIGFkZF96b25lcyhzZWxmLCB0ZWMsIHByZWZpeCwgZW50aXR5LCBvcHRpb25zPXNtLk1FRElVTV9PUFRJT05TKToKICAgICAgICBtZXNoID0gc20udGVzc2VsbGF0ZV9lbnRpdHkoZW50aXR5LCBvcHRpb25zKQogICAgICAgIHRlYy5hZGRfbWVzaChwcmVmaXgsIG1lc2gpCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -442,7 +451,7 @@
         <text encoding="base64">XDxzbVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfbW9kaWZ5X2N1cnZhdHVyZSgpOgogICAgZWRnZSA9IHNhZ2UuYXBpLmJfc3BsaW5lKFsoMCwgMCwgMCksICgxLCAxLCAwKSwgKDIsIDIsIDApLCAoMywgMywgMCldKQoKICAgIHNhZ2UuYXBpLmNvbG9yX2VudGl0eShlZGdlLCAwLCAxLCAwKQoKICAgIGluaV9jdXJ2ID0gc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKGVkZ2UpCiAgICBjbSA9IHNhZ2UuY3VydmVtb2QuQ3VydmVCUzMoZWRnZSkKICAgIGNtID0gY20uZGVncmVlX2VsZXZhdGUoNSkKICAgIHByaW50ICJJbml0aWFsIGN0cmwgcG9pbnRzOiIsIGNtLmNvbnRyb2xfcG9pbnRzKCkKCiAgICBkZWx0YV9jaGFuZ2UgPSAoMC4wLCAwLjAsIDEpCiAgICBjaGFuZ2VfY3VydmUgPSBzYWdlLlBvaW50M0QoaW5pX2N1cnYpICsgc2FnZS5Qb2ludDNEKGRlbHRhX2NoYW5nZSkKICAgIGNtID0gY20uX21vZGlmeV9jdXJ2YXR1cmUoJ3N0YXJ0JywgY2hhbmdlX2N1cnZlKQogICAgcmVzdWx0ID0gY20ubWFrZV9lZGdlKCkKCiAgICBjbTIgPSBzYWdlLmN1cnZlbW9kLkN1cnZlQlMzKHJlc3VsdCkKICAgIHByaW50ICJSZXN1bHQgY29udHJvbCBwb2ludHM6IiwgY20yLmNvbnRyb2xfcG9pbnRzKCkKCiAgICBkZXNfY3VydmUgPSBzYWdlLmFwaS5Qb2ludDNEKGNoYW5nZV9jdXJ2ZSkubm9ybSgpCgogICAgYXBpLmV4cG9ydChbZWRnZSwgcmVzdWx0XSwgJ2N1cnZlX2NoYW5nZS5zYXQnKQogICAgcHJpbnQgc2FnZS5hcGkuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKHJlc3VsdCksIGluaV9jdXJ2LCBkZXNfY3VydmUKCiAgICBhc3NlcnQgYWJzKHNhZ2UuYXBpLmdldF9lZGdlX3N0YXJ0X2N1cnZhdHVyZShyZXN1bHQpLm5vcm0oKSAtIGRlc19jdXJ2ZSkgPCBzYWdlLkZMT0FUX1RPTAo=</text>
+        <text encoding="base64">Y2xhc3MgRW50aXR5QWRhcHRlcihvYmplY3QpOgogICAgZGVmIGFkZF96b25lcyhzZWxmLCB0ZWMsIHByZWZpeCwgZW50aXR5LCBvcHRpb25zPXNtLk1FRElVTV9PUFRJT05TKToKICAgICAgICBtZXNoID0gc20udGVzc2VsbGF0ZV9lbnRpdHkoZW50aXR5LCBvcHRpb25zKQogICAgICAgIHRlYy5hZGRfbWVzaChwcmVmaXgsIG1lc2gpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGVmIG1ha2Vfd2lyZSgqZWRnZXMpOgogICAgIiIiCg==</text>
