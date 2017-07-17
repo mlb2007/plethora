@@ -118,10 +118,11 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/reverse_fail.py" timestamp="1500332872259">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+      <file name="$USER_HOME$/workspace/bugs/reverse_fail.py" timestamp="1500333639698">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="19" column="3" />
+        <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -438,7 +439,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IHByaW50CiAgICBwcmludCAiYjI6IiwgYjIuc3RhcnQsIGIyLmVuZAo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -447,7 +448,7 @@
         <text encoding="base64">XDxzbVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfbW9kaWZ5X2N1cnZhdHVyZSgpOgogICAgZWRnZSA9IHNhZ2UuYl9zcGxpbmUoWygwLCAwLCAwKSwgKDEsIDEsIDApLCAoMiwgMiwgMCksICgzLCAzLCAwKV0pCiAgICBzYWdlLmNvbG9yX2VudGl0eShlZGdlLCAwLCAxLCAwKQogICAgaW5pX2N1cnYgPSBzYWdlLmdldF9lZGdlX3N0YXJ0X2N1cnZhdHVyZShlZGdlKQogICAgY20gPSBzYWdlX2N1cnZlLkN1cnZlQlMzKGVkZ2UpCiAgICBjbSA9IGNtLmRlZ3JlZV9lbGV2YXRlKDUpCiAgICBkZWx0YV9jaGFuZ2UgPSAoMC4wLCAwLjAsIDEpCiAgICBjaGFuZ2VfY3VydmUgPSBzYWdlLlBvaW50M0QoaW5pX2N1cnYpICsgc2FnZS5Qb2ludDNEKGRlbHRhX2NoYW5nZSkKICAgIGNtID0gY20uX21vZGlmeV9jdXJ2YXR1cmUoJ3N0YXJ0JywgY2hhbmdlX2N1cnZlKQogICAgcmVzdWx0ID0gY20ubWFrZV9lZGdlKCkKICAgIGNtMiA9IHNhZ2VfY3VydmUuQ3VydmVCUzMocmVzdWx0KQogICAgZGVzX2N1cnZlID0gc2FnZS5Qb2ludDNEKGNoYW5nZV9jdXJ2ZSkubm9ybSgpCiAgICBhc3NlcnQgYWJzKHNhZ2UuZ2V0X2VkZ2Vfc3RhcnRfY3VydmF0dXJlKHJlc3VsdCkubm9ybSgpIC0gZGVzX2N1cnZlKSA8IHNhZ2UuRkxPQVRfVE9MCg==</text>
+        <text encoding="base64">IHByaW50CiAgICBwcmludCAiYjI6IiwgYjIuc3RhcnQsIGIyLmVuZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGUucmV2ZXJzZSgpCg==</text>
