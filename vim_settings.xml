@@ -118,11 +118,11 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/reverse_fail.py" timestamp="1500336015914">
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/workspace/bugs/reverse_fail.py" timestamp="1500381058330">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1497301267833">
         <mark key="'" line="0" column="0" />
@@ -438,11 +438,11 @@
       <jump line="139" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50IGIxLmVuZF90YW5nZW50LCBjb24uc3RhcnRfdGFuZ2VudAo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbVw+</text>
