@@ -199,11 +199,11 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1500402811758">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1500410037849">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="77" column="24" />
-        <mark key="]" line="77" column="24" />
-        <mark key="." line="77" column="24" />
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="87" column="11" />
+        <mark key="." line="87" column="11" />
         <mark key="^" line="77" column="23" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
@@ -444,10 +444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
