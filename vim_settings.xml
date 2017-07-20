@@ -93,7 +93,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1500509465506" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1500510923219">
+        <mark key="'" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1499898884306">
         <mark key="'" line="1437" column="91" />
         <mark key="[" line="1503" column="0" />
@@ -229,12 +234,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1500508885415">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="191" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1500511207163">
+        <mark key="'" line="135" column="8" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test/test_dijk.txt" timestamp="1494472612312">
         <mark key="[" line="2" column="5" />
@@ -351,8 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1210" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1214" column="71" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1231" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1232" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1237" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -437,7 +439,6 @@
       <jump line="193" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="127" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="134" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="135" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="140" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="146" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="153" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
@@ -451,64 +452,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/scratch.py" />
       <jump line="220" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="144" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
+      <jump line="135" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcmlhbGl6ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbVw+</text>
+        <text encoding="base64">XDxfbmV4dF96b25lX3ByZWZpeFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGlmIG5vdCBfdGVjcGxvdGFibGUod3JpdGVyKToKICAgICAgICByYWlzZSBUeXBlRXJyb3IoIlVucmVjb2duaXplZCB3cml0ZXIgb2YgdHlwZToge30iLCB0eXBlKHdyaXRlcikpCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcmlhbGl6ZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBzZXJpYWxpemUgaW1wb3J0IHVzaW5nCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2FkYXB0ZXIuYWRkX3pvbmVzKHNlbGYsIHpvbmVfbmFtZV9wcmVmaXgsIG1lc2hfb3JfZW50aXR5LCBtZXNoX29wdGlvbnMpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2FkYXB0ZXIgPSBUZWNwbG90RGF0YS5fZ2V0X2FkYXB0ZXJfZm9yKG1lc2hfb3JfZW50aXR5KQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CmNsYXNzIFRlY3Bsb3REYXRhKFRlY3Bsb3QpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyAgICAgICAgdGVjLmFkZChlbnRpdHkucGF0aCwgcHJlZml4ICsgJ19wYXRoJywgb3B0aW9ucykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiTm8gVGVjcGxvdCBhZGFwdGVyIGF2YWlsYWJsZSBmb3IgdHlwZSAiICsgZW50aXR5Ll9fY2xhc3NfXy5fX25hbWVfXykK</text>
+        <text encoding="base64">IyAgICAgICAgc3VwZXIoUmV2b2x2ZUFkYXB0ZXIsIHNlbGYpLmFkZF96b25lcyh0ZWMsIHByZWZpeCwgZW50aXR5LCBvcHRpb25zKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgZWxzZToK</text>
+        <text encoding="base64">IyAgICBkZWYgYWRkX3pvbmVzKHNlbGYsIHRlYywgcHJlZml4LCBlbnRpdHksIG9wdGlvbnM9c20uTUVESVVNX09QVElPTlMpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgIHJldHVybiBUZWNwbG90RGF0YS5fZW50aXR5X2FkYXB0ZXIK</text>
+        <text encoding="base64">I2NsYXNzIFN3ZWVwQWRhcHRlcihSZXZvbHZlQWRhcHRlcik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgICAgZWxpZiBpc2luc3RhbmNlKGVudGl0eSwgY3VydmVzLkVudGl0eSkgb3IgY29yZS5FbnRpdHlUeXBlLnR5cGVfb2YoZW50aXR5KToK</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbVw+</last-search>
+      <last-search encoding="base64">XDxfbmV4dF96b25lX3ByZWZpeFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbVw+</last-pattern>
-      <last-replace>_modify_curvature</last-replace>
-      <last-substitute>modify_curvature</last-substitute>
+      <last-pattern encoding="base64">XDxfbmV4dF96b25lX3ByZWZpeFw+</last-pattern>
+      <last-replace>output</last-replace>
+      <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get_edge_midpoint</entry>
-        <entry>offset_planar_curve</entry>
         <entry encoding="base64">XDx0ZXN0X2N1cnZlX29mZnNldFw+</entry>
         <entry encoding="base64">XDxwdHNcPg==</entry>
         <entry>bspline_c2</entry>
@@ -527,9 +529,10 @@
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxib2RpZXNcPg==</entry>
         <entry encoding="base64">XDxzbVw+</entry>
+        <entry>writer</entry>
+        <entry encoding="base64">XDxfbmV4dF96b25lX3ByZWZpeFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/machine_cost/process_stock/gc</entry>
         <entry>1753</entry>
         <entry>2973</entry>
         <entry>1531</entry>
@@ -548,6 +551,7 @@
         <entry>ew</entry>
         <entry>%s/modify_curvature/_modify_curvature/gc</entry>
         <entry>qw</entry>
+        <entry>%s/writer/output/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
