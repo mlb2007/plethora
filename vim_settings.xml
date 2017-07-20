@@ -77,11 +77,12 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500577830319">
-        <mark key="'" line="6" column="11" />
-        <mark key="[" line="598" column="4" />
-        <mark key="]" line="598" column="4" />
-        <mark key="." line="598" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500578492451">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="598" column="18" />
+        <mark key="]" line="610" column="7" />
+        <mark key="." line="610" column="7" />
+        <mark key="^" line="610" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1498685110271">
         <mark key="[" line="4705" column="65" />
@@ -173,7 +174,7 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1500576700260">
+      <file name="/Python Console" timestamp="1500578494589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/log.py" timestamp="1496195233512">
@@ -267,12 +268,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1500577666916">
-        <mark key="'" line="25" column="19" />
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="4" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1500578369350">
+        <mark key="'" line="24" column="19" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tec_adapters.py" timestamp="1500071871596">
         <mark key="[" line="0" column="0" />
@@ -365,7 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2493" column="70" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="2506" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="2509" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="14" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
@@ -459,16 +459,17 @@
       <jump line="250" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="5" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="601" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="603" column="81" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="8" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="606" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="6" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="20" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
+      <jump line="610" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2ltcG9ydCBzZXJpYWxpemUK</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -480,31 +481,31 @@
         <text>writer_mock, zone_name_prefix='some', mesh_options=None)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoLm9iamVjdChzYWdlLmN1cnZlcy5Gb28sICdzYWdlLmN1cnZlcy5zZXJpYWxpemUnKQo=</text>
+        <text encoding="base64">I2ltcG9ydCBzZXJpYWxpemUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmN1cnZlcy5lbnRpdHlfd3JpdGVyJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBGb28ob2JqZWN0KToKICAgICAgICAgICAgQHNhZ2UuY3VydmVzLnNlcmlhbGl6ZV91c2luZyhzYWdlLmN1cnZlcy5lbnRpdHlfd3JpdGVyKQogICAgICAgICAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3cml0ZXJfbW9jayA9IG1vY2suTW9jayhzcGVjPXNhZ2UudGVjaW8uVGVjcGxvdERhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAjc2FnZS5zZXJpYWxpemUuZW50aXR5X3dyaXRlcih3cml0ZXJfbW9jaywgem9uZV9uYW1lX3ByZWZpeD0nc29tZScsIG1lc2hfb3B0aW9ucz1Ob25lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpbmUgPSBzYy5TcGxpbmUoZSkK</text>
+        <text encoding="base64">ICAgICAgICAjbSgnZm9vJywgJ2JhcicpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICAjbSA9IHNhZ2UuY3VydmVzLmVudGl0eV93cml0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLm1lc2gudGVzc2VsbGF0ZV9lbnRpdHknKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2Yuc2VyaWFsaXplID0gdHlwZXMuTWV0aG9kVHlwZShzYWdlLmN1cnZlcy5lbnRpdHlfd3JpdGVyLCBmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZS5zZXJpYWxpemUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2ltcG9ydCB0eXBlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIG1vY2sucGF0Y2gub2JqZWN0KHNhZ2UuY3VydmVzLkZvbywgJ3NhZ2UuY3VydmVzLmVudGl0eV93cml0ZXInLCByZXR1cm5fdmFsdWU9Tm9uZSkgYXMgbW9ja19tZXRob2Q6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
