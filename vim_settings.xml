@@ -77,12 +77,11 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500570059685">
-        <mark key="'" line="48" column="58" />
-        <mark key="[" line="598" column="32" />
-        <mark key="]" line="598" column="32" />
-        <mark key="." line="598" column="32" />
-        <mark key="^" line="598" column="32" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500572445317">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="601" column="0" />
+        <mark key="]" line="601" column="0" />
+        <mark key="." line="601" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1498685110271">
         <mark key="[" line="4705" column="65" />
@@ -269,11 +268,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1500569015132">
-        <mark key="'" line="244" column="22" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="23" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1500572091451">
+        <mark key="'" line="245" column="22" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tec_adapters.py" timestamp="1500071871596">
         <mark key="[" line="0" column="0" />
@@ -366,9 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1336" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
       <jump line="171" column="4" filename="$USER_HOME$/workspace/c2_check.py" />
       <jump line="293" column="16" filename="$USER_HOME$/workspace/c2_check.py" />
       <jump line="3" column="12" filename="$USER_HOME$/workspace/c2_check.py" />
@@ -448,7 +444,6 @@
       <jump line="597" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="13" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="599" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="14" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="8" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="24" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
@@ -466,10 +461,14 @@
       <jump line="598" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="47" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="48" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="250" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="5" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="601" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2Uuc2VyaWFsaXplIGFzIHNybHoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnNwZWN0LmdldG1lbWJlcnMoc3BsaW5lLCAnc2VyaWFsaXplJykK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -481,31 +480,31 @@
         <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgVHlwZUVycm9yKCJXcml0ZXIgZm9yIHR5cGUge30gbm90IGltcGxlbWVudGVkIi5mb3JtYXQodHlwZShvdXRwdXQpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2Uuc2VyaWFsaXplIGFzIHNybHoK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBpbnNwZWN0LmdldG1lbWJlcnMoc3BsaW5lLCAnc2VyaWFsaXplJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW5zcGVjdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm90YXRlX21vY2suY2FsbF9hcmdzID09IG1vY2suY2FsbCh3aXJlX21vY2ssICgxLCAyLCAzKSwgMjMsIFRydWUsIE5vbmUpCg==</text>
+        <text encoding="base64">ICAgIEBzZXJpYWxpemVfdXNpbmcoZW50aXR5X3dyaXRlcikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm90YXRlX21vY2suY2FsbF9jb3VudCA9PSAxCg==</text>
+        <text encoding="base64">ICAgIEBzZXJpYWxpemVfdXNpbmcoZW50aXR5X3dyaXRlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm90YXRlX21vY2suY2FsbGVkCg==</text>
+        <text encoding="base64">ICAgIEBzZXJpYWxpemVfdXNpbmcoZW50aXR5X3dyaXRlcikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZWdfcm90YXRlX21vY2suY2FsbF9hcmdzID09IG1vY2suY2FsbCgoMSwgMiwgMyksIDIzLCBUcnVlLCBOb25lKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2Uuc2VyaWFsaXplIGFzIHNybHoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZWdfcm90YXRlX21vY2suY2FsbF9jb3VudCA9PSAxCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZWdfcm90YXRlX21vY2suY2FsbGVkCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm90YXRlX21vY2suY2FsbF9hcmdzID09IG1vY2suY2FsbCh3aXJlX21vY2ssICgxLCAyLCAzKSwgMjMsIFRydWUsIE5vbmUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcm90YXRlX21vY2suY2FsbF9jb3VudCA9PSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
