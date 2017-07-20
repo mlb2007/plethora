@@ -77,12 +77,12 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500569912770">
-        <mark key="'" line="597" column="28" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="597" column="28" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500570059685">
+        <mark key="'" line="48" column="58" />
+        <mark key="[" line="598" column="32" />
+        <mark key="]" line="598" column="32" />
+        <mark key="." line="598" column="32" />
+        <mark key="^" line="598" column="32" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1498685110271">
         <mark key="[" line="4705" column="65" />
@@ -366,8 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1331" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1332" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1336" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="2" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
@@ -465,7 +463,9 @@
       <jump line="59" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="67" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="68" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="598" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="598" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="47" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
+      <jump line="48" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -475,7 +475,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>writer</text>
+        <text>Property</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGVsc2U6CiAgICAgICAgVHlwZUVycm9yKCJXcml0ZXIgZm9yIHR5cGUge30gbm90IGltcGxlbWVudGVkIi5mb3JtYXQodHlwZShvdXRwdXQpKSkK</text>
@@ -512,9 +512,9 @@
       </register>
     </registers>
     <search>
-      <last-search>writer</last-search>
+      <last-search>Property</last-search>
       <last-offset />
-      <last-pattern>writer</last-pattern>
+      <last-pattern>Property</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -522,8 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bspline_c2</entry>
-        <entry>bspline</entry>
         <entry>join_edges</entry>
         <entry>split_edge</entry>
         <entry>Curve</entry>
@@ -542,6 +540,8 @@
         <entry>spliner</entry>
         <entry>spline</entry>
         <entry>writer</entry>
+        <entry>property</entry>
+        <entry>Property</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
