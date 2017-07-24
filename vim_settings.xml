@@ -48,12 +48,11 @@
         <mark key="]" line="9" column="46" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" timestamp="1500655642711">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" timestamp="1500934471468">
         <mark key="'" line="8" column="16" />
-        <mark key="[" line="170" column="16" />
-        <mark key="]" line="170" column="22" />
-        <mark key="." line="170" column="22" />
-        <mark key="^" line="170" column="22" />
+        <mark key="[" line="181" column="41" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="$USER_HOME$/GraphAlgos/test_graph.py" timestamp="1493847592234">
         <mark key="[" line="140" column="30" />
@@ -84,12 +83,12 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500932137583">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500933939129">
         <mark key="'" line="420" column="24" />
-        <mark key="[" line="683" column="90" />
-        <mark key="]" line="684" column="36" />
-        <mark key="." line="684" column="36" />
-        <mark key="^" line="684" column="36" />
+        <mark key="[" line="680" column="8" />
+        <mark key="]" line="682" column="0" />
+        <mark key="." line="694" column="7" />
+        <mark key="^" line="694" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1498685110271">
         <mark key="[" line="4705" column="65" />
@@ -482,44 +481,44 @@
       <jump line="40" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxsc19saXN0ID0gW21vY2suY2FsbCgnc29tZScsIHRlc3NlbGxhdGVfcmV0dXJuKV0KICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWVzaGVyX21vY2suY2FsbGVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text>call(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxsc19saXN0ID0gW21vY2suY2FsbCgnc29tZScsIHRlc3NlbGxhdGVfcmV0dXJuKV0KICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAo=</text>
+        <text encoding="base64">YXNzZXJ0IG1lc2hlcl9tb2NrLmNhbGxlZAogICAgICAgIGV4cGVjdGVkX2NhbGxzX2xpc3QgPSBbbW9jay5jYWxsKHMsIG1lc2hfb3B0aW9uc19tb2NrKV0KICAgICAgICBhc3NlcnQgbWVzaGVyX21vY2suY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAogICAgICAgIGFzc2VydCB3cml0ZXJfbW9jay5hZGQuY2FsbF9jb3VudCA9PSAxCiAgICAgICAgZXhwZWN0ZWRfY2FsbHNfbGlzdCA9IFttb2NrLmNhbGwocGF0aCwgJ3NvbWVfcGF0aCcsIG1lc2hfb3B0aW9uc19tb2NrKV0KICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkLmNhbGxfYXJnc19saXN0ID09IGV4cGVjdGVkX2NhbGxzX2xpc3QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9jb3VudCA9PSAxCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWVzaGVyX21vY2suY2FsbGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbCgnc29tZV9zZWdtZW50XzAxJywgdGVzc2VsbGF0ZV9yZXR1cm4pXQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX3BvaW50cy5jYWxsX2NvdW50ID09IDEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbCgnc29tZV9zZWdtZW50XzAwJywgdGVzc2VsbGF0ZV9yZXR1cm4pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNhbGwgdGhlIHNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">ICAgICAgICBtZXNoZXJfbW9jay5yZXR1cm5fdmFsdWUgPSB0ZXNzZWxsYXRlX3JldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoX29wdGlvbnNfbW9jayA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXNzZWxsYXRlX3JldHVybiA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX3BvaW50cy5jYWxsX2FyZ3NfbGlzdCA9PSBleHBlY3RlZF9jYWxsc19saXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9rd2FyZ3NfY29weSA9IGRpY3Qob3V0cHV0X2t3YXJnc1snem9uZV9uYW1lX3ByZWZpeCddKQo=</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxsc19saXN0ID0gW21vY2suY2FsbCgnc29tZV9pbnRlcnBvbGF0ZWRfcG9pbnRzJywgW3NjLlBvaW50M0QoMCwgMCwgMCldKV0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB3cml0ZXJfbW9jay5hZGRfbWVzaC5jYWxsX2FyZ3NfbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWVzaGVyX21vY2suY2FsbGVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -564,7 +563,6 @@
         <entry>%s/Point3D/Point3DEntity/gc</entry>
         <entry>%s/Point2D/Point2DEntity/gc</entry>
         <entry>%s/Box/BBox/gc</entry>
-        <entry>e</entry>
         <entry>q</entry>
         <entry>%s/test_/no_test/gc</entry>
         <entry>%s/test_/no_test_/gc</entry>
@@ -577,6 +575,7 @@
         <entry>%s/modify_curvature/_modify_curvature/gc</entry>
         <entry>qw</entry>
         <entry>%s/writer/output/gc</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
