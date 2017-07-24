@@ -84,11 +84,12 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500920066097">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500930490298">
         <mark key="'" line="420" column="24" />
-        <mark key="[" line="708" column="46" />
-        <mark key="]" line="710" column="0" />
-        <mark key="." line="710" column="0" />
+        <mark key="[" line="683" column="46" />
+        <mark key="]" line="683" column="90" />
+        <mark key="." line="683" column="90" />
+        <mark key="^" line="683" column="90" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/api.py" timestamp="1498685110271">
         <mark key="[" line="4705" column="65" />
@@ -481,8 +482,8 @@
       <jump line="40" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9rd2FyZ3NfY29weSA9IGRpY3Qob3V0cHV0X2t3YXJnc1snem9uZV9uYW1lX3ByZWZpeCddKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxsc19saXN0ID0gW21vY2suY2FsbCgnc29tZScsIHRlc3NlbGxhdGVfcmV0dXJuKV0KICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -491,34 +492,34 @@
         <text>call(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG1zaCA9IHNtLnRlc3NlbGxhdGVfZW50aXR5KG1lc2hfb3JfZW50aXR5LCBtZXNoX29wdGlvbnMpCiAgICAgICAgICAgICAgICBzZWxmLmFkZF9tZXNoKHpvbmVfbmFtZV9wcmVmaXgsIG1zaCkKIA==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxsc19saXN0ID0gW21vY2suY2FsbCgnc29tZScsIHRlc3NlbGxhdGVfcmV0dXJuKV0KICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dHB1dF9rd2FyZ3NfY29weSA9IGRpY3Qob3V0cHV0X2t3YXJnc1snem9uZV9uYW1lX3ByZWZpeCddKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9jb3VudCA9PSAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCB3cml0ZXJfbW9jay5hZGRfbWVzaC5jYWxsX2FyZ3NfbGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX21lc2guY2FsbF9hcmdzX2xpc3QgPT0gZXhwZWN0ZWRfY2FsbHNfbGlzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbCgnc29tZV9zZWdtZW50XzAxJywgdGVzc2VsbGF0ZV9yZXR1cm4pXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbCgnc29tZV9zZWdtZW50XzAwJywgdGVzc2VsbGF0ZV9yZXR1cm4pLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lc2hfb3JfZW50aXR5LnNlcmlhbGl6ZShzZWxmLCB6b25lX25hbWVfcHJlZml4PXpvbmVfbmFtZV9wcmVmaXgsIG1lc2hfb3B0aW9ucz1tZXNoX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbGwgdGhlIHNlcmlhbGl6ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuYWRkX21lc2goem9uZV9uYW1lX3ByZWZpeCwgbXNoKQo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNoX29wdGlvbnNfbW9jayA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zaCA9IHNtLnRlc3NlbGxhdGVfZW50aXR5KG1lc2hfb3JfZW50aXR5LnNfZW50aXR5LCBtZXNoX29wdGlvbnMpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBub3QgaGFzYXR0cihtZXNoX29yX2VudGl0eSwgJ3NlcmlhbGl6ZScpOgo=</text>
+        <text encoding="base64">ICAgIG91dHB1dF9rd2FyZ3NfY29weSA9IGRpY3Qob3V0cHV0X2t3YXJnc1snem9uZV9uYW1lX3ByZWZpeCddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGhhc2F0dHIobWVzaF9vcl9lbnRpdHksICdzX2VudGl0eScpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCB3cml0ZXJfbW9jay5hZGRfbWVzaC5jYWxsX2FyZ3NfbGlzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
