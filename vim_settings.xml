@@ -42,12 +42,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501105999013">
-        <mark key="'" line="975" column="8" />
-        <mark key="[" line="1020" column="8" />
-        <mark key="]" line="1020" column="30" />
-        <mark key="." line="1020" column="30" />
-        <mark key="^" line="1020" column="30" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501108214246">
+        <mark key="[" line="959" column="31" />
+        <mark key="]" line="959" column="46" />
+        <mark key="." line="959" column="46" />
+        <mark key="^" line="959" column="46" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
@@ -385,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="20" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="610" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
@@ -485,58 +483,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="185" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="956" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>return self.invalidate()</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9fY29weV9mYWNlID0gRmFsc2UK</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>evaluate</text>
+        <text encoding="base64">XDxub19jb3B5X2ZhY2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW5wX3N0ciA9IHN0cihzdHJpbmdfdmFsdWUpLmxvd2VyKCkKICAgICAgICBpZiBpbnBfc3RyID09ICdzdGFydCc6CiAgICAgICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9fY29weV9mYWNlID0gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5vbmUsIHN0YXJ0LCBlbmQsIGJvdGggPSByYW5nZSg0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgTWF0Y2hUYW5nZW50QXQob2JqZWN0KToK</text>
+        <text encoding="base64">ICAgIG5vbmUsIHN0YXJ0LCBlbmQsIGJvdGggPSByYW5nZSg0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Y2xhc3MgTWF0Y2hUYW5nZW50QXQob2JqZWN0KToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5ib3RoCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGlucF9tYXRjaF9hdCA9PSAnYm90aCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5ib3RoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5lbmQK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlucF9tYXRjaF9hdCA9PSAnYm90aCc6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGlucF9tYXRjaF9hdCA9PSAnZW5kJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5lbmQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>evaluate</last-search>
+      <last-search encoding="base64">XDxub19jb3B5X2ZhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>evaluate</last-pattern>
+      <last-pattern encoding="base64">XDxub19jb3B5X2ZhY2VcPg==</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>call(</entry>
         <entry encoding="base64">XDxCT1RIXD4=</entry>
         <entry>range(</entry>
         <entry>setup_loft</entry>
@@ -564,6 +562,7 @@
         <entry encoding="base64">XDxsb2Z0X2J1aWxkZXJfcHRyXD4=</entry>
         <entry>basestr</entry>
         <entry>evaluate</entry>
+        <entry encoding="base64">XDxub19jb3B5X2ZhY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
