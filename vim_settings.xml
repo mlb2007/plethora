@@ -42,12 +42,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501094917742">
-        <mark key="'" line="982" column="9" />
-        <mark key="[" line="976" column="0" />
-        <mark key="]" line="978" column="0" />
-        <mark key="." line="976" column="0" />
-        <mark key="^" line="981" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501100477866">
+        <mark key="'" line="990" column="9" />
+        <mark key="[" line="979" column="47" />
+        <mark key="]" line="985" column="13" />
+        <mark key="." line="985" column="13" />
+        <mark key="^" line="985" column="13" />
       </file>
       <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1498754923445">
         <mark key="'" line="124" column="70" />
@@ -485,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIGxvZnQoc2VjdGlvbnMsIGd1aWRlcz1Ob25lLCBtYXRjaF90YW5nZW5jeT1NYXRjaFRhbmdlbnQubm9uZSwgY2xvc2VkPUZhbHNlLCBwZXJpb2RpYz1GYWxzZSwKICAgICAgICAgY3JlYXRlX3NvbGlkPVRydWUsIGFkZF92aXJ0dWFsX2d1aWRlcz1UcnVlLCBmb2xsb3dfZ3VpZGU9VHJ1ZSwgcmV0dXJuX2RpY3Q9RmFsc2UpOgo=</text>
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlX2NvcHlcPg==</text>
