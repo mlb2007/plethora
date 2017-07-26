@@ -42,12 +42,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501004723113">
-        <mark key="'" line="926" column="19" />
-        <mark key="[" line="897" column="0" />
-        <mark key="]" line="897" column="0" />
-        <mark key="^" line="897" column="0" />
-        <mark key="." line="897" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501016141510">
+        <mark key="'" line="136" column="4" />
+        <mark key="[" line="919" column="29" />
+        <mark key="]" line="919" column="34" />
+        <mark key="." line="919" column="34" />
+        <mark key="^" line="919" column="34" />
       </file>
       <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1498754923445">
         <mark key="'" line="124" column="70" />
@@ -116,10 +116,10 @@
         <mark key="]" line="53" column="64" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1501004657569">
-        <mark key="'" line="1503" column="0" />
-        <mark key="[" line="2569" column="0" />
-        <mark key="]" line="2722" column="93" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1501014873072">
+        <mark key="'" line="239" column="0" />
+        <mark key="[" line="367" column="0" />
+        <mark key="]" line="372" column="66" />
         <mark key="." line="1503" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/curvemod.py" timestamp="1499882104198">
@@ -382,32 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
-      <jump line="193" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
-      <jump line="197" column="78" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
-      <jump line="224" column="85" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" />
-      <jump line="145" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="152" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="160" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="166" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="179" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="210" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="124" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="126" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="133" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="139" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="2527" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="57" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="66" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="113" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" />
-      <jump line="70" column="0" filename="$USER_HOME$/workspace/scratch.py" />
-      <jump line="146" column="0" filename="$USER_HOME$/workspace/scratch.py" />
-      <jump line="215" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="6" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="191" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="193" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
-      <jump line="127" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="134" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="140" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
       <jump line="146" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" />
@@ -482,55 +456,81 @@
       <jump line="116" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="101" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="926" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="246" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2591" column="65" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2593" column="81" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2607" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2609" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2639" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="907" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="26" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="34" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="42" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="48" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="54" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="57" column="50" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="77" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="106" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="143" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="246" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="927" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="949" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="951" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="965" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="967" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="239" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="912" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="136" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>copy(</text>
+        <text>_wire_from</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9zZXR1cF9sb2Z0YWJsZXMoc2VjdGlvbnMsIGxhdGVyYWxfdGFuZ2VuY3ksIG1ha2VfY29weT1UcnVlKToKICAgIHByb2ZpbGVfZGF0YV9saXN0ID0gW10KCiAgICBzZWN0aW9uX2NvdW50ID0gbGVuKHNlY3Rpb25zKQogICAgZm9yIGkgaW4gcmFuZ2UoMCwgc2VjdGlvbl9jb3VudCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBwID0gUG9pbnQzRChzZWN0aW9uc1tpXSkKICAgICAgICAgICAgaWYgaSAhPSAwIGFuZCBpICE9IHNlY3Rpb25fY291bnQgLSAxOgogICAgICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJQcm9maWxlIG51bWJlciAlZCBvZiAlZCBjYW5ub3QgYmUgYSBwb2ludCIgJSAoaSwgc2VjdGlvbl9jb3VudCkpCiAgICAgICAgICAgIHByb2ZpbGUgPSBfcG9pbnRfd2lyZShwKQogICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yKToKICAgICAgICAgICAgcHJvZmlsZSA9IHNlY3Rpb25zW2ldCgogICAgICAgIGlmIGhhc2F0dHIocHJvZmlsZSwgJ2xvZnRhYmxlJyk6CiAgICAgICAgICAgIHdpcmUgPSBjb3B5KHByb2ZpbGUubG9mdGFibGUpCiAgICAgICAgZWxpZiBwcm9maWxlLnR5cGUoKSA9PSBweXNhZ2UuRW50aXR5VHlwZS5kZWRnZToKICAgICAgICAgICAgd2lyZSA9IGNvcHkocHJvZmlsZSkgaWYgbWFrZV9jb3B5IGVsc2UgcHJvZmlsZQogICAgICAgIGVsaWYgcHJvZmlsZS50eXBlKCkgPT0gcHlzYWdlLkVudGl0eVR5cGUuZWRnZToKICAgICAgICAgICAgd2lyZSA9IG1ha2Vfd2lyZShjb3B5KHByb2ZpbGUpKSBpZiBtYWtlX2NvcHkgZWxzZSBtYWtlX3dpcmUocHJvZmlsZSkKICAgICAgICBlbGlmIHByb2ZpbGUudHlwZSgpID09IHB5c2FnZS5FbnRpdHlUeXBlLmZhY2U6CiAgICAgICAgICAgIGlmIGkgIT0gMCBhbmQgaSAhPSBzZWN0aW9uX2NvdW50IC0gMToKICAgICAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiRXJyb3I6IGZvdW5kIGZhY2UgaW4gaW50ZXJtZWRpYXRlIGxvZnQgcHJvZmlsZSAlZCIgJSBpKQogICAgICAgICAgICBlbGlmIGkgPT0gMCBhbmQgbGF0ZXJhbF90YW5nZW5jeSBpbiBbTGF0ZXJhbFRhbmdlbmN5LkJPVEgsIExhdGVyYWxUYW5nZW5jeS5TVEFSVF06CiAgICAgICAgICAgICAgICB3aXJlID0gcHJvZmlsZQogICAgICAgICAgICBlbGlmIGkgPT0gc2VjdGlvbl9jb3VudCAtIDEgYW5kIGxhdGVyYWxfdGFuZ2VuY3kgaW4gW0xhdGVyYWxUYW5nZW5jeS5CT1RILCBMYXRlcmFsVGFuZ2VuY3kuRU5EXToKICAgICAgICAgICAgICAgIHdpcmUgPSBwcm9maWxlCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICB3aXJlID0gbWFrZV93aXJlKGdldF9lZGdlcyhjb3B5KHByb2ZpbGUpKSkgaWYgbWFrZV9jb3B5IGVsc2UgbWFrZV93aXJlKGdldF9lZGdlcyhwcm9maWxlKSkKICAgICAgICBlbGlmIHByb2ZpbGUudHlwZSgpID09IHB5c2FnZS5FbnRpdHlUeXBlLndpcmUgb3IgcHJvZmlsZS50eXBlKCkgPT0gcHlzYWdlLkVudGl0eVR5cGUuYm9keToKICAgICAgICAgICAgd2lyZSA9IGNvcHkocHJvZmlsZSkgaWYgbWFrZV9jb3B5IGVsc2UgcHJvZmlsZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiUHJvYmxlbSB3aXRoIHByb2ZpbGUgJWQsIGluY29tcGF0aWJsZSB0eXBlICVzIiAlIChpLCBwcm9maWxlLnR5cGUoKSkpCgogICAgICAgIHByb2ZpbGVfZGF0YSA9IHB5c2FnZS5Dcm9zc1NlY3Rpb25EYXRhKCkKICAgICAgICBwcm9maWxlX2RhdGEuc0VudGl0eVB0ciA9IHdpcmUKICAgICAgICBwcm9maWxlX2RhdGEuTmFtZSA9ICdweXNhZ2VfcHJvZmlsZScKICAgICAgICBwcm9maWxlX2RhdGEudGFuZ2VudFRha2VPZmZTY2FsZSA9IDEuMAoKICAgICAgICBpZiBpID09IDAgYW5kIGxhdGVyYWxfdGFuZ2VuY3kgaW4gW0xhdGVyYWxUYW5nZW5jeS5CT1RILCBMYXRlcmFsVGFuZ2VuY3kuU1RBUlRdOgogICAgICAgICAgICBwcm9maWxlX2RhdGEuZ2V0UGFydG5lciA9IFRydWUKICAgICAgICBlbGlmIGkgPT0gc2VjdGlvbl9jb3VudCAtIDEgYW5kIGxhdGVyYWxfdGFuZ2VuY3kgaW4gW0xhdGVyYWxUYW5nZW5jeS5CT1RILCBMYXRlcmFsVGFuZ2VuY3kuRU5EXToKICAgICAgICAgICAgcHJvZmlsZV9kYXRhLmdldFBhcnRuZXIgPSBUcnVlCgogICAgICAgIHByb2ZpbGVfZGF0YV9saXN0LmFwcGVuZChwcm9maWxlX2RhdGEpCgogICAgcmV0dXJuIHByb2ZpbGVfZGF0YV9saXN0CgoKZGVmIGxvZnQoc2VjdGlvbnMsCiAgICAgICAgIGd1aWRlcz1Ob25lLAogICAgICAgICBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5OT05FLAogICAgICAgICBjbG9zZWQ9RmFsc2UsCiAgICAgICAgIHBlcmlvZGljPUZhbHNlLAogICAgICAgICBjcmVhdGVfc29saWQ9VHJ1ZSwKICAgICAgICAgYWRkX3ZpcnR1YWxfZ3VpZGVzPVRydWUsCiAgICAgICAgIGZvbGxvd19ndWlkZT1UcnVlLAogICAgICAgICByZXR1cm5fZGljdD1GYWxzZSwKICAgICAgICAgbWFrZV9jb3B5PVRydWUpOgogICAgIiIiCgogICAgQSByb3V0aW5lIHRvIGxvZnQgY3Jvc3Mgc2VjdGlvbnMgYWxvbmcgb3B0aW9uYWwgZ3VpZGVzIHRvIGdlbmVyYXRlIGEgU0FHRSBzdXJmYWNlL2JvZHkgZW50aXR5CgogICAgOnBhcmFtIHNlY3Rpb25zOiBBIGxpc3Qgb2YgU0FHRSBlbnRpdGllcyBbZW50MSwgZW50MiwuLl0gdGhhdCBkZXNjcmliZXMgY3Jvc3Mgc2VjdGlvbnMgdGhyb3VnaCB3aGljaCB0byBsb2Z0CgogICAgOnBhcmFtIGd1aWRlczogICBBIGxpc3Qgb2YgU0FHRSBlZGdlIGVudGl0aWVzIFtlZGdlMSwgZWRnZTIsIC4uXSB0aGF0IGd1aWRlcyB0aGUgbG9mdC4gVGhlIGd1aWRlcyAqbXVzdCogcGFzcyB0aHJvZ3VoIGFsbCBjcm9zcyBzZWN0aW9ucyB0byBiZSB1c2VkLiBPdGhlcndpc2UsIHRoZSBsb2Z0IHdpbGwgaWdub3JlIHRoZSBndWlkZXMuIEFsd2F5cyBjaGVjayB0aGUgb3V0cHV0IHRvIHNlZSBpZiBhbGwgdGhlIGd1aWRlcyBhcmUgYmVpbmcgdXNlZC4KCiAgICA6cGFyYW0gbGF0ZXJhbF90YW5nZW5jeTogVGhpcyBkZW5vdGVzIHRoZSB0YW5nZW5jeSBjcml0ZXJpb24gdG8gYmUgdXNlZCB3aGlsZSBsb2Z0IGFjcm9zcyBjcm9zcyBzZWN0aW9ucy4gVGhlIHBvc3NpYmxlIHZhbHVlcyBhcmU6CgogICAgIC0gTGF0ZXJhbFRhbmdlbmN5Lk5PTkUgZGVub3Rpbmcgbm8gdGFuZ2VuY3kgY29uc3RyYWludCBuZWVkcyB0byBiZSBzYXRpc2ZpZWQgYWNyb3NzIHN0YXJ0IGFuZCBlbmQgY3Jvc3Mgc2VjdGlvbnMKCiAgICAgLSBMYXRlcmFsVGFuZ2VuY3kuQk9USCBkZW5vdGluZyBDMSBjb250aW51aXR5IGNvbnN0cmFpbnRzIG5lZWQgdG8gYmUgc2F0aXNmaWVkIChpZiByZWxldmFudCkgYWNyb3NzIHRoZSBzdGFydCBhbmQgZW5kIGNyb3NzIHNlY3Rpb25zCgogICAgIC0gTGF0ZXJhbFRhbmdlbmN5LlNUQVJUIGRlbm90aW5nIEMxIGNvbnRpbnV0eSBjb25zdHJhaW50IG5lZWQgdG8gYmUgc2F0aXNmaWVkIChpZiByZWxldmFudCkgYWNyb3NzIHRoZSBzdGFydCBjcm9zcyBzZWN0aW9uIG9ubHkKCiAgICAgLSBMYXRlcmFsVGFuZ2VuY3kuRU5EIGRlbm90aW5nIEMxIGNvbnRpbnV0eSBjb25zdHJhaW50IG5lZWQgdG8gYmUgc2F0aXNmaWVkIChpZiByZWxldmFudCkgYWNyb3NzIHRoZSBlbmQgY3Jvc3Mgc2VjdGlvbiBvbmx5LgoKICAgIDpwYXJhbSBjbG9zZWQ6IEJvb2xlYW4gZGVub3RpbmcgaWYgbG9mdCBpcyB0byBiZSBjbG9zZWQgYWxvbmcgdi1kaXJlY3Rpb24uCgogICAgOnBhcmFtIHBlcmlvZGljOiBCb29sZWFuIGRlbm90aW5nIGlmIHRoZSBsb2Z0IGlzIHRvIGJlIHBlcmlvZGljIG9yIG5vdCBzbyB0aGF0IHRoZSByZXN1bHRpbmcgYm9keSB3aWxsIGJlIHNtb290aCBhdCB0aGUgZW5kcwoKICAgIDpwYXJhbSBjcmVhdGVfc29saWQ6IEJvb2xlYW4gZGVub3RpbmcgaWYgd2UgbmVlZCBhIHN1cmZhY2Ugb3IgaWYgYSBzb2xpZCBib2R5IGlzIGRlc2lyZWQuIEl0IGlzIHBvc3NpYmxlIHRoYXQgaW4gc29tZSBjYXNlcywgdGhlIGxvZnQgaXMgdmVyeSBjb21wbGV4IGFuZCB0aHVzIHN1cmZhY2VzIGFyZSBjcmVhdGVkIChjcmVhdGVfc29saWQgPSBGYWxzZSkgYW5kIHRoZW4gc3VyZmFjZXMgYXJlIHN0aXRjaGVkIHRvZ2V0aGVyCgogICAgOnBhcmFtIGFkZF92aXJ0dWFsX2d1aWRlczogIFRoaXMgYm9vbGVhbiwgKGRlZmF1bHQgVHJ1ZSksIGRldGVybWluZXMgaWYgYWRkaXRpb25hbCBndWlkZXMgbmVlZCB0byBiZSBhZGRlZCB0byB2ZXJ0aWNlcyBiYXNlZCBvbiB0aGUgZ3VpZGUgZWRnZXMgYWxyZWFkeSBzcGVjaWZpZWQgYnkgdGhlIHVzZXIKCiAgICA6cGFyYW0gZm9sbG93X2d1aWRlOiAgVGhpcyBib29sZWFuLCBjb250cm9scyBpZiB0aGUgZ3VpZGUgdGFuZ2VudCBpcyB0byBiZSBmb2xsb3dlZCBvciB0aGUgbGF0ZXJhbCBzdXJmYWNlIHRhbmdlbnQgaXMgdG8gYmUgZm9sbG93ZWQgaW4gY2FzZSB0aGUgZGlyZWN0aW9ucyBhcmUgZGlmZmVyZW50LiBCeSBkZWZhdWx0LCB3ZSBmb2xsb3cgdGhlIGd1aWRlIHRhbmdlbnQKCiAgICA6cGFyYW0gcmV0dXJuX2RpY3Q6ICBUaGlzIGJvb2xlYW4sIGlmIFRydWUsIHJldHVybnMgdGhlIGxvZnRlZCBlbnRpdHkuIElmIEZhbHNlLCByZXR1cm5zIHRoZSBsb2Z0ZWQgZW50aXR5IGFuZCB0aGUgc3RhcnQgYW5kIGVuZCBjYXBzICggZm9yIHNvbGlkIGJvZHkgcmVzdWx0KS4gQnkgZGVmYXVsdCwgaXQgaXMgZmFsc2UgYW5kIHRodXMgcmV0dXJucyB0aGUgcmVzdWx0IG9mIGxvZnQKCiAgICA6cGFyYW0gbWFrZV9jb3B5OiAgVGhpcyBib29sZWFuLCAodXN1YWxseSBUcnVlKSBjb250cm9scyBpZiB0aGUgaW5wdXQgZW50aXR5IGlzIHRvIGJlIGNvcGllZCBiZWZvcmUgbG9mdGluZyBvciBub3QuIFNldCBpdCB0byBmYWxzZSBvbmx5IGlmIHlvdSBkb24ndCBjYXJlIGFib3V0IHRoZSBpbnB1dCBzdWJzZXF1ZW50bHkuCgogICAgOnJldHVybjogQSBkaWN0aW9uYXJ5IHRoYXQgY29udGFpbnMgdGhlIHJlc3VsdCBvZiBsb2Z0LCBhIFNBR0Ugc3VyZmFjZSBvciBCb2R5IGVudGl0eSBhbmQgYWxzbyBzdGFydC1jYXAgYW5kIGVuZC1jYXAgaWYgdGhlIHJlc3VsdCBvZiBsb2Z0IGlzIGEgYm9keS4gT25lIGNhbiBhY2Nlc3MgdGhlIHJlc3VsdCBvZiB0aGUgbG9mdCBhcyByZXN1bHRbJ2JvZHknXSwgYW5kIHRoZSBlbmQgY2FwcGluZyBzdXJmYWNlcyBhcyByZXN1bHRbJ3N0YXJ0X2NhcCddIGFuZCByZXN1bHRbJ2VuZF9jYXAnXSByZXNwZWN0aXZlbHkKICAgIAogICAgOlVzYWdlOiBFeGFtcGxlIDEuMywgMi4zYSwgMi4zYiwgMy4zLCAzLjUsIDQuMSwgNi4xCgogICAgIiIiCgogICAgbG9mdGFibGVzID0gX3NldHVwX2xvZnRhYmxlcyhzZWN0aW9ucywgbGF0ZXJhbF90YW5nZW5jeSwgbWFrZV9jb3B5KQogICAgaWYgZ3VpZGVzOgogICAgICAgIGxvZnRfb3B0aW9ucyA9IHB5c2FnZS5Mb2Z0V2l0aENTQW5kR3VpZGVzUGFyYW1ldGVycygpCiAgICAgICAgZm9yIGd1aWRlIGluIGd1aWRlczoKICAgICAgICAgICAgbG9mdF9vcHRpb25zLmVkZ2VHdWlkZXMuYXBwZW5kKGd1aWRlKQogICAgZWxzZToKICAgICAgICBsb2Z0X29wdGlvbnMgPSBweXNhZ2UuTG9mdFdpdGhDU1BhcmFtZXRlcnMoKQoKICAgIGxvZnRfb3B0aW9ucy5tYWtlU29saWQgPSBjcmVhdGVfc29saWQKICAgIGxvZnRfb3B0aW9ucy5jaGVja1NlbGZJbnRlcnNlY3Rpb24gPSBUcnVlCiAgICBsb2Z0X29wdGlvbnMucGVyaW9kaWNJbkxvZnREaXIgPSBwZXJpb2RpYwogICAgbG9mdF9vcHRpb25zLmNsb3NlZEluTG9mdERpciA9IGNsb3NlZAogICAgbG9mdF9vcHRpb25zLnVzZVZpcnR1YWxHdWlkZXMgPSBhZGRfdmlydHVhbF9ndWlkZXMKICAgIGxvZnRfb3B0aW9ucy5ndWlkZUN1cnZlQ29uc3RyYWludCA9IHB5c2FnZS5HdWlkZUN1cnZlQ29uc3RyYWludC5GT0xMT1dfR1VJREUgaWYgZm9sbG93X2d1aWRlIGVsc2UgIHB5c2FnZS5HdWlkZUN1cnZlQ29uc3RyYWludC5GT0xMT1dfVEFOR0VOVAoKICAgIGZvciBsb2Z0YWJsZSBpbiBsb2Z0YWJsZXM6CiAgICAgICAgbG9mdF9vcHRpb25zLmNyb3NzU2VjdGlvbkVudGl0aWVzLmFwcGVuZChsb2Z0YWJsZSkKCiAgICBpZiBndWlkZXM6CiAgICAgICAgbG9mdF9idWlsZGVyX3B0ciA9IHB5c2FnZS5Mb2Z0V2l0aENTQW5kR3VpZGVzKGxvZnRfb3B0aW9ucykKICAgIGVsc2U6CiAgICAgICAgbG9mdF9idWlsZGVyX3B0ciA9IHB5c2FnZS5Mb2Z0V2l0aENTKGxvZnRfb3B0aW9ucykKCiAgICBsb2Z0X2J1aWxkZXIgPSBweXNhZ2UuTG9mdEJ1aWxkZXIoKQogICAgbG9mdF9idWlsZGVyLmxvZnRCdWlsZGVyUHRyID0gbG9mdF9idWlsZGVyX3B0cgogICAgbG9mdF9yZXN1bHQgPSBsb2Z0X2J1aWxkZXIuTG9mdCgpCgogICAgc3RhcnRfY2FwID0gTm9uZQogICAgaWYgbG9mdF9idWlsZGVyX3B0ci5pc1N0YXJ0Q2FwRW50aXR5KCk6CiAgICAgICAgc3RhcnRfY2FwID0gbG9mdF9idWlsZGVyX3B0ci5zdGFydENhcCgpCgogICAgZW5kX2NhcCA9IE5vbmUKICAgIGlmIGxvZnRfYnVpbGRlcl9wdHIuaXNFbmRDYXBFbnRpdHkoKToKICAgICAgICBlbmRfY2FwID0gbG9mdF9idWlsZGVyX3B0ci5lbmRDYXAoKQoKICAgIGlmIHJldHVybl9kaWN0OgogICAgICAgIHJldHVybiB7J2JvZHknOiBsb2Z0X3Jlc3VsdCwgJ3N0YXJ0X2NhcCc6IHN0YXJ0X2NhcCwgJ2VuZF9jYXAnOiBlbmRfY2FwfQogICAgZWxzZToKICAgICAgICByZXR1cm4gbG9mdF9yZXN1bHQKCgpkZWYgbG9mdF90d29fZmFjZXMoZmFjZTEsIGZhY2UyLCBmYWNlMV90YWtlb2ZmLCBmYWNlMl90YWtlb2ZmKToKICAgICIiIgoKICAgIExvZnQgdHdvIGZhY2VzLCBBIHNwZWNpYWwgbG9mdCBzaWduYXR1cmUKCiAgICA6cGFyYW0gZmFjZTE6IEEgc2FnZSBGYWNlIGVudGl0eQoKICAgIDpwYXJhbSBmYWNlMjogQW5vdGhlciBzYWdlIEZhY2UgZW50aXR5CgogICAgOnBhcmFtIGZhY2UxX3Rha2VvZmY6IEEgZG91YmxlIHZhbHVlIHRoYXQgZGVmaW5lcyBhIHRha2Ugb2ZmIGZhY3RvciBmb3IgdGFuZ2VudCBmb3IgZmFjZTEKCiAgICA6cGFyYW0gZmFjZTJfdGFrZW9mZjogQSBkb3VibGUgdmFsdWUgdGhhdCBkZWZpbmVzIGEgdGFrZSBvZmYgZmFjdG9yIGZvciB0YW5nZW50IGZvciBmYWNlMgoKICAgIDpyZXR1cm46IEEgbG9mdGVkIHNhZ2UgQk9EWQoKICAgICIiIgogICAgcmV0dXJuIHB5c2FnZS5HZW9tZXRyeU9wZXJhdGlvbnMuTG9mdFR3b0ZhY2VzKGZhY2UxLCBmYWNlMiwgZmFjZTFfdGFrZW9mZiwgZmFjZTJfdGFrZW9mZikK</text>
+        <text encoding="base64">dHJ5OgogICAgICAgICAgICBwID0gUG9pbnQzRChzZWN0aW9uc1tpXSkKICAgICAgICAgICAgaWYgaSAhPSAwIGFuZCBpICE9IHNlY3Rpb25fY291bnQgLSAxOgogICAgICAgICAgICAgICAgcmFpc2UgVHlwZUVycm9yKCJQcm9maWxlIG51bWJlciAlZCBvZiAlZCBjYW5ub3QgYmUgYSBwb2ludCIgJSAoaSwgc2VjdGlvbl9jb3VudCkpCiAgICAgICAgICAgIHByb2ZpbGUgPSBfcG9pbnRfd2lyZShwKQogICAgICAgIGV4Y2VwdCAoVmFsdWVFcnJvciwgVHlwZUVycm9yKToKICAgICAgICAgICAgcHJvZmlsZSA9IHNlY3Rpb25zW2ldCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZGVmIF93aXJlX2Zyb21fcG9pbnQocG9pbnQpOgogICAgcCA9IFBvaW50M0QocG9pbnQpCiAgICBwID0gcHlzYWdlLlBvaW50M0QocFswXSwgcFsxXSwgcFsyXSkKICAgIHBvaW50X3ZlYyA9IHB5c2FnZS5Qb2ludDNEVmVjKCkKICAgIHBvaW50X3ZlYy5hcHBlbmQocCkKICAgIHJldHVybiBweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLm1ha2VXaXJlRnJvbVBvaW50cyhwb2ludF92ZWMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbWVzaGVyX21vY2suY2FsbGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb2ZpbGUgbnVtYmVyICVkIG9mICVkIGNhbm5vdCBiZSBhIHBvaW50IiAlIChpLCBzZWN0aW9uX2NvdW50KSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX3BvaW50cy5jYWxsX2NvdW50ID09IDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNoZXJfbW9jay5yZXR1cm5fdmFsdWUgPSB0ZXNzZWxsYXRlX3JldHVybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IHNlY3Rpb25zW2ldCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXNzZWxsYXRlX3JldHVybiA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgKFZhbHVlRXJyb3IsIFR5cGVFcnJvcik6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2suYWRkX3BvaW50cy5jYWxsX2FyZ3NfbGlzdCA9PSBleHBlY3RlZF9jYWxsc19saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IF9wb2ludF93aXJlKHApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3RlZF9jYWxsc19saXN0ID0gW21vY2suY2FsbCgnc29tZV9pbnRlcnBvbGF0ZWRfcG9pbnRzJywgW3NjLlBvaW50M0QoMCwgMCwgMCldKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFR5cGVFcnJvcigiUHJvZmlsZSBudW1iZXIgJWQgb2YgJWQgY2Fubm90IGJlIGEgcG9pbnQiICUgKGksIHNlY3Rpb25fY291bnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>copy(</last-search>
+      <last-search>_wire_from</last-search>
       <last-offset />
-      <last-pattern>copy(</last-pattern>
+      <last-pattern>_wire_from</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -538,12 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>modify_curvature</entry>
-        <entry encoding="base64">XDx0ZXN0X1RSSUFMX01HX21lc2hlclw+</entry>
-        <entry>join_</entry>
-        <entry>sage.</entry>
-        <entry>length(</entry>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry encoding="base64">XDxib2RpZXNcPg==</entry>
         <entry encoding="base64">XDxzbVw+</entry>
         <entry encoding="base64">XDxfbmV4dF96b25lX3ByZWZpeFw+</entry>
@@ -558,6 +552,12 @@
         <entry>call(</entry>
         <entry>loft</entry>
         <entry>copy(</entry>
+        <entry encoding="base64">XDxCT1RIXD4=</entry>
+        <entry>range(</entry>
+        <entry>setup_loft</entry>
+        <entry encoding="base64">XDxsYXRlcmFsX3RhbmdlbmN5XD4=</entry>
+        <entry>_point_wire</entry>
+        <entry>_wire_from</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
