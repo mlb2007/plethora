@@ -229,12 +229,12 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1501620911819">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1501621162485">
         <mark key="'" line="809" column="8" />
-        <mark key="[" line="1103" column="36" />
-        <mark key="]" line="1104" column="0" />
-        <mark key="^" line="1104" column="64" />
-        <mark key="." line="1104" column="0" />
+        <mark key="[" line="1102" column="8" />
+        <mark key="]" line="1102" column="8" />
+        <mark key="^" line="1103" column="64" />
+        <mark key="." line="1102" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1500661184268">
         <mark key="'" line="0" column="0" />
@@ -494,11 +494,11 @@
       <register name="a" type="4">
         <text>, mock_ent_type)</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>assert False</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>assert False</text>
       </register>
       <register name="/" type="4">
         <text>class EntityType</text>
