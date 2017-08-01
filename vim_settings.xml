@@ -42,8 +42,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501267672922">
-        <mark key="'" line="889" column="91" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1501610352478">
+        <mark key="'" line="1134" column="15" />
         <mark key="[" line="956" column="26" />
         <mark key="]" line="956" column="26" />
         <mark key="." line="956" column="26" />
@@ -229,12 +229,12 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1501610144073">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1501610816574">
         <mark key="'" line="733" column="0" />
-        <mark key="[" line="1082" column="0" />
-        <mark key="]" line="1104" column="0" />
-        <mark key="^" line="1082" column="0" />
-        <mark key="." line="1082" column="0" />
+        <mark key="[" line="1097" column="0" />
+        <mark key="]" line="1103" column="0" />
+        <mark key="^" line="1091" column="8" />
+        <mark key="." line="1097" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1500661184268">
         <mark key="'" line="0" column="0" />
@@ -439,7 +439,6 @@
       <jump line="932" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="941" column="82" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1106" column="70" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1134" column="70" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="930" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="940" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="683" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -489,58 +488,59 @@
       <jump line="844" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="889" column="91" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="733" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1134" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>return self.invalidate()</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdFN3ZWVwKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9pbml0X2FyZ3Moc2VsZiwgbV9lbnRfdHlwZSk6CiAgICAgICAgcHJvZmlsZSA9IG1vY2suTW9jaygpCgogICAgICAgIHBtID0gbW9jay5Qcm9wZXJ0eU1vY2soKQogICAgICAgIHBtLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUuZmFjZQogICAgICAgIHR5cGUocHJvZmlsZSkuc19lbnRpdHkgPSBwbQoKICAgICAgICBwYXRoID0gbW9jay5Nb2NrKCkKICAgICAgICBwbTIgPSBtb2NrLlByb3BlcnR5TW9jaygpCiAgICAgICAgcG0yLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUud2lyZQogICAgICAgIHR5cGUocGF0aCkuc19lbnRpdHkgPSBwbTIKCiAgICAgICAgbV9lbnRfdHlwZS50eXBlX29mLnNpZGVfZWZmZWN0ID0gW3BtLnJldHVybl92YWx1ZSwgcG0yLnJldHVybl92YWx1ZV0KCiAgICAgICAgc3dlZXBfaW5zdCA9IHNjLl9Td2VlcChwcm9maWxlLCBwYXRoKQoKICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcHJvZmlsZSA9PSBwcm9maWxlCiAgICAgICAgYXNzZXJ0IHN3ZWVwX2luc3QuX3BhdGggPT0gcGF0aAogICAgICAgIGFzc2VydCBzd2VlcF9pbnN0Ll9wcm9maWxlX3R5cGUgPT0gc2MuRW50aXR5VHlwZS5mYWNlCiAgICAgICAgYXNzZXJ0IHN3ZWVwX2luc3QuX3BhdGhfdHlwZSA9PSBzYy5FbnRpdHlUeXBlLndpcmUK</text>
+        <text encoding="base64">ZGVmIG1ha2VNb2NrREVkZ2Uoc2VsZik6CiAgICAgICAgZGVkZ2UxID0gbW9jay5Nb2NrKCkKICAgICAgICBwbSA9IG1vY2suUHJvcGVydHlNb2NrKCkKICAgICAgICBwbS5yZXR1cm5fdmFsdWUgPSBzYy5FbnRpdHlUeXBlLmRlZGdlCiAgICAgICAgdHlwZShkZWRnZTEpLnNfZW50aXR5ID0gcG0KICAgICAgICByZXR1cm4gZGVkZ2UxCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnRpdHlUeXBlXD4=</text>
+        <text>class Loft</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdFN3ZWVwKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZScpCiAgICBkZWYgdGVzdF9pbml0X2FyZ3Moc2VsZiwgbV9lbnRfdHlwZSk6CiAgICAgICAgcHJvZmlsZSA9IG1vY2suTW9jaygpCgogICAgICAgIHBtID0gbW9jay5Qcm9wZXJ0eU1vY2soKQogICAgICAgIHBtLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUuZmFjZQogICAgICAgIHR5cGUocHJvZmlsZSkuc19lbnRpdHkgPSBwbQoKICAgICAgICBwYXRoID0gbW9jay5Nb2NrKCkKICAgICAgICBwbTIgPSBtb2NrLlByb3BlcnR5TW9jaygpCiAgICAgICAgcG0yLnJldHVybl92YWx1ZSA9IHNjLkVudGl0eVR5cGUud2lyZQogICAgICAgIHR5cGUocGF0aCkuc19lbnRpdHkgPSBwbTIKCiAgICAgICAgbV9lbnRfdHlwZS50eXBlX29mLnNpZGVfZWZmZWN0ID0gW3BtLnJldHVybl92YWx1ZSwgcG0yLnJldHVybl92YWx1ZV0KCiAgICAgICAgc3dlZXBfaW5zdCA9IHNjLl9Td2VlcChwcm9maWxlLCBwYXRoKQoKICAgICAgICBhc3NlcnQgc3dlZXBfaW5zdC5fcHJvZmlsZSA9PSBwcm9maWxlCiAgICAgICAgYXNzZXJ0IHN3ZWVwX2luc3QuX3BhdGggPT0gcGF0aAogICAgICAgIGFzc2VydCBzd2VlcF9pbnN0Ll9wcm9maWxlX3R5cGUgPT0gc2MuRW50aXR5VHlwZS5mYWNlCiAgICAgICAgYXNzZXJ0IHN3ZWVwX2luc3QuX3BhdGhfdHlwZSA9PSBzYy5FbnRpdHlUeXBlLndpcmUK</text>
+        <text encoding="base64">ZGVmIG1ha2VNb2NrREVkZ2Uoc2VsZik6CiAgICAgICAgZGVkZ2UxID0gbW9jay5Nb2NrKCkKICAgICAgICBwbSA9IG1vY2suUHJvcGVydHlNb2NrKCkKICAgICAgICBwbS5yZXR1cm5fdmFsdWUgPSBzYy5FbnRpdHlUeXBlLmRlZGdlCiAgICAgICAgdHlwZShkZWRnZTEpLnNfZW50aXR5ID0gcG0KICAgICAgICByZXR1cm4gZGVkZ2UxCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm9fY29weV9mYWNlID0gRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbm9fY29weV9mYWNlID0gRmFsc2UK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5vbmUsIHN0YXJ0LCBlbmQsIGJvdGggPSByYW5nZSg0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgTWF0Y2hUYW5nZW50QXQob2JqZWN0KToK</text>
+        <text encoding="base64">ICAgIG5vbmUsIHN0YXJ0LCBlbmQsIGJvdGggPSByYW5nZSg0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Y2xhc3MgTWF0Y2hUYW5nZW50QXQob2JqZWN0KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5ib3RoCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGlucF9tYXRjaF9hdCA9PSAnYm90aCc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5ib3RoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF0Y2hfYXQgPSBNYXRjaFRhbmdlbnRBdC5lbmQK</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlucF9tYXRjaF9hdCA9PSAnYm90aCc6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-search>
+      <last-search>class Loft</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-pattern>
+      <last-pattern>class Loft</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCT1RIXD4=</entry>
         <entry>range(</entry>
         <entry>setup_loft</entry>
         <entry encoding="base64">XDxsYXRlcmFsX3RhbmdlbmN5XD4=</entry>
@@ -568,6 +567,7 @@
         <entry>evaluate</entry>
         <entry encoding="base64">XDxub19jb3B5X2ZhY2VcPg==</entry>
         <entry encoding="base64">XDxFbnRpdHlUeXBlXD4=</entry>
+        <entry>class Loft</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
