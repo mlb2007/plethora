@@ -229,12 +229,12 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1501625992952">
-        <mark key="'" line="809" column="8" />
-        <mark key="[" line="1093" column="11" />
-        <mark key="]" line="1100" column="14" />
-        <mark key="." line="1100" column="14" />
-        <mark key="^" line="1105" column="8" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1501784239146">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="1152" column="59" />
+        <mark key="]" line="1125" column="61" />
+        <mark key="." line="1125" column="61" />
+        <mark key="^" line="1125" column="61" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1500661184268">
         <mark key="'" line="0" column="0" />
@@ -389,9 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="919" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="101" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="116" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="135" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="162" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -489,58 +486,61 @@
       <jump line="804" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="809" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="971" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1082" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>, mock_ent_type)</text>
+        <text encoding="base64">ZWxpZiBtb2NrX2VudC5tb2NrZWRfdHlwZSBpcyAnZmFjZSc6CiAgICAgICAgICAgIHJldHVybiBzYy5FbnRpdHlUeXBlLmZhY2UKIA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXJlMS5jbG9uZS5yZXR1cm5fdmFsdWUgPSBtb2NrLk1vY2sobmFtZT0nY2xvbmVkX3dpcmUnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>class EntityType</text>
+        <text>pysage.</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICBwcmludCAiSSBjb21lIGhlcmUiCiAgICAgICAgaWYgZW50Lm1vY2tlZF90eXBlIGlzICdlZGdlJzoKICAgICAgICAgICAgcmV0dXJuIHNjLkVudGl0eVR5cGUuZWRnZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBOb25lCg==</text>
+        <text encoding="base64">IEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS50eXBlX29mJykKICAgIGRlZiB0ZXN0X21ha2VfbW9ja3Moc2VsZiwgbW9ja19lbnRfdHlwZSk6CiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlMS5tb2NrZWRfdHlwZSA9ICdlZGdlJwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXJlMS5jbG9uZS5yZXR1cm5fdmFsdWUgPSBtb2NrLk1vY2sobmFtZT0nY2xvbmVkX3dpcmUnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiSSBjb21lIGhlcmUiCg==</text>
+        <text encoding="base64">ICAgICAgICBmYWNlMS5jbG9uZS5yZXR1cm5fdmFsdWUgPSBtb2NrLk1vY2sobmFtZT0nY2xvbmVkX2ZhY2UnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWRnZTEuY2xvbmUucmV0dXJuX3ZhbHVlID0gbW9jay5Nb2NrKG5hbWU9J2Nsb25lZF9kZWRnZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2VudF90eXBlLnR5cGVfb2YucmV0dXJuX3ZhbHVlID0gc2MuRW50aXR5VHlwZS53aXJlCg==</text>
+        <text encoding="base64">ICAgICAgICBlZGdlMS5jbG9uZS5yZXR1cm5fdmFsdWUgPSBtb2NrLk1vY2sobmFtZT0nY2xvbmVkX2VkZ2UnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2VudF90eXBlLnR5cGVfb2YucmV0dXJuX3ZhbHVlID0gc2MuRW50aXR5VHlwZS5mYWNlCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2Uuc1ZlY3RvcjNEJywgcmV0dXJuX3ZhbHVlPSdtb28nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2VudF90eXBlLnR5cGVfb2YucmV0dXJuX3ZhbHVlID0gc2MuRW50aXR5VHlwZS5kZWRnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2VudF90eXBlLnR5cGVfb2YucmV0dXJuX3ZhbHVlID0gc2MuRW50aXR5VHlwZS5lZGdlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLkVudGl0eVR5cGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QG1vY2sucGF0Y2goJ3NhZ2UuY2ludGVyZmFjZS5FbnRpdHlUeXBlJykK</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>class EntityType</last-search>
+      <last-search>pysage.</last-search>
       <last-offset />
-      <last-pattern>class EntityType</last-pattern>
+      <last-pattern>pysage.</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry>copy(</entry>
         <entry>copy</entry>
         <entry encoding="base64">XDxtYWtlX3dpcmVcPg==</entry>
         <entry>setup</entry>
@@ -568,6 +567,7 @@
         <entry>type</entry>
         <entry>type(</entry>
         <entry>class EntityType</entry>
+        <entry>pysage.</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
