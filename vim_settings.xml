@@ -119,10 +119,10 @@
         <mark key="]" line="53" column="64" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sketch.py" timestamp="1502227834218">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sketch.py" timestamp="1502228073889">
         <mark key="'" line="276" column="23" />
-        <mark key="[" line="606" column="0" />
-        <mark key="]" line="606" column="0" />
+        <mark key="[" line="605" column="4" />
+        <mark key="]" line="610" column="31" />
         <mark key="." line="606" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1502222983430">
@@ -171,9 +171,9 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1502226914262">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1502227955181">
         <mark key="'" line="94" column="8" />
-        <mark key="[" line="133" column="10" />
+        <mark key="[" line="127" column="10" />
         <mark key="]" line="133" column="15" />
         <mark key="." line="133" column="15" />
         <mark key="^" line="133" column="15" />
@@ -249,12 +249,12 @@
         <mark key="." line="628" column="75" />
         <mark key="^" line="628" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1500661184268">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502228099817">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="76" column="34" />
-        <mark key="." line="76" column="34" />
-        <mark key="^" line="76" column="34" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
@@ -507,8 +507,8 @@
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWMoc2VsZik6CiAgICAgICAgcCA9ICgzLCAwLCAwLjUpCiAgICAgICAgcSA9IHNjLlVOSVRfVkVDX1ggKiA2CiAgICAgICAgYiA9IHNrLkN1YmljQlNwbGluZS5wZXJpb2RpY19hbmRfY2xvc2VkX3Rocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdKQogICAgICAgIGFzc2VydCBiLnBlcmlvZGljIGlzIFRydWUKICAgICAgICBhc3NlcnQgYi5jbG9zZWQgaXMgVHJ1ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -517,7 +517,7 @@
         <text>bspline</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGRlZiB0ZXN0KHNlbGYsIG1vY2tfc3BsaW5lX2J1aWxkZXIsIG1vY2tfc3BsaW5lX3BhcmFtcyk6CiAgICAgICAgcDEgPSAoMCwgMCwgMCkKICAgICAgICBwMiA9ICgxLCAwLCAwKQogICAgICAgIHAzID0gKDIsIDEsIDApCiAgICAgICAgcDQgPSAoMywgMiwgMSkKICAgICAgICBzcCA9IHNjLm1ha2VfYnNwbGluZShbcDEsIHAyLCBwMywgcDRdKQogICAgICAgIGFzc2VydCBtb2NrX3NwbGluZV9wYXJhbXMucmV0dXJuX3ZhbHVlLnBvaW50cy5hcHBlbmQuY2FsbF9jb3VudCBpcyA0CiAgICAgICAgYXNzZXJ0IG1vY2tfc3BsaW5lX3BhcmFtcy5yZXR1cm5fdmFsdWUucGVyaW9kaWMgaXMgRmFsc2UKICAgICAgICBhc3NlcnQgbW9ja19zcGxpbmVfYnVpbGRlci5yZXR1cm5fdmFsdWUuYnVpbGQuY2FsbF9jb3VudCBpcyAxCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWMoc2VsZik6CiAgICAgICAgcCA9ICgzLCAwLCAwLjUpCiAgICAgICAgcSA9IHNjLlVOSVRfVkVDX1ggKiA2CiAgICAgICAgYiA9IHNrLkN1YmljQlNwbGluZS5wZXJpb2RpY19hbmRfY2xvc2VkX3Rocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdKQogICAgICAgIGFzc2VydCBiLnBlcmlvZGljIGlzIFRydWUKICAgICAgICBhc3NlcnQgYi5jbG9zZWQgaXMgVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
