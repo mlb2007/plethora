@@ -118,11 +118,12 @@
         <mark key="]" line="53" column="64" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1502149393609">
-        <mark key="'" line="653" column="20" />
-        <mark key="[" line="367" column="0" />
-        <mark key="]" line="372" column="66" />
-        <mark key="." line="1503" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1502215378737">
+        <mark key="'" line="704" column="16" />
+        <mark key="[" line="704" column="17" />
+        <mark key="]" line="704" column="0" />
+        <mark key="." line="704" column="0" />
+        <mark key="^" line="704" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/curvemod.py" timestamp="1499882104198">
         <mark key="[" line="149" column="27" />
@@ -387,7 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1057" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="2684" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -487,6 +487,7 @@
       <jump line="602" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="642" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="653" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="704" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -499,7 +500,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2Zvcm1cPg==</text>
+        <text>loft</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS50eXBlX29mJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuQ3Jvc3NTZWN0aW9uRGF0YScpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1ha2Vfd2lyZScpCiAgICBAbW9jay5wYXRjaCgncHlzYWdlLkxvZnRXaXRoQ1NQYXJhbWV0ZXJzJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuTG9mdFdpdGhDU0FuZEd1aWRlc1BhcmFtZXRlcnMnKQogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5Mb2Z0QnVpbGRlcicpCiAgICBAbW9jay5wYXRjaCgncHlzYWdlLkxvZnRXaXRoQ1MnKQogICAgQG1vY2sucGF0Y2goJ3B5c2FnZS5Mb2Z0V2l0aENTQW5kR3VpZGVzJykKICAgIGRlZiB0ZXN0X2xvZnRfdHdvX2VkZ2VzX3dpdGhvdXRfZ3VpZGVzX25vX2NhcHMoc2VsZiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19sb2Z0X2FsZ29fY3NfZ3VpZGVzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX2xvZnRfYWxnb19jcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19sb2Z0X2J1aWxkZXIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfbG9mdF9jc19ndWlkZXNfb3B0cywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19sb2Z0X2NzX29wdHMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfbWFrZV93aXJlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX2VudF90eXBlKToKCiAgICAgICAgIyB0aGlzIGlzIHRoZSBvbmUgdGhhdCBoaWphY2tzIHRoZSBlbnRpdHkgdHlwZSBkZXRlcm1pbmF0aW9uCiAgICAgICAgbW9ja19lbnRfdHlwZS5zaWRlX2VmZmVjdCA9IFRlc3RMb2Z0Lm1vY2tfZWRnZV90eXBlX3NpZGVfZWZmZWN0CgogICAgICAgICMgd2l0aCBlbmQgY2FwcyBhdmFpbGFibGUKICAgICAgICBsb2Z0ZXIgPSBzYy5Mb2Z0KCkKICAgICAgICAjIHR3byBlZGdlcyBhcyBjcm9zcy1zZWN0aW9ucwogICAgICAgIGVkZ2UxID0gVGVzdExvZnQubWFrZV9tb2NrX2VkZ2UoKQogICAgICAgIGVkZ2UyID0gVGVzdExvZnQubWFrZV9tb2NrX2VkZ2UoKQoKICAgICAgICAjIGNoZWNrIG9wdGlvbnMKICAgICAgICBsb2Z0ZWRfYm9keSA9IGxvZnRlci53aXRoX3NlY3Rpb25zKFtlZGdlMSwgZWRnZTJdKS5ib2R5CgogICAgICAgIGFzc2VydCBsb2Z0ZXIuX2ludmFsaWQgaXMgRmFsc2UKICAgICAgICBhc3NlcnQgbm90IChsb2Z0ZXIuX3NlY3Rpb25zIGlzIE5vbmUpCgogICAgICAgICMgY2hlY2sgZm9yIG91dHB1dAogICAgICAgIGFzc2VydCBsb2Z0ZXIuYm9keSBpcyBsb2Z0ZWRfYm9keQogICAgICAgIGFzc2VydCBub3QgKGxvZnRlci5zdGFydF9jYXAgaXMgTm9uZSkKICAgICAgICBhc3NlcnQgbm90IChsb2Z0ZXIuZW5kX2NhcCBpcyBOb25lKQoKICAgICAgICAjIGNoZWNrIGlmIHRoZSByaWdodCBmbG93IHBhdGggaXMgZ2V0dGluZyBjYWxsZWQKICAgICAgICAjIGNoZWNrIGlmIHdpcmUgaXMgYmVpbmcgbWFkZSBvciBub3QKCiAgICAgICAgIyBjaGVjayBmb3IgY2xvbmluZwogICAgICAgIGFzc2VydCBlZGdlMS5jbG9uZS5jYWxsX2NvdW50IGlzIDEKICAgICAgICBhc3NlcnQgZWRnZTIuY2xvbmUuY2FsbF9jb3VudCBpcyAxCgogICAgICAgICMgY2hlY2sgaWYgZnVuY3Rpb25zIGFyZSBjYWxsZWQKICAgICAgICBhc3NlcnQgbW9ja19tYWtlX3dpcmUuY2FsbF9jb3VudCBpcyAyCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9hbGdvX2NzLmNhbGxfY291bnQgaXMgMQogICAgICAgIGFzc2VydCBtb2NrX2xvZnRfYWxnb19jc19ndWlkZXMuY2FsbF9jb3VudCBpcyAwCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9idWlsZGVyLmNhbGxfY291bnQgaXMgMQogICAgICAgIGFzc2VydCBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLmNhbGxfY291bnQgaXMgMgoKICAgICAgICBhc3NlcnQgbW9ja19sb2Z0X2NzX29wdHMuY2FsbF9jb3VudCBpcyAxCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9jc19ndWlkZXNfb3B0cy5jYWxsX2NvdW50IGlzIDAKCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9hbGdvX2NzLnJldHVybl92YWx1ZS5pc1N0YXJ0Q2FwRW50aXR5LmNhbGxfY291bnQgaXMgMQogICAgICAgIGFzc2VydCBtb2NrX2xvZnRfYWxnb19jcy5yZXR1cm5fdmFsdWUuaXNFbmRDYXBFbnRpdHkuY2FsbF9jb3VudCBpcyAxCgogICAgICAgICMgb3B0aW9ucyBwYXNzZWQgb24gdG8gc2FnZSBsb2Z0IC4uLgogICAgICAgIG1vY2tfbG9mdF9vcHRzX3JldCA9IG1vY2tfbG9mdF9jc19vcHRzLnJldHVybl92YWx1ZQogICAgICAgIGFzc2VydCBtb2NrX2xvZnRfb3B0c19yZXQubWFrZVNvbGlkIGlzIGxvZnRlci5fY3JlYXRlX3NvbGlkCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9vcHRzX3JldC5jaGVja1NlbGZJbnRlcnNlY3Rpb24gaXMgbG9mdGVyLl9zZWxmX2ludF9jaGVjawogICAgICAgIGFzc2VydCBtb2NrX2xvZnRfb3B0c19yZXQucGVyaW9kaWNJbkxvZnREaXIgaXMgbG9mdGVyLl9wZXJpb2RpYwogICAgICAgIGFzc2VydCBtb2NrX2xvZnRfb3B0c19yZXQuY2xvc2VkSW5Mb2Z0RGlyIGlzIGxvZnRlci5fY2xvc2VkCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9vcHRzX3JldC51c2VWaXJ0dWFsR3VpZGVzIGlzIGxvZnRlci5fYWRkX3ZpcnR1YWxfZ3VpZGVzCiAgICAgICAgYXNzZXJ0IG1vY2tfbG9mdF9vcHRzX3JldC5ndWlkZUN1cnZlQ29uc3RyYWludCA9PSBzYy5weXNhZ2UuR3VpZGVDdXJ2ZUNvbnN0cmFpbnQuRk9MTE9XX1RBTkdFTlQK</text>
@@ -536,9 +537,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2Zvcm1cPg==</last-search>
+      <last-search>loft</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2Zvcm1cPg==</last-pattern>
+      <last-pattern>loft</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +547,6 @@
     </search>
     <history>
       <history-search>
-        <entry>basestr</entry>
         <entry>evaluate</entry>
         <entry encoding="base64">XDxub19jb3B5X2ZhY2VcPg==</entry>
         <entry encoding="base64">XDxFbnRpdHlUeXBlXD4=</entry>
@@ -566,6 +566,7 @@
         <entry>_apply</entry>
         <entry>rotate(</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1cPg==</entry>
+        <entry>loft</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
