@@ -249,12 +249,11 @@
         <mark key="." line="628" column="75" />
         <mark key="^" line="628" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502228099817">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502232870559">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="89" column="0" />
+        <mark key="[" line="88" column="30" />
+        <mark key="]" line="87" column="50" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
@@ -507,8 +506,8 @@
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWMoc2VsZik6CiAgICAgICAgcCA9ICgzLCAwLCAwLjUpCiAgICAgICAgcSA9IHNjLlVOSVRfVkVDX1ggKiA2CiAgICAgICAgYiA9IHNrLkN1YmljQlNwbGluZS5wZXJpb2RpY19hbmRfY2xvc2VkX3Rocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdKQogICAgICAgIGFzc2VydCBiLnBlcmlvZGljIGlzIFRydWUKICAgICAgICBhc3NlcnQgYi5jbG9zZWQgaXMgVHJ1ZQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhcGkuY29sb3JfZW50aXR5KHNwbGl0QS5zX2VudGl0eSwgMSwgMCwgMCkK</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -520,31 +519,31 @@
         <text encoding="base64">ZGVmIHRlc3RfcGVyaW9kaWMoc2VsZik6CiAgICAgICAgcCA9ICgzLCAwLCAwLjUpCiAgICAgICAgcSA9IHNjLlVOSVRfVkVDX1ggKiA2CiAgICAgICAgYiA9IHNrLkN1YmljQlNwbGluZS5wZXJpb2RpY19hbmRfY2xvc2VkX3Rocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdKQogICAgICAgIGFzc2VydCBiLnBlcmlvZGljIGlzIFRydWUKICAgICAgICBhc3NlcnQgYi5jbG9zZWQgaXMgVHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhcGkuY29sb3JfZW50aXR5KHNwbGl0QS5zX2VudGl0eSwgMSwgMCwgMCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwNCA9ICgzLCAyLCAxKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzcGxpdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19zcGxpbmVfcGFyYW1zLnJldHVybl92YWx1ZS5lbmRUYW5nZW50ID09IHNjLlZlY3RvcjNEKHNjLk9SSUdJTikuc19lbnRpdHkK</text>
+        <text encoding="base64">ICAgICAgICAjcSA9IHNhZ2UuY29yZS5VTklUX1ZFQ19YICogNgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19zcGxpbmVfcGFyYW1zLnJldHVybl92YWx1ZS5zdGFydFRhbmdlbnQgPT0gc2MuVmVjdG9yM0Qoc2MuT1JJR0lOKS5zX2VudGl0eQo=</text>
+        <text encoding="base64">ICAgICAgICBhcGkuZXhwb3J0KGIuc19lbnRpdHksICJwZXJpb2RpYy5zYXQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBhcGkuZXhwb3J0KGIuc19lbnRpdHksICJwZXJpb2RpYy5zYXQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuQ3VydmVTcGxpbmVCdWlsZGVyJykK</text>
+        <text encoding="base64">ICAgICAgICBxID0gc2FnZS5jb3JlLlVOSVRfVkVDX1ggKiA2Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuU3BsaW5lUGFyYW1ldGVycycpCg==</text>
+        <text encoding="base64">ICAgICAgICBwMSA9ICgxLCAwLCAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBiLmNsb3NlZCBpcyBUcnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFzc2VydCBiLnBlcmlvZGljIGlzIFRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
