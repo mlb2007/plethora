@@ -518,7 +518,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Plane</text>
+        <text>Loft</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc2suQ3ViaWNCU3BsaW5lLnRocm91Z2hfcG9pbnRzKFtdKQogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc2suQ3ViaWNCU3BsaW5lLnRocm91Z2hfcG9pbnRzKFsnZm9vJ10pCg==</text>
@@ -555,9 +555,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Plane</last-search>
+      <last-search>Loft</last-search>
       <last-offset />
-      <last-pattern>Plane</last-pattern>
+      <last-pattern>Loft</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -565,8 +565,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pysage.</entry>
-        <entry encoding="base64">XDxtYWtlX3dpcmVcPg==</entry>
         <entry encoding="base64">XDxjYWxsZWRfb25jZVw+</entry>
         <entry encoding="base64">XDxjYWxsZWRcPg==</entry>
         <entry>unwrap</entry>
@@ -585,6 +583,8 @@
         <entry>split_edge_mu</entry>
         <entry>core</entry>
         <entry>Plane</entry>
+        <entry>_loft</entry>
+        <entry>Loft</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
