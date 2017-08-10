@@ -42,6 +42,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502402069008">
+        <mark key="[" line="1078" column="0" />
+        <mark key="]" line="1078" column="13" />
+        <mark key="." line="1078" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
       </file>
@@ -214,14 +219,14 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502235316375">
-        <mark key="'" line="606" column="15" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502402191985">
+        <mark key="'" line="610" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502301693643">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502402325858">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="115" column="8" />
-        <mark key="]" line="116" column="8" />
-        <mark key="." line="116" column="8" />
+        <mark key="[" line="98" column="76" />
+        <mark key="]" line="98" column="76" />
+        <mark key="." line="98" column="76" />
         <mark key="^" line="116" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
@@ -373,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="819" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="820" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="823" column="67" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="827" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -473,58 +477,59 @@
       <jump line="25" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="79" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="86" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="610" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjbG9mdGVkX2JvZHkgPSBsb2Z0ZXIud2l0aF9zZWN0aW9ucyhmYWNlQS5zX2VudGl0eSwgZmFjZUIuc19lbnRpdHkpLmNyZWF0ZV9zb2xpZC53aXRoX3RhbmdlbnRfbWF0Y2hfYXQoJ2JvdGgnKS5ib2R5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Faces</text>
+        <text>TestLoft</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIyAgICBsb2Z0ZXIgPSBzYWdlLmNvcmUuTG9mdCgpCiAgICAjICAgIGxvZnRlZF9ib2R5ID0gbG9mdGVyLndpdGhfc2VjdGlvbnMoZWRnZUEuc19lbnRpdHksIGVkZ2VCLnNfZW50aXR5KS5jcmVhdGVfc29saWQuYm9keQogICAgIyAgICBhcGkuZXhwb3J0KGxvZnRlZF9ib2R5LCAnbG9mdGVkX3NwbGluZXMuc2F0JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjbG9mdGVkX2JvZHkgPSBsb2Z0ZXIud2l0aF9zZWN0aW9ucyhmYWNlQS5zX2VudGl0eSwgZmFjZUIuc19lbnRpdHkpLmNyZWF0ZV9zb2xpZC53aXRoX3RhbmdlbnRfbWF0Y2hfYXQoJ2JvdGgnKS5ib2R5Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2Z0ZWRfYm9keSA9IGxvZnRlci53aXRoX3NlY3Rpb25zKGZhY2VBLnNfZW50aXR5LCBmYWNlQi5zX2VudGl0eSkuY3JlYXRlX3NvbGlkLndpdGhfdGFuZ2VudF9tYXRjaF9hdCgnYm90aCcpLmJvZHkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjZmFjZUIgPSBzbWFydF9ib2R5QS5mYWNlcy5taW5feigpLmV4cGVjdF9zaW5nbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjbG9mdGVkX2JvZHkgPSBsb2Z0ZXIud2l0aF9zZWN0aW9ucyhmYWNlQS5zX2VudGl0eSwgZmFjZUIuc19lbnRpdHkpLmNyZWF0ZV9zb2xpZC53aXRoX3RhbmdlbnRfbWF0Y2hfYXQoJ2JvdGgnKS5ib2R5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlQSA9IHNtYXJ0X2JvZHlBLmZhY2VzLmNsb3Nlc3Qoc2FnZS5jb3JlLlBvaW50M0QoMCwgMCwgMykpLmV4cGVjdF9zaW5nbGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2Z0ZWRfYm9keSA9IGxvZnRlci53aXRoX3NlY3Rpb25zKGZhY2VBLnNfZW50aXR5LCBmYWNlQi5zX2VudGl0eSkuY3JlYXRlX3NvbGlkLndpdGhfdGFuZ2VudF9tYXRjaF9hdCgnYm90aCcpLmJvZHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjYXBpLmV4cG9ydChbbG9mdGVkX2JvZHlBLCBsb2Z0ZWRfYm9keUJdLCAnbG9mdGVkX3NwbGluZXMuc2F0JykK</text>
+        <text encoding="base64">ICAgICAgICAjZmFjZUIgPSBzbWFydF9ib2R5QS5mYWNlcy5taW5feigpLmV4cGVjdF9zaW5nbGUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlQSA9IHNtYXJ0X2JvZHlBLmZhY2VzLm1heF96KCkuZXhwZWN0X3NpbmdsZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmYWNlQSA9IHNtYXJ0X2JvZHlBLmZhY2VzLmNsb3Nlc3Qoc2FnZS5jb3JlLlBvaW50M0QoMCwgMCwgMykpLmV4cGVjdF9zaW5nbGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzbWFydF9ib2R5QSA9IHNhZ2UuYm9kaWVzLkJvZHkobG9mdGVkX2JvZHlBKQo=</text>
+        <text encoding="base64">ICAgICAgICAjYXBpLmV4cG9ydChbbG9mdGVkX2JvZHlBLCBsb2Z0ZWRfYm9keUJdLCAnbG9mdGVkX3NwbGluZXMuc2F0JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkuZXhwb3J0KGxvZnRlZF9ib2R5LCAnbG9mdGVkX3NwbGluZXMuc2F0JykK</text>
+        <text encoding="base64">ICAgICAgICBmYWNlQSA9IHNtYXJ0X2JvZHlBLmZhY2VzLm1heF96KCkuZXhwZWN0X3NpbmdsZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlZGdlMSA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDAsIDAsIDApLCAzLCBzYWdlLmNvcmUuVU5JVF9WRUNfWikK</text>
+        <text encoding="base64">ICAgICAgICBzbWFydF9ib2R5QSA9IHNhZ2UuYm9kaWVzLkJvZHkobG9mdGVkX2JvZHlBKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Faces</last-search>
+      <last-search>TestLoft</last-search>
       <last-offset />
-      <last-pattern>Faces</last-pattern>
+      <last-pattern>TestLoft</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>guides</entry>
         <entry>rotate</entry>
         <entry>_apply</entry>
         <entry>rotate(</entry>
@@ -552,6 +556,7 @@
         <entry>Face</entry>
         <entry>Faces(</entry>
         <entry>Faces</entry>
+        <entry>TestLoft</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
