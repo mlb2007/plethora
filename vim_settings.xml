@@ -165,10 +165,10 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1502487718086">
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="72" column="40" />
-        <mark key="." line="72" column="40" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1502729928721">
+        <mark key="[" line="66" column="21" />
+        <mark key="]" line="66" column="21" />
+        <mark key="." line="66" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1500919882199">
         <mark key="'" line="70" column="11" />
@@ -374,10 +374,10 @@
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>Edge</text>
