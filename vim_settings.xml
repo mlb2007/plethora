@@ -22,8 +22,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502838744623">
-        <mark key="'" line="1041" column="21" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502841302237">
+        <mark key="'" line="963" column="20" />
         <mark key="[" line="1013" column="0" />
         <mark key="]" line="1013" column="0" />
         <mark key="." line="1013" column="0" />
@@ -145,16 +145,16 @@
         <mark key="." line="517" column="0" />
         <mark key="^" line="516" column="11" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1502841071040">
-        <mark key="[" line="310" column="10" />
-        <mark key="]" line="307" column="19" />
-        <mark key="." line="307" column="19" />
-        <mark key="^" line="307" column="19" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1502841151541">
+        <mark key="[" line="311" column="24" />
+        <mark key="]" line="313" column="39" />
+        <mark key="." line="313" column="39" />
+        <mark key="^" line="313" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1502840351387">
+      <file name="/Python Console" timestamp="1502842838779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/log.py" timestamp="1496195233512">
@@ -249,12 +249,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1502840916488">
-        <mark key="'" line="99" column="6" />
-        <mark key="[" line="32" column="68" />
-        <mark key="]" line="32" column="71" />
-        <mark key="." line="32" column="71" />
-        <mark key="^" line="32" column="71" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1502842868371">
+        <mark key="'" line="186" column="62" />
+        <mark key="[" line="188" column="82" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -296,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1163" column="71" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1058" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="669" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1285" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="2657" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -396,58 +393,60 @@
       <jump line="1036" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1041" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1147" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="963" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="186" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdzEgPSBzYWdlLmNvcmUuV3JhcHBlZFNFbnRpdHkoYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hash on the wrapped sEntity rather than the wrapper&quot;&quot;&quot;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>Wrapped</text>
+        <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdEdyb3VwKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X2RpY3Qoc2VsZik6CiA=</text>
+        <text encoding="base64">ZGVmIF9faXRlcl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl90b3BfbGV2ZWxfcHlfZW50aXRpZXMuX19pdGVyX18oKQoKICAgIGRlZiBfX2xlbl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl90b3BfbGV2ZWxfcHlfZW50aXRpZXMuX19sZW5fXygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdzEgPSBzYWdlLmNvcmUuV3JhcHBlZFNFbnRpdHkoYSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJoYXNoIG9uIHRoZSB3cmFwcGVkIHNFbnRpdHkgcmF0aGVyIHRoYW4gdGhlIHdyYXBwZXIiIiIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAiIiJUYWdzIHRoaXMgZW50aXR5IHVzaW5nIHRoZSBnaXZlbiBuYW1lIGFuZCBhbiBhdHRhY2hlZCBpbnRlZ2VyIHZhbHVlLiIiIgo=</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJSZXR1cm5zIGEgKHBvc3NpYmx5IGRlZXApIGNvcHkgb2YgdGhpcyBncm91cCBvZiBlbnRpdGllcy4iIiIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19sb2Z0X2hlbHBlci5yZXR1cm5fdmFsdWUuc2V0dXBfbG9mdF9jcm9zc19zZWN0aW9ucy5jYWxsX2FyZ3NbMF0gPT0gKFtmYWNlMSwgZmFjZTJdLCAyLjAsIDEuNSkK</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZW50aXR5IGluIHNlbGYuX3RvcF9sZXZlbF9weV9lbnRpdGllczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19nZXRfZWRnZXMuY2FsbF9jb3VudCBpcyAwCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tYWtlX3dpcmUuY2FsbF9jb3VudCBpcyAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fdG9wX2xldmVsX3B5X2VudGl0aWVzID0gdW53cmFwX3ZhcmlhZGljKCp0b3BfbGV2ZWxfcHlfZW50aXRpZXMsIHdyYXBwZXI9Y29udGFpbmVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Wrapped</last-search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
       <last-offset />
-      <last-pattern>Wrapped</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +454,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Plane</entry>
         <entry>_loft</entry>
         <entry>Loft</entry>
         <entry>Face</entry>
@@ -475,6 +473,7 @@
         <entry>make_wire</entry>
         <entry encoding="base64">XDxfTG9mdEhlbHBlclw+</entry>
         <entry>Wrapped</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
