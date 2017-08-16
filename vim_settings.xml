@@ -145,10 +145,16 @@
         <mark key="." line="517" column="0" />
         <mark key="^" line="516" column="11" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1502841071040">
+        <mark key="[" line="310" column="10" />
+        <mark key="]" line="307" column="19" />
+        <mark key="." line="307" column="19" />
+        <mark key="^" line="307" column="19" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1502838754248">
+      <file name="/Python Console" timestamp="1502840351387">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/log.py" timestamp="1496195233512">
@@ -173,13 +179,13 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502839625986">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502840735129">
         <mark key="a" line="1678" column="45" />
         <mark key="'" line="1147" column="8" />
-        <mark key="[" line="1728" column="35" />
-        <mark key="]" line="1728" column="11" />
-        <mark key="." line="1728" column="11" />
-        <mark key="^" line="1728" column="11" />
+        <mark key="[" line="1506" column="0" />
+        <mark key="]" line="1506" column="0" />
+        <mark key="." line="1506" column="0" />
+        <mark key="^" line="1497" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502402975568">
         <mark key="'" line="0" column="0" />
@@ -243,12 +249,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="28" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1502823011236">
-        <mark key="'" line="91" column="6" />
-        <mark key="[" line="107" column="62" />
-        <mark key="]" line="108" column="98" />
-        <mark key="." line="108" column="98" />
-        <mark key="^" line="108" column="98" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1502840916488">
+        <mark key="'" line="99" column="6" />
+        <mark key="[" line="32" column="68" />
+        <mark key="]" line="32" column="71" />
+        <mark key="." line="32" column="71" />
+        <mark key="^" line="32" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -395,53 +401,53 @@
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuZ2V0X2VkZ2VzJykKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS50eXBlX29mJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuQ3Jvc3NTZWN0aW9uRGF0YScpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1ha2Vfd2lyZScpCiAgICBkZWYgdGVzdF9tYWtlX2xvZnRhYmxlX2ZhY2Vfbm9fdGFuZ2VudChzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfbWFrZV93aXJlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfcHlzYWdlX2xvZnRfc2VjdGlvbnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19lbnRfdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX2dldF9lZGdlcyk6CiAgICAgICAgIyB0aGlzIGlzIHRoZSBvbmUgdGhhdCBoaWphY2tzIHRoZSBlbnRpdHkgdHlwZSBkZXRlcm1pbmF0aW9uCiAgICAgICAgbW9ja19lbnRfdHlwZS5zaWRlX2VmZmVjdCA9IFRlc3RMb2Z0Lm1vY2tfZWRnZV90eXBlX3NpZGVfZWZmZWN0CiAgICAgICAgIyB0d28gZWRnZXMgYXMgY3Jvc3Mtc2VjdGlvbnMKICAgICAgICBmYWNlMSA9IFRlc3RMb2Z0Lm1ha2VfbW9ja19mYWNlKCkKCiAgICAgICAgIyBjaGVjayBvcHRpb25zCiAgICAgICAgbG9mdCA9IHNjLl9Mb2Z0SGVscGVyKCkKICAgICAgICBsb2Z0Lm1ha2VfbG9mdGFibGUoZmFjZTEsIDEsIE5vbmUpCiAgICAgICAgYXNzZXJ0IG1vY2tfZ2V0X2VkZ2VzLmNhbGxfY291bnQgaXMgMQogICAgICAgIGFzc2VydCBtb2NrX2dldF9lZGdlcy5jYWxsX2FyZ3NbMF0gPT0gKGZhY2UxLCkKICAgICAgICBhc3NlcnQgbW9ja19tYWtlX3dpcmUuY2FsbF9jb3VudCBpcyAxCiAgICAgICAgYXNzZXJ0IG1vY2tfbWFrZV93aXJlLmNhbGxfYXJnc1swXSA9PSAobW9ja19nZXRfZWRnZXMucmV0dXJuX3ZhbHVlLCkKICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5jYWxsX2NvdW50IGlzIDEKICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5yZXR1cm5fdmFsdWUuZ2V0UGFydG5lciBpcyBGYWxzZQogICAgICAgIGFzc2VydCBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLnJldHVybl92YWx1ZS5zRW50aXR5UHRyIGlzIG1vY2tfbWFrZV93aXJlLnJldHVybl92YWx1ZQogICAgICAgIGFzc2VydCBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLnJldHVybl92YWx1ZS50YW5nZW50VGFrZU9mZlNjYWxlID09IDEuMAo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdzEgPSBzYWdlLmNvcmUuV3JhcHBlZFNFbnRpdHkoYSkK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>hash on the wrapped sEntity rather than the wrapper&quot;&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfTG9mdEhlbHBlclw+</text>
+        <text>Wrapped</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuZ2V0X2VkZ2VzJykKICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS50eXBlX29mJykKICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuQ3Jvc3NTZWN0aW9uRGF0YScpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLm1ha2Vfd2lyZScpCiAgICBkZWYgdGVzdF9tYWtlX2xvZnRhYmxlX2ZhY2Vfbm9fdGFuZ2VudChzZWxmLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfbWFrZV93aXJlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2tfcHlzYWdlX2xvZnRfc2VjdGlvbnMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9ja19lbnRfdHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX2dldF9lZGdlcyk6CiAgICAgICAgIyB0aGlzIGlzIHRoZSBvbmUgdGhhdCBoaWphY2tzIHRoZSBlbnRpdHkgdHlwZSBkZXRlcm1pbmF0aW9uCiAgICAgICAgbW9ja19lbnRfdHlwZS5zaWRlX2VmZmVjdCA9IFRlc3RMb2Z0Lm1vY2tfZWRnZV90eXBlX3NpZGVfZWZmZWN0CiAgICAgICAgIyB0d28gZWRnZXMgYXMgY3Jvc3Mtc2VjdGlvbnMKICAgICAgICBmYWNlMSA9IFRlc3RMb2Z0Lm1ha2VfbW9ja19mYWNlKCkKCiAgICAgICAgIyBjaGVjayBvcHRpb25zCiAgICAgICAgbG9mdCA9IHNjLl9Mb2Z0SGVscGVyKCkKICAgICAgICBsb2Z0Lm1ha2VfbG9mdGFibGUoZmFjZTEsIDEsIE5vbmUpCiAgICAgICAgYXNzZXJ0IG1vY2tfZ2V0X2VkZ2VzLmNhbGxfY291bnQgaXMgMQogICAgICAgIGFzc2VydCBtb2NrX2dldF9lZGdlcy5jYWxsX2FyZ3NbMF0gPT0gKGZhY2UxLCkKICAgICAgICBhc3NlcnQgbW9ja19tYWtlX3dpcmUuY2FsbF9jb3VudCBpcyAxCiAgICAgICAgYXNzZXJ0IG1vY2tfbWFrZV93aXJlLmNhbGxfYXJnc1swXSA9PSAobW9ja19nZXRfZWRnZXMucmV0dXJuX3ZhbHVlLCkKICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5jYWxsX2NvdW50IGlzIDEKICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5yZXR1cm5fdmFsdWUuZ2V0UGFydG5lciBpcyBGYWxzZQogICAgICAgIGFzc2VydCBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLnJldHVybl92YWx1ZS5zRW50aXR5UHRyIGlzIG1vY2tfbWFrZV93aXJlLnJldHVybl92YWx1ZQogICAgICAgIGFzc2VydCBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLnJldHVybl92YWx1ZS50YW5nZW50VGFrZU9mZlNjYWxlID09IDEuMAo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdEdyb3VwKHVuaXR0ZXN0LlRlc3RDYXNlKToKICAgIGRlZiB0ZXN0X2RpY3Qoc2VsZik6CiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5zRW50aXR5UHRyIGlzIGZhY2UxCg==</text>
+        <text encoding="base64">ICAgICAgICBzdzEgPSBzYWdlLmNvcmUuV3JhcHBlZFNFbnRpdHkoYSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgCg==</text>
+        <text encoding="base64">ICAgICAgICAiIiJoYXNoIG9uIHRoZSB3cmFwcGVkIHNFbnRpdHkgcmF0aGVyIHRoYW4gdGhlIHdyYXBwZXIiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5nZXRQYXJ0bmVyIGlzIFRydWUK</text>
+        <text encoding="base64">ICAgICAgICAiIiJUYWdzIHRoaXMgZW50aXR5IHVzaW5nIHRoZSBnaXZlbiBuYW1lIGFuZCBhbiBhdHRhY2hlZCBpbnRlZ2VyIHZhbHVlLiIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5jYWxsX2NvdW50IGlzIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5jYWxsX2NvdW50IGlzIDEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlMiA9IFRlc3RMb2Z0Lm1ha2VfbW9ja19mYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19sb2Z0X2hlbHBlci5yZXR1cm5fdmFsdWUuc2V0dXBfbG9mdF9jcm9zc19zZWN0aW9ucy5jYWxsX2FyZ3NbMF0gPT0gKFtmYWNlMSwgZmFjZTJdLCAyLjAsIDEuNSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlMiA9IFRlc3RMb2Z0Lm1ha2VfbW9ja19mYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrX3B5c2FnZV9sb2Z0X3NlY3Rpb25zLAo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19nZXRfZWRnZXMuY2FsbF9jb3VudCBpcyAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IG1vY2tfbWFrZV9sb2Z0YWJsLmNhbGxfY291bnQgPT0gMgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19tYWtlX3dpcmUuY2FsbF9jb3VudCBpcyAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfTG9mdEhlbHBlclw+</last-search>
+      <last-search>Wrapped</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfTG9mdEhlbHBlclw+</last-pattern>
+      <last-pattern>Wrapped</last-pattern>
       <last-replace>output</last-replace>
       <last-substitute>writer</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>core</entry>
         <entry>Plane</entry>
         <entry>_loft</entry>
         <entry>Loft</entry>
@@ -469,6 +474,7 @@
         <entry>EntityGroup</entry>
         <entry>make_wire</entry>
         <entry encoding="base64">XDxfTG9mdEhlbHBlclw+</entry>
+        <entry>Wrapped</entry>
       </history-search>
       <history-cmd>
         <entry>1753</entry>
