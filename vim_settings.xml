@@ -54,12 +54,11 @@
         <mark key="." line="1506" column="0" />
         <mark key="^" line="1497" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502402975568">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502906075360">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="98" column="76" />
-        <mark key="." line="98" column="76" />
-        <mark key="^" line="116" column="8" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
@@ -313,7 +312,7 @@
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -325,31 +324,31 @@
         <text>mock.call(sec1, 'some_section01', mesh_options_mock)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbChndWlkZTEsICdzb21lX2d1aWRlMDEnLCBtZXNoX29wdGlvbnNfbW9jayksCg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2xvZnQoc2VsZik6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbChzZWMyLCAnc29tZV9zZWN0aW9uMDInLCBtZXNoX29wdGlvbnNfbW9jayksCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoX3NlY3Rpb25zKGZhY2VBLnNfZW50aXR5LCBmYWNlQi5zX2VudGl0eSkud2l0aF90YW5nZW50X21hdGNoX2F0KCdib3RoJykuYm9keQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBsb2Z0ZXIubWF0Y2hfc3RhcnRfdGFuZ2VudCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzID0gc2IuTG9mdChwcm9maWxlLCBwYXRoLCBib2R5LCBpc19zb2xpZCkK</text>
+        <text encoding="base64">ICAgICAgICB0aW9ucyhlZGdlMTEuc19lbnRpdHksIGVkZ2UyMi5zX2VudGl0eSkuYm9keQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2Z0ZXIuc2VjdGlvbnMgPSBbZWRnZTEsIGVkZ2UyXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc19zb2xpZCA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGVkZ2UxLnNfZW50aXR5LCBlZGdlMi5zX2VudGl0eSkuYm9keQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gbW9jay5Nb2NrKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1vY2suY2FsbChndWlkZTEsICdzb21lX2d1aWRlMDEnLCBtZXNoX29wdGlvbnNfbW9jayksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
