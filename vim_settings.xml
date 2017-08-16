@@ -67,12 +67,12 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502907268027">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502908648843">
         <mark key="'" line="862" column="63" />
-        <mark key="[" line="1022" column="23" />
-        <mark key="]" line="1013" column="0" />
-        <mark key="." line="1013" column="0" />
-        <mark key="^" line="914" column="25" />
+        <mark key="[" line="1027" column="8" />
+        <mark key="]" line="1027" column="8" />
+        <mark key="." line="1027" column="8" />
+        <mark key="^" line="1027" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
@@ -311,11 +311,11 @@
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>is_point</text>
