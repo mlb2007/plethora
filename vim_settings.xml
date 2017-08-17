@@ -45,9 +45,9 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502910009056">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502930060717">
         <mark key="a" line="1652" column="45" />
-        <mark key="'" line="1147" column="8" />
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="1631" column="0" />
         <mark key="]" line="1631" column="0" />
         <mark key="^" line="1497" column="68" />
@@ -67,12 +67,12 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502926651721">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1502984781365">
         <mark key="'" line="768" column="29" />
-        <mark key="[" line="971" column="27" />
-        <mark key="]" line="972" column="19" />
-        <mark key="." line="972" column="19" />
-        <mark key="^" line="972" column="19" />
+        <mark key="[" line="975" column="0" />
+        <mark key="]" line="975" column="22" />
+        <mark key="." line="975" column="0" />
+        <mark key="^" line="975" column="9" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
@@ -100,6 +100,12 @@
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/query.py" timestamp="1496790788685">
         <mark key="[" line="235" column="27" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1502984881050">
+        <mark key="[" line="77" column="25" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1501105326133">
         <mark key="'" line="5" column="0" />
@@ -215,8 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="976" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="973" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="10" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
       <jump line="13" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
       <jump line="7" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
@@ -315,66 +319,67 @@
       <jump line="38" column="66" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
       <jump line="112" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="64" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_examples_v2.py" />
+      <jump line="1181" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>pysage.Point3D</text>
+        <text encoding="base64">XDxMb2Z0U2V0dXA=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgVGVzdExvZnQodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfbG9mdF9jb25lKHNlbGYpOgogICAgICAgIGVkZ2UxID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMCksIDMsIHNhZ2UuY29yZS5VTklUX1ZFQ19aKQogICAgICAgIHAyID0gc2FnZS5jb3JlLlBvaW50M0QoMCwgMCwgNikKICAgICAgICBsb2Z0ZXIgPSBzYWdlLmJ1aWxkLkxvZnRCdWlsZGVyKCkKICAgICAgICBsb2Z0ZXIuc2VjdGlvbnMgPSBbZWRnZTEsIHAyXQogICAgICAgIGxvZnRlZCA9IGxvZnRlci5idWlsZCgpCiAgICAgICAgIyB0ZWMgd3JpdGUgLi4KICAgICAgICB3cml0ZXIgPSB0ZWMuVGVjcGxvdERhdGEoKQogICAgICAgIHdyaXRlci5hZGQobG9mdGVkLCAnbG9mdGVkJykKICAgICAgICB3cml0ZXIud3JpdGVfdG9fZmlsZSgnbG9mdGVkX3Rlc3QuZGF0JykK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IyMgb3V0ZXIgYXJncyBhcmUgY2FwdHVyZWQgaGVyZQojZGVmIHNlcmlhbGl6ZXIoc2VyaWFsaXplcl9jbGFzcyk6CiMgICAgIyBJbXBsaWNpdCBjbHMgb3Igc2VsZiBpcyBjYXB0dXJlZCBoZXJlCiMgICAgZGVmIGRlY29yYXRvcihjbHMpOgojICAgICAgICAjIFRoZSBjbHMsIHNlbGYgYXJndW1lbnRzIGFyZSBjYXB0dXJlZCBoZXJlCiMgICAgICAgIGRlZiBkZWNvcmF0ZWQoKmFyZ3MsICoqa3dhcmdzKToKIyAgICAgICAgICAgICMgYWRkIGFuIGF0dHJpYnV0ZQojICAgICAgICAgICAgI2Nscy5zZXJpYWxpemVyID0gc2VyaWFsaXplcl9jbGFzcwojICAgICAgICAgICAgc2V0YXR0cihjbHMsICdzZXJpYWxpemVyJywgc2VyaWFsaXplcl9jbGFzcykKIyAgICAgICAgICAgICMgcmV0dXJuIGNsYXNzIGluc3RhbmNlIHdpdGggYXJndW1lbnRzIHBhc3NlZAojICAgICAgICAgICAgcmV0dXJuIGNscygqYXJncywgKiprd2FyZ3MpCiMgICAgICAgIHJldHVybiBkZWNvcmF0ZWQKIyAgICByZXR1cm4gZGVjb3JhdG9yCiMKIwojY2xhc3MgU2VyaWFsaXplckNsYXNzKG9iamVjdCk6CiMgICAgQGNsYXNzbWV0aG9kCiMgICAgZGVmIHNlcmlhbGl6ZShjbHMsIGNsc19pbnN0YW5jZSk6CiMgICAgICAgIHJldHVybiAiVGhlIHNvbHV0aW9uIHRvIGV2ZXJ5dGhpbmcgaXM6IiwgY2xzX2luc3RhbmNlLmJhcigpLCBjbHNfaW5zdGFuY2UKIwojCiNAc2VyaWFsaXplcihTZXJpYWxpemVyQ2xhc3MpCiNjbGFzcyBGb28ob2JqZWN0KToKIyAgICBkZWYgX19pbml0X18oc2VsZik6CiMgICAgICAgIHBhc3MKIwojICAgIGRlZiBiYXIoc2VsZik6CiMgICAgICAgIHJldHVybiA0MgojCiMKI2RlZiB0ZXN0X3NlcmlhbGl6ZXIoKToKIyAgICBmID0gRm9vKCkKIyAgICBtc2cgPSBGb28oKS5zZXJpYWxpemVyLnNlcmlhbGl6ZShmKQojICAgIHByaW50CiMgICAgcHJpbnQgbXNnCgojICAgIGcgPSBGb28oKQojICAgIG1zZyA9IEZvbygpLnNlcmlhbGl6ZXIuc2VyaWFsaXplKGcpCiMgICAgcHJpbnQgImc6IiwgbXNnCgoKI2RlZiB0ZXN0X2NsYXNzX2FzX3Byb3BlcnR5KCk6CiMgICAgZ2cgPSBCYXooKQojICAgIHByaW50IGdnLmJhemJhcgoKCiMjIG91dGVyIGFyZ3MgYXJlIGNhcHR1cmVkIGhlcmUKI2RlZiBzZXJpYWxpemVyKHNlcmlhbGl6ZXJfbWV0aG9kKToKIyAgICAjIGRlY29yYXRlZCBmdW5jdGlvbiBpcyBjYXB0dXJlZCBoZXJlCiMgICAgZGVmIGRlY29yYXRvcihpbnN0YW5jZV9tZXRob2QpOgojICAgICAgICAjIEltcGxpY2l0IHNlbGYgaXMgY2FwdHVyZWQgaGVyZQojICAgICAgICBkZWYgd3JhcHBlcihzZWxmLCAqYXJncywgKiprd2FyZ3MpOgojICAgICAgICAgICAgcHJpbnQKIyAgICAgICAgICAgIHByaW50ICJIZXJlIiwgaW5zdGFuY2VfbWV0aG9kLCBzZWxmCiMgICAgICAgICAgICBzZWxmLnNlcmlhbGl6ZXIgPSB0eXBlcy5NZXRob2RUeXBlKHNlcmlhbGl6ZXJfbWV0aG9kLCBzZWxmKQojICAgICAgICAgICAgcmV0dXJuIGluc3RhbmNlX21ldGhvZChzZWxmLCAqYXJncywgKiprd2FyZ3MpCiMgICAgICAgIHJldHVybiB3cmFwcGVyCiMgICAgcmV0dXJuIGRlY29yYXRvcgojCiMKI2RlZiBzb21lKCoqa3dhcmdzKToKIyAgICBwcmludCAiYXJnczoiLCBrd2FyZ3MKIwojCiNkZWYgc2VyaWFsaXplX2RlZihzZWxmLCBvdGhlcl9hcmcsICoqa3dhcmdzKToKIyAgICBzb21lKCoqa3dhcmdzKQojICAgIHJldHVybiAiVGhlIHNvbHV0aW9uIHRvIGV2ZXJ5dGhpbmcgaXM6Iiwgc2VsZiwgb3RoZXJfYXJnLCBrd2FyZ3NbJ2ZmJ10KIwojCiNjbGFzcyBGb28ob2JqZWN0KToKIyAgICBAc2VyaWFsaXplcihzZXJpYWxpemVfZGVmKQojICAgIGRlZiBfX2luaXRfXyhzZWxmKToKIyAgICAgICAgcGFzcwoKCiNkZWYgdGVzdF9zZXJpYWxpemVyKCk6CiMgICAgZiA9IEZvbygpCiMgICAgcHJpbnQgIlNlbGYgaXM6IiwgZgojICAgIG1zZyA9IGYuc2VyaWFsaXplcihvdGhlcl9hcmc9NDIsIGZmPTM0KQojICAgIHByaW50CiMgICAgcHJpbnQgbXNnCgoKCgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDEuMAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiR2l2ZW4gbm9uLXBvc2l0aXZlIHRhbmdlbnQgdGFrZW9mZiBmYWN0b3IgZm9yIGxvZnQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIHRhbmdlbnRfdGFrZW9mZiBpcyBOb25lOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiB0YW5nZW50X3Rha2VvZmYgPD0gMDoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdhcF9ib2R5ID0gbG9mdGVkLmJvZHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICB3cml0ZXIud3JpdGVfdG9fZmlsZSgnc3NwbGluZV90ZXN0LmRhdCcpCg==</text>
+        <text encoding="base64">ICAgIGxvZnRlZCA9IGxvZnRlci5sb2Z0KCkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICB3cml0ZXIuYWRkKHNwLCAnc3BsaW5lX3pvbmUnKQo=</text>
+        <text encoding="base64">ICAgIGxvZnRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pysage.Point3D</last-search>
+      <last-search encoding="base64">XDxMb2Z0U2V0dXA=</last-search>
       <last-offset />
-      <last-pattern>pysage.Point3D</last-pattern>
-      <last-replace>output</last-replace>
-      <last-substitute>writer</last-substitute>
+      <last-pattern encoding="base64">XDxMb2Z0U2V0dXA=</last-pattern>
+      <last-replace>LoftBuilder</last-replace>
+      <last-substitute encoding="base64">XDxMb2Z0U2V0dXA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Edge</entry>
         <entry encoding="base64">XDxtYXRjaF90YW5nZW5jeVw+</entry>
         <entry encoding="base64">XDxzZXR1cF9sb2Z0X2Nyb3NzX3NlY3Rpb25zXD4=</entry>
         <entry encoding="base64">XDxsb2Z0X2NzXD4=</entry>
@@ -394,9 +399,9 @@
         <entry>_type_of</entry>
         <entry>type_of</entry>
         <entry>pysage.Point3D</entry>
+        <entry encoding="base64">XDxMb2Z0U2V0dXA=</entry>
       </history-search>
       <history-cmd>
-        <entry>1531</entry>
         <entry>%s/Point3D/Point3DEntity/gc</entry>
         <entry>%s/Point2D/Point2DEntity/gc</entry>
         <entry>%s/Box/BBox/gc</entry>
@@ -415,6 +420,7 @@
         <entry>e</entry>
         <entry>%s212,220/self._/assert\ builder\./gc</entry>
         <entry>995</entry>
+        <entry encoding="base64">JXMvXDxMb2Z0U2V0dXAvTG9mdEJ1aWxkZXIvZ2M=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
