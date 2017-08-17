@@ -21,7 +21,7 @@
       <file name="/fragment.py" timestamp="1502926295927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1500509163272">
+      <file name="/a.dummy" timestamp="1502929504241">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496351668418">
@@ -113,7 +113,16 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="147" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_examples_v2.py" timestamp="1502929902474">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+      </file>
       <file name="/Dummy.txt" timestamp="1502821950574">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1500933939129">
@@ -168,6 +177,9 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
+      <file name="/" timestamp="1502929474885">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
         <mark key="[" line="2794" column="4" />
@@ -188,7 +200,6 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1502227955181">
         <mark key="'" line="94" column="8" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/cinterface.py" timestamp="1502926383451" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499970679140">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="166" column="68" />
@@ -310,7 +321,7 @@
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyMgb3V0ZXIgYXJncyBhcmUgY2FwdHVyZWQgaGVyZQojZGVmIHNlcmlhbGl6ZXIoc2VyaWFsaXplcl9jbGFzcyk6CiMgICAgIyBJbXBsaWNpdCBjbHMgb3Igc2VsZiBpcyBjYXB0dXJlZCBoZXJlCiMgICAgZGVmIGRlY29yYXRvcihjbHMpOgojICAgICAgICAjIFRoZSBjbHMsIHNlbGYgYXJndW1lbnRzIGFyZSBjYXB0dXJlZCBoZXJlCiMgICAgICAgIGRlZiBkZWNvcmF0ZWQoKmFyZ3MsICoqa3dhcmdzKToKIyAgICAgICAgICAgICMgYWRkIGFuIGF0dHJpYnV0ZQojICAgICAgICAgICAgI2Nscy5zZXJpYWxpemVyID0gc2VyaWFsaXplcl9jbGFzcwojICAgICAgICAgICAgc2V0YXR0cihjbHMsICdzZXJpYWxpemVyJywgc2VyaWFsaXplcl9jbGFzcykKIyAgICAgICAgICAgICMgcmV0dXJuIGNsYXNzIGluc3RhbmNlIHdpdGggYXJndW1lbnRzIHBhc3NlZAojICAgICAgICAgICAgcmV0dXJuIGNscygqYXJncywgKiprd2FyZ3MpCiMgICAgICAgIHJldHVybiBkZWNvcmF0ZWQKIyAgICByZXR1cm4gZGVjb3JhdG9yCiMKIwojY2xhc3MgU2VyaWFsaXplckNsYXNzKG9iamVjdCk6CiMgICAgQGNsYXNzbWV0aG9kCiMgICAgZGVmIHNlcmlhbGl6ZShjbHMsIGNsc19pbnN0YW5jZSk6CiMgICAgICAgIHJldHVybiAiVGhlIHNvbHV0aW9uIHRvIGV2ZXJ5dGhpbmcgaXM6IiwgY2xzX2luc3RhbmNlLmJhcigpLCBjbHNfaW5zdGFuY2UKIwojCiNAc2VyaWFsaXplcihTZXJpYWxpemVyQ2xhc3MpCiNjbGFzcyBGb28ob2JqZWN0KToKIyAgICBkZWYgX19pbml0X18oc2VsZik6CiMgICAgICAgIHBhc3MKIwojICAgIGRlZiBiYXIoc2VsZik6CiMgICAgICAgIHJldHVybiA0MgojCiMKI2RlZiB0ZXN0X3NlcmlhbGl6ZXIoKToKIyAgICBmID0gRm9vKCkKIyAgICBtc2cgPSBGb28oKS5zZXJpYWxpemVyLnNlcmlhbGl6ZShmKQojICAgIHByaW50CiMgICAgcHJpbnQgbXNnCgojICAgIGcgPSBGb28oKQojICAgIG1zZyA9IEZvbygpLnNlcmlhbGl6ZXIuc2VyaWFsaXplKGcpCiMgICAgcHJpbnQgImc6IiwgbXNnCgoKI2RlZiB0ZXN0X2NsYXNzX2FzX3Byb3BlcnR5KCk6CiMgICAgZ2cgPSBCYXooKQojICAgIHByaW50IGdnLmJhemJhcgoKCiMjIG91dGVyIGFyZ3MgYXJlIGNhcHR1cmVkIGhlcmUKI2RlZiBzZXJpYWxpemVyKHNlcmlhbGl6ZXJfbWV0aG9kKToKIyAgICAjIGRlY29yYXRlZCBmdW5jdGlvbiBpcyBjYXB0dXJlZCBoZXJlCiMgICAgZGVmIGRlY29yYXRvcihpbnN0YW5jZV9tZXRob2QpOgojICAgICAgICAjIEltcGxpY2l0IHNlbGYgaXMgY2FwdHVyZWQgaGVyZQojICAgICAgICBkZWYgd3JhcHBlcihzZWxmLCAqYXJncywgKiprd2FyZ3MpOgojICAgICAgICAgICAgcHJpbnQKIyAgICAgICAgICAgIHByaW50ICJIZXJlIiwgaW5zdGFuY2VfbWV0aG9kLCBzZWxmCiMgICAgICAgICAgICBzZWxmLnNlcmlhbGl6ZXIgPSB0eXBlcy5NZXRob2RUeXBlKHNlcmlhbGl6ZXJfbWV0aG9kLCBzZWxmKQojICAgICAgICAgICAgcmV0dXJuIGluc3RhbmNlX21ldGhvZChzZWxmLCAqYXJncywgKiprd2FyZ3MpCiMgICAgICAgIHJldHVybiB3cmFwcGVyCiMgICAgcmV0dXJuIGRlY29yYXRvcgojCiMKI2RlZiBzb21lKCoqa3dhcmdzKToKIyAgICBwcmludCAiYXJnczoiLCBrd2FyZ3MKIwojCiNkZWYgc2VyaWFsaXplX2RlZihzZWxmLCBvdGhlcl9hcmcsICoqa3dhcmdzKToKIyAgICBzb21lKCoqa3dhcmdzKQojICAgIHJldHVybiAiVGhlIHNvbHV0aW9uIHRvIGV2ZXJ5dGhpbmcgaXM6Iiwgc2VsZiwgb3RoZXJfYXJnLCBrd2FyZ3NbJ2ZmJ10KIwojCiNjbGFzcyBGb28ob2JqZWN0KToKIyAgICBAc2VyaWFsaXplcihzZXJpYWxpemVfZGVmKQojICAgIGRlZiBfX2luaXRfXyhzZWxmKToKIyAgICAgICAgcGFzcwoKCiNkZWYgdGVzdF9zZXJpYWxpemVyKCk6CiMgICAgZiA9IEZvbygpCiMgICAgcHJpbnQgIlNlbGYgaXM6IiwgZgojICAgIG1zZyA9IGYuc2VyaWFsaXplcihvdGhlcl9hcmc9NDIsIGZmPTM0KQojICAgIHByaW50CiMgICAgcHJpbnQgbXNnCgoKCgo=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
