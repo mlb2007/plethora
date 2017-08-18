@@ -45,9 +45,9 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1502930060717">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503076750886">
         <mark key="a" line="1724" column="45" />
-        <mark key="'" line="0" column="0" />
+        <mark key="'" line="1575" column="17" />
         <mark key="[" line="1703" column="0" />
         <mark key="]" line="1703" column="0" />
         <mark key="." line="1703" column="0" />
@@ -218,10 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="226" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="229" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="244" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="71" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="904" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="902" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -318,6 +314,10 @@
       <jump line="340" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1671" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1694" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1543" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1560" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1575" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -330,7 +330,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>export(</text>
+        <text>setup_loft_cross_sections</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgVGVzdFdyYXBwZWRTRW50aXR5SGFzaCh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF93cmFwX2hhc2goc2VsZik6CiAgICAgICAgYSA9IHNhZ2UuY29yZS5Qb2ludDNEKDEsIDIsIDMpCiAgICAgICAgYiA9IHNhZ2UuY29yZS5Qb2ludDNEKDEsIDIsIDMpCiAgICAgICAgc3cxID0gc2FnZS5jb3JlLldyYXBwZWRTRW50aXR5KGEpCiAgICAgICAgc3cyID0gc2FnZS5jb3JlLldyYXBwZWRTRW50aXR5KGEpCiAgICAgICAgYXNzZXJ0IHN3MSA9PSBzdzIKICAgICAgICBhc3NlcnQgc3cxIGlzIG5vdCBzdzIKICAgICAgICBzdzMgPSBzYWdlLmNvcmUuV3JhcHBlZFNFbnRpdHkoYikKICAgICAgICBhc3NlcnQgbm90IHN3MyA9PSBzdzEgYW5kIHN3MyBpcyBub3Qgc3cxCg==</text>
@@ -367,9 +367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>export(</last-search>
+      <last-search>setup_loft_cross_sections</last-search>
       <last-offset />
-      <last-pattern>export(</last-pattern>
+      <last-pattern>setup_loft_cross_sections</last-pattern>
       <last-replace>LoftBuilder</last-replace>
       <last-substitute encoding="base64">XDxMb2Z0U2V0dXA=</last-substitute>
       <last-dir>1</last-dir>
@@ -377,7 +377,6 @@
     </search>
     <history>
       <history-search>
-        <entry>make_wire</entry>
         <entry encoding="base64">XDxfTG9mdEhlbHBlclw+</entry>
         <entry>Wrapped</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
@@ -397,6 +396,7 @@
         <entry encoding="base64">XDxfZ2V0X2ZpbGVfZXh0ZW5zaW9uXD4=</entry>
         <entry>color_ent</entry>
         <entry>export(</entry>
+        <entry>setup_loft_cross_sections</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Point3D/Point3DEntity/gc</entry>
