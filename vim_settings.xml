@@ -74,7 +74,7 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/loft_open_curves.py" timestamp="1503340607559">
+      <file name="$USER_HOME$/workspace/bugs/loft_open_curves.py" timestamp="1503343000681">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -146,11 +146,12 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1503340660421">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1503342581373">
         <mark key="'" line="112" column="23" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+        <mark key="[" line="52" column="25" />
+        <mark key="]" line="52" column="29" />
+        <mark key="." line="52" column="29" />
+        <mark key="^" line="52" column="29" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1502927236632">
         <mark key="'" line="71" column="11" />
@@ -327,10 +328,10 @@
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxzLnNlY3Rpb25zID0gW2wxLCBsMiwgbDMsIGw0XQo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>line.from_start_dir_length(sage.UNIT_VEC_Z, sage.UNIT_VEC_X, 3)</text>
       </register>
       <register name="/" type="4">
         <text>setup_loft_cross_sections</text>
@@ -339,31 +340,31 @@
         <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIHdpdGhfY2xvc2VkKHNlbGYpOgogICAgICAgIHNlbGYuX2Nsb3NlZCA9IFRydWUKICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxzLnNlY3Rpb25zID0gW2wxLCBsMiwgbDMsIGw0XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
+        <text encoding="base64">ICAgIGxzLnNlY3Rpb25zID0gW2wxLCBsMiwgbDMsIGw0LCBsMS5jb3B5KCldCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9wZXJpb2RpYyA9IFRydWUK</text>
+        <text encoding="base64">ICAgIGcgPSBzYWdlLmN1cnZlLmNpcmN1bGFyX2FyYy5mcm9tX2NlbnRlcl9zdGFydF9hbmdsZV9ub3JtYWwoc2FnZS5PUklHSU4sIGwxLnN0YXJ0LCAzNjAsIHNhZ2UuVU5JVF9WRUNfWCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB3aXRoX3BlcmlvZGljKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIGwxID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fc3RhcnRfZGlyX2xlbmd0aChzYWdlLlVOSVRfVkVDX1osIHNhZ2UuVU5JVF9WRUNfWCwgMykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wZXJpb2RpYyA9IFRydWUK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9jbG9zZWQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIGRlZiB3aXRoX3BlcmlvZGljKHNlbGYpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB3aXRoX2Nsb3NlZChzZWxmKToK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
