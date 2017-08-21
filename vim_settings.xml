@@ -74,11 +74,10 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/loft_open_curves.py" timestamp="1503338660045">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="9" />
-        <mark key="." line="16" column="9" />
-        <mark key="^" line="34" column="4" />
+      <file name="$USER_HOME$/workspace/bugs/loft_open_curves.py" timestamp="1503340607559">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1498754923445">
         <mark key="'" line="124" column="70" />
@@ -147,12 +146,11 @@
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1503338557618">
-        <mark key="'" line="122" column="23" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="86" column="21" />
-        <mark key="." line="86" column="21" />
-        <mark key="^" line="86" column="21" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1503340660421">
+        <mark key="'" line="112" column="23" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1502927236632">
         <mark key="'" line="71" column="11" />
@@ -328,11 +326,11 @@
       <register name="a" type="4">
         <text>assert mock_loft_opts_ret.makeSolid is lofter._create_solid</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>setup_loft_cross_sections</text>
@@ -341,31 +339,31 @@
         <text encoding="base64">IEBwcm9wZXJ0eQogICAgZGVmIHdpdGhfY2xvc2VkKHNlbGYpOgogICAgICAgIHNlbGYuX2Nsb3NlZCA9IFRydWUKICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxzID0gbHMud2l0aF9jbG9zZWQoKS53aXRoX3BlcmlvZGljKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhZ2Vfb2xkLmV4cG9ydChvdXQuc19lbnRpdHksICJsb2Z0MS5zYXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxzLnNlY3Rpb25zID0gW3cxLCB3MiwgdzMsIHc0LCB3MS5jb3B5KCldCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9wZXJpb2RpYyA9IFRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxzLnNlY3Rpb25zID0gW2wxLCBsMiwgbDMsIGw0LCBsMS5jb3B5KCldCg==</text>
+        <text encoding="base64">ICAgIGRlZiB3aXRoX3BlcmlvZGljKHNlbGYpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5yZXR1cm5fdmFsdWUudGFuZ2VudFRha2VPZmZTY2FsZSA9PSAyLjM0Cg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5yZXR1cm5fdmFsdWUuc0VudGl0eVB0ciBpcyBkZWRnZTEuY2xvbmUucmV0dXJuX3ZhbHVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5yZXR1cm5fdmFsdWUuZ2V0UGFydG5lciBpcyBGYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBhc3NlcnQgbW9ja19weXNhZ2VfbG9mdF9zZWN0aW9ucy5jYWxsX2NvdW50IGlzIDEK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9jbG9zZWQgPSBUcnVlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBhc3NlcnQgZGVkZ2UxLmNsb25lLmNhbGxfY291bnQgaXMgMQo=</text>
+        <text encoding="base64">ICAgIGRlZiB3aXRoX2Nsb3NlZChzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
