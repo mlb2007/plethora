@@ -44,11 +44,13 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503082956490">
-        <mark key="a" line="1694" column="45" />
-        <mark key="[" line="1673" column="0" />
-        <mark key="]" line="1673" column="0" />
-        <mark key="." line="1673" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503524102639">
+        <mark key="a" line="1705" column="45" />
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1677" column="39" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502929075654">
         <mark key="'" line="0" column="0" />
@@ -64,8 +66,8 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1503521586923">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1503524086176">
+        <mark key="'" line="1070" column="0" />
         <mark key="[" line="1070" column="0" />
         <mark key="]" line="1070" column="0" />
         <mark key="." line="1070" column="0" />
@@ -99,6 +101,9 @@
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
+        <mark key="'" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/query.py" timestamp="1496790788685">
         <mark key="[" line="235" column="27" />
@@ -227,13 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="838" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="840" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="958" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="990" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1024" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1027" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1033" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1041" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1147" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="963" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -292,7 +290,6 @@
       <jump line="112" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="64" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_examples_v2.py" />
       <jump line="1181" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1006" column="54" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1298" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="340" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -327,61 +324,66 @@
       <jump line="122" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="36" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="63" column="0" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" />
+      <jump line="1672" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1106" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1677" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1679" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="1070" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="8" column="27" filename="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>if not output.result_only:</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>add_entity</text>
+        <text>build_strake</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF9lZGdlc193aXRoX2d1aWRlKCk6CiAgICBlZGdlMSA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDAsIDAsIDApLCAzLCBzYWdlLmNvcmUuVU5JVF9WRUNfWikKICAgIGVkZ2UyID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMyksIDMsIHNhZ2UuY29yZS5VTklUX1ZFQ19aKQogICAgZ3VpZGUxID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cygoLTMsIDAsIDApLCAoLTMsIDAsIDMpKQogICAgbG9mdGVyID0gc2FnZS5idWlsZC5Mb2Z0U2V0dXAoKQogICAgbG9mdGVyLnNlY3Rpb25zID0gW2VkZ2UxLCBlZGdlMl0KICAgIGxvZnRlci5ndWlkZXMgPSBbZ3VpZGUxXQogICAgbG9mdGVkID0gbG9mdGVyLmxvZnQoKQogICAgI3dyaXRlciA9IHRlYy5UZWNwbG90RGF0YSgpCiAgICAjd3JpdGVyLmFkZChsb2Z0ZWQsICdsb2Z0ZWQnKQogICAgI3dyaXRlci53cml0ZV90b19maWxlKCdsb2Z0ZWRfd2l0aF9ndWlkZXMuZGF0JykKICAgIHdyaXRlciA9IGdpby5HZW9tZXRyeURhdGEoKQogICAgd3JpdGVyLmFkZChsb2Z0ZWQpCiAgICB3cml0ZXIud3JpdGVfdG9fZmlsZSgnbG9mdGVkX3dpdGhfZ3VpZGVzLnNhdCcpCg==</text>
+        <text encoding="base64">Y2xhc3MgVGVzdExvZnRIZWxwZXIodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3Rfd2lyZV9mcm9tX3BvaW50KHNlbGYpOgogICAgICAgIHcgPSBzYy5Mb2Z0SGVscGVyLndpcmVfZnJvbV9wb2ludChzYy5Qb2ludDNEKDMsIDQsIDEpLnNfZW50aXR5KQogICAgICAgIGFzc2VydCBpc2luc3RhbmNlKHcsIHB5c2FnZS5zRW50aXR5KQoKICAgIGRlZiB0ZXN0X2NoZWNrX3RhbmdlbnRfdGFrZW9mZihzZWxmKToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHNjLkxvZnRIZWxwZXIuY2hlY2tfdGFuZ2VudF90YWtlb2ZmKC0wLjEpCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBzYy5Mb2Z0SGVscGVyLmNoZWNrX3RhbmdlbnRfdGFrZW9mZigwKQogICAgICAgIGFzc2VydCBzYy5Mb2Z0SGVscGVyLmNoZWNrX3RhbmdlbnRfdGFrZW9mZihOb25lKSA9PSAxLjAKICAgICAgICBhc3NlcnQgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoNCkgPT0gNC4wCgogICAgZGVmIHRlc3Rfc3RhcnRfcG9pbnRfZmFpbHMoc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFJ1bnRpbWVFcnJvcik6CiAgICAgICAgICAgIHNjLkxvZnRIZWxwZXIuc2V0dXBfZmlyc3Qoc2MuUG9pbnQzRCgzLCA0LCA1KS5zX2VudGl0eSkKCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLkVudGl0eVR5cGUudHlwZV9vZicpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLkxvZnRIZWxwZXIucHJvY2Vzc190ZXJtaW5hbF9mYWNlJykKICAgIGRlZiB0ZXN0X3N0YXJ0X2ZhY2Uoc2VsZiwgcHJvY2Vzc19mYWNlX21vY2ssIGVudGl0eV90eXBlX21vY2spOgog</text>
       </register>
-      <register name="1" type="4">
-        <text>writer = tec.TecplotData()
-    writer.add(lofted, 'lofted')
-    writer.write_to_file('lofted_with_guides.dat')
-    w</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS50eXBlX29mJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdyaXRlci53cml0ZV90b19maWxlKCdsb2Z0ZWRfd2l0aF9ndWlkZXMuc2F0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdyaXRlci53cml0ZV90b19maWxlKCdsb2Z0ZWRfd2l0aF9ndWlkZXMuc2F0JykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuTG9mdEhlbHBlci5zZXR1cF9maXJzdChzYy5Qb2ludDNEKDMsIDQsIDUpLnNfZW50aXR5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdyaXRlci5hZGQobG9mdGVkKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoUnVudGltZUVycm9yKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdyaXRlciA9IGdpby5HZW9tZXRyeURhdGEoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N0YXJ0X3BvaW50X2ZhaWxzKHNlbGYpOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICN3cml0ZXIud3JpdGVfdG9fZmlsZSgnbG9mdGVkX3dpdGhfZ3VpZGVzLmRhdCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICN3cml0ZXIuYWRkKGxvZnRlZCwgJ2xvZnRlZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoNCkgPT0gNC4wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICN3cml0ZXIgPSB0ZWMuVGVjcGxvdERhdGEoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoTm9uZSkgPT0gMS4wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoMCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>add_entity</last-search>
+      <last-search>build_strake</last-search>
       <last-offset />
-      <last-pattern>add_entity</last-pattern>
+      <last-pattern>build_strake</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -389,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib2R5XD4=</entry>
         <entry>is_point</entry>
         <entry encoding="base64">XDxtb2NrX25hbWVkX2dyb3VwXD4=</entry>
         <entry encoding="base64">XDxfY2hlY2tfdHlwZVw+</entry>
@@ -409,6 +410,7 @@
         <entry>Enum</entry>
         <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
         <entry>add_entity</entry>
+        <entry>build_strake</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
