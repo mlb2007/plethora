@@ -72,8 +72,8 @@
         <mark key="." line="1068" column="112" />
         <mark key="^" line="1068" column="112" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1503526831079">
+        <mark key="'" line="266" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/loft_open_curves.py" timestamp="1503343000681">
         <mark key="[" line="16" column="0" />
@@ -114,8 +114,8 @@
         <mark key="." line="77" column="29" />
         <mark key="^" line="77" column="29" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1501105326133">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1503527051745">
+        <mark key="'" line="408" column="33" />
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -231,11 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1147" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="963" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="186" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="207" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="98" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
       <jump line="260" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
       <jump line="262" column="66" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
       <jump line="305" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
@@ -331,6 +326,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="8" column="27" filename="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" />
       <jump line="41" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="133" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="266" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="16" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
+      <jump line="408" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,7 +343,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>color_entity</text>
+        <text encoding="base64">XDxtYWtlRWRnZVw+</text>
       </register>
       <register name="0" type="4">
         <text>class TestColor(unittest.TestCase):
@@ -392,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search>color_entity</last-search>
+      <last-search encoding="base64">XDxtYWtlRWRnZVw+</last-search>
       <last-offset />
-      <last-pattern>color_entity</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlRWRnZVw+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -402,10 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_point</entry>
-        <entry encoding="base64">XDxtb2NrX25hbWVkX2dyb3VwXD4=</entry>
-        <entry encoding="base64">XDxfY2hlY2tfdHlwZVw+</entry>
-        <entry>get_s_entity</entry>
         <entry>_type_of</entry>
         <entry>type_of</entry>
         <entry>pysage.Point3D</entry>
@@ -422,6 +418,10 @@
         <entry>add_entity</entry>
         <entry>build_strake</entry>
         <entry>color_entity</entry>
+        <entry>from_edge</entry>
+        <entry encoding="base64">XDxmcm9tX2VkZ2VcPg==</entry>
+        <entry encoding="base64">XDxFZGl0b3JcPg==</entry>
+        <entry encoding="base64">XDxtYWtlRWRnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
