@@ -173,8 +173,8 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503440423610">
-        <mark key="'" line="273" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503529194568">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="341" column="4" />
         <mark key="]" line="342" column="20" />
         <mark key="." line="704" column="0" />
@@ -231,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="262" column="66" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="305" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="111" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="114" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="117" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
@@ -287,7 +284,6 @@
       <jump line="1298" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="340" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1671" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1694" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1543" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1560" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -331,6 +327,10 @@
       <jump line="266" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="16" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="408" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4675" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="129" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,7 +343,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlRWRnZVw+</text>
+        <text>recta</text>
       </register>
       <register name="0" type="4">
         <text>class TestColor(unittest.TestCase):
@@ -392,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlRWRnZVw+</last-search>
+      <last-search>recta</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlRWRnZVw+</last-pattern>
+      <last-pattern>recta</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -402,9 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>_type_of</entry>
-        <entry>type_of</entry>
-        <entry>pysage.Point3D</entry>
         <entry encoding="base64">XDxMb2Z0U2V0dXA=</entry>
         <entry>color_ent</entry>
         <entry>setup_loft_cross_sections</entry>
@@ -422,6 +419,9 @@
         <entry encoding="base64">XDxmcm9tX2VkZ2VcPg==</entry>
         <entry encoding="base64">XDxFZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxtYWtlRWRnZVw+</entry>
+        <entry>rect</entry>
+        <entry encoding="base64">XDxyZWNcPg==</entry>
+        <entry>recta</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
