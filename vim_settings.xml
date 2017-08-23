@@ -65,8 +65,8 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1503525761457">
-        <mark key="'" line="41" column="33" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1503531764369">
+        <mark key="'" line="1172" column="29" />
         <mark key="[" line="1066" column="8" />
         <mark key="]" line="1068" column="112" />
         <mark key="." line="1068" column="112" />
@@ -173,8 +173,8 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503530428146">
-        <mark key="'" line="3638" column="43" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503531775347">
+        <mark key="'" line="2904" column="4" />
         <mark key="[" line="341" column="4" />
         <mark key="]" line="342" column="20" />
         <mark key="." line="704" column="0" />
@@ -231,47 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="134" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="144" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="160" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="174" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="185" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="14" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="16" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="20" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="313" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="219" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" />
-      <jump line="224" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" />
-      <jump line="857" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="858" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="862" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="285" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="222" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" />
-      <jump line="289" column="67" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="110" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="195" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="232" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="237" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="1036" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="225" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="974" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1130" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1140" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="86" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="768" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="340" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="343" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="6" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="344" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="314" column="50" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="87" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
-      <jump line="38" column="66" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
       <jump line="112" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="64" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_examples_v2.py" />
       <jump line="1181" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -329,8 +288,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="785" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="817" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4233" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="3638" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4233" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4527" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1409" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1411" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1848" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1851" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1859" column="71" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1862" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1863" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1866" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1867" column="81" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1868" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1871" column="80" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1874" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1877" column="52" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1887" column="71" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1894" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1895" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1898" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1899" column="83" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1900" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1903" column="80" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2850" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="2851" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1068" column="112" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1187" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1188" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1135" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1155" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1156" column="65" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1164" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1167" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1168" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1169" column="74" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1170" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1171" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1174" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="901" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1159" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1160" column="67" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1172" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="2904" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,7 +343,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</text>
+        <text>make_face</text>
       </register>
       <register name="0" type="4">
         <text>class TestColor(unittest.TestCase):
@@ -392,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</last-search>
+      <last-search>make_face</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</last-pattern>
+      <last-pattern>make_face</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -402,11 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setup_loft_cross_sections</entry>
-        <entry>return</entry>
-        <entry encoding="base64">XDxfZ2V0X2ZpbGVfZXh0ZW5zaW9uXD4=</entry>
-        <entry encoding="base64">XDxnZXRfZWRnZXNcPg==</entry>
-        <entry>export(</entry>
         <entry>export</entry>
         <entry>Enum</entry>
         <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
@@ -422,6 +417,11 @@
         <entry>build</entry>
         <entry>recta</entry>
         <entry encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</entry>
+        <entry>intersect</entry>
+        <entry>slice</entry>
+        <entry>face</entry>
+        <entry>face_</entry>
+        <entry>make_face</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
