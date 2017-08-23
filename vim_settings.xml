@@ -44,13 +44,12 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503524102639">
-        <mark key="a" line="1705" column="45" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503526188466">
+        <mark key="a" line="1735" column="45" />
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="1677" column="39" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="[" line="1706" column="9" />
+        <mark key="]" line="1705" column="24" />
+        <mark key="." line="1705" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502929075654">
         <mark key="'" line="0" column="0" />
@@ -66,12 +65,12 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1503524086176">
-        <mark key="'" line="1070" column="0" />
-        <mark key="[" line="1070" column="0" />
-        <mark key="]" line="1070" column="0" />
-        <mark key="." line="1070" column="0" />
-        <mark key="^" line="1088" column="26" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1503525761457">
+        <mark key="'" line="41" column="33" />
+        <mark key="[" line="1066" column="8" />
+        <mark key="]" line="1068" column="112" />
+        <mark key="." line="1068" column="112" />
+        <mark key="^" line="1068" column="112" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1501105270911">
         <mark key="'" line="0" column="0" />
@@ -232,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1041" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1147" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="963" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="186" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
@@ -332,58 +330,71 @@
       <jump line="1070" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="8" column="27" filename="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" />
+      <jump line="41" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>if not output.result_only:</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlMSA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>build_strake</text>
+        <text>color_entity</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdExvZnRIZWxwZXIodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3Rfd2lyZV9mcm9tX3BvaW50KHNlbGYpOgogICAgICAgIHcgPSBzYy5Mb2Z0SGVscGVyLndpcmVfZnJvbV9wb2ludChzYy5Qb2ludDNEKDMsIDQsIDEpLnNfZW50aXR5KQogICAgICAgIGFzc2VydCBpc2luc3RhbmNlKHcsIHB5c2FnZS5zRW50aXR5KQoKICAgIGRlZiB0ZXN0X2NoZWNrX3RhbmdlbnRfdGFrZW9mZihzZWxmKToKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHNjLkxvZnRIZWxwZXIuY2hlY2tfdGFuZ2VudF90YWtlb2ZmKC0wLjEpCiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFZhbHVlRXJyb3IpOgogICAgICAgICAgICBzYy5Mb2Z0SGVscGVyLmNoZWNrX3RhbmdlbnRfdGFrZW9mZigwKQogICAgICAgIGFzc2VydCBzYy5Mb2Z0SGVscGVyLmNoZWNrX3RhbmdlbnRfdGFrZW9mZihOb25lKSA9PSAxLjAKICAgICAgICBhc3NlcnQgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoNCkgPT0gNC4wCgogICAgZGVmIHRlc3Rfc3RhcnRfcG9pbnRfZmFpbHMoc2VsZik6CiAgICAgICAgd2l0aCBweXRlc3QucmFpc2VzKFJ1bnRpbWVFcnJvcik6CiAgICAgICAgICAgIHNjLkxvZnRIZWxwZXIuc2V0dXBfZmlyc3Qoc2MuUG9pbnQzRCgzLCA0LCA1KS5zX2VudGl0eSkKCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLkVudGl0eVR5cGUudHlwZV9vZicpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLkxvZnRIZWxwZXIucHJvY2Vzc190ZXJtaW5hbF9mYWNlJykKICAgIGRlZiB0ZXN0X3N0YXJ0X2ZhY2Uoc2VsZiwgcHJvY2Vzc19mYWNlX21vY2ssIGVudGl0eV90eXBlX21vY2spOgog</text>
+        <text>class TestColor(unittest.TestCase):
+    @mock.patch('pysage.GeometryOperations.colorEntity')
+    def test_color(self, mock_coloring):
+        class Color(enum.Enum):
+            ref = 1, 2, 3
+        e = mock.Mock()
+        sc.color_entity(e, Color.ref)
+        assert mock_coloring.call_count == 1
+        assert mock_coloring.call_args_list == [mock.call(e, 1, 2, 3)]
+        with pytest.raises(ValueError):
+            sc.color_entity(e, [1, 2])
+        with pytest.raises(TypeError):
+            sc.color_entity(e, 'som')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNpbnRlcmZhY2UuRW50aXR5VHlwZS50eXBlX29mJykK</text>
+        <text encoding="base64">ICAgICAgICBlMSA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmID0gMSwgMiwgMwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuTG9mdEhlbHBlci5zZXR1cF9maXJzdChzYy5Qb2ludDNEKDMsIDQsIDUpLnNfZW50aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBDb2xvcihlbnVtLkVudW0pOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoUnVudGltZUVycm9yKToK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X3N0YXJ0X3BvaW50X2ZhaWxzKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuRXhwb3J0T3BlcmF0aW9ucy5FeHBvcnRJR0VTJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuRXhwb3J0T3BlcmF0aW9ucy5FeHBvcnRTQVQnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoNCkgPT0gNC4wCg==</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNvbG9yRW50aXR5JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoTm9uZSkgPT0gMS4wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuTG9mdEhlbHBlci5jaGVja190YW5nZW50X3Rha2VvZmYoMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsIFsxLCAyXSkKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build_strake</last-search>
+      <last-search>color_entity</last-search>
       <last-offset />
-      <last-pattern>build_strake</last-pattern>
+      <last-pattern>color_entity</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -399,7 +410,6 @@
         <entry>type_of</entry>
         <entry>pysage.Point3D</entry>
         <entry encoding="base64">XDxMb2Z0U2V0dXA=</entry>
-        <entry>color_entity</entry>
         <entry>color_ent</entry>
         <entry>setup_loft_cross_sections</entry>
         <entry>return</entry>
@@ -411,6 +421,7 @@
         <entry encoding="base64">XDxlbnRpdHlcPg==</entry>
         <entry>add_entity</entry>
         <entry>build_strake</entry>
+        <entry>color_entity</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
