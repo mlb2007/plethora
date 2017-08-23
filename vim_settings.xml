@@ -44,12 +44,12 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503526188466">
-        <mark key="a" line="1735" column="45" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503527220290">
+        <mark key="a" line="1729" column="45" />
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="1706" column="9" />
-        <mark key="]" line="1705" column="24" />
-        <mark key="." line="1705" column="0" />
+        <mark key="[" line="1706" column="23" />
+        <mark key="]" line="1708" column="0" />
+        <mark key="." line="1708" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502929075654">
         <mark key="'" line="0" column="0" />
@@ -337,7 +337,7 @@
         <text>if not output.result_only:</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlMSA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -361,31 +361,31 @@
             sc.color_entity(e, 'som')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlMSA9IG1vY2suTW9jaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmID0gMSwgMiwgMwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcyBDb2xvcihlbnVtLkVudW0pOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsIFsxLCAyXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuRXhwb3J0T3BlcmF0aW9ucy5FeHBvcnRJR0VTJykK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19jb2xvcmluZy5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKGUsIDEsIDIsIDMpXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuRXhwb3J0T3BlcmF0aW9ucy5FeHBvcnRTQVQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbW9ja19jb2xvcmluZy5jYWxsX2NvdW50ID09IDEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNvbG9yRW50aXR5JykK</text>
+        <text encoding="base64">ICAgICAgICBzYy5jb2xvcl9lbnRpdHkoZSwgQ29sb3IucmVmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlMSA9IG1vY2suTW9jaygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsIFsxLCAyXSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmID0gMSwgMiwgMwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
