@@ -173,8 +173,8 @@
         <mark key="." line="30" column="31" />
         <mark key="^" line="30" column="46" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503529194568">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503530428146">
+        <mark key="'" line="3638" column="43" />
         <mark key="[" line="341" column="4" />
         <mark key="]" line="342" column="20" />
         <mark key="." line="704" column="0" />
@@ -231,11 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="114" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="117" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="120" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="123" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="128" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="134" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="144" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
@@ -330,7 +325,12 @@
       <jump line="292" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4675" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="129" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4215" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="785" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="817" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="4233" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3638" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -343,7 +343,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>recta</text>
+        <text encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>class TestColor(unittest.TestCase):
@@ -392,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recta</last-search>
+      <last-search encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern>recta</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -402,8 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2Z0U2V0dXA=</entry>
-        <entry>color_ent</entry>
         <entry>setup_loft_cross_sections</entry>
         <entry>return</entry>
         <entry encoding="base64">XDxfZ2V0X2ZpbGVfZXh0ZW5zaW9uXD4=</entry>
@@ -421,7 +419,9 @@
         <entry encoding="base64">XDxtYWtlRWRnZVw+</entry>
         <entry>rect</entry>
         <entry encoding="base64">XDxyZWNcPg==</entry>
+        <entry>build</entry>
         <entry>recta</entry>
+        <entry encoding="base64">XDxnZXRHcmlkUG9pbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
