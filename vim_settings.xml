@@ -38,12 +38,12 @@
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503602875667">
-        <mark key="a" line="1771" column="45" />
-        <mark key="'" line="806" column="8" />
-        <mark key="[" line="1686" column="27" />
-        <mark key="]" line="1685" column="0" />
-        <mark key="." line="1685" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1503605145270">
+        <mark key="a" line="1770" column="45" />
+        <mark key="'" line="1687" column="68" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1502929075654">
         <mark key="'" line="0" column="0" />
@@ -229,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1074" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="71" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="81" column="16" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" />
       <jump line="3" column="24" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" />
@@ -329,58 +328,59 @@
       <jump line="123" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="17" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
       <jump line="35" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="1688" column="68" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eSB3cml0ZXIgaGFuZGxlcyB0aGlzIC4uLgogICAgICAgIHBhc3MKIA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVudW0K</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>enum</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIHdyaXRlciA9IGdpby5HZW9tZXRyeURhdGEoKQogICAgd3JpdGVyLmFkZChsb2Z0ZWQsIHNhZ2UuY29yZS5Db2xvci5tYWdlbnRhKQogICAgd3JpdGVyLndyaXRlX3RvX2ZpbGUoJ2xvZnRlZF93aXRoX2d1aWRlcy5zYXQnKQogICAgd3JpdGVyLndyaXRlX3RvX2ZpbGUoJ2xvZnRlZF93aXRoX2d1aWRlcy5pZ3MnKQog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGVudW0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ZGVmIHRlc3RfY3VydmVfZ2VvbV93cml0ZSgpOgogICAgZWRnZTEgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgc2FnZS5jb3JlLlVOSVRfVkVDX1opCiAgICBlZGdlMiA9IHNhZ2UuY3VydmUuYmV6aWVyLmZyb21fY29udHJvbF9wb2ludHMoKDAsIDAsIDApLCAoMSwgMSwgMSksICgyLCAwLjUsIDApLCAoMywgMCwgMCkpCiAgICB3cml0ZXIgPSBnaW8uR2VvbWV0cnlEYXRhKCkKICAgIHdyaXRlci5hZGQoZWRnZTEsIHNhZ2UuY29yZS5Db2xvci5tYWdlbnRhKQogICAgd3JpdGVyLmFkZChlZGdlMiwgc2FnZS5jb3JlLkNvbG9yLmxpbWUpCiAgICB3cml0ZXIud3JpdGVfdG9fZmlsZSgnY3VydmVzLnNhdCcpCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHdyaXRlci5hZGQoZWRnZTEsIHNhZ2UuY29yZS5Db2xvci5tYWdlbnRhKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHdyaXRlci53cml0ZV90b19maWxlKCdsb2Z0ZWRfd2l0aF9ndWlkZXMuaWdzJykK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgc2FnZS5jb3JlLlVOSVRfVkVDX1opCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVkZ2UxID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMCwgMCwgMCksIDMsIHNhZ2UuY29yZS5VTklUX1ZFQ19aKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZnRlZCA9IGxvZnRlci5sb2Z0KCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZnRlci5zZWN0aW9ucyA9IFtlZGdlMSwgcDJdCg==</text>
+        <text encoding="base64">ICAgIGxvZnRlZCA9IGxvZnRlci5sb2Z0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>color</last-search>
+      <last-search>enum</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
+      <last-pattern>enum</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -388,7 +388,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFZGl0b3JcPg==</entry>
         <entry encoding="base64">XDxtYWtlRWRnZVw+</entry>
         <entry>rect</entry>
         <entry encoding="base64">XDxyZWNcPg==</entry>
@@ -408,6 +407,7 @@
         <entry>Enum</entry>
         <entry>Color</entry>
         <entry>color</entry>
+        <entry>enum</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
