@@ -92,8 +92,12 @@
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" timestamp="1502929035264">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" timestamp="1503593560267">
         <mark key="'" line="38" column="66" />
+        <mark key="[" line="349" column="4" />
+        <mark key="]" line="354" column="1" />
+        <mark key="^" line="349" column="0" />
+        <mark key="." line="349" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1503522531076">
         <mark key="'" line="135" column="8" />
@@ -151,6 +155,9 @@
         <mark key="]" line="3720" column="29" />
         <mark key="." line="2160" column="44" />
         <mark key="^" line="2160" column="44" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" timestamp="1503593442281">
+        <mark key="[" line="78" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1503522978901">
         <mark key="'" line="36" column="8" />
@@ -336,8 +343,8 @@
       <register name="a" type="4">
         <text>if not output.result_only:</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNvcmUuRW50aXR5TGlzdCcpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLmxvZnQnKQogICAgQG1vY2sucGF0Y2goJ3NhZ2UuYm9kaWVzLkxvZnQnKQogICAgZGVmIHRlc3RfY3JlYXRlX25vX2d1aWRlcyhzZWxmLCBtb2NrX2xvZnRfcmVzdWx0LCBsb2Z0X21vY2ssIGVsaXN0X21vY2spOgog</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -346,19 +353,7 @@
         <text>make_face</text>
       </register>
       <register name="0" type="4">
-        <text>class TestColor(unittest.TestCase):
-    @mock.patch('pysage.GeometryOperations.colorEntity')
-    def test_color(self, mock_coloring):
-        class Color(enum.Enum):
-            ref = 1, 2, 3
-        e = mock.Mock()
-        sc.color_entity(e, Color.ref)
-        assert mock_coloring.call_count == 1
-        assert mock_coloring.call_args_list == [mock.call(e, 1, 2, 3)]
-        with pytest.raises(ValueError):
-            sc.color_entity(e, [1, 2])
-        with pytest.raises(TypeError):
-            sc.color_entity(e, 'som')</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdzYWdlLmNvcmUuRW50aXR5TGlzdCcpCiAgICBAbW9jay5wYXRjaCgnc2FnZS5jaW50ZXJmYWNlLmxvZnQnKQogICAgQG1vY2sucGF0Y2goJ3NhZ2UuYm9kaWVzLkxvZnQnKQogICAgZGVmIHRlc3RfY3JlYXRlX25vX2d1aWRlcyhzZWxmLCBtb2NrX2xvZnRfcmVzdWx0LCBsb2Z0X21vY2ssIGVsaXN0X21vY2spOgog</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
