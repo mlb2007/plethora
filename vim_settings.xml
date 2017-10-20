@@ -43,11 +43,12 @@
         <mark key="." line="1715" column="67" />
         <mark key="^" line="1715" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508450366622">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508522648946">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+        <mark key="^" line="138" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
@@ -56,11 +57,12 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1508521236809">
-        <mark key="'" line="1121" column="73" />
-        <mark key="[" line="127" column="19" />
-        <mark key="]" line="126" column="33" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1508522785061">
+        <mark key="'" line="186" column="12" />
+        <mark key="[" line="1140" column="4" />
+        <mark key="]" line="1137" column="31" />
+        <mark key="." line="1137" column="31" />
+        <mark key="^" line="1137" column="31" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
@@ -232,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4675" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="129" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4215" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -332,58 +333,59 @@
       <jump line="294" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="615" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="1110" column="73" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="186" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eSB3cml0ZXIgaGFuZGxlcyB0aGlzIC4uLgogICAgICAgIHBhc3MKIA==</text>
+        <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2cnOiAoMCwgMSwgMCksCg==</text>
+        <text encoding="base64">ICAgIHJnYiA9IHZhcmlhZGljLnVud3JhcF92YXJpYWRpYygqcmdicykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>evaluate</text>
+        <text>color_entity</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2NvbG9yX2p1c3RfbnVtcyhzZWxmLCBtb2NrX2NvbG9yaW5nKToKICAgICAgICBlID0gbW9jay5Nb2NrKCkKICAgICAgICBzYy5jb2xvcl9lbnRpdHkoZSwgMCwgMCwgMSkKICAgICAgICBhc3NlcnQgbW9ja19jb2xvcmluZy5jYWxsX2NvdW50ID09IDEKICAgICAgICBhc3NlcnQgbW9ja19jb2xvcmluZy5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKGUsIDAsIDAsIDEpXQo=</text>
+        <text>_Color.color_dict['black']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2cnOiAoMCwgMSwgMCksCg==</text>
+        <text encoding="base64">ICAgIHJnYiA9IHZhcmlhZGljLnVud3JhcF92YXJpYWRpYygqcmdicykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
+        <text encoding="base64">ICAgICNyZ2IgPSBbaXRlbSBmb3Igc3VibGlzdCBpbiByZ2JfbGlzdCBmb3IgaXRlbSBpbiBzdWJsaXN0XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToK</text>
+        <text encoding="base64">ICAgICMgZmxhdHRlbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsIFsxLCAyXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2cnOiAoMCwgMSwgMCksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNvbG9yRW50aXR5JykK</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVHlwZUVycm9yKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZ2JfbGlzdCA9IHJnYl9saXN0X29yX2xpc3Rfb2ZfbGlzdFswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsIFsxLCAyXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZ2JfbGlzdCA9IHJnYl9saXN0X29yX2xpc3Rfb2ZfbGlzdAo=</text>
+        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuR2VvbWV0cnlPcGVyYXRpb25zLmNvbG9yRW50aXR5JykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>evaluate</last-search>
+      <last-search>color_entity</last-search>
       <last-offset />
-      <last-pattern>evaluate</last-pattern>
+      <last-pattern>color_entity</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -407,10 +409,10 @@
         <entry>export</entry>
         <entry encoding="base64">XDxyZXN1bHRfb25seVw+</entry>
         <entry encoding="base64">XDxjb2xvcl9lbnRpdHlcPg==</entry>
-        <entry>color_entity</entry>
         <entry>color</entry>
         <entry>evaluate(</entry>
         <entry>evaluate</entry>
+        <entry>color_entity</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
