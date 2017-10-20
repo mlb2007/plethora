@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
       </file>
+      <file name="/Python Console" timestamp="1508536982301">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.py" timestamp="1503522790687">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,12 +46,12 @@
         <mark key="." line="1691" column="38" />
         <mark key="^" line="1691" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508524406215">
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508537340241">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="135" column="84" />
-        <mark key="." line="135" column="84" />
-        <mark key="^" line="135" column="84" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
         <mark key="'" line="0" column="0" />
@@ -152,12 +155,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1508450104995">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1508538338249">
         <mark key="'" line="8" column="28" />
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-        <mark key="^" line="42" column="27" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="56" column="28" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1503531775347">
         <mark key="'" line="2904" column="4" />
@@ -340,10 +343,10 @@
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">b2JUQ19ib2RpZXMgPSBzYWdlLmFwaS5yZWFkX2lnZXMoIi9Vc2Vycy9ibXVrdW5kL3dvcmtzcGFjZS90cmFuc2xhdGluZ19jb3dsL29iVEMuaWdlcyIpCg==</text>
+        <text encoding="base64">ICAgICNwcmludCAiSW5wdXQgZWxpc3QgKHdpdGhvdXQgZmlsZW5hbWUuLikiLCBlbGlzdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>color_entity</text>
@@ -352,31 +355,31 @@
         <text>_Color.color_dict['black']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b2JUQ19ib2RpZXMgPSBzYWdlLmFwaS5yZWFkX2lnZXMoIi9Vc2Vycy9ibXVrdW5kL3dvcmtzcGFjZS90cmFuc2xhdGluZ19jb3dsL29iVEMuaWdlcyIpCg==</text>
+        <text encoding="base64">ICAgICNwcmludCAiSW5wdXQgZWxpc3QgKHdpdGhvdXQgZmlsZW5hbWUuLikiLCBlbGlzdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJyZ2IgbXVzdCBiZSBjaGFuZ2VkOiIsIHJnYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAia2V5IGlub3B1dCBpczoiLCByZ2JbMF0K</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiQ3VycmVudCBlbnRpdHkgaXM6IiwgZW50aXR5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiaW5zaWRlIHJnYjoiLCByZ2IK</text>
+        <text encoding="base64">ICAgICAgICBnby5hZGQoZW50aXR5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJnYiA9IHZhcmlhZGljLnVud3JhcF92YXJpYWRpYygqcmdicykK</text>
+        <text encoding="base64">ICAgIGNvdW50ID0gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICNyZ2IgPSBbaXRlbSBmb3Igc3VibGlzdCBpbiByZ2JfbGlzdCBmb3IgaXRlbSBpbiBzdWJsaXN0XQo=</text>
+        <text encoding="base64">ICAgIHN6ID0gbGVuKGVsaXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZmxhdHRlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJ2cnOiAoMCwgMSwgMCksCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBjb3VudCA9PSBzejoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2MuY29sb3JfZW50aXR5KGUsICdzb20nKQo=</text>
+        <text encoding="base64">ICAgICNwcmludCAiZmlsZW5hbWUgaXM6IiwgZmlsZW5hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
