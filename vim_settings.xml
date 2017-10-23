@@ -70,6 +70,12 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1508790442864">
+        <mark key="[" line="123" column="5" />
+        <mark key="]" line="123" column="23" />
+        <mark key="^" line="123" column="23" />
+        <mark key="." line="123" column="23" />
+      </file>
       <file name="$USER_HOME$/pyML/ML/pyML/panda_try.py" timestamp="1498754923445">
         <mark key="'" line="124" column="70" />
         <mark key="[" line="10" column="45" />
@@ -142,6 +148,13 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
         <mark key="^" line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508790866747">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="313" column="95" />
+        <mark key="]" line="313" column="95" />
+        <mark key="^" line="313" column="95" />
+        <mark key="." line="313" column="95" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508520254223">
         <mark key="'" line="23" column="20" />
@@ -232,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4233" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="4527" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1409" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1411" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1848" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -332,22 +343,24 @@
       <jump line="2" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
       <jump line="1124" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1691" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="313" column="95" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR5cGUgb2YgZW50aXR5OiIsIHR5cGUoZW50aXR5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>No TRIX File</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>No TRIX File</text>
       </register>
       <register name="/" type="4">
         <text>color</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QG1vY2sucGF0Y2goJ3NhZ2UuZ2VvbWlvLkdlb21ldHJ5RGF0YScpCiAgICBkZWYgdGVzdF9leHBvcnRfZW50aXR5X2xpc3RfYW5kX2NvbW1hX3NlcChzZWxmLCB3cml0ZXJfbW9jayk6CiAgICAgICAgIyBzZXR1cAogICAgICAgIGVsaXN0ID0gW21vY2suTW9jaygpLCBtb2NrLk1vY2soKV0KICAgICAgICBlMSA9IG1vY2suTW9jaygpCiAgICAgICAgZTIgPSBtb2NrLk1vY2soKQogICAgICAgIGZuYW1lID0gInNvbWUuc2F0IgoKICAgICAgICAjIGNhbGwKICAgICAgICBzYWdlLmdlb21pby5leHBvcnQoZWxpc3QsIGUxLCBlMiwgZm5hbWUpCgogICAgICAgICMgYXNzZXJ0cwogICAgICAgIGFzc2VydCB3cml0ZXJfbW9jay5yZXR1cm5fdmFsdWUuYWRkLmNhbGxfY291bnQgPT0gNAogICAgICAgIGFzc2VydCB3cml0ZXJfbW9jay5yZXR1cm5fdmFsdWUuYWRkLmNhbGxfYXJnc19saXN0ID09IFttb2NrLmNhbGwoZWxpc3RbMF0pLCBtb2NrLmNhbGwoZWxpc3RbMV0pLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtb2NrLmNhbGwoZTEpLCBtb2NrLmNhbGwoZTIpXQogICAgICAgIGFzc2VydCB3cml0ZXJfbW9jay5yZXR1cm5fdmFsdWUud3JpdGVfdG9fZmlsZS5jYWxsX2NvdW50ID09IDEKICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2sucmV0dXJuX3ZhbHVlLndyaXRlX3RvX2ZpbGUuY2FsbF9hcmdzX2xpc3QgPT0gW21vY2suY2FsbChmbmFtZSldCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJObyBUUklYIEZpbGUiOiAiYXMyLnRyaSIsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR5cGUgb2YgZW50aXR5OiIsIHR5cGUoZW50aXR5KQo=</text>
