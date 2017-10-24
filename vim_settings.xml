@@ -204,12 +204,12 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508791784103">
-        <mark key="'" line="778" column="4" />
-        <mark key="[" line="797" column="39" />
-        <mark key="]" line="797" column="3" />
-        <mark key="^" line="797" column="3" />
-        <mark key="." line="797" column="3" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508865618049">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="3" />
+        <mark key="." line="148" column="3" />
+        <mark key="^" line="148" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -257,9 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1135" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1155" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1156" column="65" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1164" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1167" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1168" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -329,9 +326,6 @@
       <jump line="1691" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="313" column="95" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="798" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="778" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
       <jump line="90" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="93" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="131" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
@@ -357,58 +351,64 @@
       <jump line="1132" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1141" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="748" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
+      <jump line="798" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
+      <jump line="776" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
+      <jump line="21" column="6" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
+      <jump line="778" column="22" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjb2xvcjoiLCByZ2JbMF0sIHJnYlsxXSwgcmdiWzJdCg==</text>
+        <text encoding="base64">ICAgIHB0X2JleW9uZF9uYWMgPSBzd2luZ19hcm1fcGl2b3RfZW5kICsgbmFjX291dGVyX2RpYSArIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>color_entity</text>
+        <text>define_</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJObyBUUklYIEZpbGUiOiAiYXMyLnRyaSIsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cHggPSAxMDAKICAgIHB5ID0gMAogICAgcHogPSAwCiAgICBzd2luZ19hcm1fcGl2b3Rfc3QgPSBzYWdlLlBvaW50M0QocHgsIHB5LCBweikgCiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjb2xvcjoiLCByZ2JbMF0sIHJnYlsxXSwgcmdiWzJdCg==</text>
+        <text encoding="base64">ICAgIHB0X2JleW9uZF9uYWMgPSBzd2luZ19hcm1fcGl2b3RfZW5kICsgbmFjX291dGVyX2RpYSArIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvciA9IHZhcmlhZGljLnVud3JhcF92YXJpYWRpYygqY29sb3IpCg==</text>
+        <text encoding="base64">ICAgIG5hY19vdXRlcl9kaWEgPSAxMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsaXN0X2ZuYW1lID0gdmFyaWFkaWMudW53cmFwX3ZhcmlhZGljKCplbnRpdGllc19hbmRfZmlsZW5hbWUpCg==</text>
+        <text encoding="base64">ICAgIHN3aW5nX2FybV9waXZvdF9zdCA9IHNhZ2UuUG9pbnQzRChweCwgcHksIHB6KSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGNvbG9yLCAobGlzdCwgdHVwbGUpKSBhbmQgTm9uZSBpcyBub3QgY29sb3I6Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR5cGUgb2YgZW50aXR5OiIsIHR5cGUoZW50aXR5KQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICJjb2xvcjoiLCByZ2JbMF0sIHJnYlsxXSwgcmdiWzJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2sucmV0dXJuX3ZhbHVlLndyaXRlX3RvX2ZpbGUuY2FsbF9hcmdzX2xpc3QgPT0gW21vY2suY2FsbChmbmFtZSldCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvciA9IHZhcmlhZGljLnVud3JhcF92YXJpYWRpYygqY29sb3IpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2sucmV0dXJuX3ZhbHVlLndyaXRlX3RvX2ZpbGUuY2FsbF9jb3VudCA9PSAxCg==</text>
+        <text encoding="base64">ICAgIGVsaXN0X2ZuYW1lID0gdmFyaWFkaWMudW53cmFwX3ZhcmlhZGljKCplbnRpdGllc19hbmRfZmlsZW5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbW9jay5jYWxsKGUxKSwgbW9jay5jYWxsKGUyKV0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKGNvbG9yLCAobGlzdCwgdHVwbGUpKSBhbmQgTm9uZSBpcyBub3QgY29sb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd3JpdGVyX21vY2sucmV0dXJuX3ZhbHVlLmFkZC5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKGVsaXN0WzBdKSwgbW9jay5jYWxsKGVsaXN0WzFdKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInR5cGUgb2YgZW50aXR5OiIsIHR5cGUoZW50aXR5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>color_entity</last-search>
+      <last-search>define_</last-search>
       <last-offset />
-      <last-pattern>color_entity</last-pattern>
+      <last-pattern>define_</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -416,9 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>face</entry>
-        <entry>face_</entry>
-        <entry>make_face</entry>
         <entry encoding="base64">XDxzY1w+</entry>
         <entry>property</entry>
         <entry>color_ent</entry>
@@ -436,6 +433,9 @@
         <entry>color_</entry>
         <entry encoding="base64">XDxyZ2JzXD4=</entry>
         <entry>color_entity</entry>
+        <entry>build_from</entry>
+        <entry encoding="base64">XDxPdXRwdXRzXD4=</entry>
+        <entry>define_</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
