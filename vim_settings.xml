@@ -7,9 +7,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1508969290551">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1502929504241">
         <mark key="[" line="0" column="0" />
@@ -243,12 +243,12 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508972833094">
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508975093886">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="195" column="44" />
-        <mark key="]" line="188" column="34" />
-        <mark key="." line="188" column="34" />
-        <mark key="^" line="188" column="34" />
+        <mark key="[" line="189" column="32" />
+        <mark key="]" line="196" column="43" />
+        <mark key="." line="196" column="43" />
+        <mark key="^" line="196" column="43" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
@@ -382,8 +382,8 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, 'port': cutter_body_port.s_entity}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, 'port': cutter_body_port.s_entity}</text>
@@ -398,28 +398,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGN1dHRlcl9ib2R5X3BvcnQuY29sb3IoJ3QnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1dHRlcl9ib2R5X3BvcnQgPSBjdXR0ZXJfYm9keV9zdGFyYm9hcmQubWlycm9yKHNhZ2UuVU5JVF9WRUNfWSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICMgcG9ydCBzaWRlIGN1dHRlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGN1dHRlcl9ib2R5X3BvcnQuY29sb3IoJ3QnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGN1dHRlcl9ib2R5X3BvcnQgPSBjdXR0ZXJfYm9keV9zdGFyYm9hcmQubWlycm9yKHNhZ2UuVU5JVF9WRUNfWSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgcG9ydCBzaWRlIGN1dHRlcgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIHRyYW5zbGF0ZV9jZW5uYWNfY293bChib2R5LCBjdXR0ZXJfZGF0YSwgY29tcHMpOgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9ibmFjX2luZm8gPSBpbnB1dHNbJ3BsYW5mb3JtJ11bJ29ibmFjX2N1dHRlciddWydzdGFyYm9hcmQnXQo=</text>
+        <text encoding="base64">ZGVmIHRyYW5zbGF0ZV9jZW5uYWNfY293bChib2R5LCBjdXR0ZXJfZGF0YSwgY29tcHMpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImN1dF9kaXN0X3kiOjQwLCAyMDBdLAo=</text>
+        <text encoding="base64">ICAgIG9ibmFjX2luZm8gPSBpbnB1dHNbJ3BsYW5mb3JtJ11bJ29ibmFjX2N1dHRlciddWydzdGFyYm9hcmQnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
