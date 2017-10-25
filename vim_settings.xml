@@ -220,12 +220,12 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508967271319">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="51" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508967994113">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+        <mark key="^" line="50" column="15" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -244,9 +244,9 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508966681954">
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508967503335">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="178" column="0" />
+        <mark key="[" line="173" column="45" />
         <mark key="]" line="178" column="0" />
         <mark key="." line="178" column="0" />
       </file>
@@ -277,9 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="142" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="145" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="148" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="151" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="154" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -317,7 +314,6 @@
       <jump line="314" column="37" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="316" column="37" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="318" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="386" column="42" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="387" column="40" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="388" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="389" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -377,6 +373,10 @@
       <jump line="55" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="345" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="51" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="386" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="65" column="20" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="66" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="50" column="15" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,7 +389,7 @@
         <text>P</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfYmJveFw+</text>
+        <text encoding="base64">XDxjZW5uYWNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICMgUmV0dXJuIGEgZnVsbCBib2R5IChpZiBkZXNpcmVkKQogICAgaWYgImFyZ3MiIG5vdCBpbiBnbG9iYWxzKCkgb3IgYXJncy5mdWxsYm9keToKICAgICAgICAjIFJldHVybiBib2R5CiAgICAgICAgcmV0dXJuIGJvZHkKCiAgICAjIFJldHVybiBhIGhhbGYgYm9keQogICAgZWxzZToKICAgICAgICAjIENyZWF0ZSBib3VuZGluZyBib3gKICAgICAgICBbYmJveHB0MSwgYmJveHB0Ml0gPSBhcGkuZ2V0X2JvdW5kaW5nX2JveChib2R5KQogICAgICAgIGJib3ggPSBhcGkuYm94KFtiYm94cHQxWzBdIC0gMTAwLjAsIGJib3hwdDFbMV0gLSAxMDAuMCwgYmJveHB0MVsyXSAtIDEwMC4wXSwKICAgICAgICAgICAgICAgICAgICAgICBbYmJveHB0MlswXSArIDEwMC4wLCAwLjAsIGJib3hwdDJbMl0gKyAxMDAuMF0pCgogICAgICAgICMgU2V0IGJvdW5kaW5nIGJveCBHTVAKICAgICAgICBhcGkuc2V0X2dtcChiYm94LCA5OSkKCiAgICAgICAgIyBTdWJ0cmFjdCBib3VuZGluZyBib3gKICAgICAgICBib2R5ID0gYXBpLnN1YnRyYWN0KGJib3gsIGJvZHkpCgogICAgICAgICMgUmV0dXJuIGJvZHkKICAgICAgICByZXR1cm4gYm9keQo=</text>
@@ -398,37 +398,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgY293bCB0cmFuc2xhdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY293bCB0cmFuc2xhdGlvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYm9keQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJldHVybiBib2R5Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYm9keQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFJldHVybiBib2R5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gYXBpLnN1YnRyYWN0KGJib3gsIGJvZHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFN1YnRyYWN0IGJvdW5kaW5nIGJveAo=</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gYXBpLnN1YnRyYWN0KGJib3gsIGJvZHkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIFN1YnRyYWN0IGJvdW5kaW5nIGJveAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfYmJveFw+</last-search>
+      <last-search encoding="base64">XDxjZW5uYWNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfYmJveFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjZW5uYWNcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evaluate(</entry>
         <entry>evaluate</entry>
         <entry encoding="base64">XDxidWlsZF9mcm9tXD4=</entry>
         <entry encoding="base64">XDxkZWZpbmVfd2luZ19wbGFuZm9ybVw+</entry>
@@ -456,6 +455,7 @@
         <entry>build_from</entry>
         <entry encoding="base64">XDxtYWtlX2RpY3RfZm9yX3NhZ2VfcnVubmVyXD4=</entry>
         <entry encoding="base64">XDxnZXRfYmJveFw+</entry>
+        <entry encoding="base64">XDxjZW5uYWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
