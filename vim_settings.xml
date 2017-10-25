@@ -6,9 +6,11 @@
       <file name="/start_script.py" timestamp="1508784926254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1508882367016">
-        <mark key="[" line="251" column="7" />
-        <mark key="]" line="253" column="10" />
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1508956573134">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
       </file>
       <file name="/a.dummy" timestamp="1502929504241">
         <mark key="[" line="0" column="0" />
@@ -113,8 +115,8 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" timestamp="1508881664392">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" timestamp="1508957402173">
+        <mark key="'" line="792" column="11" />
         <mark key="[" line="460" column="0" />
         <mark key="]" line="462" column="57" />
       </file>
@@ -138,6 +140,9 @@
       </file>
       <file name="/fragment.py" timestamp="1503522790687">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
+        <mark key="'" line="481" column="14" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1508792271725">
         <mark key="'" line="131" column="0" />
@@ -171,11 +176,12 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1508790442864">
-        <mark key="[" line="123" column="5" />
-        <mark key="]" line="123" column="23" />
-        <mark key="^" line="123" column="23" />
-        <mark key="." line="123" column="23" />
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1508956468593">
+        <mark key="'" line="150" column="19" />
+        <mark key="[" line="148" column="3" />
+        <mark key="]" line="150" column="19" />
+        <mark key="^" line="150" column="19" />
+        <mark key="." line="150" column="19" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" timestamp="1503594680565">
         <mark key="'" line="0" column="0" />
@@ -214,14 +220,15 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508950607658">
-        <mark key="'" line="144" column="11" />
-        <mark key="[" line="334" column="31" />
-        <mark key="]" line="333" column="79" />
-        <mark key="." line="333" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508958753295">
+        <mark key="'" line="363" column="101" />
+        <mark key="[" line="63" column="4" />
+        <mark key="]" line="70" column="4" />
+        <mark key="." line="70" column="4" />
+        <mark key="^" line="70" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508792593723">
-        <mark key="'" line="26" column="12" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
+        <mark key="'" line="21" column="15" />
         <mark key="[" line="23" column="20" />
         <mark key="]" line="23" column="20" />
         <mark key="^" line="23" column="20" />
@@ -237,10 +244,11 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508886996755">
-        <mark key="[" line="52" column="27" />
-        <mark key="]" line="52" column="27" />
-        <mark key="." line="52" column="27" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508958821302">
+        <mark key="[" line="71" column="36" />
+        <mark key="]" line="74" column="18" />
+        <mark key="." line="74" column="18" />
+        <mark key="^" line="74" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
@@ -269,70 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1171" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1174" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="901" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1159" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1160" column="67" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1172" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="2904" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="352" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" />
-      <jump line="304" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" />
-      <jump line="5" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
-      <jump line="199" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
-      <jump line="1744" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="702" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
-      <jump line="703" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" />
-      <jump line="113" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="1600" column="59" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="806" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="358" column="72" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1076" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="123" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="1115" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="123" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="17" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="35" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="1688" column="68" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1123" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="14" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" />
-      <jump line="6" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" />
-      <jump line="8" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
-      <jump line="1106" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1109" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="46" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1116" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="23" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="266" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="97" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="125" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="131" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="138" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="141" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="145" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="177" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="178" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="179" column="87" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="294" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="615" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="1110" column="73" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="186" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1129" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="127" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
-      <jump line="220" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
-      <jump line="2" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
-      <jump line="1124" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1691" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="313" column="95" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="90" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="93" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="131" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
@@ -366,61 +310,125 @@
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
       <jump line="166" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
       <jump line="368" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
       <jump line="93" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="143" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="334" column="102" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="281" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="290" column="24" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="293" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="298" column="34" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="299" column="16" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="300" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="314" column="37" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="316" column="37" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="318" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="386" column="42" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="387" column="40" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="388" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="389" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="390" column="39" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="248" column="21" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="262" column="3" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="399" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="1638" column="33" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="8" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="16" column="8" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="21" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="231" column="8" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="246" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="260" column="26" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="423" column="26" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="426" column="31" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="430" column="31" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="434" column="31" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="438" column="31" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="474" column="14" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="477" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="481" column="14" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" />
+      <jump line="159" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="343" column="72" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="208" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="404" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="150" column="19" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
+      <jump line="375" column="7" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="423" column="42" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="424" column="40" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="425" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="426" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="312" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="321" column="24" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="324" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="329" column="34" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="330" column="16" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="331" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="345" column="37" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="347" column="37" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="349" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="460" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
+      <jump line="374" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="501" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
+      <jump line="792" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="366" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="427" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="363" column="101" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="21" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNhZ2VfcnVubmVyLnJlZ2lzdGVyKG5hbWU9ImNlbmRpdiIsIGJ1aWxkZXJfZnVuY3Rpb249ZGl2ZXJ0ZXIubWFrZWRpdmVydGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlbWJsZV9uYWNlbGxlc29saWRcPg==</text>
+        <text encoding="base64">XDxnZXRfYmJveFw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IDEwMzQuMDE2NzAwMTA0Mzg0MiwKICAgICAgICAwLjAsCiAgICAgICAgMTY3</text>
+        <text encoding="base64">ZGVmIGRlZmluZV9jdXR0ZXJzKGlucHV0KToKICAgICMgZGVzY3JpYmUgdGhlIHBsYW4gZm9ybSBvZiB0aGUgY3V0dGVyCgogICAgemxvdyA9IC0xNTAKCiAgICAjIHN4LCBzeSwgc3ogd2lsbCBiZSBkZXRlcm1pbmVkIGJ5IHRoZSBmb3J3YXJkIHJvbGxlciB0cmFjayBsb2NhdGlvbgogICAgc3ggPSAwCiAgICBzeSA9IC01NQogICAgc3ogPSB6bG93CiAgICByb2xsZXJfdHJhY2tfcG9zID0gc2FnZS5Qb2ludDNEKHN4LCBzeSwgc3opCgogICAgIyBzd2luZyBhcm0gcGl2b3QgbG9jYXRpb24sIHRoZSBwaXZvdCB0aGF0IGlzIGF0dGFjaGVkIHRvIGZ1c2VsYWdlCiAgICBweCA9IDEzMAogICAgcHkgPSAtNTUKICAgIHB6ID0gemxvdwogICAgc3dpbmdfYXJtX3Bpdm90X3N0ID0gc2FnZS5Qb2ludDNEKHB4LCBweSwgcHopCgogICAgIyBzd2luZyBhcm0gcGl2b3QgZW5kIGxvY2F0aW9uCiAgICBweCA9IDE1MAogICAgcHkgPSAtNzAKICAgIHB6ID0gemxvdwogICAgc3dpbmdfYXJtX3Bpdm90X2VuZCA9IHNhZ2UuUG9pbnQzRChweCwgcHksIHB6KQoKICAgICMgcG9pbnQgZXh0ZW5kaW5nIGJleW9uZCBuYWNlbGxlCiAgICBueCA9IDE1MAogICAgbnkgPSAtMjAwCiAgICBueiA9IHpsb3cKICAgIHB0X2F0X25hY19lbmQgPSBzYWdlLlBvaW50M0QobngsIG55LCBueikKCiAgICAjIGNsb3N1cmUgcHQKICAgIGN4ID0gc3gKICAgIGN5ID0gbnkKICAgIGN6ID0gemxvdwogICAgY2xvc3VyZV9wdCA9IHNhZ2UuUG9pbnQzRChjeCwgY3ksIGN6KQoKICAgIGN1dHRlcl9wb2ludHNfbGlzdCA9IFtyb2xsZXJfdHJhY2tfcG9zLCBzd2luZ19hcm1fcGl2b3Rfc3QsIHN3aW5nX2FybV9waXZvdF9lbmQsIHB0X2F0X25hY19lbmQsIGNsb3N1cmVfcHRdCgogICAgY3V0dGVyX3BsYW5fZm9ybV96X2xvdyA9IHNhZ2UuY3VydmUucG9seV9saW5lLmZyb21fcG9pbnRzKGN1dHRlcl9wb2ludHNfbGlzdCwgY2xvc2U9VHJ1ZSkKCiAgICBleHRydWRlX2Rpc3QgPSAxNTAKCiAgICBjdXR0ZXJfYm9keSA9IHNhZ2UuZXh0cnVkZShjdXR0ZXJfcGxhbl9mb3JtX3pfbG93LCBzYWdlLlVOSVRfVkVDX1osIGV4dHJ1ZGVfZGlzdCwgd2l0aG91dF9lbmRfY2Fwcz1UcnVlKQoKICAgICMgdHJhbnNmb3JtYXRpb24gPSBkYXRhWyd0cmFuc2Zvcm1hdGlvbnMnXQogICAgIyB0cmFucyA9ICgxMDM0LjAxNjcwMDEwNDM4NDIsIDAuMCwgMTY3KQoKICAgIHRyYW5zID0gKDgwMCwgMC4wLCAyMDApCiAgICBjdXR0ZXJfYm9keS50cmFuc2xhdGUodHJhbnMpCiAgICBjdXR0ZXJfYm9keS5jb2xvcigncicpCgogICAgY3V0dGVyX2JvZHlfbCA9IGN1dHRlcl9ib2R5Lm1pcnJvcihzYWdlLlVOSVRfVkVDX1kpCiAgICBjdXR0ZXJfYm9keV9sLmNvbG9yKCd0JykKCiAgICBvdXRwdXRzID0geyJvYm5hY19jdXR0ZXJfc3RhciI6IGN1dHRlcl9ib2R5LnNfZW50aXR5LCAib2JuYWNfY3V0dGVyX3BvcnQiOiBjdXR0ZXJfYm9keV9sLnNfZW50aXR5fQogICAgcmV0dXJuIG91dHB1dHMKCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNhZ2VfcnVubmVyLnJlZ2lzdGVyKG5hbWU9ImNlbmRpdiIsIGJ1aWxkZXJfZnVuY3Rpb249ZGl2ZXJ0ZXIubWFrZWRpdmVydGVyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW3N1YnRyYWN0ZWRfYm9keSwgdHJhbnNsYXRlZCwgdHJhbnNsYXRlZF9sXSwgInRyYW5zbGF0ZWRfY293bC5zYXQiKQo=</text>
+        <text encoding="base64">ICAgIG9ibmFjX2N1dHRlcnMgPSBkZWZpbmVfb2JuYWNfY3V0dGVycyhpbnB1dHMsIGJvZHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvZHkgPSBhcGkudW5pdGUodHJhbnNsYXRlZCwgc3VidHJhY3RlZF9ib2R5LCBkZXN0cnVjdGl2ZT1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIGNvd2xfdHJhbnNsYXRvci5kZWZpbmVfb2JuYWNfY3V0dGVyKGNvbXBzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYW5zbGF0ZWQgPSBhcGkudHJhbnNsYXRlKHRvX3RyYW5zbGF0ZSwgYXBpLlBvaW50M0QoLTUwLCAwLCAwKSkK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1YnRyYWN0ZWRfYm9keSA9IGFwaS5zdWJ0cmFjdCh0b190cmFuc2xhdGUsIGJvZHksIGRlc3RydWN0aXZlPUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRvX3RyYW5zbGF0ZSA9IGFwaS5pbnRlcnNlY3QoY293bF90cmFuc2xhdGlvbl9jdXR0ZXIsIGJvZHksIGRlc3RydWN0aXZlPUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNjdXR0ZXJfcG9pbnRzX2xpc3QgPSBbY2xvc3VyZV9wdCwgcHRfYXRfbmFjX2VuZCwgc3dpbmdfYXJtX3Bpdm90X2VuZCwgc3dpbmdfYXJtX3Bpdm90X3N0LCByb2xsZXJfdHJhY2tfcG9zXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgcmV2ZXJzZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNjdXR0ZXJfYm9keS5yb3RhdGUoc2FnZS5VTklUX1ZFQ19aLCAtOTApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlbWJsZV9uYWNlbGxlc29saWRcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfYmJveFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlbWJsZV9uYWNlbGxlc29saWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfYmJveFw+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -428,10 +436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Color</entry>
-        <entry>enum</entry>
-        <entry>export</entry>
-        <entry encoding="base64">XDxyZXN1bHRfb25seVw+</entry>
         <entry>evaluate(</entry>
         <entry>evaluate</entry>
         <entry encoding="base64">XDxidWlsZF9mcm9tXD4=</entry>
@@ -441,13 +445,17 @@
         <entry>color_</entry>
         <entry encoding="base64">XDxyZ2JzXD4=</entry>
         <entry>color_entity</entry>
-        <entry>build_from</entry>
         <entry encoding="base64">XDxPdXRwdXRzXD4=</entry>
         <entry>define_</entry>
         <entry encoding="base64">XDx5X2V4dGVudF9ncmVhdGVyX3RoYW5cPg==</entry>
         <entry>local_to</entry>
         <entry>fuse</entry>
         <entry encoding="base64">XDxhc3NlbWJsZV9uYWNlbGxlc29saWRcPg==</entry>
+        <entry>strake</entry>
+        <entry encoding="base64">XDxzYWdlZGF0YVw+</entry>
+        <entry>build_from</entry>
+        <entry encoding="base64">XDxtYWtlX2RpY3RfZm9yX3NhZ2VfcnVubmVyXD4=</entry>
+        <entry encoding="base64">XDxnZXRfYmJveFw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
