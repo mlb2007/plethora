@@ -268,37 +268,15 @@
         <mark key="." line="166" column="13" />
         <mark key="^" line="166" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508978781280">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
+        <mark key="'" line="47" column="68" />
+        <mark key="[" line="48" column="8" />
+        <mark key="]" line="47" column="68" />
+        <mark key="." line="47" column="68" />
+        <mark key="^" line="47" column="68" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="154" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="157" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="160" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="163" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="166" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="169" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="172" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="175" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="178" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="181" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="184" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="187" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1132" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1141" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="748" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="798" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="776" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="21" column="6" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="778" column="22" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="166" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
       <jump line="368" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="93" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="143" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -376,19 +354,42 @@
       <jump line="66" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="50" column="15" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="307" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="283" column="0" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="6" column="6" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="295" column="8" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="68" column="8" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="104" column="28" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="129" column="44" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="135" column="76" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="271" column="8" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="42" column="13" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="105" column="49" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="20" column="22" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="21" column="24" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="24" column="35" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="25" column="32" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="250" column="25" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="252" column="32" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="251" column="0" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="18" column="25" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="31" column="50" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="48" column="42" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
+      <jump line="47" column="68" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnZW9tZXRyeV9oZWFkZXIgPSAiIiI8c2NyaXB0IHNyYz0ianMvdGhyZWUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjZW5uYWNcPg==</text>
+        <text>js</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -400,40 +401,40 @@
     },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRyYW5zbGF0ZV9jb3dsCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW9tZXRyeV9oZWFkZXIgPSAiIiI8c2NyaXB0IHNyYz0ianMvdGhyZWUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICBnZW9tZXRyeV9oZWFkZXIgPSAiIiI8c2NyaXB0IHNyYz0iL1VzZXJzL2JtdWt1bmQvRG93bmxvYWRzL3RocmVlLmpzLmRpci9zcmMvVGhyZWUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBnZW9tZXRyeV9oZWFkZXIgPSAiIiI8c2NyaXB0IHNyYz0ianMvdGhyZWUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiLiNwcmVmaXgiOiAiY293bF90cmFuc2xhdG9yIgo=</text>
+        <text encoding="base64">ICAgICNlbnRpdHkgPSBzYWdlLmN1Ym9pZChbMCwgMCwgMF0sIFsxMCwgMTAsIDEwXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiLiNmaWxlIjogImNvd2xfdHJhbnNsYXRvci5qc29uIiwK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX2ZpbGVuYW1lID0gZmlsZW5hbWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIkNvbXBvbmVudCI6IHsK</text>
+        <text encoding="base64">ICAgICAgICAjIGYgPSBvcGVuKGZpbGVuYW1lLCAndycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIlR5cGUiOiAiUHl0aG9uIiwK</text>
+        <text encoding="base64">ICAgICAgICAjZmlsZW5hbWUgPSAiZmlsZTovLy8iICsgcGF0aCArICIvIiArIGZpbGVuYW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBmaWxlbmFtZSA9ICJmaWxlOi8vLyIgKyBwYXRoICsgIi8iICsgZmlsZW5hbWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmID0gb3BlbihmaWxlbmFtZSwgJ3cnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjZW5uYWNcPg==</last-search>
+      <last-search>js</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjZW5uYWNcPg==</last-pattern>
+      <last-pattern>js</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -441,11 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evaluate</entry>
-        <entry encoding="base64">XDxidWlsZF9mcm9tXD4=</entry>
-        <entry encoding="base64">XDxkZWZpbmVfd2luZ19wbGFuZm9ybVw+</entry>
-        <entry>color</entry>
-        <entry encoding="base64">XDxjb2xvcl9lbnRpdHlcPg==</entry>
         <entry>color_</entry>
         <entry encoding="base64">XDxyZ2JzXD4=</entry>
         <entry>color_entity</entry>
@@ -461,6 +457,11 @@
         <entry encoding="base64">XDxtYWtlX2RpY3RfZm9yX3NhZ2VfcnVubmVyXD4=</entry>
         <entry encoding="base64">XDxnZXRfYmJveFw+</entry>
         <entry encoding="base64">XDxjZW5uYWNcPg==</entry>
+        <entry encoding="base64">XDxndWlcPg==</entry>
+        <entry encoding="base64">XDxnZW9tZXRyeVw+</entry>
+        <entry encoding="base64">XDx3cml0ZV9odG1sXD4=</entry>
+        <entry>filename</entry>
+        <entry>js</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -475,13 +476,13 @@
         <entry>%s/modify_curvature/_modify_curvature/gc</entry>
         <entry>qw</entry>
         <entry>%s/writer/output/gc</entry>
-        <entry>e</entry>
         <entry>%s212,220/self._/assert\ builder\./gc</entry>
         <entry>995</entry>
         <entry encoding="base64">JXMvXDxMb2Z0U2V0dXAvTG9mdEJ1aWxkZXIvZ2M=</entry>
         <entry>10.24 s/return/==/gc</entry>
         <entry>10.24 s/return/=/gc</entry>
         <entry>10,24 s/return/=/gc</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
