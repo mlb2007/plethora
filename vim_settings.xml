@@ -268,11 +268,11 @@
         <mark key="." line="166" column="13" />
         <mark key="^" line="166" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508448284176">
+      <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508978781280">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="295" column="18" />
-        <mark key="]" line="295" column="18" />
-        <mark key="." line="295" column="18" />
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -381,11 +381,11 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRyYW5zbGF0ZV9jb3dsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZW5uYWNcPg==</text>
