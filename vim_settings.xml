@@ -176,11 +176,10 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1508966591670">
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1508977282119">
         <mark key="'" line="143" column="19" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="^" line="143" column="19" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" timestamp="1503594680565">
@@ -220,12 +219,11 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508967994113">
-        <mark key="'" line="50" column="15" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
-        <mark key="^" line="50" column="15" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1508977978370">
+        <mark key="'" line="307" column="57" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="270" column="0" />
+        <mark key="." line="270" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -244,11 +242,12 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508975900276">
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1508977224018">
         <mark key="'" line="47" column="0" />
-        <mark key="[" line="206" column="0" />
-        <mark key="]" line="206" column="0" />
-        <mark key="." line="206" column="0" />
+        <mark key="[" line="193" column="4" />
+        <mark key="]" line="204" column="31" />
+        <mark key="." line="204" column="31" />
+        <mark key="^" line="204" column="31" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
@@ -277,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="151" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="154" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="157" column="36" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -377,49 +375,56 @@
       <jump line="65" column="20" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="66" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="50" column="15" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="307" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgc2FnZS5hcGkuZXhwb3J0KHN1YnRyYWN0ZWRfYm9keSwgInN1YnRyYWN0ZWQuc2F0IikK</text>
+        <text encoding="base64">ICAgIHRyYW5zbGF0ZV9jb3dsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZW5uYWNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICMgZ2V0IHRoZSBwYXJ0IHRvIGJlIHRyYW5zbGF0ZWQKICAgIHRvX3RyYW5zbGF0ZV9zdGFyYm9hcmQgPSBzYWdlLmFwaS5pbnRlcnNlY3Qob2JuYWNfY3V0dGVyX3N0YXJib2FyZCwgYm9keSwgZGVzdHJ1Y3RpdmU9RmFsc2UpCiAgICB0b190cmFuc2xhdGVfcG9ydCA9IHNhZ2UuYXBpLmludGVyc2VjdChvYm5hY19jdXR0ZXJfcG9ydCwgYm9keSwgZGVzdHJ1Y3RpdmU9RmFsc2UpCiAgICAjIHNhZ2UuYXBpLmV4cG9ydChbdG9fdHJhbnNsYXRlX3N0YXJib2FyZCwgdG9fdHJhbnNsYXRlX3BvcnRdLCAidHJhbnNsYXRhYmxlLnNhdCIpCgogICAgIyByZW1vdmUgdGhlIHRyYW5zbGF0YWJsZSBjb21wb25lbnRzIGZyb20gdGhlIG9yaWdpbmFsIGJvZHkKICAgIHN1YnRyYWN0ZWRfYm9keV9zdGFyYm9hcmQgPSBzYWdlLmFwaS5zdWJ0cmFjdCh0b190cmFuc2xhdGVfc3RhcmJvYXJkLCBib2R5LCBkZXN0cnVjdGl2ZT1GYWxzZSkKICAgIHN1YnRyYWN0ZWRfYm9keSA9IHNhZ2UuYXBpLnN1YnRyYWN0KHRvX3RyYW5zbGF0ZV9wb3J0LCBzdWJ0cmFjdGVkX2JvZHlfc3RhcmJvYXJkLCBkZXN0cnVjdGl2ZT1GYWxzZSkKICAgICMgc2FnZS5hcGkuZXhwb3J0KHN1YnRyYWN0ZWRfYm9keSwgInN1YnRyYWN0ZWQuc2F0IikKCiAgICAjIHRyYW5zbGF0ZSB0aGUgb2JuYWMgY293bAogICAgcmVxZF90cmFuc2xhdGlvbiA9IGN1dHRlcl9kYXRhWydwbGFuZm9ybSddWydvYm5hY19jdXR0ZXInXVsndHJhbnNsYXRpb24nXQogICAgcmVxZF90cmFuc2xhdGlvbiA9IHNhZ2UuYXBpLlBvaW50M0QocmVxZF90cmFuc2xhdGlvbikKICAgIHRyYW5zbGF0ZWRfc3RhcmJvYXJkID0gc2FnZS5hcGkudHJhbnNsYXRlKHRvX3RyYW5zbGF0ZV9zdGFyYm9hcmQsIHJlcWRfdHJhbnNsYXRpb24pCiAgICB0cmFuc2xhdGVkX3BvcnQgPSBzYWdlLmFwaS50cmFuc2xhdGUodG9fdHJhbnNsYXRlX3BvcnQsIHJlcWRfdHJhbnNsYXRpb24pCiAgICAjIHNhZ2UuYXBpLmV4cG9ydChbc3VidHJhY3RlZF9ib2R5LCB0cmFuc2xhdGVkX3N0YXJib2FyZCwgdHJhbnNsYXRlZF9wb3J0XSwgInRyYW5zbGF0ZWRfY293bC5zYXQiKQoKICAgIGJvZHkgPSBzYWdlLmFwaS51bml0ZSh0cmFuc2xhdGVkX3N0YXJib2FyZCwgc3VidHJhY3RlZF9ib2R5LCBkZXN0cnVjdGl2ZT1GYWxzZSkKICAgIGJvZHkgPSBzYWdlLmFwaS51bml0ZSh0cmFuc2xhdGVkX3BvcnQsIGJvZHksIGRlc3RydWN0aXZlPUZhbHNlKQogICAgcmV0dXJuIGJvZHkK</text>
+        <text>{
+      &quot;Type&quot;: &quot;Python&quot;,
+      &quot;Component&quot;: {
+        &quot;.#file&quot;: &quot;obnac.json&quot;,
+        &quot;.#prefix&quot;: &quot;obnac&quot;
+      }
+    },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc2FnZS5hcGkuZXhwb3J0KHN1YnRyYWN0ZWRfYm9keSwgInN1YnRyYWN0ZWQuc2F0IikK</text>
+        <text encoding="base64">ICAgIHRyYW5zbGF0ZV9jb3dsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgc2FnZS5hcGkuZXhwb3J0KFtzdWJ0cmFjdGVkX2JvZHksIHRyYW5zbGF0ZWRfc3RhcmJvYXJkLCB0cmFuc2xhdGVkX3BvcnRdLCAidHJhbnNsYXRlZF9jb3dsLnNhdCIpCg==</text>
+        <text encoding="base64">ICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNzYWdlLmlvLmV4cG9ydChjdXR0ZXJfcmVjdCwgY2VubmFjLCAiY2VubmFjX2N1dHRlci5zYXQiKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjZW5kaXYgaGkiLCBjZW5kaXZfaGkK</text>
+        <text encoding="base64">ICAgICAgICAiLiNwcmVmaXgiOiAiY293bF90cmFuc2xhdG9yIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjZW5kaXYgbG93IiwgY2VuZGl2X2xvdwo=</text>
+        <text encoding="base64">ICAgICAgICAiLiNmaWxlIjogImNvd2xfdHJhbnNsYXRvci5qc29uIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjZW5uYWMgaGkiLCBjZW5uYWNfaGkK</text>
+        <text encoding="base64">ICAgICAgIkNvbXBvbmVudCI6IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjZW5uYWMgbG93IiwgY2VubmFjX2xvdwo=</text>
+        <text encoding="base64">ICAgICAgIlR5cGUiOiAiUHl0aG9uIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjZW5uYWMgaGkiLCBjZW5uYWNfaGkK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJjZW5uYWMgbG93IiwgY2VubmFjX2xvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
