@@ -6,11 +6,10 @@
       <file name="/start_script.py" timestamp="1508784926254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1508976071085">
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="20" />
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1509039358232">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1502929504241">
         <mark key="[" line="0" column="0" />
@@ -219,11 +218,12 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509038084949">
-        <mark key="'" line="270" column="0" />
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="270" column="0" />
-        <mark key="." line="270" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509040563408">
+        <mark key="'" line="60" column="51" />
+        <mark key="[" line="331" column="35" />
+        <mark key="]" line="331" column="73" />
+        <mark key="." line="331" column="73" />
+        <mark key="^" line="331" column="73" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -242,11 +242,11 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509038067284">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="47" />
-        <mark key="^" line="6" column="47" />
-        <mark key="." line="6" column="47" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509039555809">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="156" column="45" />
+        <mark key="." line="156" column="45" />
+        <mark key="^" line="156" column="45" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
@@ -276,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="143" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="334" column="102" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="281" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -376,16 +375,17 @@
       <jump line="48" column="42" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
       <jump line="47" column="68" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
       <jump line="270" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="60" column="51" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
@@ -400,31 +400,31 @@
     },</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcmV1bml0ZSB0cmFuc2xhdGVkIGNvd2xzIHdpdGggdGhlIG1haW4gYm9keQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IyAgICBweiA9IHpsb3cKIyAgICBzd2luZ19hcm1fcGl2b3Rfc3QgPSBzYWdlLlBvaW50M0QocHgsIHB5LCBweikKIwojICAgICMgc3dpbmcgYXJtIHBpdm90IGVuZCBsb2NhdGlvbgojICAgIHB4ID0gMTUwCiMgICAgcHkgPSAtNzAKIyAgICBweiA9IHpsb3cKIyAgICBzd2luZ19hcm1fcGl2b3RfZW5kID0gc2FnZS5Qb2ludDNEKHB4LCBweSwgcHopCiMKIyAgICAjIHBvaW50IGV4dGVuZGluZyBiZXlvbmQgbmFjZWxsZQojICAgIG54ID0gMTUwCiMgICAgbnkgPSAtMjAwCiMgICAgbnogPSB6bG93CiMgICAgcHRfYXRfbmFjX2VuZCA9IHNhZ2UuUG9pbnQzRChueCwgbnksIG56KQojCiMgICAgIyBjbG9zdXJlIHB0CiMgICAgY3ggPSBzeAojICAgIGN5ID0gbnkKIyAgICBjeiA9IHpsb3cKIyAgICBjbG9zdXJlX3B0ID0gc2FnZS5Qb2ludDNEKGN4LCBjeSwgY3opCiMKIyAgICBjdXR0ZXJfcG9pbnRzX2xpc3QgPSBbcm9sbGVyX3RyYWNrX3Bvcywgc3dpbmdfYXJtX3Bpdm90X3N0LCBzd2luZ19hcm1fcGl2b3RfZW5kLCBwdF9hdF9uYWNfZW5kLCBjbG9zdXJlX3B0XQojCiMgICAgY3V0dGVyX3BsYW5fZm9ybV96X2xvdyA9IHNhZ2UuY3VydmUucG9seV9saW5lLmZyb21fcG9pbnRzKGN1dHRlcl9wb2ludHNfbGlzdCwgY2xvc2U9VHJ1ZSkKIwojICAgIGV4dHJ1ZGVfZGlzdCA9IDE1MAojCiMgICAgY3V0dGVyX2JvZHkgPSBzYWdlLmV4dHJ1ZGUoY3V0dGVyX3BsYW5fZm9ybV96X2xvdywgc2FnZS5VTklUX1ZFQ19aLCBleHRydWRlX2Rpc3QsIHdpdGhvdXRfZW5kX2NhcHM9VHJ1ZSkKCiMgICAgIyB0cmFuc2Zvcm1hdGlvbiA9IGRhdGFbJ3RyYW5zZm9ybWF0aW9ucyddCiMgICAgIyB0cmFucyA9ICgxMDM0LjAxNjcwMDEwNDM4NDIsIDAuMCwgMTY3KQoKIyAgICB0cmFucyA9ICg4MDAsIDAuMCwgMjAwKQojICAgIGN1dHRlcl9ib2R5LnRyYW5zbGF0ZSh0cmFucykKIyAgICBjdXR0ZXJfYm9keS5jb2xvcigncicpCgojICAgIGN1dHRlcl9ib2R5X2wgPSBjdXR0ZXJfYm9keS5taXJyb3Ioc2FnZS5VTklUX1ZFQ19ZKQojICAgIGN1dHRlcl9ib2R5X2wuY29sb3IoJ3QnKQoKIyAgICBvdXRwdXRzID0geyJvYm5hY19jdXR0ZXJfc3RhciI6IGN1dHRlcl9ib2R5LnNfZW50aXR5LCAib2JuYWNfY3V0dGVyX3BvcnQiOiBjdXR0ZXJfYm9keV9sLnNfZW50aXR5fQojICAgIHJldHVybiBvdXRwdXRzCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gdGhlIHBvc2l0aW9ucyBhcmUgaW4gZ2xvYmFsIGNvb3JkaW5hdGUgc3lzdGVtCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBweSA9IC01NQo=</text>
+        <text encoding="base64">ICAgICMgZGVmaW5lX2N1dHRlcnMoZGF0YSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAjIHN3aW5nIGFybSBwaXZvdCBsb2NhdGlvbiwgdGhlIHBpdm90IHRoYXQgaXMgYXR0YWNoZWQgdG8gZnVzZWxhZ2UKIyAgICBweCA9IDEzMAo=</text>
+        <text encoding="base64">ICAgICMgZGF0YSA9IHNhZ2Uuc2FnZV9ydW5uZXIubG9hZF9qc29uKCJjb3dsX3RyYW5zbGF0b3IuanNvbiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICMgc2FnZS5sb2cuc2hvd19pbmZvKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICByb2xsZXJfdHJhY2tfcG9zID0gc2FnZS5Qb2ludDNEKHN4LCBzeSwgc3opCg==</text>
+        <text encoding="base64">IyBUaGUgcG9zaXRpb25zIGFyZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICBzeiA9IHpsb3cK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyAgICBzeSA9IC01NQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IyAgICBweiA9IHpsb3cKIyAgICBzd2luZ19hcm1fcGl2b3Rfc3QgPSBzYWdlLlBvaW50M0QocHgsIHB5LCBweikKIwojICAgICMgc3dpbmcgYXJtIHBpdm90IGVuZCBsb2NhdGlvbgojICAgIHB4ID0gMTUwCiMgICAgcHkgPSAtNzAKIyAgICBweiA9IHpsb3cKIyAgICBzd2luZ19hcm1fcGl2b3RfZW5kID0gc2FnZS5Qb2ludDNEKHB4LCBweSwgcHopCiMKIyAgICAjIHBvaW50IGV4dGVuZGluZyBiZXlvbmQgbmFjZWxsZQojICAgIG54ID0gMTUwCiMgICAgbnkgPSAtMjAwCiMgICAgbnogPSB6bG93CiMgICAgcHRfYXRfbmFjX2VuZCA9IHNhZ2UuUG9pbnQzRChueCwgbnksIG56KQojCiMgICAgIyBjbG9zdXJlIHB0CiMgICAgY3ggPSBzeAojICAgIGN5ID0gbnkKIyAgICBjeiA9IHpsb3cKIyAgICBjbG9zdXJlX3B0ID0gc2FnZS5Qb2ludDNEKGN4LCBjeSwgY3opCiMKIyAgICBjdXR0ZXJfcG9pbnRzX2xpc3QgPSBbcm9sbGVyX3RyYWNrX3Bvcywgc3dpbmdfYXJtX3Bpdm90X3N0LCBzd2luZ19hcm1fcGl2b3RfZW5kLCBwdF9hdF9uYWNfZW5kLCBjbG9zdXJlX3B0XQojCiMgICAgY3V0dGVyX3BsYW5fZm9ybV96X2xvdyA9IHNhZ2UuY3VydmUucG9seV9saW5lLmZyb21fcG9pbnRzKGN1dHRlcl9wb2ludHNfbGlzdCwgY2xvc2U9VHJ1ZSkKIwojICAgIGV4dHJ1ZGVfZGlzdCA9IDE1MAojCiMgICAgY3V0dGVyX2JvZHkgPSBzYWdlLmV4dHJ1ZGUoY3V0dGVyX3BsYW5fZm9ybV96X2xvdywgc2FnZS5VTklUX1ZFQ19aLCBleHRydWRlX2Rpc3QsIHdpdGhvdXRfZW5kX2NhcHM9VHJ1ZSkKCiMgICAgIyB0cmFuc2Zvcm1hdGlvbiA9IGRhdGFbJ3RyYW5zZm9ybWF0aW9ucyddCiMgICAgIyB0cmFucyA9ICgxMDM0LjAxNjcwMDEwNDM4NDIsIDAuMCwgMTY3KQoKIyAgICB0cmFucyA9ICg4MDAsIDAuMCwgMjAwKQojICAgIGN1dHRlcl9ib2R5LnRyYW5zbGF0ZSh0cmFucykKIyAgICBjdXR0ZXJfYm9keS5jb2xvcigncicpCgojICAgIGN1dHRlcl9ib2R5X2wgPSBjdXR0ZXJfYm9keS5taXJyb3Ioc2FnZS5VTklUX1ZFQ19ZKQojICAgIGN1dHRlcl9ib2R5X2wuY29sb3IoJ3QnKQoKIyAgICBvdXRwdXRzID0geyJvYm5hY19jdXR0ZXJfc3RhciI6IGN1dHRlcl9ib2R5LnNfZW50aXR5LCAib2JuYWNfY3V0dGVyX3BvcnQiOiBjdXR0ZXJfYm9keV9sLnNfZW50aXR5fQojICAgIHJldHVybiBvdXRwdXRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBzeCA9IDAK</text>
+        <text encoding="base64">IyAgICBweSA9IC01NQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
