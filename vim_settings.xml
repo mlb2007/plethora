@@ -175,11 +175,12 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1508977282119">
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509042348328">
         <mark key="'" line="143" column="19" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="127" column="5" />
+        <mark key="]" line="126" column="6" />
+        <mark key="." line="126" column="6" />
+        <mark key="^" line="126" column="6" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_build.py" timestamp="1503594680565">
         <mark key="'" line="0" column="0" />
@@ -382,10 +383,10 @@
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>js</text>
