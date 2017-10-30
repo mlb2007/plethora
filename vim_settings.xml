@@ -181,8 +181,8 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509401559935">
-        <mark key="'" line="144" column="19" />
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509401690333">
+        <mark key="'" line="35" column="19" />
         <mark key="[" line="123" column="4" />
         <mark key="]" line="123" column="7" />
         <mark key="." line="123" column="7" />
@@ -255,8 +255,8 @@
         <mark key="." line="156" column="45" />
         <mark key="^" line="156" column="45" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509401259095">
-        <mark key="'" line="4577" column="41" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509401623045">
+        <mark key="'" line="3189" column="54" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
@@ -286,13 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="501" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
-      <jump line="792" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" />
-      <jump line="43" column="28" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="366" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="427" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="363" column="101" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="21" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="400" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="45" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -386,6 +379,13 @@
       <jump line="414" column="7" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
       <jump line="418" column="35" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
       <jump line="262" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
+      <jump line="3189" column="54" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="123" column="7" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
+      <jump line="36" column="21" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
+      <jump line="56" column="15" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
+      <jump line="58" column="21" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
+      <jump line="35" column="19" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -398,7 +398,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>translating_</text>
+        <text>cennac</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IG9ibmFjX3RjX3JlYXIgPSBjb21wc1sib2JuYWMiXVsidHJhbnNsYXRpbmdfY293bF9yZWFyIl0KICAgIG9ibmFjX3RjX2Zyb250ID0gY29tcHNbIm9ibmFjIl1bInRyYW5zbGF0aW5nX2Nvd2xfZnJvbnQiXQo=</text>
@@ -435,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>translating_</last-search>
+      <last-search>cennac</last-search>
       <last-offset />
-      <last-pattern>translating_</last-pattern>
+      <last-pattern>cennac</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -461,10 +461,10 @@
         <entry encoding="base64">XDx0cmFuc2xhdGluZ19jb3dsXD4=</entry>
         <entry>output_</entry>
         <entry encoding="base64">XDxjb21waWxlX291dHB1dF9nZW9tZXRyeV9kaWN0aW9uYXJ5XD4=</entry>
-        <entry>cennac</entry>
         <entry>obnac</entry>
         <entry>translating</entry>
         <entry>translating_</entry>
+        <entry>cennac</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
