@@ -249,6 +249,9 @@
         <mark key="." line="156" column="45" />
         <mark key="^" line="156" column="45" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509382261758">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="282" column="0" />
@@ -277,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="334" column="102" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="281" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="290" column="24" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -377,6 +379,7 @@
       <jump line="47" column="68" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
       <jump line="270" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="60" column="51" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,7 +392,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>js</text>
+        <text>translating_</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -432,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>js</last-search>
+      <last-search>translating_</last-search>
       <last-offset />
-      <last-pattern>js</last-pattern>
+      <last-pattern>translating_</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -442,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>color_</entry>
         <entry encoding="base64">XDxyZ2JzXD4=</entry>
         <entry>color_entity</entry>
         <entry encoding="base64">XDxPdXRwdXRzXD4=</entry>
@@ -462,6 +464,7 @@
         <entry encoding="base64">XDx3cml0ZV9odG1sXD4=</entry>
         <entry>filename</entry>
         <entry>js</entry>
+        <entry>translating_</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
