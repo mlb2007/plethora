@@ -225,12 +225,12 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509401412156">
-        <mark key="'" line="451" column="12" />
-        <mark key="[" line="98" column="58" />
-        <mark key="]" line="100" column="29" />
-        <mark key="." line="100" column="29" />
-        <mark key="^" line="100" column="29" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509404453195">
+        <mark key="'" line="459" column="12" />
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="65" column="5" />
+        <mark key="." line="65" column="5" />
+        <mark key="^" line="65" column="5" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -255,8 +255,8 @@
         <mark key="." line="156" column="45" />
         <mark key="^" line="156" column="45" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509401623045">
-        <mark key="'" line="3189" column="54" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509403998985">
+        <mark key="'" line="732" column="45" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1508780570684">
         <mark key="'" line="2" column="12" />
@@ -286,13 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" />
-      <jump line="55" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="345" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="386" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="65" column="20" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="66" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="50" column="15" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="307" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -335,7 +328,6 @@
       <jump line="432" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="3234" column="52" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3082" column="47" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3196" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3197" column="54" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3198" column="53" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -386,58 +378,71 @@
       <jump line="475" column="34" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="3" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
       <jump line="1609" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="230" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="320" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="454" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="497" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="585" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="704" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="732" column="45" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG9ibmFjX3RjX3JlYXIgPSBjb21wc1sib2JuYWMiXVsidHJhbnNsYXRpbmdfY293bF9yZWFyIl0KICAgIG9ibmFjX3RjX2Zyb250ID0gY29tcHNbIm9ibmFjIl1bInRyYW5zbGF0aW5nX2Nvd2xfZnJvbnQiXQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>cennac</text>
+        <text>build_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG9ibmFjX3RjX3JlYXIgPSBjb21wc1sib2JuYWMiXVsidHJhbnNsYXRpbmdfY293bF9yZWFyIl0KICAgIG9ibmFjX3RjX2Zyb250ID0gY29tcHNbIm9ibmFjIl1bInRyYW5zbGF0aW5nX2Nvd2xfZnJvbnQiXQo=</text>
+        <text># cowl translation on as2
+    with open('cowl_translator.json') as data_file:
+        cutter_data = json.load(data_file)
+
+    body = cowl_translator.translate_cowls(body, cutter_data, comps)
+    a</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgd2luZ3N0cmFrZSA9IGNvbXBzWyJ3aW5nX3N0cmFrZSJdWyJ3aW5nX3N0cmFrZSJdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWNfdGNfZnJvbnQsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">ZGVmIGFzc2VtYmxlX2FzMihjb21wcyk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbm5hYywK</text>
+        <text encoding="base64">ZGVmIGFzc2VtYmxlX21haW5fd2l0aF90cmFuc2xhdGluZ19jb3dsKGNvbXBzKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWMsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbm5hY190Y19yZWFyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9ibmFjLAo=</text>
+        <text encoding="base64">ICAgICMgd2luZ3N0cmFrZSA9IGNvbXBzWyJ3aW5nX3N0cmFrZSJdWyJ3aW5nX3N0cmFrZSJdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbm5hYywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWNfdGNfZnJvbnQsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWMsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbm5hYywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9ibmFjLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWMsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWMsIGFwaS5VTklUX1ZFQ19ZKSwgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9ibmFjLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cennac</last-search>
+      <last-search>build_</last-search>
       <last-offset />
-      <last-pattern>cennac</last-pattern>
+      <last-pattern>build_</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>return</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjZW5uYWNcPg==</entry>
         <entry encoding="base64">XDxndWlcPg==</entry>
         <entry encoding="base64">XDxnZW9tZXRyeVw+</entry>
         <entry encoding="base64">XDx3cml0ZV9odG1sXD4=</entry>
@@ -465,6 +469,7 @@
         <entry>translating</entry>
         <entry>translating_</entry>
         <entry>cennac</entry>
+        <entry>build_</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
