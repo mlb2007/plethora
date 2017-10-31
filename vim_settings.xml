@@ -117,16 +117,16 @@
         <mark key="[" line="460" column="0" />
         <mark key="]" line="462" column="57" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1509483053576">
-        <mark key="[" line="12" column="32" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1509483797447">
+        <mark key="[" line="6" column="46" />
         <mark key="]" line="36" column="8" />
         <mark key="." line="36" column="8" />
         <mark key="^" line="36" column="8" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/strake_translator.json" timestamp="1509481033409">
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/strake_translator.json" timestamp="1509484641316">
         <mark key="[" line="6" column="10" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
@@ -190,12 +190,11 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509483261991">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="38" column="11" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509484553575">
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="75" column="30" />
+        <mark key="." line="75" column="30" />
+        <mark key="^" line="75" column="30" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -244,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="49" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
       <jump line="20" column="22" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
       <jump line="21" column="24" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
       <jump line="24" column="35" filename="$USER_HOME$/workspace/gui/gui_animate.py" />
@@ -269,7 +267,6 @@
       <jump line="4611" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="4000" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="4581" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="432" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="3234" column="52" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3082" column="47" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -344,66 +341,67 @@
       <jump line="111" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" />
       <jump line="40" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="18" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
+      <jump line="64" column="22" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgc3RyYWtlX2MgPSBhcGkuY29weShzdHJha2UpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIFBBU1NFRCBPTkUgVU5JVEUgKysrKysrKysrKyIK</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZnVsbF9vcl9oYWxmX2JvZHlcPg==</text>
+        <text encoding="base64">XDxjZW5uYWNfY29weVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">YXBpLmV4cG9ydChib2R5LCAiYXMyX2Z1bGwuc2F0IikKICAgIHJldHVybiBfZnVsbF9vcl9oYWxmX2JvZHkoYm9keSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc3RyYWtlX2MgPSBhcGkuY29weShzdHJha2UpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIFBBU1NFRCBPTkUgVU5JVEUgKysrKysrKysrKyIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICI9PT0+IEVuZCBwdCBiZXlvbmQgc3RyYWtlOiIsIG54LCBueSwgbnoK</text>
+        <text encoding="base64">ICAgIGNlbm5hYyA9IGFwaS5jb3B5KGNlbm5hY19jb3B5KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50ICI9PT0+IFN3aW5nIGFybSBwaXZvdCBlbmQ6IiwgcHgsIHB5LCBwego=</text>
+        <text encoding="base64">ICAgIG9iZGl2ID0gY29tcHNbIm9iZGl2Il1bImJvZHkiXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICI9PT0+IFN3aW5nIGFybSBwaXZvdCBzdGFydDoiLCBweCwgcHksIHB6Cg==</text>
+        <text encoding="base64">ICAgIG9iZGl2ID0gY29tcHNbIm9iZGl2Il1bImJvZHkiXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICI9PT0+IFJvbGxlciB0YWNrIHBvczoiLCBzeCwgc3ksIHN6Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0dXJuIGJvZHkK</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoYm9keSwgImFzMl9mdWxsLnNhdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHh5ID0gY3V0dGVyX2luZm9bJ3N0cmFrZV9lbmQnXQo=</text>
+        <text encoding="base64">ICAgICAgICAwLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtMzAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZnVsbF9vcl9oYWxmX2JvZHlcPg==</last-search>
+      <last-search encoding="base64">XDxjZW5uYWNfY29weVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZnVsbF9vcl9oYWxmX2JvZHlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjZW5uYWNfY29weVw+</last-pattern>
       <last-replace>=</last-replace>
-      <last-substitute>return</last-substitute>
+      <last-substitute encoding="base64">XDxfZnVsbF9vcl9oYWxmX2JvZHlcPg==</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3cml0ZV9odG1sXD4=</entry>
         <entry>filename</entry>
         <entry>js</entry>
         <entry>translatin</entry>
@@ -423,6 +421,7 @@
         <entry>translating</entry>
         <entry encoding="base64">XDxjZW5kaXZfY29weVw+</entry>
         <entry encoding="base64">XDxfZnVsbF9vcl9oYWxmX2JvZHlcPg==</entry>
+        <entry encoding="base64">XDxjZW5uYWNfY29weVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
