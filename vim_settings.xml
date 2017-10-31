@@ -191,10 +191,10 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509491148749">
-        <mark key="[" line="63" column="4" />
-        <mark key="]" line="62" column="47" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509492156636">
+        <mark key="[" line="68" column="31" />
+        <mark key="]" line="73" column="4" />
+        <mark key="." line="73" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -351,11 +351,11 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9ibmFjX3RjX2Zyb250X2MgPSBhcGkuY29weShvYm5hY190Y19mcm9udCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>trans</text>
@@ -364,31 +364,31 @@
         <text encoding="base64">YXBpLmV4cG9ydChib2R5LCAiYXMyX2Z1bGwuc2F0IikKICAgIHJldHVybiBfZnVsbF9vcl9oYWxmX2JvZHkoYm9keSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9ibmFjX3RjX2Zyb250X2MgPSBhcGkuY29weShvYm5hY190Y19mcm9udCkK</text>
+        <text encoding="base64">ICAgIG9ibmFjX3RjX2Zyb250X20gPSBhcGkubWlycm9yKG9ibmFjX3RjX2Zyb250LCBhcGkuVU5JVF9WRUNfWSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW29ibmFjX3RjX2Zyb250X2MsIHN0cmFrZV9mcm9udF0sICJ0b19yZW1vdmVfY3JhcC5zYXQiKQo=</text>
+        <text encoding="base64">ICAgIGludGVyc2VjdF9ib2R5ID0gY2hvcF9ib2R5WzBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW29ibmFjX3RjX2Zyb250X2MsIHN0cmFrZV9mcm9udF0sICJ0b19yZW1vdmVfY3JhcC5zYXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWNfdGNfZnJvbnQsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5jb2xvcl9lbnRpdHkoaW50ZXJzZWN0X2JvZHksIDEsIDAsIDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9ibmFjX3RjX2Zyb250X2MgPSBhcGkuY29weShvYm5hY190Y19mcm9udCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW29ibmFjX3RjX2Zyb250X2MsIHN0cmFrZV9mcm9udF0sICJ0b19yZW1vdmVfY3JhcC5zYXQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW29ibmFjX3RjX2Zyb250X2MsIHN0cmFrZV9mcm9udF0sICJ0b19yZW1vdmVfY3JhcC5zYXQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIFBBU1NFRCBPTkUgVU5JVEUgKysrKysrKysrKyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIEJFRk9SRSBGSVJTVCBVTklURSArKysrKysrKysrIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
