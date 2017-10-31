@@ -3,16 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1508784926254">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1509472768989">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1502929504241">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/kerho/inlet_is_slow/inlet.py" timestamp="1496351668418">
         <mark key="'" line="1435" column="4" />
@@ -95,12 +89,6 @@
         <mark key="." line="704" column="0" />
         <mark key="^" line="704" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/curvemod.py" timestamp="1499882104198">
-        <mark key="[" line="149" column="27" />
-      </file>
-      <file name="/" timestamp="1502929474885">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
         <mark key="[" line="2794" column="4" />
@@ -145,14 +133,13 @@
         <mark key="]" line="353" column="0" />
         <mark key="." line="353" column="0" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1509477377824">
+        <mark key="[" line="166" column="13" />
+        <mark key="]" line="166" column="13" />
+        <mark key="." line="166" column="13" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
-      </file>
-      <file name="/Python Console" timestamp="1508780323842">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1503522790687">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
         <mark key="'" line="481" column="14" />
@@ -203,9 +190,6 @@
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/query.py" timestamp="1496790788685">
-        <mark key="[" line="235" column="27" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="77" column="0" />
@@ -218,12 +202,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508788911877">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/True" timestamp="1502929474895">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509477163623">
         <mark key="'" line="127" column="22" />
@@ -245,9 +223,6 @@
         <mark key="]" line="273" column="14" />
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
-        <mark key="[" line="99" column="4" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509476059331">
         <mark key="[" line="100" column="4" />
@@ -390,11 +365,11 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNlbmRpdiA9IGFwaS5jb3B5KGNlbmRpdl9jb3B5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjZW5kaXZfY29weVw+</text>
