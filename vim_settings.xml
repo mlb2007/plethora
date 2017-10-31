@@ -190,11 +190,11 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509484553575">
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="75" column="30" />
-        <mark key="." line="75" column="30" />
-        <mark key="^" line="75" column="30" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509485465745">
+        <mark key="[" line="65" column="34" />
+        <mark key="]" line="63" column="29" />
+        <mark key="." line="63" column="29" />
+        <mark key="^" line="63" column="29" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -349,7 +349,7 @@
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIFBBU1NFRCBPTkUgVU5JVEUgKysrKysrKysrKyIK</text>
+        <text encoding="base64">ICAgIHByaW50ICI9PT0gQm91bmRpbmcgQk9YIE9CTkFDIFJFQVI6IiwgYmJveF9yZWFyX2xvdywgYmJveF9yZWFyX2hpCg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -361,31 +361,31 @@
         <text encoding="base64">YXBpLmV4cG9ydChib2R5LCAiYXMyX2Z1bGwuc2F0IikKICAgIHJldHVybiBfZnVsbF9vcl9oYWxmX2JvZHkoYm9keSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIFBBU1NFRCBPTkUgVU5JVEUgKysrKysrKysrKyIK</text>
+        <text encoding="base64">ICAgIHByaW50ICI9PT0gQm91bmRpbmcgQk9YIE9CTkFDIFJFQVI6IiwgYmJveF9yZWFyX2xvdywgYmJveF9yZWFyX2hpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNlbm5hYyA9IGFwaS5jb3B5KGNlbm5hY19jb3B5KQo=</text>
+        <text encoding="base64">ICAgIGFwaS5nZXRfYm91bmRpbmdfYm94KG9ibmFjX3RjX3JlYXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9iZGl2ID0gY29tcHNbIm9iZGl2Il1bImJvZHkiXQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrKysrIFBBU1NFRCBPTkUgVU5JVEUgKysrKysrKysrKyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9iZGl2ID0gY29tcHNbIm9iZGl2Il1bImJvZHkiXQo=</text>
+        <text encoding="base64">ICAgIGNlbm5hYyA9IGFwaS5jb3B5KGNlbm5hY19jb3B5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG9iZGl2ID0gY29tcHNbIm9iZGl2Il1bImJvZHkiXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgIG9iZGl2ID0gY29tcHNbIm9iZGl2Il1bImJvZHkiXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAwCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAwLAo=</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtMzAsCg==</text>
+        <text encoding="base64">ICAgICAgICAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
