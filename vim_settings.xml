@@ -225,12 +225,12 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509404453195">
-        <mark key="'" line="459" column="12" />
-        <mark key="[" line="61" column="3" />
-        <mark key="]" line="65" column="5" />
-        <mark key="." line="65" column="5" />
-        <mark key="^" line="65" column="5" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509469656322">
+        <mark key="'" line="471" column="12" />
+        <mark key="[" line="97" column="37" />
+        <mark key="]" line="97" column="67" />
+        <mark key="." line="97" column="67" />
+        <mark key="^" line="97" column="67" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
         <mark key="'" line="21" column="15" />
@@ -249,11 +249,11 @@
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509039555809">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="156" column="45" />
-        <mark key="." line="156" column="45" />
-        <mark key="^" line="156" column="45" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509469917562">
+        <mark key="[" line="160" column="20" />
+        <mark key="]" line="111" column="4" />
+        <mark key="." line="111" column="4" />
+        <mark key="^" line="111" column="4" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509403998985">
         <mark key="'" line="732" column="45" />
@@ -392,48 +392,43 @@
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>build_</text>
       </register>
       <register name="0" type="4">
-        <text># cowl translation on as2
-    with open('cowl_translator.json') as data_file:
-        cutter_data = json.load(data_file)
-
-    body = cowl_translator.translate_cowls(body, cutter_data, comps)
-    a</text>
+        <text encoding="base64">Ym9keSA9IGFwaS51bml0ZV9lbnRpdGllcyhbZnVzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmFrZSwgYXBpLm1pcnJvcihzdHJha2UsIGFwaS5VTklUX1ZFQ19ZKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmcsIGFwaS5taXJyb3Iod2luZywgYXBpLlVOSVRfVkVDX1kpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb2JkaXYsIGFwaS5taXJyb3Iob2JkaXYsIGFwaS5VTklUX1ZFQ19ZKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbmRpdl0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGFzc2VtYmxlX2FzMihjb21wcyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGFzc2VtYmxlX21haW5fd2l0aF90cmFuc2xhdGluZ19jb3dsKGNvbXBzKToK</text>
+        <text encoding="base64">ICAgIHNhZ2UuYXBpLmV4cG9ydChbc3VidHJhY3RlZF9ib2R5LCB0cmFuc2xhdGVkX3N0YXJib2FyZCwgdHJhbnNsYXRlZF9wb3J0XSwgInRyYW5zbGF0ZWRfY293bC5zYXQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbm5hY190Y19yZWFyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgd2luZ3N0cmFrZSA9IGNvbXBzWyJ3aW5nX3N0cmFrZSJdWyJ3aW5nX3N0cmFrZSJdCg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQoYm9keSwgInVuaXRlZF9iZnJfbmVnLnNhdCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWNfdGNfZnJvbnQsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbm5hYywK</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWMsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">ICAgIHByaW50ICJFeGl0aW5nIC4uLiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9ibmFjLAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBjZW5uYWNfdHJhbnNsYXRlZAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
