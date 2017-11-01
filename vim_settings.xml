@@ -37,6 +37,9 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
       </file>
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/data/strake_translator.json" timestamp="1509568755565">
+        <mark key="[" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1509476570875">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="14" />
@@ -92,11 +95,10 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509564244294">
-        <mark key="[" line="83" column="22" />
-        <mark key="]" line="90" column="44" />
-        <mark key="." line="90" column="44" />
-        <mark key="^" line="90" column="44" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509567716767">
+        <mark key="[" line="80" column="4" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -115,23 +117,18 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509564310882">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="172" column="34" />
-        <mark key="^" line="172" column="34" />
-        <mark key="." line="172" column="34" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509568786187">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="111" column="19" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" timestamp="1508957402173">
-        <mark key="'" line="792" column="11" />
-        <mark key="[" line="460" column="0" />
-        <mark key="]" line="462" column="57" />
       </file>
       <file name="$USER_HOME$/pysage-aero/sage/cinterface.py" timestamp="1509558947642">
         <mark key="'" line="1148" column="4" />
@@ -168,6 +165,9 @@
         <mark key="]" line="233" column="32" />
         <mark key="." line="233" column="32" />
         <mark key="^" line="233" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.json" timestamp="1509568460406">
+        <mark key="[" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
         <mark key="'" line="0" column="0" />
@@ -370,11 +370,11 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50IHBpZWNlcwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>as2Components</text>
@@ -383,31 +383,31 @@
         <text encoding="base64">IHdpbmcgPSBjb21wc1sid2luZ19zdHJha2UiXVsid2luZyJdCiAgICBhcGkuZXhwb3J0KHdpbmcsICJ3aW5nLnNhdCIpCgogICAgb2JuYWMgPSBjb21wc1sib2JuYWMiXVsibmFjZWxsZSJdCiAgICBhcGkuZXhwb3J0KG9ibmFjLCAib2JuYWMuc2F0IikKCiAgICBvYm5hY3NvbGlkID0gY29tcHNbIm9ibmFjIl1bImV4dGVybmFsX3NvbGlkIl0KICAgIGFwaS5leHBvcnQob2JuYWNzb2xpZCwgIm9ibmFjc29saWQuc2F0IikKICAgIG9ibmFjX3RjX3JlYXIgPSBjb21wc1sib2JuYWMiXVsidHJhbnNsYXRpbmdfY293bF9yZWFyIl0KICAgIGFwaS5leHBvcnQob2JuYWNfdGNfcmVhciwgIm9ibmFjX3RjX3JlYXIuc2F0IikKICAgIG9ibmFjX3RjX2Zyb250ID0gY29tcHNbIm9ibmFjIl1bInRyYW5zbGF0aW5nX2Nvd2xfZnJvbnQiXQogICAgYXBpLmV4cG9ydChvYm5hY190Y19mcm9udCwgIm9ibmFjX3RjX2Zyb250LnNhdCIpCgogICAgb2JuYWNfdGNfZnJvbnRfYyA9IGFwaS5jb3B5KG9ibmFjX3RjX2Zyb250KQogICAgc3RyYWtlX2Zyb250X2MgPSBhcGkuY29weShzdHJha2VfZnJvbnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGFzc2VtYmxlX3dpdGhfdHJhbnNsYXRpbmdfY293bChhczJjb21wb25lbnRzKToK</text>
+        <text encoding="base64">ICAgIHByaW50IHBpZWNlcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbm5hYwo=</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrIFNFQ09ORCBVTklURSBET05FICsrKysrIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWNfdGNfZnJvbnQsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9ibmFjX3RjX2Zyb250LAo=</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrIFNVQlRSQUNUIERPTkUgKysrKysiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwaS5taXJyb3Iob2JuYWNfdGNfcmVhciwgYXBpLlVOSVRfVkVDX1kpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9ibmFjX3RjX3JlYXIsCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrIE9ORSBVTklURSBET05FICsrKysrIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9ibmFjX3RjX3JlYXJfbWlycm9yID0gb2JuYWNfdGNfcmVhci5taXJyb3IoYXhpcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvZHkgPSBhcGkuc3VidHJhY3QobmVnYXRpdmVib2R5LCBib2R5KQo=</text>
+        <text encoding="base64">ICAgIHByaW50ICIrKysrIEVYUExPREUgRE9ORSArKysrKyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
