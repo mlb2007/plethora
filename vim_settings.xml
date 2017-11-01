@@ -109,11 +109,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509559691399">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="14" column="54" />
-        <mark key="^" line="14" column="54" />
-        <mark key="." line="14" column="54" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509561284771">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="88" column="57" />
+        <mark key="^" line="88" column="57" />
+        <mark key="." line="88" column="57" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
@@ -258,9 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="779" column="32" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="3" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="319" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="471" column="7" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="4611" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="4000" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -358,34 +356,37 @@
       <jump line="1213" column="0" filename="$USER_HOME$/pysage-aero/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/pysage-aero/sage/cinterface.py" />
       <jump line="1148" column="4" filename="$USER_HOME$/pysage-aero/sage/cinterface.py" />
+      <jump line="130" column="51" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm9iZGl2LCBzZWxmLm9iZGl2Lm1pcnJvcihzYWdlLlVOSVRfVkVDX1kpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>export</text>
+        <text>as2Components</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIApkZWYgaW1wb3J0X2NlbmRpdigpOgogICAgcmV0dXJuIGltcG9ydF9zYXQoJ2NlbmRpdi5zYXQnKQog</text>
+        <text encoding="base64">Ym9keSA9IGFwaS51bml0ZV9lbnRpdGllcyhbZnVzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJha2VfZnJvbnQsIGFwaS5taXJyb3Ioc3RyYWtlX2Zyb250LCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5nLCBhcGkubWlycm9yKHdpbmcsIGFwaS5VTklUX1ZFQ19ZKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iZGl2LCBhcGkubWlycm9yKG9iZGl2LCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZW5kaXZdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzZWxmLm9iZGl2LCBzZWxmLm9iZGl2Lm1pcnJvcihzYWdlLlVOSVRfVkVDX1kpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbm90IGlzaW5zdGFuY2UoYiwgKGxpc3QsIHR1cGxlKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbXBvcnRfc2F0KCdjZW5kaXYuc2F0JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGltcG9ydF9jZW5kaXYoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -394,31 +395,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBpbXBvcnRfc2F0KCdjZW5kaXYuc2F0JykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIGltcG9ydF9jZW5kaXYoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIGJvZGllcyA9IGVudGl0aWVzWydCT0RZJ10KICAgICAgICBhc3NlcnQgbm90IGlzaW5zdGFuY2UoYm9kaWVzLCAobGlzdCwgdHVwbGUpKQogICAgICAgIHJldHVybiBib2RpZXMKIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHNhZ2UuYm9kaWVzIGFzIGJvZGllcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>export</last-search>
+      <last-search>as2Components</last-search>
       <last-offset />
-      <last-pattern>export</last-pattern>
-      <last-replace>=</last-replace>
-      <last-substitute encoding="base64">XDxfZnVsbF9vcl9oYWxmX2JvZHlcPg==</last-substitute>
+      <last-pattern>as2Components</last-pattern>
+      <last-replace>AS2Components</last-replace>
+      <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>comps</entry>
-        <entry encoding="base64">XDxhZGRfYWRkaXRpb25hbF9mZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDx0cmFuc2xhdGluZ19jb3dsXD4=</entry>
         <entry>output_</entry>
         <entry encoding="base64">XDxjb21waWxlX291dHB1dF9nZW9tZXRyeV9kaWN0aW9uYXJ5XD4=</entry>
@@ -437,10 +436,10 @@
         <entry>read_sat</entry>
         <entry>import</entry>
         <entry>export</entry>
+        <entry>as2components</entry>
+        <entry>as2Components</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/test_/no_test/gc</entry>
-        <entry>%s/test_/no_test_/gc</entry>
         <entry>%s/no_test_/test_/gc</entry>
         <entry>/pysage</entry>
         <entry>wq</entry>
@@ -458,6 +457,8 @@
         <entry>10,24 s/return/=/gc</entry>
         <entry>e</entry>
         <entry>q</entry>
+        <entry>%s/as2components/AS2Components/gc</entry>
+        <entry>%s/as2Components/AS2Components/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
