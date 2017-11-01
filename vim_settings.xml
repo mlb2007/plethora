@@ -95,11 +95,11 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509571842258">
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509575235028">
         <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="37" />
-        <mark key="^" line="88" column="37" />
+        <mark key="]" line="88" column="36" />
+        <mark key="." line="88" column="36" />
+        <mark key="^" line="88" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -118,12 +118,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509572040987">
-        <mark key="'" line="135" column="4" />
-        <mark key="[" line="129" column="15" />
-        <mark key="]" line="137" column="25" />
-        <mark key="." line="137" column="25" />
-        <mark key="^" line="137" column="25" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509575322139">
+        <mark key="[" line="136" column="4" />
+        <mark key="]" line="136" column="4" />
+        <mark key="^" line="134" column="18" />
+        <mark key="." line="136" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
@@ -254,8 +253,8 @@
         <mark key="." line="166" column="13" />
         <mark key="^" line="166" column="13" />
       </file>
-      <file name="$USER_HOME$/pysage-aero/sage/api.py" timestamp="1509486927885">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/pysage-aero/sage/api.py" timestamp="1509574302374">
+        <mark key="'" line="4527" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -266,8 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="432" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="3234" column="52" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3082" column="47" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3196" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3197" column="54" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -366,6 +363,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
       <jump line="135" column="4" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
+      <jump line="4256" column="4" filename="$USER_HOME$/pysage-aero/sage/api.py" />
+      <jump line="4527" column="43" filename="$USER_HOME$/pysage-aero/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,34 +377,34 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</text>
+        <text>intersect</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1c2UgKyBzdHJha2VfYmFjayArIHN0cmFrZV9mcm9udCArIHdpbmcgIyBEb2Vzbid0IHdvcmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGIgKyB3aW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChzdHJha2VfbWludXNfdGMsIG9ibmFjX3RjX2Zyb250LCAnYm9vbF9mYWlsLnNhdCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0cmFrZV9taW51c190YyArIHdpbmcgKyBzdHJha2VfYmFjawogICAgZXhpdCgwKQo=</text>
+        <text encoding="base64">ICAgICNmdXNlICsgc3RyYWtlX2JhY2sgKyBzdHJha2VfZnJvbnQgKyB3aW5nICMgRG9lc24ndCB3b3JrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0cmFrZV9mcm9udCArIHdpbmcKICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgICNzdHJha2VfZnJvbnQgKyB3aW5nICsgc3RyYWtlX2JhY2sgKyBmdXNlICMgV29ya3MK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgICNzdHJha2VfZnJvbnQgLT0gdG9fcmVtb3ZlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGIgKyB3aW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpbmdfc3RyYWtlID0gd2luZyArIHN0cmFrZQo=</text>
+        <text encoding="base64">ICAgIHN0cmFrZV9taW51c190YyArIHdpbmcgKyBzdHJha2VfYmFjawogICAgZXhpdCgwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVuaXRlZF9ib2R5ID0gd2luZyArIHVuaXRlZF9ib2R5ICAgIyArIHdpbmdfbWlycm9yCg==</text>
+        <text encoding="base64">ICAgIHN0cmFrZV9mcm9udCArIHdpbmcKICAgIGV4aXQoMCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -415,17 +414,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</last-search>
+      <last-search>intersect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</last-pattern>
+      <last-pattern>intersect</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>output_</entry>
         <entry encoding="base64">XDxjb21waWxlX291dHB1dF9nZW9tZXRyeV9kaWN0aW9uYXJ5XD4=</entry>
         <entry>obnac</entry>
         <entry>translating_</entry>
@@ -445,6 +443,7 @@
         <entry>as2components</entry>
         <entry>as2Components</entry>
         <entry encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</entry>
+        <entry>intersect</entry>
       </history-search>
       <history-cmd>
         <entry>%s/no_test_/test_/gc</entry>
