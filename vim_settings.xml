@@ -6,10 +6,33 @@
       <file name="/start_script.py" timestamp="1508784926254">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1509498048851">
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="99" column="5" />
+        <mark key="." line="99" column="5" />
+        <mark key="^" line="99" column="5" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/strake_translator.json" timestamp="1509556257189">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cowl_translator.json" timestamp="1509472768989">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
+        <mark key="'" line="113" column="47" />
+      </file>
+      <file name="/Python Console" timestamp="1509482308697">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.py" timestamp="1503522790687">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
+        <mark key="'" line="481" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1502929504241">
         <mark key="[" line="0" column="0" />
@@ -21,11 +44,35 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1508792271725">
+        <mark key="'" line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="234" column="23" />
+        <mark key="]" line="233" column="32" />
+        <mark key="." line="233" column="32" />
+        <mark key="^" line="233" column="32" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/isolated_inlet/isolated_side_inlet_configuration/sageOptions.json" timestamp="1508881044812">
         <mark key="[" line="105" column="9" />
         <mark key="]" line="105" column="10" />
         <mark key="." line="105" column="10" />
         <mark key="^" line="105" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="142" column="24" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="134" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="38" />
+        <mark key="]" line="127" column="53" />
+        <mark key="^" line="127" column="53" />
+        <mark key="." line="127" column="53" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1508800255783">
         <mark key="'" line="0" column="0" />
@@ -37,12 +84,38 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509401690333">
+        <mark key="'" line="35" column="19" />
+        <mark key="[" line="123" column="4" />
+        <mark key="]" line="123" column="7" />
+        <mark key="." line="123" column="7" />
+        <mark key="^" line="123" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
+        <mark key="'" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/sandbox/build/install/lib/sage/query.py" timestamp="1496790788685">
+        <mark key="[" line="235" column="27" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1509476570875">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3" column="14" />
         <mark key="]" line="3" column="18" />
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508788911877">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/True" timestamp="1502929474895">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
@@ -65,6 +138,19 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509557230119">
+        <mark key="[" line="104" column="2" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="^" line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
+        <mark key="'" line="21" column="15" />
+        <mark key="[" line="23" column="20" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1508794213407">
         <mark key="'" line="8" column="28" />
         <mark key="[" line="28" column="8" />
@@ -82,6 +168,13 @@
       <file name="$USER_HOME$/sandbox/build/install/lib/sage/curvemod.py" timestamp="1499882104198">
         <mark key="[" line="149" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="273" column="14" />
+        <mark key="." line="273" column="14" />
+        <mark key="^" line="273" column="14" />
+      </file>
       <file name="/" timestamp="1502929474885">
         <mark key="[" line="0" column="0" />
       </file>
@@ -92,12 +185,23 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
+      <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
+        <mark key="[" line="99" column="4" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509476059331">
+        <mark key="[" line="100" column="4" />
+        <mark key="]" line="100" column="32" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
         <mark key="[" line="293" column="0" />
         <mark key="]" line="316" column="93" />
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509403998985">
+        <mark key="'" line="732" column="45" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" timestamp="1509488525134">
         <mark key="'" line="414" column="7" />
@@ -112,119 +216,16 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" timestamp="1508957402173">
-        <mark key="'" line="792" column="11" />
-        <mark key="[" line="460" column="0" />
-        <mark key="]" line="462" column="57" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1509498048851">
-        <mark key="[" line="57" column="15" />
-        <mark key="]" line="99" column="5" />
-        <mark key="." line="99" column="5" />
-        <mark key="^" line="99" column="5" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/strake_translator.json" timestamp="1509497460615">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
-        <mark key="'" line="113" column="47" />
-      </file>
-      <file name="/Python Console" timestamp="1509482308697">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.py" timestamp="1503522790687">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
-        <mark key="'" line="481" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1508792271725">
-        <mark key="'" line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="234" column="23" />
-        <mark key="]" line="233" column="32" />
-        <mark key="." line="233" column="32" />
-        <mark key="^" line="233" column="32" />
-      </file>
-      <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="142" column="24" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
-        <mark key="^" line="134" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/airfoil.py" timestamp="1495239283174">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="38" />
-        <mark key="]" line="127" column="53" />
-        <mark key="^" line="127" column="53" />
-        <mark key="." line="127" column="53" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509401690333">
-        <mark key="'" line="35" column="19" />
-        <mark key="[" line="123" column="4" />
-        <mark key="]" line="123" column="7" />
-        <mark key="." line="123" column="7" />
-        <mark key="^" line="123" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
-        <mark key="'" line="8" column="27" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/lib/sage/query.py" timestamp="1496790788685">
-        <mark key="[" line="235" column="27" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="0" />
-        <mark key="." line="78" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508788911877">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/True" timestamp="1502929474895">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1509497333555">
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1508958626718">
-        <mark key="'" line="21" column="15" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="273" column="14" />
-        <mark key="." line="273" column="14" />
-        <mark key="^" line="273" column="14" />
-      </file>
-      <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
-        <mark key="[" line="99" column="4" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509476059331">
-        <mark key="[" line="100" column="4" />
-        <mark key="]" line="100" column="32" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1509403998985">
-        <mark key="'" line="732" column="45" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1508448543233">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/wing_strake.py" timestamp="1508957402173">
+        <mark key="'" line="792" column="11" />
+        <mark key="[" line="460" column="0" />
+        <mark key="]" line="462" column="57" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499970679140">
         <mark key="'" line="0" column="7" />
@@ -350,44 +351,44 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ym9keSA9IGFwaS51bml0ZV9lbnRpdGllcyhbZnVzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJha2VfZnJvbnQsIGFwaS5taXJyb3Ioc3RyYWtlX2Zyb250LCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5nLCBhcGkubWlycm9yKHdpbmcsIGFwaS5VTklUX1ZFQ19ZKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iZGl2LCBhcGkubWlycm9yKG9iZGl2LCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZW5kaXZdKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>trans</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHh5ID0gY3V0dGVyX2luZm9bJ3JvbGxlcl90cmFja19wb3MnXQogICAgIyBzeCwgc3ksIHN6IHdpbGwgYmUgZGV0ZXJtaW5lZCBieSB0aGUgZm9yd2FyZCByb2xsZXIgdHJhY2sgbG9jYXRpb24KICAgIHN4ID0geHlbMF0KICAgIHN5ID0geHlbMV0KICAgIHN6ID0gemxvdwogICAgcm9sbGVyX3RyYWNrX3BvcyA9IHNhZ2UuUG9pbnQzRChzeCwgc3ksIHN6KQo=</text>
+        <text encoding="base64">Ym9keSA9IGFwaS51bml0ZV9lbnRpdGllcyhbZnVzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdHJha2VfZnJvbnQsIGFwaS5taXJyb3Ioc3RyYWtlX2Zyb250LCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5nLCBhcGkubWlycm9yKHdpbmcsIGFwaS5VTklUX1ZFQ19ZKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9iZGl2LCBhcGkubWlycm9yKG9iZGl2LCBhcGkuVU5JVF9WRUNfWSksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjZW5kaXZdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQoY2VubmFjc29saWQsICJjZW5uYWNzb2xpZC5zYXQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQoY2VubmFjLCAiY2VubmFjLnNhdCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQob2JuYWNhZnRub3p6bGUsICJvYm5hY2FmdG5venpsZS5zYXQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICBjZW5kaXZdLCAiYmZyX3VuaXRlZF9iZnJfbmVnLnNhdCIpCg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQob2JuYWNfdGNfZnJvbnQsICJvYm5hY190Y19mcm9udC5zYXQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICBvYmRpdiwgYXBpLm1pcnJvcihvYmRpdiwgYXBpLlVOSVRfVkVDX1kpLAo=</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQob2JuYWNfdGNfZnJvbnQsICJvYm5hY190Y19mcm9udC5zYXQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICB3aW5nLCBhcGkubWlycm9yKHdpbmcsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQob2JuYWNfdGNfcmVhciwgIm9ibmFjX3RjX3JlYXIuc2F0IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICBzdHJha2VfZnJvbnQsIGFwaS5taXJyb3Ioc3RyYWtlX2Zyb250LCBhcGkuVU5JVF9WRUNfWSksCg==</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQob2JuYWNzb2xpZCwgIm9ibmFjLnNhdCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgICAgICAgICBzdHJha2VfYmFjaywgYXBpLm1pcnJvcihzdHJha2VfYmFjaywgYXBpLlVOSVRfVkVDX1kpLAo=</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQob2JuYWMsICJvYm5hYy5zYXQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNhcGkuZXhwb3J0KFtmdXNlLAo=</text>
+        <text encoding="base64">ICAgIGFwaS5leHBvcnQod2luZywgIndpbmcuc2F0IikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -426,7 +427,6 @@
         <entry>trans</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>%s/test_/no_test/gc</entry>
         <entry>%s/test_/no_test_/gc</entry>
         <entry>%s/no_test_/test_/gc</entry>
@@ -445,6 +445,7 @@
         <entry>10.24 s/return/=/gc</entry>
         <entry>10,24 s/return/=/gc</entry>
         <entry>e</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
