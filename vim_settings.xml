@@ -95,10 +95,11 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509567716767">
-        <mark key="[" line="80" column="4" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509571842258">
+        <mark key="[" line="88" column="37" />
+        <mark key="]" line="88" column="37" />
+        <mark key="." line="88" column="37" />
+        <mark key="^" line="88" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -117,12 +118,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509570006084">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="116" column="5" />
-        <mark key="." line="116" column="5" />
-        <mark key="^" line="116" column="5" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509572040987">
+        <mark key="'" line="135" column="4" />
+        <mark key="[" line="129" column="15" />
+        <mark key="]" line="137" column="25" />
+        <mark key="." line="137" column="25" />
+        <mark key="^" line="137" column="25" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
@@ -265,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4581" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="432" column="12" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="3234" column="52" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3082" column="47" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -365,66 +365,66 @@
       <jump line="99" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
       <jump line="93" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
+      <jump line="135" column="4" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>as2Components</text>
+        <text encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHdpbmcgPSBjb21wc1sid2luZ19zdHJha2UiXVsid2luZyJdCiAgICBhcGkuZXhwb3J0KHdpbmcsICJ3aW5nLnNhdCIpCgogICAgb2JuYWMgPSBjb21wc1sib2JuYWMiXVsibmFjZWxsZSJdCiAgICBhcGkuZXhwb3J0KG9ibmFjLCAib2JuYWMuc2F0IikKCiAgICBvYm5hY3NvbGlkID0gY29tcHNbIm9ibmFjIl1bImV4dGVybmFsX3NvbGlkIl0KICAgIGFwaS5leHBvcnQob2JuYWNzb2xpZCwgIm9ibmFjc29saWQuc2F0IikKICAgIG9ibmFjX3RjX3JlYXIgPSBjb21wc1sib2JuYWMiXVsidHJhbnNsYXRpbmdfY293bF9yZWFyIl0KICAgIGFwaS5leHBvcnQob2JuYWNfdGNfcmVhciwgIm9ibmFjX3RjX3JlYXIuc2F0IikKICAgIG9ibmFjX3RjX2Zyb250ID0gY29tcHNbIm9ibmFjIl1bInRyYW5zbGF0aW5nX2Nvd2xfZnJvbnQiXQogICAgYXBpLmV4cG9ydChvYm5hY190Y19mcm9udCwgIm9ibmFjX3RjX2Zyb250LnNhdCIpCgogICAgb2JuYWNfdGNfZnJvbnRfYyA9IGFwaS5jb3B5KG9ibmFjX3RjX2Zyb250KQogICAgc3RyYWtlX2Zyb250X2MgPSBhcGkuY29weShzdHJha2VfZnJvbnQpCg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZ1c2UgKyBzdHJha2VfYmFjayArIHN0cmFrZV9mcm9udCArIHdpbmcgIyBEb2Vzbid0IHdvcmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVuaXRlZF9ib2R5ID0gd2luZyArIHVuaXRlZF9ib2R5ICAgIyArIHdpbmdfbWlycm9yCg==</text>
+        <text encoding="base64">ICAgIGIgKyB3aW5nCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmFrZV9taW51c190YyArIHdpbmcgKyBzdHJha2VfYmFjawogICAgZXhpdCgwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0cmFrZV9mcm9udCArIHdpbmcKICAgIGV4aXQoMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJoZXJlIHRocmVlIC4uLiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJoZXJlIHRvbyAuLi4iCg==</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJoZXJlIHRvbyAuLi4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJoZXJlIHRvbyAuLi4iCg==</text>
+        <text encoding="base64">ICAgIHdpbmdfc3RyYWtlID0gd2luZyArIHN0cmFrZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cmFrZV9taW51c190YyA9IHN0cmFrZV9mcm9udCAtIG9ibmFjX3RjX2Zyb250Cg==</text>
+        <text encoding="base64">ICAgIHVuaXRlZF9ib2R5ID0gd2luZyArIHVuaXRlZF9ib2R5ICAgIyArIHdpbmdfbWlycm9yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0cmFrZV9taW51c190YyA9IHN0cmFrZV9mcm9udCAtIG9ibmFjX3RjX2Zyb250Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>as2Components</last-search>
+      <last-search encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>as2Components</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2xhdGluZ19jb3dsXD4=</entry>
         <entry>output_</entry>
         <entry encoding="base64">XDxjb21waWxlX291dHB1dF9nZW9tZXRyeV9kaWN0aW9uYXJ5XD4=</entry>
         <entry>obnac</entry>
@@ -444,6 +444,7 @@
         <entry>export</entry>
         <entry>as2components</entry>
         <entry>as2Components</entry>
+        <entry encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/no_test_/test_/gc</entry>
@@ -485,6 +486,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
