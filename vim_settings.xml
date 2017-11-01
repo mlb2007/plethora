@@ -95,11 +95,11 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509575235028">
-        <mark key="[" line="88" column="37" />
-        <mark key="]" line="88" column="36" />
-        <mark key="." line="88" column="36" />
-        <mark key="^" line="88" column="36" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509576162855">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -118,11 +118,10 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509575322139">
-        <mark key="[" line="136" column="4" />
-        <mark key="]" line="136" column="4" />
-        <mark key="^" line="134" column="18" />
-        <mark key="." line="136" column="4" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509576706541">
+        <mark key="[" line="181" column="13" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
@@ -370,47 +369,47 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I3NhZ2Uuc2FnZV9ydW5uZXIuc3VwcHJlc3NfZW50aXR5X2RlbGV0ZXMoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>intersect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1c2UgKyBzdHJha2VfYmFjayArIHN0cmFrZV9mcm9udCArIHdpbmcgIyBEb2Vzbid0IHdvcmsK</text>
+        <text encoding="base64">ICAgIGIgPSBzdHJha2VfYmFjayArIGZ1c2UgIysgc3RyYWtlX2Zyb250ICMrIHdpbmcgKyBmdXNlIyArIHN0cmFrZV9mcm9udAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChzdHJha2VfbWludXNfdGMsIG9ibmFjX3RjX2Zyb250LCAnYm9vbF9mYWlsLnNhdCcpCg==</text>
+        <text encoding="base64">I3NhZ2Uuc2FnZV9ydW5uZXIuc3VwcHJlc3NfZW50aXR5X2RlbGV0ZXMoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICNmdXNlICsgc3RyYWtlX2JhY2sgKyBzdHJha2VfZnJvbnQgKyB3aW5nICMgRG9lc24ndCB3b3JrCg==</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNzdHJha2VfZnJvbnQgKyB3aW5nICsgc3RyYWtlX2JhY2sgKyBmdXNlICMgV29ya3MK</text>
+        <text encoding="base64">ICAgIHNhZ2Uuc2FnZV9ydW5uZXIuc3VwcHJlc3NfZW50aXR5X2RlbGV0ZXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhZ2Uuc2FnZV9ydW5uZXIuc3VwcHJlc3NfZW50aXR5X2RlbGV0ZXMoKSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICNzdHJha2VfZnJvbnQgLT0gdG9fcmVtb3ZlCg==</text>
+        <text encoding="base64">CiAgICBhczJjb21wb25lbnRzID0gQVMyQ29tcG9uZW50cygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGIgKyB3aW5nCg==</text>
+        <text encoding="base64">ICAgIHNhZ2Uuc2FnZV9ydW5uZXIuc3VwcHJlc3NfZW50aXR5X2RlbGV0ZXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0cmFrZV9taW51c190YyArIHdpbmcgKyBzdHJha2VfYmFjawogICAgZXhpdCgwKQo=</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChzdHJha2VfbWludXNfdGMsIG9ibmFjX3RjX2Zyb250LCAnYm9vbF9mYWlsLnNhdCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0cmFrZV9mcm9udCArIHdpbmcKICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgICNmdXNlICsgc3RyYWtlX2JhY2sgKyBzdHJha2VfZnJvbnQgKyB3aW5nICMgRG9lc24ndCB3b3JrCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNzdHJha2VfZnJvbnQgKyB3aW5nICsgc3RyYWtlX2JhY2sgKyBmdXNlICMgV29ya3MK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -446,7 +445,6 @@
         <entry>intersect</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/no_test_/test_/gc</entry>
         <entry>/pysage</entry>
         <entry>%s/isClosed/isPeriodic/gc</entry>
         <entry>we</entry>
@@ -466,6 +464,7 @@
         <entry>%s/as2Components/AS2Components/gc</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
