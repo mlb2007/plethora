@@ -95,11 +95,10 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509576162855">
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-        <mark key="^" line="86" column="0" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1509580207765">
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="63" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -118,10 +117,10 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509576706541">
-        <mark key="[" line="181" column="13" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1509580202381">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="63" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
@@ -251,8 +250,8 @@
         <mark key="." line="166" column="13" />
         <mark key="^" line="166" column="13" />
       </file>
-      <file name="$USER_HOME$/pysage-aero/sage/api.py" timestamp="1509574302374">
-        <mark key="'" line="4527" column="43" />
+      <file name="$USER_HOME$/pysage-aero/sage/api.py" timestamp="1509579789672">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -263,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3082" column="47" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="3196" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3197" column="54" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3198" column="53" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="3246" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -334,7 +331,6 @@
       <jump line="63" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="64" column="22" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="3018" column="4" filename="$USER_HOME$/pysage-aero/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/pysage-aero/sage/api.py" />
       <jump line="14" column="4" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" />
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
       <jump line="418" column="35" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
@@ -363,58 +359,61 @@
       <jump line="135" column="4" filename="$USER_HOME$/workspace/cowl_translation_debug/as2.py" />
       <jump line="4256" column="4" filename="$USER_HOME$/pysage-aero/sage/api.py" />
       <jump line="4527" column="43" filename="$USER_HOME$/pysage-aero/sage/api.py" />
+      <jump line="2904" column="4" filename="$USER_HOME$/pysage-aero/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/pysage-aero/sage/api.py" />
+      <jump line="4278" column="4" filename="$USER_HOME$/pysage-aero/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2FnZS5ib2RpZXMuQm9keShzYWdlX29sZC5zaW1wbGlmeV9lbnRpdHkod2luZy5zX2VudGl0eSkpCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>intersect</text>
+        <text>simplify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGIgPSBzdHJha2VfYmFjayArIGZ1c2UgIysgc3RyYWtlX2Zyb250ICMrIHdpbmcgKyBmdXNlIyArIHN0cmFrZV9mcm9udAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgc2FnZS5ib2RpZXMuQm9keShzYWdlX29sZC5zaW1wbGlmeV9lbnRpdHkod2luZy5zX2VudGl0eSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50ICIrKysrIHN0cmFrZSBzdWJ0cmFjdCBET05FICsrKysrIgo=</text>
+        <text encoding="base64">ICAgICMgc2FnZS5ib2RpZXMuQm9keShzYWdlX29sZC5zaW1wbGlmeV9lbnRpdHkoYi5zX2VudGl0eSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNlbmRpdl0sICJ0b19iZV91bml0ZWQuc2F0IikK</text>
+        <text encoding="base64">ICAgICNzdHJha2VfYmFjayA9IHNhZ2UuYm9kaWVzLkJvZHkoc2FnZS5hcGkuc3VidHJhY3Qoc3RyYWtlX2N1dHRlcl9wb3J0LnNfZW50aXR5LCBzdHJha2Uuc19lbnRpdHkuY2xvbmUoKSwgZGVzdHJ1Y3RpdmU9RmFsc2UpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9iZGl2LCBhcGkubWlycm9yKG9iZGl2LCBhcGkuVU5JVF9WRUNfWSksCg==</text>
+        <text encoding="base64">ICAgICNzdHJha2VfY3V0X3BvcnRpb24gPSBzYWdlLmJvZGllcy5Cb2R5KHNhZ2UuYXBpLmludGVyc2VjdChzdHJha2VfY3V0dGVyX3BvcnQuc19lbnRpdHksIHN0cmFrZS5zX2VudGl0eS5jbG9uZSgpLCBkZXN0cnVjdGl2ZT1GYWxzZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdpbmcsIGFwaS5taXJyb3Iod2luZywgYXBpLlVOSVRfVkVDX1kpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmFrZV9mcm9udCwgYXBpLm1pcnJvcihzdHJha2VfZnJvbnQsIGFwaS5VTklUX1ZFQ19ZKSwK</text>
+        <text encoding="base64">ICAgICMgc2FnZS5pby5leHBvcnQoc3RyYWtlX2JhY2ssIHN0cmFrZV9mcm9udCwgb2JuYWNfdGNfZnJvbnQsIG9ibmFjX3RjX3JlYXIsICJ0cmFuc2xhdGVkX3N0cmFrZV9jb3dsLnNhdCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0cmFrZV9iYWNrLCBhcGkubWlycm9yKHN0cmFrZV9iYWNrLCBhcGkuVU5JVF9WRUNfWSksCg==</text>
+        <text encoding="base64">ICAgICMgc3RyYWtlX2Zyb250LmNvbG9yKCdjJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwaS5leHBvcnQoW2Z1c2UsCg==</text>
+        <text encoding="base64">ICAgICMgc3RyYWtlX2JhY2suY29sb3IoJ2wnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>intersect</last-search>
+      <last-search>simplify</last-search>
       <last-offset />
-      <last-pattern>intersect</last-pattern>
+      <last-pattern>simplify</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -422,7 +421,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21waWxlX291dHB1dF9nZW9tZXRyeV9kaWN0aW9uYXJ5XD4=</entry>
         <entry>obnac</entry>
         <entry>translating_</entry>
         <entry>cennac</entry>
@@ -442,6 +440,7 @@
         <entry>as2Components</entry>
         <entry encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</entry>
         <entry>intersect</entry>
+        <entry>simplify</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
@@ -486,6 +485,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
