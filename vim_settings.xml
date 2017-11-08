@@ -21,12 +21,11 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1509645325912">
-        <mark key="'" line="1276" column="6" />
-        <mark key="[" line="1286" column="4" />
-        <mark key="]" line="1297" column="6" />
-        <mark key="^" line="1296" column="54" />
-        <mark key="." line="1277" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510182575408">
+        <mark key="'" line="1419" column="46" />
+        <mark key="[" line="1302" column="57" />
+        <mark key="]" line="1302" column="70" />
+        <mark key="." line="1302" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
@@ -72,10 +71,10 @@
         <mark key="." line="29" column="11" />
         <mark key="^" line="29" column="11" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1509650559558">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1510182323955">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4256" column="0" />
-        <mark key="]" line="4301" column="18" />
+        <mark key="[" line="3066" column="0" />
+        <mark key="]" line="3123" column="28" />
         <mark key="." line="704" column="0" />
         <mark key="^" line="704" column="0" />
       </file>
@@ -141,11 +140,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" timestamp="1510182091122">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
-      </file>
-      <file name="/Python Console" timestamp="1510176084435">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1503522790687">
         <mark key="[" line="0" column="0" />
@@ -259,14 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1281" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1300" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="112" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="356" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="104" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="1276" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="4253" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="3096" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1538" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="282" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
@@ -359,58 +353,66 @@
       <jump line="200" column="16" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
       <jump line="331" column="49" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
       <jump line="323" column="23" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
+      <jump line="22" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" />
+      <jump line="5" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" />
+      <jump line="585" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1374" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1312" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1322" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1350" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN6X3JlYWQgPSBweXNhZ2UuSW1wb3J0T3BlcmF0aW9ucy5SZWFkSUdFUyhmaWxlbmFtZSwgZW50aXRpZXNfbWFwKQo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGxBUElfV3JpdGVyX1dyaXRlXD4=</text>
+        <text>read_</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIGltcG9ydCBzeXMKCiAgICBsb2cuc2hvd19pbmZvKCkKCiAgICAjIFJlYWQgaW5wdXQgZmlsZQogICAgaW5wdXQgPSAib2JuYWMuanNvbiIKICAgIGlmIGxlbihzeXMuYXJndikgPj0gMjoKICAgICAgICBpbnB1dD1zeXMuYXJndlsxXQogICAganNvbmRhdGEgPSBsb2FkX2pzb24oaW5wdXQpCiAgICBidWlsZF9pbmxldChqc29uZGF0YSk=</text>
+        <text encoding="base64">ZGVmIHJlYWRfaWdlcyhmaWxlbmFtZSwgcmV0dXJuX2RpY3Q9RmFsc2UpOgogICAgIiIiCiAgICByZWFkcyBhbiBpZ2VzIGZpbGUgYW5kIGV4dHJhY3RzIHRoZSBlbnRpdGllcyBmcm9tIHRoZSBmaWxlIGFuZCByZXR1cm5zIHRvIHVzZXIKCiAgICA6cGFyYW0gZmlsZW5hbWU6IHRoZSBuYW1lIG9mIHRoZSBJR0VTIGZpbGUKCiAgICA6cGFyYW0gcmV0dXJuX2RpY3Q6IEEgYm9vbGVhbiB0aGF0IGNvbnRyb2xzIGlmIHRoZSBvdXRwdXQgaXMgYSBsaXN0IG9mIGFsbCBJR0VTIGVudGl0aWVzIG9yIGNsYXNzaWZpZWQgYXMgJ0JPRFknLCAnRkFDRScgZXRjLgogICAgICAgICAgICAgICAgICAgICAgICBpZiByZXR1cm5fZGljdCBpcyB0cnVlLCBhY2Nlc3MgYm9kaWVzIGFzIG91dFsnQk9EWSddLCB3aGVyZSAnQk9EWScgaXMgdGhlIGtleS4gU2ltaWxhcmx5LCBpZiB3ZSB3YW50IEZhY2VzCiAgICAgICAgICAgICAgICAgICAgICAgIGFjY2VzcyB0aGVtIGFzIG91dFsnRkFDRSddLiBUaGUgb3V0cHV0IG9mIGVhY2ggb2YgdGhlc2Uga2V5cyB3aWxsIGJlIGEgbGlzdCBvZiBlbnRyaWVzIC4uLgoKICAgIDpyZXR1cm46IEEgbGlzdCBvciBhIGRpY3Rpb25hcnkgb2YgU0FHRSBlbnRpdGllcwogICAgIiIiCiAgICAjIHBhc3MgYW4gZW1wdHkgbWFwIHRvIGJlIGZpbGxlZCBpbgogICAgZW50aXRpZXNfbWFwID0gcHlzYWdlLnNFbnRpdHlQdHJWZWNNYXAoKQogICAgc3pfcmVhZCA9IHB5c2FnZS5JbXBvcnRPcGVyYXRpb25zLlJlYWRJR0VTKGZpbGVuYW1lLCBlbnRpdGllc19tYXApCiAgICBvdXRfZW50cyA9IHt9CiAgICBmb3IgZGF0YV9wYWlyIGluIGVudGl0aWVzX21hcDoKICAgICAgICBrZXkgPSBkYXRhX3BhaXIua2V5KCkKICAgICAgICBzYXRfdmVjID0gW2VudCBmb3IgZW50IGluIGVudGl0aWVzX21hcFtrZXldXQogICAgICAgIG91dF9lbnRzW2tleV0gPSBzYXRfdmVjCgogICAgaWYgcmV0dXJuX2RpY3Q6CiAgICAgICAgcmV0dXJuIG91dF9lbnRzCiAgICBlbHNlOgogICAgICAgIG91dF9lbnRzX2xpc3QgPSBbXQogICAgICAgIGZvciBrZXksIHZhbHVlIGluIG91dF9lbnRzLml0ZXJpdGVtcygpOgogICAgICAgICAgICBvdXRfZW50c19saXN0LmV4dGVuZCh2YWx1ZSkKICAgICAgICByZXR1cm4gb3V0X2VudHNfbGlzdAoKCmRlZiByZWFkX3NhdChmaWxlbmFtZSwgcmV0dXJuX2RpY3Q9RmFsc2UpOgogICAgIiIiCiAgICByZWFkcyBhIHNhdCBmaWxlIGFuZCBleHRyYWN0cyB0aGUgZW50aXRpZXMgZnJvbSB0aGUgZmlsZSBhbmQgcmV0dXJucyB0byB1c2VyCgogICAgOnBhcmFtIGZpbGVuYW1lOiB0aGUgbmFtZSBvZiB0aGUgQUNJUyBTQVQgZmlsZQoKICAgIDpwYXJhbSByZXR1cm5fZGljdDogQSBib29sZWFuIHRoYXQgY29udHJvbHMgaWYgdGhlIG91dHB1dCBpcyBhIGxpc3Qgb2YgYWxsIFNBVCBlbnRpdGllcyBvciBjbGFzc2lmaWVkIGFzICdCT0RZJywgJ0ZBQ0UnIGV0Yy4KICAgICAgICAgICAgICAgICAgICAgICAgaWYgcmV0dXJuX2RpY3QgaXMgdHJ1ZSwgYWNjZXNzIGJvZGllcyBhcyBvdXRbJ0JPRFknXSwgd2hlcmUgJ0JPRFknIGlzIHRoZSBrZXkuIFNpbWlsYXJseSwgaWYgd2Ugd2FudCBGYWNlcwogICAgICAgICAgICAgICAgICAgICAgICBhY2Nlc3MgdGhlbSBhcyBvdXRbJ0ZBQ0UnXS4gVGhlIG91dHB1dCBvZiBlYWNoIG9mIHRoZXNlIGtleXMgd2lsbCBiZSBhIGxpc3Qgb2YgZW50cmllcyAuLi4KCiAgICA6cmV0dXJuOiBBIGxpc3Qgb3IgYSBkaWN0aW9uYXJ5IG9mIFNBR0UgZW50aXRpZXMKICAgICIiIgogICAgIyBwYXNzIGFuIGVtcHR5IG1hcCB0byBiZSBmaWxsZWQgaW4KICAgIGVudGl0aWVzX21hcCA9IHB5c2FnZS5zRW50aXR5UHRyVmVjTWFwKCkKICAgIHN6X3JlYWQgPSBweXNhZ2UuSW1wb3J0T3BlcmF0aW9ucy5SZWFkU0FUKGZpbGVuYW1lLCBlbnRpdGllc19tYXApCiAgICBvdXRfZW50cyA9IHt9CiAgICBmb3IgZGF0YV9wYWlyIGluIGVudGl0aWVzX21hcDoKICAgICAgICBrZXkgPSBkYXRhX3BhaXIua2V5KCkKICAgICAgICBzYXRfdmVjID0gW2VudCBmb3IgZW50IGluIGVudGl0aWVzX21hcFtrZXldXQogICAgICAgIG91dF9lbnRzW2tleV0gPSBzYXRfdmVjCgogICAgaWYgcmV0dXJuX2RpY3Q6CiAgICAgICAgcmV0dXJuIG91dF9lbnRzCiAgICBlbHNlOgogICAgICAgIG91dF9lbnRzX2xpc3QgPSBbXQogICAgICAgIGZvciBrZXksIHZhbHVlIGluIG91dF9lbnRzLml0ZXJpdGVtcygpOgogICAgICAgICAgICBvdXRfZW50c19saXN0LmV4dGVuZCh2YWx1ZSkKICAgICAgICByZXR1cm4gb3V0X2VudHNfbGlzdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN6X3JlYWQgPSBweXNhZ2UuSW1wb3J0T3BlcmF0aW9ucy5SZWFkSUdFUyhmaWxlbmFtZSwgZW50aXRpZXNfbWFwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQgbXlfYm94Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYW5zZm9ybXMK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBzdGFydF9kaXNwbGF5KCkK</text>
+        <text encoding="base64">cHJpbnQgbXlfYm94Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBkaXNwbGF5LkRpc3BsYXlTaGFwZShteV9ib3gsIHVwZGF0ZT1UcnVlKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyBzdGFydF9kaXNwbGF5KCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBkaXNwbGF5LCBzdGFydF9kaXNwbGF5LCBhZGRfbWVudSwgYWRkX2Z1bmN0aW9uX3RvX21lbnUgPSBpbml0X2Rpc3BsYXkoKQo=</text>
+        <text encoding="base64">IyBkaXNwbGF5LkRpc3BsYXlTaGFwZShteV9ib3gsIHVwZGF0ZT1UcnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBPQ0MuRGlzcGxheS5TaW1wbGVHdWkgaW1wb3J0IGluaXRfZGlzcGxheQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBPQ0MuSUdFU0NvbnRyb2wgaW1wb3J0IElHRVNDb250cm9sX1dyaXRlcgo=</text>
+        <text encoding="base64">IyBkaXNwbGF5LCBzdGFydF9kaXNwbGF5LCBhZGRfbWVudSwgYWRkX2Z1bmN0aW9uX3RvX21lbnUgPSBpbml0X2Rpc3BsYXkoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGxBUElfV3JpdGVyX1dyaXRlXD4=</last-search>
+      <last-search>read_</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGxBUElfV3JpdGVyX1dyaXRlXD4=</last-pattern>
+      <last-pattern>read_</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -418,8 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry>as2components</entry>
-        <entry>as2Components</entry>
         <entry encoding="base64">XDxzdHJha2VfZnJvbnRcPg==</entry>
         <entry>intersect</entry>
         <entry>simplify</entry>
@@ -438,6 +438,8 @@
         <entry encoding="base64">XDx0cmFuc2xhdGluZ19jb3dsXD4=</entry>
         <entry encoding="base64">XDxTdGxBUElfRXJyb3JTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxTdGxBUElfV3JpdGVyX1dyaXRlXD4=</entry>
+        <entry encoding="base64">XDxfX2dldEZpbGVFeHRlbnNpb25cPg==</entry>
+        <entry>read_</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
