@@ -134,8 +134,10 @@
         <mark key="]" line="748" column="0" />
         <mark key="." line="748" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/OCC/occ_hello.py" timestamp="1510097427688">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/OCC/occ_hello.py" timestamp="1510168324842">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1509498048851">
         <mark key="[" line="57" column="15" />
@@ -393,28 +395,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICBidWlsZF9pbmxldChqc29uZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBqc29uZGF0YSA9IGxvYWRfanNvbihpbnB1dCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgaW5wdXQ9c3lzLmFyZ3ZbMV0K</text>
+        <text encoding="base64">IyAgICBidWlsZF9pbmxldChqc29uZGF0YSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICBpZiBsZW4oc3lzLmFyZ3YpID49IDI6Cg==</text>
+        <text encoding="base64">IyAgICBqc29uZGF0YSA9IGxvYWRfanNvbihpbnB1dCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICBpbnB1dCA9ICJvYm5hYy5qc29uIgo=</text>
+        <text encoding="base64">IyAgICAgICAgaW5wdXQ9c3lzLmFyZ3ZbMV0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAjIFJlYWQgaW5wdXQgZmlsZQo=</text>
+        <text encoding="base64">IyAgICBpZiBsZW4oc3lzLmFyZ3YpID49IDI6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">IyAgICBpbnB1dCA9ICJvYm5hYy5qc29uIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICBsb2cuc2hvd19pbmZvKCkK</text>
+        <text encoding="base64">IyAgICAjIFJlYWQgaW5wdXQgZmlsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
