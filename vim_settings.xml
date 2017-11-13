@@ -21,12 +21,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510610249448">
-        <mark key="'" line="341" column="0" />
-        <mark key="[" line="1309" column="23" />
-        <mark key="]" line="1309" column="0" />
-        <mark key="." line="1309" column="0" />
-        <mark key="^" line="1306" column="39" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510613822315">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="1278" column="17" />
+        <mark key="]" line="1285" column="41" />
+        <mark key="^" line="1285" column="41" />
+        <mark key="." line="1285" column="41" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
@@ -169,12 +169,12 @@
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
         <mark key="'" line="481" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1509644133439">
-        <mark key="'" line="148" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="50" column="10" />
-        <mark key="^" line="50" column="10" />
-        <mark key="." line="50" column="10" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1510613687842">
+        <mark key="'" line="43" column="80" />
+        <mark key="[" line="59" column="18" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="52" column="25" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
         <mark key="'" line="5" column="0" />
@@ -288,10 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="21" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="3" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="857" column="72" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="1098" column="38" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="1126" column="72" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="1596" column="24" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="1647" column="40" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -388,58 +384,62 @@
       <jump line="358" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="281" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
       <jump line="3" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
+      <jump line="43" column="80" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
+      <jump line="1352" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1303" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyA9PT0gSU1QT1JURVJTID09PQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>translat</text>
+        <text>explode</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGltcG9ydF9ib2RpZXMoZmlsZW5hbWUpOgogICAgcmV0dXJuIEltcG9ydEdlb21ldHJ5KGZpbGVuYW1lKS5ib2RpZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyA9PT0gSU1QT1JURVJTID09PQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBJbXBvcnRHZW9tZXRyeShmaWxlbmFtZSkuZmFjZXMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZGVmIGltcG9ydF9mYWNlcyhmaWxlbmFtZSk6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVmIF9nZXRfZmlsZV9leHQoc2VsZik6CiAgICBfLCBleHQgPSBvcy5wYXRoLnNwbGl0ZXh0KHNlbGYuX2ZpbGVuYW1lKQogICAgcmV0dXJuIGV4dC5sb3dlcigpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZV9saXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jb3B5KCkuc2ltcGxpZnlfZW50aXR5KHNlbGYuc19lbnRpdHksIHRvbGVyYW5jZSwgYXBwcm94aW1hdGUsIEZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlX2xpc3QgPSBbY29yZS5FbnRpdHkoZSkgZm9yIGUgaW4gc2VsZi5lbnRpdHlfbWFwWydFREdFJ11dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBlZGdlcyhzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gZW50aXR5OiBUaGUgZW50aXR5IHRvIGJlIHNpbXBsaWZpZWQuIFRoaXMgbXVzdCBiZSBhIEJvZHkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>translat</last-search>
+      <last-search>explode</last-search>
       <last-offset />
-      <last-pattern>translat</last-pattern>
+      <last-pattern>explode</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -447,8 +447,6 @@
     </search>
     <history>
       <history-search>
-        <entry>read_sat</entry>
-        <entry encoding="base64">XDxub3NlX3Job1w+</entry>
         <entry>nose_rho</entry>
         <entry>spinner</entry>
         <entry>inlet</entry>
@@ -467,6 +465,8 @@
         <entry>color</entry>
         <entry>translatin</entry>
         <entry>translat</entry>
+        <entry encoding="base64">XDxvbmx5XD4=</entry>
+        <entry>explode</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
