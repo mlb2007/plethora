@@ -38,6 +38,13 @@
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
       </file>
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1510601481074">
+        <mark key="'" line="358" column="3" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
         <mark key="[" line="680" column="8" />
@@ -102,12 +109,12 @@
       <file name="$USER_HOME$/pysage-aero/sage/core.py" timestamp="1509558935015">
         <mark key="'" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" timestamp="1509658438998">
-        <mark key="'" line="3" column="17" />
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" timestamp="1510601500465">
+        <mark key="'" line="3" column="18" />
         <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-        <mark key="^" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1510601021911">
         <mark key="[" line="10" column="0" />
@@ -319,10 +326,7 @@
       <jump line="1863" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1865" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="277" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
-      <jump line="281" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
-      <jump line="3" column="17" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
       <jump line="327" column="69" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="6" column="7" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="325" column="56" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
@@ -337,7 +341,6 @@
       <jump line="17" column="10" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="5032" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="7" column="12" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="358" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="16" column="1" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="363" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
       <jump line="3760" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -371,19 +374,23 @@
       <jump line="51" column="16" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/data/obnac.json" />
       <jump line="74" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
+      <jump line="358" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
+      <jump line="281" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
+      <jump line="3" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>color</text>
+        <text>translat</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHdpdGggb3BlbignZGF0YS9zdHJha2VfdHJhbnNsYXRvci5qc29uJykgYXMgZGF0YV9maWxlOgogICAgICAgIGN1dHRlcl9kYXRhID0ganNvbi5sb2FkKGRhdGFfZmlsZSkKICAgIA==</text>
@@ -420,9 +427,9 @@
       </register>
     </registers>
     <search>
-      <last-search>color</last-search>
+      <last-search>translat</last-search>
       <last-offset />
-      <last-pattern>color</last-pattern>
+      <last-pattern>translat</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -430,8 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3B5XD4=</entry>
-        <entry>read_iges</entry>
         <entry>read_sat</entry>
         <entry encoding="base64">XDxub3NlX3Job1w+</entry>
         <entry>nose_rho</entry>
@@ -450,6 +455,8 @@
         <entry>translating_cowl</entry>
         <entry>translating</entry>
         <entry>color</entry>
+        <entry>translatin</entry>
+        <entry>translat</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
