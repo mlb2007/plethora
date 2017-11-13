@@ -30,8 +30,10 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/data/strake_translator.json" timestamp="1509568755565">
-        <mark key="[" line="6" column="11" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/data/strake_translator.json" timestamp="1510599894627">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
@@ -114,10 +116,10 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1510599814108">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/workspace/cowl_translation_debug/as2.py" timestamp="1510601021911">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1508792276853">
         <mark key="'" line="213" column="9" />
@@ -136,16 +138,23 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/strake_translator.json" timestamp="1509556257189">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/strake_translator.json" timestamp="1510600077021">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" timestamp="1510183385232">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="42" column="14" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1510600733359">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="4" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
@@ -213,12 +222,12 @@
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1510596749527">
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" timestamp="1510600496319">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="71" column="4" />
-        <mark key="]" line="72" column="47" />
-        <mark key="." line="72" column="47" />
-        <mark key="^" line="72" column="47" />
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="92" column="27" />
+        <mark key="." line="92" column="27" />
+        <mark key="^" line="92" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1509643098502">
         <mark key="[" line="104" column="0" />
@@ -269,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="34" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="366" column="21" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="3" column="18" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="857" column="72" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -369,6 +377,7 @@
       <jump line="1993" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="51" column="16" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/cowl_translation_debug/data/obnac.json" />
+      <jump line="74" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,10 +387,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>translating</text>
+        <text>color</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHdpdGggb3BlbignZGF0YS9zdHJha2VfdHJhbnNsYXRvci5qc29uJykgYXMgZGF0YV9maWxlOgogICAgICAgIGN1dHRlcl9kYXRhID0ganNvbi5sb2FkKGRhdGFfZmlsZSkKICAgIA==</text>
@@ -393,34 +402,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KHdpbmcsIHVuaXRlZF9ib2R5LCAiYm9keV93aXRoX3dpbmcuc2F0IikK</text>
+        <text encoding="base64">IyBBIGNvbnZlbmllbmNlIGNsYXNzIHdpdGggbWV0aG9kcyB0byByZWZlciB0byBkaWZmZXJlbnQgcGFydHMgb2YgYXMyIHdoaWNoIHBvdGVudGlhbGx5IGhhdmUgYmVlbiBidWlsdCBieSBvdGhlciBmb2xrcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdW5pdGVkX2JvZHkgPSB1bml0ZWRfYm9keSArIHdpbmcgICAjICsgd2luZ19taXJyb3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgc3RyYWtlX2JhY2sgKyBmdXNlICMgVGhpcyBpcyB3aGVuIHRoZSB0cm91YmxlIGJlZ2lucwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgc3RyYWtlX2JhY2sgKyBzdHJha2VfZnJvbnQgKyB3aW5nICsgZnVzZSAjIERvZXNuJ3Qgd29yawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgYiArPSB3aW5nCg==</text>
+        <text encoding="base64">ICAgICMgcHJpbnQgIj09PT4gQ2xvc3VyZSBwdDoiLCBjeCwgY3ksIGN6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>translating</last-search>
+      <last-search>color</last-search>
       <last-offset />
-      <last-pattern>translating</last-pattern>
+      <last-pattern>color</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -428,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>simplify</entry>
         <entry encoding="base64">XDxjb3B5XD4=</entry>
         <entry>read_iges</entry>
         <entry>read_sat</entry>
@@ -448,6 +456,7 @@
         <entry>translation</entry>
         <entry>translating_cowl</entry>
         <entry>translating</entry>
+        <entry>color</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
