@@ -21,12 +21,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510609045708">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510610249448">
         <mark key="'" line="341" column="0" />
-        <mark key="[" line="1304" column="6" />
-        <mark key="]" line="1353" column="17" />
-        <mark key="^" line="1353" column="17" />
-        <mark key="." line="1353" column="17" />
+        <mark key="[" line="1309" column="23" />
+        <mark key="]" line="1309" column="0" />
+        <mark key="." line="1309" column="0" />
+        <mark key="^" line="1306" column="39" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
@@ -67,12 +67,12 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1510609885612">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1510610482233">
         <mark key="'" line="8" column="28" />
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="92" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="87" column="18" />
+        <mark key="." line="87" column="18" />
+        <mark key="^" line="87" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1510182323955">
         <mark key="'" line="0" column="0" />
@@ -263,6 +263,12 @@
       <file name="$USER_HOME$/workspace/cowl_translation_debug/data/obnac.json" timestamp="1510599731153">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510610079190">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="1" column="68" />
+        <mark key="^" line="1" column="68" />
+        <mark key="." line="1" column="68" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499970679140">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="166" column="68" />
@@ -391,7 +397,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>translat</text>
@@ -403,28 +409,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZV9saXN0Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBJbXBvcnRHZW9tZXRyeShmaWxlbmFtZSkuZmFjZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlX2xpc3QgPSBbY29yZS5FbnRpdHkoZSkgZm9yIGUgaW4gc2VsZi5lbnRpdHlfbWFwWydFREdFJ11dCg==</text>
+        <text encoding="base64">ZGVmIGltcG9ydF9mYWNlcyhmaWxlbmFtZSk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBlZGdlcyhzZWxmKToK</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZV9saXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlX2xpc3QgPSBbY29yZS5FbnRpdHkoZSkgZm9yIGUgaW4gc2VsZi5lbnRpdHlfbWFwWydFREdFJ11dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYm9keV9saXN0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBlZGdlcyhzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
