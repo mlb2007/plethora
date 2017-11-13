@@ -21,11 +21,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510184739427">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510607809775">
         <mark key="'" line="341" column="0" />
-        <mark key="[" line="1358" column="0" />
-        <mark key="]" line="1358" column="0" />
-        <mark key="." line="1358" column="0" />
+        <mark key="[" line="1312" column="32" />
+        <mark key="]" line="1321" column="42" />
+        <mark key="." line="1321" column="42" />
+        <mark key="^" line="1321" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
@@ -387,31 +388,31 @@
         <text>_Color.color_dict['white']</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>translat</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHdpdGggb3BlbignZGF0YS9zdHJha2VfdHJhbnNsYXRvci5qc29uJykgYXMgZGF0YV9maWxlOgogICAgICAgIGN1dHRlcl9kYXRhID0ganNvbi5sb2FkKGRhdGFfZmlsZSkKICAgIA==</text>
+        <text encoding="base64">Zm9yIGRhdGFfcGFpciBpbiBlbnRpdGllc19tYXA6CiAgICAgICAga2V5ID0gZGF0YV9wYWlyLmtleSgpCiAgICAgICAgc2F0X3ZlYyA9IFtlbnQgZm9yIGVudCBpbiBlbnRpdGllc19tYXBba2V5XV0KICAgICAgICBvdXRfZW50c1trZXldID0gc2F0X3ZlYwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVudGl0aWVzX21hcCA9IHB5c2FnZS5zRW50aXR5UHRyVmVjTWFwKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN6X3JlYWQgPSBpbXBvcnRlcihmaWxlbmFtZSwgZW50aXRpZXNfbWFwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0ZBQ0UnLCAnRURHRScgZXRjLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBBIGNvbnZlbmllbmNlIGNsYXNzIHdpdGggbWV0aG9kcyB0byByZWZlciB0byBkaWZmZXJlbnQgcGFydHMgb2YgYXMyIHdoaWNoIHBvdGVudGlhbGx5IGhhdmUgYmVlbiBidWlsdCBieSBvdGhlciBmb2xrcwo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbSByZXR1cm5fZGljdDogQSBib29sZWFuIHRoYXQgY29udHJvbHMgaWYgdGhlIG91dHB1dCBpcyBhIGxpc3Qgb2YgYWxsIGVudGl0aWVzIG9yIGNsYXNzaWZpZWQgYXMgJ0JPRFknLAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -420,10 +421,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgcHJpbnQgIj09PT4gQ2xvc3VyZSBwdDoiLCBjeCwgY3ksIGN6Cg==</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
