@@ -21,12 +21,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510607809775">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510609045708">
         <mark key="'" line="341" column="0" />
-        <mark key="[" line="1312" column="32" />
-        <mark key="]" line="1321" column="42" />
-        <mark key="." line="1321" column="42" />
-        <mark key="^" line="1321" column="42" />
+        <mark key="[" line="1304" column="6" />
+        <mark key="]" line="1353" column="17" />
+        <mark key="^" line="1353" column="17" />
+        <mark key="." line="1353" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1508520683189">
         <mark key="'" line="179" column="87" />
@@ -67,12 +67,12 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1508794213407">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1510609885612">
         <mark key="'" line="8" column="28" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="29" column="11" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="11" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1510182323955">
         <mark key="'" line="0" column="0" />
@@ -387,32 +387,32 @@
       <register name="a" type="4">
         <text>_Color.color_dict['white']</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>translat</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Zm9yIGRhdGFfcGFpciBpbiBlbnRpdGllc19tYXA6CiAgICAgICAga2V5ID0gZGF0YV9wYWlyLmtleSgpCiAgICAgICAgc2F0X3ZlYyA9IFtlbnQgZm9yIGVudCBpbiBlbnRpdGllc19tYXBba2V5XV0KICAgICAgICBvdXRfZW50c1trZXldID0gc2F0X3ZlYwo=</text>
+        <text encoding="base64">ZGVmIGltcG9ydF9ib2RpZXMoZmlsZW5hbWUpOgogICAgcmV0dXJuIEltcG9ydEdlb21ldHJ5KGZpbGVuYW1lKS5ib2RpZXMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVudGl0aWVzX21hcCA9IHB5c2FnZS5zRW50aXR5UHRyVmVjTWFwKCkK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHN6X3JlYWQgPSBpbXBvcnRlcihmaWxlbmFtZSwgZW50aXRpZXNfbWFwKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZV9saXN0Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBlX2xpc3QgPSBbY29yZS5FbnRpdHkoZSkgZm9yIGUgaW4gc2VsZi5lbnRpdHlfbWFwWydFREdFJ11dCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ0ZBQ0UnLCAnRURHRScgZXRjLgo=</text>
+        <text encoding="base64">ICAgIGRlZiBlZGdlcyhzZWxmKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSByZXR1cm5fZGljdDogQSBib29sZWFuIHRoYXQgY29udHJvbHMgaWYgdGhlIG91dHB1dCBpcyBhIGxpc3Qgb2YgYWxsIGVudGl0aWVzIG9yIGNsYXNzaWZpZWQgYXMgJ0JPRFknLAo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -421,10 +421,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYm9keV9saXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
