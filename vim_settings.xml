@@ -21,6 +21,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.pyi" timestamp="1510698725805">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510694387739">
         <mark key="'" line="1291" column="4" />
         <mark key="[" line="1352" column="4" />
@@ -206,6 +212,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.pyi" timestamp="1510698890225">
+        <mark key="[" line="5" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
       </file>
@@ -269,6 +278,9 @@
       </file>
       <file name="$USER_HOME$/workspace/cowl_translation_debug/data/obnac.json" timestamp="1510599731153">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.pyi" timestamp="1510698484350">
+        <mark key="[" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510618804248">
         <mark key="[" line="1" column="46" />
