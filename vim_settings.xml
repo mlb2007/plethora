@@ -132,11 +132,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510780933133">
-        <mark key="'" line="599" column="23" />
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="35" />
-        <mark key="." line="352" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510782517704">
+        <mark key="'" line="453" column="6" />
+        <mark key="[" line="563" column="49" />
+        <mark key="]" line="539" column="0" />
+        <mark key="." line="539" column="0" />
+        <mark key="^" line="539" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
@@ -265,11 +266,11 @@
       <file name="/Dummy.txt" timestamp="1508788911877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510773792075">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="35" column="35" />
-        <mark key="." line="35" column="35" />
-        <mark key="^" line="35" column="35" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510782271922">
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="32" />
       </file>
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
@@ -345,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1827" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1829" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1833" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1835" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
@@ -445,16 +445,17 @@
       <jump line="655" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="4" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="595" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="453" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>bodies</text>
@@ -463,31 +464,31 @@
         <text encoding="base64">Y2xhc3MgRmFjZXMoQmFzZVNtYXJ0RmlsdGVycyk6CiAgICAiIiJGaWx0ZXJhYmxlIGZhY2UtcXVlcnkgcmVzdWx0cy4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgc19pdGVyYWJsZSwgcHJlZGljYXRlPU5vbmUpOgogICAgICAgIHN1cGVyKEZhY2VzLCBzZWxmKS5fX2luaXRfXyhzX2l0ZXJhYmxlLCBwcmVkaWNhdGUpCgogICAgZGVmIF93cmFwKHNlbGYsIHNfZW50aXR5KToKICAgICAgICByZXR1cm4gRmFjZVF1ZXJ5KHNfZW50aXR5KQoKICAgIGRlZiBfd2l0aF9wcmVkaWNhdGUoc2VsZiwgcHJlZGljYXRlKToKICAgICAgICAiIiI6cnR5cGU6IEZhY2VzIiIiCiAgICAgICAgcmV0dXJuIEZhY2VzKHNlbGYuX2Jhc2VfaXRlcmFibGUsIHByZWRpY2F0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2N1cnZlcy5DdXJ2ZShlKSBmb3IgZSBpbiBzZWxmLl9yYXdfZW50aXR5X21hcFsnRURHRSddXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJvZGllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjZV9saXN0X3dyYXBwZWQgPSBbYm9kaWVzLkZhY2UoZikgZm9yIGYgaW4gc2VsZi5fcmF3X2VudGl0eV9tYXBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX2NhY2hlZF9saXN0ID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2JvZGllcy5GYWNlKGZhY2UpIGZvciBmYWNlIGluIHNlbGYuX3Jhd19lbnRpdHlfbWFwWydGQUNFJ11dCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3ByZWRpY2F0ZSAmPSBQcmVkaWNhdGUodXNlcl9mdW5jdGlvbiwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keV9saXN0X3dyYXBwZWQgPSBbYm9kaWVzLkJvZHkoYikgZm9yIGIgaW4gc2VsZi5fcmF3X2VudGl0eV9tYXBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIHByZWRpY2F0ZSA9IHNlbGYuX3ByZWRpY2F0ZSAmIFByZWRpY2F0ZSh1c2VyX2Z1bmN0aW9uLCAqYXJncywgKiprd2FyZ3MpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfY29weShzZWxmKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
+        <text encoding="base64">ICAgIEBhYmMuYWJzdHJhY3RtZXRob2QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
