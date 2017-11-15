@@ -128,14 +128,20 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510707168566">
-        <mark key="[" line="329" column="0" />
-        <mark key="]" line="330" column="0" />
-        <mark key="." line="330" column="0" />
-        <mark key="^" line="330" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510708895296">
+        <mark key="'" line="307" column="0" />
+        <mark key="[" line="321" column="0" />
+        <mark key="]" line="321" column="0" />
+        <mark key="." line="321" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
+      </file>
+      <file name="$USER_HOME$/pysage-aero/sage/cinterface.py" timestamp="1509659514924">
+        <mark key="'" line="1148" column="4" />
+        <mark key="[" line="748" column="0" />
+        <mark key="]" line="748" column="0" />
+        <mark key="." line="748" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OCC/occ_hello.py" timestamp="1510176816713">
         <mark key="[" line="13" column="32" />
@@ -147,6 +153,12 @@
         <mark key="]" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" timestamp="1510183385232">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="42" column="14" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1510600733359">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="16" column="48" />
@@ -157,7 +169,7 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1510619066266">
+      <file name="/Python Console" timestamp="1510708155358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1503522790687">
@@ -166,12 +178,11 @@
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
         <mark key="'" line="481" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1510706261017">
-        <mark key="'" line="3" column="21" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1510708571481">
+        <mark key="[" line="8" column="36" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
         <mark key="'" line="5" column="0" />
@@ -273,12 +284,12 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1510707785987">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1510708055682">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="26" column="19" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="26" column="19" />
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="28" column="8" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
@@ -301,11 +312,11 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.pyi" timestamp="1510698484350">
         <mark key="[" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510707610184">
-        <mark key="[" line="1" column="38" />
-        <mark key="]" line="2" column="37" />
-        <mark key="^" line="2" column="37" />
-        <mark key="." line="2" column="37" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510707969693">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curvemod.py" timestamp="1499970679140">
         <mark key="'" line="0" column="7" />
@@ -326,9 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1741" column="31" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1746" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="12" column="7" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="416" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="440" column="13" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="441" column="12" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
@@ -426,58 +434,61 @@
       <jump line="1" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="33" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="326" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="4" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
+      <jump line="308" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UuZ2VvbWltcG9ydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0aW9uc1w+</text>
+        <text encoding="base64">XDxjaVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRlZiBfbWFrZV9mYWNlc19mcm9tX2N1Ym9pZChzZWxmKToKICAgICAgICBib2R5MSA9IHNjLmJveCgoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkKICAgICAgICBib2R5ID0gc2IuQm9keShib2R5MSkKICAgICAgICBmYWNlcyA9IFtmYy5jb3B5KCkgZm9yIGZjIGluIGJvZHkuZmFjZXNdCiAgICAgICAgcmV0dXJuIGZhY2VzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UuZ2VvbWltcG9ydAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICMgICAgcmV0dXJuIGJvZGllcy5ib2R5KHNlbGYuc19lbnRpdHkuY2xvbmUoKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIiIiIEEgbXV0YWJsZSBib2R5IHRoYXQgY2FuIGJlIHRyYW5zZm9ybWVkICIiIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNkZWYgY29weShzZWxmKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGJvZGllcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXRoLmNvcHkuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlLmNvcHkuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYm9kaWVzLkZhY2Uoc2VsZi5zX2VudGl0eS5jbG9uZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgci5fX2NsYXNzX18gPT0gc2IuU3dlZXAK</text>
+        <text encoding="base64">ICAgICAgICAiIiIgQSBtdXRhYmxlIEZhY2UgdGhhdCBjYW4gYmUgdHJhbnNmb3JtZWQgIiIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzX2JvZHkuY2xvbmUuYXNzZXJ0X2NhbGxlZF9vbmNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBjb3B5KHNlbGYpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0aW9uc1w+</last-search>
+      <last-search encoding="base64">XDxjaVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjaVw+</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -485,7 +496,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdGxBUElfRXJyb3JTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxTdGxBUElfV3JpdGVyX1dyaXRlXD4=</entry>
         <entry encoding="base64">XDxfX2dldEZpbGVFeHRlbnNpb25cPg==</entry>
         <entry>read_</entry>
@@ -505,6 +515,7 @@
         <entry>closest</entry>
         <entry encoding="base64">XDxzcVw+</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uc1w+</entry>
+        <entry encoding="base64">XDxjaVw+</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
