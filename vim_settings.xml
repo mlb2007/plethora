@@ -132,12 +132,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510773005004">
-        <mark key="'" line="237" column="25" />
-        <mark key="[" line="604" column="0" />
-        <mark key="]" line="604" column="0" />
-        <mark key="." line="604" column="0" />
-        <mark key="^" line="602" column="20" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510774136239">
+        <mark key="'" line="598" column="28" />
+        <mark key="[" line="592" column="18" />
+        <mark key="]" line="592" column="21" />
+        <mark key="." line="592" column="21" />
+        <mark key="^" line="592" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
@@ -183,11 +183,11 @@
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
         <mark key="'" line="481" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1510715560632">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1510773696669">
+        <mark key="[" line="74" column="29" />
+        <mark key="]" line="71" column="34" />
+        <mark key="." line="71" column="34" />
+        <mark key="^" line="71" column="34" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1497380754538">
         <mark key="'" line="5" column="0" />
@@ -266,11 +266,11 @@
       <file name="/Dummy.txt" timestamp="1508788911877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510770122735">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="33" column="35" />
-        <mark key="." line="33" column="35" />
-        <mark key="^" line="33" column="35" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510773792075">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="34" column="35" />
+        <mark key="." line="34" column="35" />
+        <mark key="^" line="34" column="35" />
       </file>
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
@@ -346,7 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="440" column="13" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="441" column="12" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1809" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1811" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
@@ -446,6 +445,7 @@
       <jump line="4" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
       <jump line="308" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="237" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="598" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
