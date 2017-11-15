@@ -293,11 +293,11 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1510715712856">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1510771078154">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="47" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
@@ -451,7 +451,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlX2xpc3QgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>P</text>
@@ -463,31 +463,31 @@
         <text encoding="base64">IGRlZiB0ZXN0X2ltcG9ydF9mYWNlc19pZ2VzKHNlbGYpOgogICAgICAgIGZhY2VzID0gc2VsZi5fbWFrZV9mYWNlc19mcm9tX2N1Ym9pZCgpCiAgICAgICAgZm5hbWUgPSAnZm9vLmlnZXMnCiAgICAgICAgc2FnZS5pby5leHBvcnQoZmFjZXMsIGZuYW1lKQogICAgICAgIGltcG9ydGVkID0gc2FnZS5pby5pbXBvcnRfZ2VvbWV0cnkoZm5hbWUpCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5ib2RpZXMpID09IDYKICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5lZGdlcykgPT0gMAogICAgICAgIG9zLnJlbW92ZShmbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlX2xpc3QgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvcmUuRW50aXR5TGlzdChib2R5X2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5X2xpc3QgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlfZmFjZV9saXN0ID0gY29yZS5FbnRpdHlMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX2lncy5yZXR1cm5fdmFsdWUgPSAxICAjIGZha2UgdGhlIHNpemUgb2YgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrX3NhdC5yZXR1cm5fdmFsdWUgPSAxICAjIGZha2UgdGhlIHNpemUgb2YgZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYm9kaWVzWzBdLnZvbHVtZSA9PSA1KjEwKjEwCg==</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgIGRlZiBfcmVtb3ZlX2ZpbGUoc2VsZiwgZm5hbWUpOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc2F0KHNlbGYpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
