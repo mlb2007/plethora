@@ -132,12 +132,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510774136239">
-        <mark key="'" line="598" column="28" />
-        <mark key="[" line="592" column="18" />
-        <mark key="]" line="592" column="21" />
-        <mark key="." line="592" column="21" />
-        <mark key="^" line="592" column="21" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510780933133">
+        <mark key="'" line="599" column="23" />
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="35" />
+        <mark key="." line="352" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
@@ -268,9 +267,9 @@
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510773792075">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="34" column="35" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
@@ -346,13 +345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="12" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1809" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1811" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1815" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1817" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1821" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1823" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1827" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1829" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1833" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
@@ -445,59 +437,66 @@
       <jump line="4" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
       <jump line="308" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="237" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="598" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="598" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="368" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="596" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="655" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="595" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="-" type="4">
         <text>P</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaVw+</text>
+        <text>bodies</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgRmFjZXMoQmFzZVNtYXJ0RmlsdGVycyk6CiAgICAiIiJGaWx0ZXJhYmxlIGZhY2UtcXVlcnkgcmVzdWx0cy4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgc19pdGVyYWJsZSwgcHJlZGljYXRlPU5vbmUpOgogICAgICAgIHN1cGVyKEZhY2VzLCBzZWxmKS5fX2luaXRfXyhzX2l0ZXJhYmxlLCBwcmVkaWNhdGUpCgogICAgZGVmIF93cmFwKHNlbGYsIHNfZW50aXR5KToKICAgICAgICByZXR1cm4gRmFjZVF1ZXJ5KHNfZW50aXR5KQoKICAgIGRlZiBfd2l0aF9wcmVkaWNhdGUoc2VsZiwgcHJlZGljYXRlKToKICAgICAgICAiIiI6cnR5cGU6IEZhY2VzIiIiCiAgICAgICAgcmV0dXJuIEZhY2VzKHNlbGYuX2Jhc2VfaXRlcmFibGUsIHByZWRpY2F0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBOb3RJbXBsZW1lbnRlZEVycm9yKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
+        <text encoding="base64">aW1wb3J0IGJvZGllcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX2NhY2hlZF9saXN0ID0gTm9uZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYuX3ByZWRpY2F0ZSAmPSBQcmVkaWNhdGUodXNlcl9mdW5jdGlvbiwgKmFyZ3MsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAjIHByZWRpY2F0ZSA9IHNlbGYuX3ByZWRpY2F0ZSAmIFByZWRpY2F0ZSh1c2VyX2Z1bmN0aW9uLCAqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfcmVtb3ZlX2ZpbGUoc2VsZiwgZm5hbWUpOgo=</text>
+        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaVw+</last-search>
+      <last-search>bodies</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaVw+</last-pattern>
+      <last-pattern>bodies</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -505,9 +504,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdGxBUElfV3JpdGVyX1dyaXRlXD4=</entry>
-        <entry encoding="base64">XDxfX2dldEZpbGVFeHRlbnNpb25cPg==</entry>
-        <entry>read_</entry>
         <entry>translation</entry>
         <entry>translating_cowl</entry>
         <entry>translating</entry>
@@ -525,6 +521,9 @@
         <entry encoding="base64">XDxzcVw+</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxjaVw+</entry>
+        <entry>from_query</entry>
+        <entry>Body</entry>
+        <entry>bodies</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
