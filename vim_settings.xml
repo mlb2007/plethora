@@ -132,12 +132,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510785758818">
-        <mark key="'" line="453" column="6" />
-        <mark key="[" line="610" column="21" />
-        <mark key="]" line="612" column="0" />
-        <mark key="." line="612" column="0" />
-        <mark key="^" line="603" column="29" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510787729377">
+        <mark key="'" line="601" column="0" />
+        <mark key="[" line="459" column="53" />
+        <mark key="]" line="524" column="42" />
+        <mark key="." line="524" column="42" />
+        <mark key="^" line="524" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
@@ -266,11 +266,11 @@
       <file name="/Dummy.txt" timestamp="1508788911877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510782271922">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="32" />
-        <mark key="^" line="28" column="32" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510786848085">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
@@ -294,12 +294,11 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1510786041282">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="82" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1510787087519">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="74" column="35" />
+        <mark key="." line="74" column="35" />
+        <mark key="^" line="74" column="35" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/serialize.py" timestamp="1503522148982">
         <mark key="[" line="99" column="4" />
@@ -347,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1835" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1839" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1841" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1845" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1847" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
@@ -447,66 +444,67 @@
       <jump line="548" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="591" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="453" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="610" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</text>
+        <text encoding="base64">XDxhc3NlcnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
+        <text encoding="base64">aW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfZWRnZXMoJ2Zvby5zYXQnKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAwCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAwCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDIK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAwCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gNgogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMgogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZmFjZXMpID09IDAKICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNhZ2UuaW8uaW1wb3J0X2dlb21ldHJ5KGZuYW1lKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoQm9kaWVzLCBzZWxmKS5fX2xlbl9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChlZGdlMSwgZWRnZTIsIGZuYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2N1cnZlcy5DdXJ2ZShlKSBmb3IgZSBpbiBzZWxmLl9yYXdfZW50aXR5X21hcFsnRURHRSddXQo=</text>
+        <text encoding="base64">ICAgICAgICBmbmFtZSA9ICdmb28uaWdlcycK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmFjZV9saXN0X3dyYXBwZWQgPSBbYm9kaWVzLkZhY2UoZikgZm9yIGYgaW4gc2VsZi5fcmF3X2VudGl0eV9tYXBdCg==</text>
+        <text encoding="base64">ZWRnZTEsIGVkZ2UyID0gc2VsZi5fbWFrZV90d29fY3VydmVzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgW2JvZGllcy5GYWNlKGZhY2UpIGZvciBmYWNlIGluIHNlbGYuX3Jhd19lbnRpdHlfbWFwWydGQUNFJ11dCg==</text>
+        <text encoding="base64">ICAgICAgICAjb3MucmVtb3ZlKGZuYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</last-search>
+      <last-search encoding="base64">XDxhc3NlcnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NlcnRcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>translating_cowl</entry>
         <entry>translating</entry>
         <entry>color</entry>
         <entry>translatin</entry>
@@ -526,6 +524,7 @@
         <entry>Body</entry>
         <entry>bodies</entry>
         <entry encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</entry>
+        <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
