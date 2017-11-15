@@ -212,11 +212,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.pyi" timestamp="1510699943585">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="124" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.pyi" timestamp="1510704384137">
+        <mark key="[" line="153" column="35" />
+        <mark key="]" line="151" column="30" />
+        <mark key="." line="151" column="30" />
+        <mark key="^" line="151" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
@@ -234,13 +234,19 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1510697453465">
         <mark key="'" line="285" column="19" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.pyi" timestamp="1510703931816">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="32" column="45" />
+        <mark key="^" line="17" column="29" />
+        <mark key="." line="32" column="45" />
+      </file>
       <file name="/Dummy.txt" timestamp="1508788911877">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510697279237">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510704668385">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/True" timestamp="1502929474895">
         <mark key="[" line="0" column="0" />
@@ -413,13 +419,13 @@
     </jumps>
     <registers>
       <register name="a" type="4">
-        <text>_Color.color_dict['white']</text>
+        <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>closest</text>
@@ -434,25 +440,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdyb3VwKGVudGl0eV9kaWN0OiBkaWN0ID0gTm9uZSkgLT4gTmFtZWRFbnRpdHlHcm91cDogLi4uCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5lbnRpdHlfbWFwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5lbnRpdHlfbWFwW2tleV0gPSBbY29yZS5FbnRpdHkoZSkgZm9yIGUgaW4gZW50X2xpc3RdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCBlbnRfbGlzdCBpbiBzZWxmLl9yYXdfZW50aXR5X21hcC5pdGVyaXRlbXMoKToK</text>
+        <text encoding="base64">ZGVmIGdyb3VwKGVudGl0eV9kaWN0OiBkaWN0ID0gTm9uZSkgLT4gTmFtZWRFbnRpdHlHcm91cDogLi4uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBfZW50aXRpZXMoc2VsZik6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5lbnRpdHlfbWFwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
