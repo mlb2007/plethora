@@ -132,12 +132,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510782517704">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1510785469011">
         <mark key="'" line="453" column="6" />
-        <mark key="[" line="563" column="49" />
-        <mark key="]" line="539" column="0" />
-        <mark key="." line="539" column="0" />
-        <mark key="^" line="539" column="0" />
+        <mark key="[" line="605" column="16" />
+        <mark key="]" line="588" column="42" />
+        <mark key="." line="588" column="42" />
+        <mark key="^" line="588" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1503599435876">
         <mark key="'" line="113" column="15" />
@@ -346,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1829" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1833" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1835" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1839" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
       <jump line="1841" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
@@ -445,6 +443,8 @@
       <jump line="655" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="4" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="595" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="548" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="591" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="453" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
@@ -458,7 +458,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>bodies</text>
+        <text encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y2xhc3MgRmFjZXMoQmFzZVNtYXJ0RmlsdGVycyk6CiAgICAiIiJGaWx0ZXJhYmxlIGZhY2UtcXVlcnkgcmVzdWx0cy4iIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgc19pdGVyYWJsZSwgcHJlZGljYXRlPU5vbmUpOgogICAgICAgIHN1cGVyKEZhY2VzLCBzZWxmKS5fX2luaXRfXyhzX2l0ZXJhYmxlLCBwcmVkaWNhdGUpCgogICAgZGVmIF93cmFwKHNlbGYsIHNfZW50aXR5KToKICAgICAgICByZXR1cm4gRmFjZVF1ZXJ5KHNfZW50aXR5KQoKICAgIGRlZiBfd2l0aF9wcmVkaWNhdGUoc2VsZiwgcHJlZGljYXRlKToKICAgICAgICAiIiI6cnR5cGU6IEZhY2VzIiIiCiAgICAgICAgcmV0dXJuIEZhY2VzKHNlbGYuX2Jhc2VfaXRlcmFibGUsIHByZWRpY2F0ZSkK</text>
@@ -495,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bodies</last-search>
+      <last-search encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern>bodies</last-pattern>
+      <last-pattern encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>translation</entry>
         <entry>translating_cowl</entry>
         <entry>translating</entry>
         <entry>color</entry>
@@ -525,6 +524,7 @@
         <entry>from_query</entry>
         <entry>Body</entry>
         <entry>bodies</entry>
+        <entry encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
