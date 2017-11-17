@@ -27,12 +27,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510710205077">
-        <mark key="'" line="1291" column="4" />
-        <mark key="[" line="1333" column="71" />
-        <mark key="]" line="1334" column="18" />
-        <mark key="." line="1334" column="18" />
-        <mark key="^" line="1334" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1510940666608">
+        <mark key="'" line="1263" column="18" />
+        <mark key="[" line="977" column="0" />
+        <mark key="]" line="978" column="0" />
+        <mark key="." line="978" column="0" />
+        <mark key="^" line="978" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1510697445969">
         <mark key="'" line="167" column="7" />
@@ -84,8 +84,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1510182323955">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1510941059883">
+        <mark key="'" line="3511" column="20" />
         <mark key="[" line="3066" column="0" />
         <mark key="]" line="3123" column="28" />
         <mark key="." line="704" column="0" />
@@ -337,6 +337,9 @@
       <file name="$USER_HOME$/pysage-aero/sage/api.py" timestamp="1509579789672">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1510940723782">
+        <mark key="'" line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
         <mark key="[" line="48" column="8" />
@@ -346,45 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1841" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1845" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1847" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1851" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1853" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1857" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1859" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1863" column="5" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="1865" column="9" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="277" column="3" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" />
-      <jump line="327" column="69" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="6" column="7" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="325" column="56" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="5033" column="15" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="14" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="5026" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="8" column="7" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="117" column="32" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="348" column="93" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="5028" column="23" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="17" column="10" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="5032" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="7" column="12" filename="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" />
-      <jump line="16" column="1" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="363" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="3760" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="3427" column="21" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="3424" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="3425" column="54" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="4121" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="4122" column="26" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="4123" column="27" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="4124" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="4131" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/run_sage.py" />
-      <jump line="241" column="12" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
       <jump line="320" column="16" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
       <jump line="200" column="16" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
       <jump line="331" column="49" filename="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" />
@@ -392,7 +356,6 @@
       <jump line="22" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" />
       <jump line="5" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/v2.0/export.py" />
       <jump line="585" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1374" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1312" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1322" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -446,6 +409,46 @@
       <jump line="453" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="57" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="610" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="1347" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1431" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1432" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1445" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1393" column="49" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1421" column="49" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1426" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="538" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="287" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="306" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="312" column="167" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="330" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="1834" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3224" column="69" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3289" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3301" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3307" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3308" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3326" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3332" column="163" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3352" column="46" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3363" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3379" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3385" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3386" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3409" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3415" column="167" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3440" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3454" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3465" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3481" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3487" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="3488" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
+      <jump line="955" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1262" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1263" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="9" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" />
+      <jump line="3511" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -458,7 +461,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRcPg==</text>
+        <text>_node</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfZWRnZXMoJ2Zvby5zYXQnKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAwCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDIK</text>
@@ -495,22 +498,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRcPg==</last-search>
+      <last-search>_node</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRcPg==</last-pattern>
+      <last-pattern>_node</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>translating</entry>
-        <entry>color</entry>
-        <entry>translatin</entry>
-        <entry>translat</entry>
-        <entry encoding="base64">XDxvbmx5XD4=</entry>
-        <entry>explode</entry>
         <entry>sEntityPtr</entry>
         <entry>pysage</entry>
         <entry>simplify</entry>
@@ -525,6 +522,12 @@
         <entry>bodies</entry>
         <entry encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
+        <entry>sampl</entry>
+        <entry>sample</entry>
+        <entry encoding="base64">XDxnZXRfZmFjZXNcPg==</entry>
+        <entry>get_v</entry>
+        <entry encoding="base64">XDxNZXNoTm9kZUl0ZXJhdG9yXD4=</entry>
+        <entry>_node</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
