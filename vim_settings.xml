@@ -138,12 +138,12 @@
         <mark key="]" line="312" column="0" />
         <mark key="." line="312" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1510943325952">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1510944531454">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="668" column="20" />
-        <mark key="]" line="668" column="21" />
-        <mark key="^" line="668" column="21" />
-        <mark key="." line="668" column="21" />
+        <mark key="[" line="701" column="18" />
+        <mark key="]" line="706" column="0" />
+        <mark key="." line="706" column="0" />
+        <mark key="^" line="706" column="0" />
       </file>
       <file name="$USER_HOME$/pysage-aero/sage/cinterface.py" timestamp="1509659514924">
         <mark key="'" line="1148" column="4" />
@@ -457,8 +457,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjBbMF0gPT0gNQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBjZW50cm9pZF9mMSA9IGZhY2VzWzFdLmNlbnRyb2lkCiAgICAgICAgYXNzZXJ0IGNlbnRyb2lkX2YxWzBdID09IDAKICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjFbMV0gPT0gMAogICAgICAgIGFzc2VydCBjZW50cm9pZF9mMVsyXSA9PSAwCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -467,34 +467,34 @@
         <text>centroid</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2JvZHlfY2VudHJvaWQoc2VsZik6CiAgICAgICAgYm9kaWVzID0gc2VsZi5fbWFrZV9ib3goKQogICAgICAgIGZvciBiIGluIGJvZGllczoKICAgICAgICAgICAgY2VudHJvaWQgPSBiLmNlbnRyb2lkCiAgICAgICAgICAgIGFzc2VydCBjZW50cm9pZFswXSA9PSA1CiAgICAgICAgICAgIGFzc2VydCBjZW50cm9pZFsxXSA9PSA1CiAgICAgICAgICAgIGFzc2VydCBjZW50cm9pZFsyXSA9PSA1Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZW50cm9pZF9mMSA9IGZhY2VzWzFdLmNlbnRyb2lkCiAgICAgICAgYXNzZXJ0IGNlbnRyb2lkX2YxWzBdID09IDAKICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjFbMV0gPT0gMAogICAgICAgIGFzc2VydCBjZW50cm9pZF9mMVsyXSA9PSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjBbMF0gPT0gNQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjAgPT0gNQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjBbMF0gPT0gNQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNlbnRyb2lkWzJdID09IDUK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgY2VudHJvaWRfZjAgPT0gNQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNlbnRyb2lkWzFdID09IDUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNlbnRyb2lkWzJdID09IDUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgZiBpbiBmYWNlczoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IGNlbnRyb2lkWzFdID09IDUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgZiBpbiBmYWNlczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gc2IuQm9keShib2R5MSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5MSA9IHNjLmJveCgoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkK</text>
+        <text encoding="base64">ICAgICAgICBib2R5ID0gc2IuQm9keShib2R5MSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5MSA9IHNjLmJveCgoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
