@@ -232,11 +232,12 @@
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511214253853">
-        <mark key="'" line="2459" column="28" />
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511219185009">
+        <mark key="'" line="2485" column="35" />
         <mark key="[" line="2256" column="4" />
-        <mark key="]" line="2256" column="4" />
-        <mark key="." line="2256" column="4" />
+        <mark key="]" line="2239" column="50" />
+        <mark key="." line="2239" column="50" />
+        <mark key="^" line="2239" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
@@ -337,12 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="633" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="647" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="648" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="894" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
-      <jump line="37" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="54" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="55" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
       <jump line="56" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/build.py" />
@@ -435,8 +430,14 @@
       <jump line="2252" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="3039" column="10" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2251" column="23" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="2453" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2239" column="48" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2251" column="57" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2255" column="11" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2256" column="44" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2456" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2459" column="59" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="2485" column="35" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -449,7 +450,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sage_old.loft</text>
+        <text encoding="base64">XDxndWlkZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZXh0ZXJuYWxfc3VyZmFjZSA9IHNhZ2Vfb2xkLmxvZnQoZXh0ZXJuYWxfc2VjdGlvbnMsIGd1aWRlcz1leHRlcm5hbF9ndWlkZXMsIGNyZWF0ZV9zb2xpZD1GYWxzZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFkZF92aXJ0dWFsX2d1aWRlcz1GYWxzZSkK</text>
@@ -486,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sage_old.loft</last-search>
+      <last-search encoding="base64">XDxndWlkZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>sage_old.loft</last-pattern>
+      <last-pattern encoding="base64">XDxndWlkZXNcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -496,7 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conic</entry>
         <entry>sphere</entry>
         <entry>intersect</entry>
         <entry>box</entry>
@@ -516,6 +516,7 @@
         <entry>bfr</entry>
         <entry>external_surface</entry>
         <entry>sage_old.loft</entry>
+        <entry encoding="base64">XDxndWlkZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isClosed/isPeriodic/gc</entry>
