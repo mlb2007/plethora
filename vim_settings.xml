@@ -231,6 +231,13 @@
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511208869760">
+        <mark key="'" line="2248" column="5" />
+        <mark key="[" line="2253" column="4" />
+        <mark key="]" line="2255" column="0" />
+        <mark key="^" line="2253" column="0" />
+        <mark key="." line="2253" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
       </file>
@@ -330,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1318" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="107" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="341" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="574" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -430,22 +436,23 @@
       <jump line="348" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="3" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="839" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="2248" column="5" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChyZXMsICdjdXNwLnNhdCcpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBzYWdlX29sZC5sb2Z0KGludGVybmFsX3NlY3Rpb25zLCBndWlkZXM9aW50ZXJuYWxfZ3VpZGVzLCBjcmVhdGVfc29saWQ9RmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRfdmlydHVhbF9ndWlkZXM9RmFsc2UpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>make_planar_face</text>
+        <text encoding="base64">XDxleHBfZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGRlZiB0ZXN0X3BldHJpX2ludGZhY2VfY2VudHJvaWQoc2VsZik6CiAgICAgICAgYm9keSA9IHNhZ2UuYnVpbGQuc3BoZXJlKCgwLCAwLCAwKSwgMykKICAgICAgICBwbGFuZSA9IHNhZ2UuY29yZS5QbGFuZSgoMCwgMCwgLTEuNSksIHNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBwbGFuZV9zaGVldCA9IHBsYW5lLnNoZWV0CiAgICAgICAgcmVzID0gYm9keSAmIHBsYW5lX3NoZWV0CiAgICAgICAgc2FnZS5pby5leHBvcnQocmVzLCAncGxhdGUuc2F0JykKICAgICAgICBjZW50cm9pZCA9IHJlcy5jZW50cm9pZAogICAgICAgIGFzc2VydCBhYnMoY2VudHJvaWRbMF0tMCkgPCAxZS03CiAgICAgICAgYXNzZXJ0IGFicyhjZW50cm9pZFsxXS0wKSA8IDFlLTcKICAgICAgICBhc3NlcnQgYWJzKGNlbnRyb2lkWzJdLSgtMS41KSkgPCAxZS03Cg==</text>
+        <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBzYWdlX29sZC5sb2Z0KGludGVybmFsX3NlY3Rpb25zLCBndWlkZXM9aW50ZXJuYWxfZ3VpZGVzLCBjcmVhdGVfc29saWQ9RmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRfdmlydHVhbF9ndWlkZXM9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChyZXMsICdjdXNwLnNhdCcpCg==</text>
@@ -479,17 +486,16 @@
       </register>
     </registers>
     <search>
-      <last-search>make_planar_face</last-search>
+      <last-search encoding="base64">XDxleHBfZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>make_planar_face</last-pattern>
+      <last-pattern encoding="base64">XDxleHBfZW50XD4=</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>centroid</entry>
         <entry>Plane</entry>
         <entry>slice</entry>
         <entry>cylinder</entry>
@@ -509,6 +515,7 @@
         <entry encoding="base64">XDxzcVw+</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry>make_planar_face</entry>
+        <entry encoding="base64">XDxleHBfZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
