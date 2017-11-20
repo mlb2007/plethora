@@ -232,12 +232,11 @@
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511208869760">
-        <mark key="'" line="2248" column="5" />
-        <mark key="[" line="2253" column="4" />
-        <mark key="]" line="2255" column="0" />
-        <mark key="^" line="2253" column="0" />
-        <mark key="." line="2253" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511213497021">
+        <mark key="'" line="3173" column="0" />
+        <mark key="[" line="2251" column="4" />
+        <mark key="]" line="2250" column="0" />
+        <mark key="." line="2250" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
@@ -338,7 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="341" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="574" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="608" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -438,66 +436,66 @@
       <jump line="3" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="839" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="2248" column="5" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="3172" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBfZW50XD4=</text>
+        <text>bfr</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBzYWdlX29sZC5sb2Z0KGludGVybmFsX3NlY3Rpb25zLCBndWlkZXM9aW50ZXJuYWxfZ3VpZGVzLCBjcmVhdGVfc29saWQ9RmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRfdmlydHVhbF9ndWlkZXM9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChyZXMsICdjdXNwLnNhdCcpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChyZXMsICdwbGF0ZS5zYXQnKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVldF9ib2R5ID0gbWFrZV9zaGVldF9ib2R5X2Zyb21fZmFjZShmYWNlX29uZV9zaWRlZCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaGVldCA9IHNhZ2UuYm9kaWVzLkJvZHkobWFrZV9zaGVldF9ib2R5X2Zyb21fZmFjZShmYWNlKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zaGVldF9ib2R5Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChyZXMsICdjdXNwLnNhdCcpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChyZXMsICdwbGF0ZS5zYXQnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzaGVldF9ib2R5ID0gbWFrZV9zaGVldF9ib2R5X2Zyb21fZmFjZShmYWNlX29uZV9zaWRlZCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzaGVldCA9IHNhZ2UuYm9kaWVzLkJvZHkobWFrZV9zaGVldF9ib2R5X2Zyb21fZmFjZShmYWNlKSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zaGVldF9ib2R5Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FnZS5ib2RpZXMuQm9keShtYWtlX2JvZHlfZnJvbV9mYWNlKGZhY2UpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlID0gbWFrZV9wbGFuYXJfZmFjZShzZWxmLnBvaW50X29uX3BsYW5lLCBzZWxmLm5vcm1hbCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FnZS5ib2RpZXMuQm9keShtYWtlX2JvZHlfZnJvbV9mYWNlKGZhY2UpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBib2R5KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBmYWNlID0gbWFrZV9wbGFuYXJfZmFjZShzZWxmLnBvaW50X29uX3BsYW5lLCBzZWxmLm5vcm1hbCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBfZW50XD4=</last-search>
+      <last-search>bfr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBfZW50XD4=</last-pattern>
+      <last-pattern>bfr</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Plane</entry>
         <entry>slice</entry>
         <entry>cylinder</entry>
         <entry>conic</entry>
@@ -517,6 +515,7 @@
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry>make_planar_face</entry>
         <entry encoding="base64">XDxleHBfZW50XD4=</entry>
+        <entry>bfr</entry>
       </history-search>
       <history-cmd>
         <entry>/pysage</entry>
