@@ -136,11 +136,12 @@
         <mark key="]" line="312" column="0" />
         <mark key="." line="312" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1511204898184">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1511213113874">
         <mark key="'" line="636" column="13" />
-        <mark key="[" line="737" column="0" />
-        <mark key="]" line="737" column="0" />
-        <mark key="." line="737" column="0" />
+        <mark key="[" line="727" column="33" />
+        <mark key="]" line="727" column="53" />
+        <mark key="." line="727" column="53" />
+        <mark key="^" line="727" column="53" />
       </file>
       <file name="$USER_HOME$/pysage-aero/sage/cinterface.py" timestamp="1509659514924">
         <mark key="'" line="1148" column="4" />
@@ -274,12 +275,12 @@
         <mark key="." line="92" column="27" />
         <mark key="^" line="92" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1511204683702">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1511212534005">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="349" column="13" />
-        <mark key="]" line="350" column="49" />
-        <mark key="." line="350" column="49" />
-        <mark key="^" line="350" column="49" />
+        <mark key="[" line="300" column="29" />
+        <mark key="]" line="300" column="29" />
+        <mark key="." line="300" column="29" />
+        <mark key="^" line="298" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -443,7 +444,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBzYWdlX29sZC5sb2Z0KGludGVybmFsX3NlY3Rpb25zLCBndWlkZXM9aW50ZXJuYWxfZ3VpZGVzLCBjcmVhdGVfc29saWQ9RmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGRfdmlydHVhbF9ndWlkZXM9RmFsc2UpCg==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
