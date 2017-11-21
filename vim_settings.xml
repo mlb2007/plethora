@@ -237,12 +237,12 @@
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511291230212">
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511299308998">
         <mark key="'" line="4490" column="46" />
-        <mark key="[" line="4585" column="23" />
-        <mark key="]" line="4584" column="8" />
-        <mark key="." line="4584" column="8" />
-        <mark key="^" line="4582" column="24" />
+        <mark key="[" line="4589" column="23" />
+        <mark key="]" line="4588" column="50" />
+        <mark key="." line="4588" column="0" />
+        <mark key="^" line="4586" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
@@ -447,11 +447,11 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmY19zaGVldCwgJ3NoZWV0X3N1cmYuc2F0JykK</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</text>
@@ -460,31 +460,31 @@
         <text encoding="base64">I2ludGVyc2VjdGlvbl9ib2R5ID0gc2FnZS5ib2RpZXMuQm9keShjdXRfc3dlZXApICYgc2FnZS5ib2RpZXMuQm9keShzdXJmYWNlKQogICAgICAgICNpbnRlcnNlY3Rpb24gPSBpbnRlcnNlY3Rpb25fYm9keS5zX2VudGl0eQogICAgICAgICM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmNfc2hlZXQuYXBwZW5kKHNhZ2UuYm9kaWVzLkJvZHkoc2FnZS5jb3JlLm1ha2Vfc2hlZXRfYm9keV9mcm9tX2ZhY2UoZmMpKSkK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmY19zaGVldCwgJ3NoZWV0X3N1cmYuc2F0JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmNfc2hlZXQuYXBwZW5kKHNhZ2UuYm9kaWVzLkJvZHkoc2FnZS5jb3JlLm1ha2Vfc2hlZXRfYm9keV9mcm9tX2ZhY2UoZmMpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzdXJmYWNlX2ZhY2VzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoZWRnZXMsICd5YWtfZWRnZXMuc2F0JykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBzdXJmYWNlX2ZhY2VzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoZWRnZXMsICd5YWtfZWRnZXMuc2F0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjY2VudGVybGluZV9zdGFydF9wdCA9IHNhZ2Vfb2xkLmdldF9lZGdlX3N0YXJ0KGNlbnRlcmxpbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoZWRnZXMsICd5YWtfZWRnZXMuc2F0JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjY2VudGVybGluZV9zdGFydF9wdCA9IHNhZ2Vfb2xkLmdldF9lZGdlX3N0YXJ0KGNlbnRlcmxpbmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjbDIgPSBzYWdlX29sZC5saW5lKFtjZW50ZXJfcG9pbnRbMF0tNTAwMCxjZW50ZXJfcG9pbnRbMV0sY2VudGVyX3BvaW50WzJdXSxbY2VudGVyX3BvaW50WzBdKzUwMDAsY2VudGVyX3BvaW50WzFdLGNlbnRlcl9wb2ludFsyXV0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjbDEgPSBzYWdlX29sZC5saW5lKFtjZW50ZXJfcG9pbnRbMF0tNTAwMCxjZW50ZXJfcG9pbnRbMV0sY2VudGVyX3BvaW50WzJdXSxbY2VudGVyX3BvaW50WzBdLTUwMDAsY2VudGVyX3BvaW50WzFdLGNlbnRlcl9wb2ludFsyXSs1MDBdKQo=</text>
+        <text encoding="base64">ICAgICAgICAjbDIgPSBzYWdlX29sZC5saW5lKFtjZW50ZXJfcG9pbnRbMF0tNTAwMCxjZW50ZXJfcG9pbnRbMV0sY2VudGVyX3BvaW50WzJdXSxbY2VudGVyX3BvaW50WzBdKzUwMDAsY2VudGVyX3BvaW50WzFdLGNlbnRlcl9wb2ludFsyXV0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
