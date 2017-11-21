@@ -148,6 +148,7 @@
         <mark key="." line="727" column="53" />
         <mark key="^" line="727" column="53" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1511300325413" />
       <file name="$USER_HOME$/pysage-aero/sage/cinterface.py" timestamp="1509659514924">
         <mark key="'" line="1148" column="4" />
         <mark key="[" line="748" column="0" />
@@ -237,12 +238,11 @@
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511299308998">
-        <mark key="'" line="4490" column="46" />
-        <mark key="[" line="4589" column="23" />
-        <mark key="]" line="4588" column="50" />
-        <mark key="." line="4588" column="0" />
-        <mark key="^" line="4586" column="37" />
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" timestamp="1511300945357">
+        <mark key="'" line="1132" column="4" />
+        <mark key="[" line="904" column="0" />
+        <mark key="]" line="704" column="28" />
+        <mark key="." line="704" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/wingstrake_for_ray/geometry_scripts/wing_strake.py" timestamp="1503524794876">
         <mark key="'" line="8" column="27" />
@@ -342,20 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2777" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2778" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2780" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2835" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="2785" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1459" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="814" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="975" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="977" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1130" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1169" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1170" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="342" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="44" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="56" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="68" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -442,68 +428,79 @@
       <jump line="4482" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="4486" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="4490" column="46" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="4596" column="42" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="257" column="66" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="1653" column="36" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="663" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="861" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="863" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="864" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="879" column="30" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="880" column="96" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="887" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="896" column="26" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="897" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="900" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
+      <jump line="1130" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmY19zaGVldCwgJ3NoZWV0X3N1cmYuc2F0JykK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</text>
+        <text encoding="base64">XDxsaXBfY29uaWNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">I2ludGVyc2VjdGlvbl9ib2R5ID0gc2FnZS5ib2RpZXMuQm9keShjdXRfc3dlZXApICYgc2FnZS5ib2RpZXMuQm9keShzdXJmYWNlKQogICAgICAgICNpbnRlcnNlY3Rpb24gPSBpbnRlcnNlY3Rpb25fYm9keS5zX2VudGl0eQogICAgICAgICM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmY19zaGVldCwgJ3NoZWV0X3N1cmYuc2F0JykK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmNfc2hlZXQuYXBwZW5kKHNhZ2UuYm9kaWVzLkJvZHkoc2FnZS5jb3JlLm1ha2Vfc2hlZXRfYm9keV9mcm9tX2ZhY2UoZmMpKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBzdXJmYWNlX2ZhY2VzCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoZWRnZXMsICd5YWtfZWRnZXMuc2F0JykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoZWRnZXMsICd5YWtfZWRnZXMuc2F0JykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjY2VudGVybGluZV9zdGFydF9wdCA9IHNhZ2Vfb2xkLmdldF9lZGdlX3N0YXJ0KGNlbnRlcmxpbmUpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCAidGhpY2tuZXNzIGlzID4gMCBhbmQgaXQgaXMgOiIsIHRoaWNrbmVzcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXJmYWNlX2JvZHkucm90YXRlKHNhZ2UuVU5JVF9WRUNfWSwgOTApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdXJmYWNlX2JvZHkgPSBzYWdlLmJ1aWxkLmN5bGluZGVyKCgwLCAwLCAwKSwgKDAsIDAsIDEwMCksIDEwKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChzdXJmYWNlX2JvZHksIHBsYW5lX3NoZWV0LCAic29tZS5zYXQiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzdXJmYWNlX2JvZHkuCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzYWdlLmNvcmUubWFrZV9zaGVldF9ib2R5X2Zyb21fZmFjZShzdXJmYWNlX2ZhY2VzKSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjbDIgPSBzYWdlX29sZC5saW5lKFtjZW50ZXJfcG9pbnRbMF0tNTAwMCxjZW50ZXJfcG9pbnRbMV0sY2VudGVyX3BvaW50WzJdXSxbY2VudGVyX3BvaW50WzBdKzUwMDAsY2VudGVyX3BvaW50WzFdLGNlbnRlcl9wb2ludFsyXV0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXJmYWNlX2JvZHkgPSBzYWdlLmJvZGllcy5Cb2R5KHNhZ2UuY29yZS5tYWtlX3NoZWV0X2JvZHlfZnJvbV9mYWNlKHN1cmZhY2VfZmFjZXMpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</last-search>
+      <last-search encoding="base64">XDxsaXBfY29uaWNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaXBfY29uaWNcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>intersect</entry>
-        <entry>box</entry>
-        <entry>from_query</entry>
         <entry>pysage\.Point3D</entry>
         <entry>make_pla</entry>
         <entry encoding="base64">XDxjaW50ZXJmYWNlXD4=</entry>
@@ -521,6 +518,9 @@
         <entry>sage_old.loft</entry>
         <entry encoding="base64">XDxndWlkZXNcPg==</entry>
         <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
+        <entry>lip</entry>
+        <entry encoding="base64">XDxtYWtlX2xpcF9jb25pY1w+</entry>
+        <entry encoding="base64">XDxsaXBfY29uaWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isClosed/isPeriodic/gc</entry>
