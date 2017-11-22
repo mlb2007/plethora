@@ -34,9 +34,9 @@
         <mark key="]" line="264" column="0" />
         <mark key="." line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" timestamp="1510715950396">
-        <mark key="[" line="33" column="22" />
-        <mark key="]" line="32" column="42" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" timestamp="1511307970557">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/cowl_translation_debug/data/strake_translator.json" timestamp="1510599894627">
@@ -47,8 +47,8 @@
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511307823200">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511307890030">
+        <mark key="[" line="33" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -100,6 +100,11 @@
         <mark key="]" line="1470" column="62" />
         <mark key="." line="4675" column="6" />
         <mark key="^" line="4675" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1511307972486">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -181,7 +186,7 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_api.py" timestamp="1500383199803">
         <mark key="'" line="113" column="47" />
       </file>
-      <file name="/Python Console" timestamp="1511307817856">
+      <file name="/Python Console" timestamp="1511307879859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/wing_strake.json" timestamp="1508953208866">
@@ -447,8 +452,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0CmltcG9ydCBtb2NrCgppbXBvcnQgc2FnZS5ib2RpZXMgYXMgc2IKaW1wb3J0IHNhZ2UuYm9vbAppbXBvcnQgc2FnZS5jb3JlCgoKY2xhc3MgVGVzdEJvZHkodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfY29uc3RydWN0b3Ioc2VsZik6CiAgICAgICAgc19ib2R5ID0gbW9jay5Nb2NrKCkKICAgICAgICBib2R5ID0gc2IuQm9keShzX2JvZHkpCiAgICAgICAgYXNzZXJ0IGJvZHkuc19lbnRpdHkgaXMgc19ib2R5CgogICAgZGVmIHRlc3RfY29weShzZWxmKToKICAgICAgICBzX2JvZHkgPSBtb2NrLk1vY2soKQogICAgICAgIHNfYm9keV9jb3B5ID0gbW9jay5Nb2NrKCkKICAgICAgICBzX2JvZHkuY2xvbmUucmV0dXJuX3ZhbHVlID0gc19ib2R5X2NvcHkKCiA=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -457,34 +462,34 @@
         <text encoding="base64">XDxmcm9udF9uYWNlbGxlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>data[&quot;geom&quot;][&quot;external&quot;][&quot;guide_takeoff_curves&quot;],</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0CmltcG9ydCBtb2NrCgppbXBvcnQgc2FnZS5ib2RpZXMgYXMgc2IKaW1wb3J0IHNhZ2UuYm9vbAppbXBvcnQgc2FnZS5jb3JlCgoKY2xhc3MgVGVzdEJvZHkodW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfY29uc3RydWN0b3Ioc2VsZik6CiAgICAgICAgc19ib2R5ID0gbW9jay5Nb2NrKCkKICAgICAgICBib2R5ID0gc2IuQm9keShzX2JvZHkpCiAgICAgICAgYXNzZXJ0IGJvZHkuc19lbnRpdHkgaXMgc19ib2R5CgogICAgZGVmIHRlc3RfY29weShzZWxmKToKICAgICAgICBzX2JvZHkgPSBtb2NrLk1vY2soKQogICAgICAgIHNfYm9keV9jb3B5ID0gbW9jay5Nb2NrKCkKICAgICAgICBzX2JvZHkuY2xvbmUucmV0dXJuX3ZhbHVlID0gc19ib2R5X2NvcHkKCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3JjL2NvcmUvU3RhcnRBY2lzLmNwcAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmX2luLCBmX25hYywgIndoYXQuc2F0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmX25hYyA9IHNhZ2UuYm9kaWVzLkJvZHkoZnJvbnRfbmFjZWxsZSkK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmX2luLCBmX25hYywgIndoYXQuc2F0IikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmX2luLmNvbG9yKCdyJykK</text>
+        <text encoding="base64">ICAgICAgICBmX25hYyA9IHNhZ2UuYm9kaWVzLkJvZHkoZnJvbnRfbmFjZWxsZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmX2luID0gc2FnZS5ib2RpZXMuQm9keShmcm9udF9pbmxldCkK</text>
+        <text encoding="base64">ICAgICAgICBmX2luLmNvbG9yKCdyJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSAuLi4iCg==</text>
+        <text encoding="base64">ICAgICAgICBmX2luID0gc2FnZS5ib2RpZXMuQm9keShmcm9udF9pbmxldCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4dF9zdXJmYWNlID0gZXh0X3N1cmZhY2Uuc19lbnRpdHkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiaGVyZSAuLi4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNhZ2Vfb2xkLmxvZnQoZXh0ZXJuYWxfc2VjdGlvbnMsIGd1aWRlcz1leHRlcm5hbF9ndWlkZXMsIGNyZWF0ZV9zb2xpZD1GYWxzZSwgYWRkX3ZpcnR1YWxfZ3VpZGVzPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIGV4dF9zdXJmYWNlID0gZXh0X3N1cmZhY2Uuc19lbnRpdHkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4dGVybmFsX3N1cmZhY2UgPSBzYWdlX29sZC5sb2Z0KGV4dGVybmFsX3NlY3Rpb25zLCBndWlkZXM9ZXh0ZXJuYWxfZ3VpZGVzLCBjcmVhdGVfc29saWQ9RmFsc2UsIGFkZF92aXJ0dWFsX2d1aWRlcz1GYWxzZSkK</text>
+        <text encoding="base64">ICAgIHNhZ2Vfb2xkLmxvZnQoZXh0ZXJuYWxfc2VjdGlvbnMsIGd1aWRlcz1leHRlcm5hbF9ndWlkZXMsIGNyZWF0ZV9zb2xpZD1GYWxzZSwgYWRkX3ZpcnR1YWxfZ3VpZGVzPUZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
