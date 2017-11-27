@@ -46,10 +46,11 @@
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511817362131">
-        <mark key="[" line="43" column="12" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511818678377">
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+        <mark key="^" line="68" column="39" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1510601481074">
         <mark key="'" line="358" column="3" />
@@ -458,10 +459,10 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBjbnRycyA9IHNlbGYuY2VudHJvaWRzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>remove_face</text>
@@ -470,31 +471,31 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X3JlbW92ZV9mYWNlX2FuZF9yZXRhaW4oc2VsZiwgbW9ja19yZW1vdmUpOgogICAgICAgIGZhY2VfbW9jayA9IG1vY2suTW9jaygpCiAgICAgICAgcmVtb3ZlZF9mYWNlX21vY2sgPSBtb2NrLk1vY2soKQogICAgICAgIG1vY2tfcmVtb3ZlLnJldHVybl92YWx1ZSA9IHJlbW92ZWRfZmFjZV9tb2NrCiAgICAgICAgcmVtb3ZlZCA9IHNjLnJlbW92ZV9mYWNlKGZhY2VfbW9jaykKICAgICAgICBhc3NlcnQgbW9ja19yZW1vdmUuY2FsbF9jb3VudCA9PSAxCiAgICAgICAgYXNzZXJ0IG1vY2tfcmVtb3ZlLmNhbGxfYXJnc19saXN0ID09IFttb2NrLmNhbGwoZmFjZV9tb2NrLCBUcnVlKV0KICAgICAgICBhc3NlcnQgcmVtb3ZlZCA9PSByZW1vdmVkX2ZhY2VfbW9jawo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBjbnRycyA9IHNlbGYuY2VudHJvaWRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fc3BpbmUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRlci5pbXBvcnRfZW50aXRpZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbGN1bGF0ZSB0aGUgc3BpbmUncyBzcGxpbmUgY3VydmUgYmFzZWQgb24gdGhlIGdhdGhlcmVkIGNlbnRyb2lkIGRhdGEgYWJvdmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmgud3JpdGUoInNvbWUgcmFuZG9tIHN0dWZmIikK</text>
+        <text encoding="base64">ICAgICAgICBjZW50cm9pZHMgPSBbZGljdF9kYXRhWydjZW50cm9pZCddIGZvciBkaWN0X2RhdGEgaW4gX2lucHV0X2RhdGFdICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIG9wZW4oZm5hbWUsICdhJykgYXMgZmg6Cg==</text>
+        <text encoding="base64">ICAgICAgICBfaW5wdXRfZGF0YSA9IGxpc3Qoe30pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmbmFtZSA9ICdmb28uc2F0Jwo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnB1dF9kYXRhID0gbGlzdCh7fSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBtb2NrLnBhdGNoKCdweXNhZ2UuSW1wb3J0T3BlcmF0aW9ucy5SZWFkU0FUJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
