@@ -47,10 +47,11 @@
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511893457913">
-        <mark key="[" line="87" column="64" />
-        <mark key="]" line="87" column="64" />
-        <mark key="." line="87" column="64" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511894248091">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+        <mark key="^" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1510601481074">
         <mark key="'" line="358" column="3" />
@@ -100,10 +101,11 @@
         <mark key="." line="4675" column="6" />
         <mark key="^" line="4675" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1511893736814">
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1511894409005">
+        <mark key="[" line="17" column="8" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -464,7 +466,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB6ID0gemlwKGNlbnRyb2lkcywgYXJlYXMsIGRhcmVhcykK</text>
+        <text encoding="base64">ICAgICAgICBkYXJlYXMgPSBzcGluZS5kaXJlY3Rpb25hbF9hcmVhcwo=</text>
       </register>
       <register name="-" type="4">
         <text>*</text>
@@ -476,31 +478,31 @@
         <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgZ3JheShzZWxmKTogcmV0dXJuIF9Db2xvci5jb2xvcl9kaWN0WydncmF5J10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB6ID0gemlwKGNlbnRyb2lkcywgYXJlYXMsIGRhcmVhcykK</text>
+        <text encoding="base64">ICAgICAgICBkYXJlYXMgPSBzcGluZS5kaXJlY3Rpb25hbF9hcmVhcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhcmVhcyA9IHNwaW5lLmFyZWFzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
+        <text encoding="base64">ICAgICAgICBjZW50cm9pZHMgPSBzcGluZS5jZW50cm9pZHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zcGluZV9jdXJ2ZSA9IHNwaW5lX3NwbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZvciB2aXogLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcGluZV9zcGxpbmUgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCpjbnRycykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkNlbnRyb2lkLCBhcmVhLCBkaXJlY3Rpb25hbF9hcmVhKFggYXhpcykiLCBhLCBiLCBjCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbnRycyA9IHNlbGYuX3NhbXBsZWRfY2VudHJvaWRzCg==</text>
+        <text encoding="base64">ICAgICAgICB6ID0gWyBhLCBiLCBjIGluIGNlbnRyb2lkcywgYXJlYXMsIGRhcmVhczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBiZXppZXJfY3VydmUoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICB6ID0gemlwKGNlbnRyb2lkcywgYXJlYXMsIGRhcmVhcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
