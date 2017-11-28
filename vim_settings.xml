@@ -142,11 +142,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1511843976220">
-        <mark key="[" line="721" column="0" />
-        <mark key="]" line="724" column="26" />
-        <mark key="." line="724" column="26" />
-        <mark key="^" line="724" column="26" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1511898172746">
+        <mark key="[" line="720" column="0" />
+        <mark key="]" line="722" column="31" />
+        <mark key="." line="722" column="31" />
+        <mark key="^" line="722" column="31" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1511845693475">
         <mark key="'" line="680" column="20" />
@@ -348,12 +348,11 @@
       <file name="$USER_HOME$/pysage-aero/sage/api.py" timestamp="1509579789672">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1511895516191">
-        <mark key="'" line="82" column="21" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="133" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1511900932239">
+        <mark key="'" line="30" column="13" />
+        <mark key="[" line="58" column="35" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1510940723782">
         <mark key="'" line="9" column="6" />
@@ -367,10 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2456" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2459" column="59" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2485" column="35" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="5050" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="4535" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="3917" column="36" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="3929" column="55" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
@@ -467,58 +462,62 @@
       <jump line="94" column="27" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="75" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="85" column="21" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="36" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="60" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="86" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="30" column="13" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIk51bWJlciBvZiBzYW1wbGVkIGNlbnRyb2lkczoiLCBsZW4oc2FtcGxlZF9jZW50cm9pZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGEuYXBwZW5kCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</text>
+        <text encoding="base64">XDxfcmFkaXVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIGNhbGN1bGF0ZV9hcmVhX2Rpc3RyaWJ1dGlvbihib2R5LCBudW1fc2xpY2VzLCBzbGljZV9ub3JtYWwsIGFyZWFfZGlzdHJpYnV0aW9uX2Rpcj1zYWdlLlVOSVRfVkVDX1osCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRfcHQ9Tm9uZSwgZW5kX3B0PU5vbmUsIHNsaWNlX3JhZGl1cz0wLjApOgog</text>
+        <text encoding="base64">aWYgaXNpbnN0YW5jZShzaGVldCwgc2FnZS5xdWVyeS5GbGF0RGlzayk6CiAgICAgICAgICAgICAgICB2aXpfc2xpY2VfcGxhbmUgPSBzaGVldC5kaXNrKHJhZGl1cykKICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHNoZWV0LCBzYWdlLnF1ZXJ5LkluZmluaXRlRmxhdFNoZWV0KToKICAgICAgICAgICAgICAgIHZpel9zbGljZV9wbGFuZSA9IHNoZWV0LmRpc2soMTApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJJbnB1dCBzaGVldCBpcyBub3QgYSBmbGF0IHNoZWV0IikKICAgICAgICAgICAgc2VsZi5fc2xpY2VfcGxhbmVzX3Zpei5hcHBlbmQodml6X3NsaWNlX3BsYW5lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIk51bWJlciBvZiBzYW1wbGVkIGNlbnRyb2lkczoiLCBsZW4oc2FtcGxlZF9jZW50cm9pZHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fb3V0cHV0X2RhdGEuYXBwZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjYWNoZSB0aGUgYXJlYSBkYXRhIGludG8gb3V0cHV0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkNlbnRyb2lkIGZvciBzbGljZSBhdCB7fSBpcyB7fSIuZm9ybWF0KHNsaWNlX3B0LCBzbGljZV9jZW50cm9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzdGFydF9wdD1Ob25lLCBlbmRfcHQ9Tm9uZSwgc2xpY2VfcmFkaXVzPTAuMCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkLmV4cG9ydCgnc3BpbmVfZGF0YS5zYXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnB1dF9hcmVhcyA9IGxpc3QoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkID0gYWQuZXZhbHVhdGUoc2FnZS5VTklUX1ZFQ19aKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNhY2hlIHRoZSBpbnB1dCBhcmVhcyB3aGVuIGNlbnRyb2lkIGlzIGNhbGN1bGF0ZWQgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFkID0gQXJlYURpc3RyaWJ1dGlvbihib2R5KS5mcm9tX3NsaWNlc19kaXJfYW5kX3JhZGl1cyhuY3V0cywgY3V0X2RpciwgcmFkaXVzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkID0gYWQuZXZhbHVhdGUoYXJlYV9kaXN0cmlidXRpb25fZGlyKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2FtcGxlZF9jZW50cm9pZHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFkID0gYWQuc3BpbmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiU3BpbmUgb2YgdGhlIGJvZHkgaGFzIG5vdCBiZWVuIGRldGVybWluZWQuIEhpbnQ6IFVzZSBmcm9tX251bV9zbGljZXNfYW5kX2RpcigpIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</last-search>
+      <last-search encoding="base64">XDxfcmFkaXVzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcmFkaXVzXD4=</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -526,7 +525,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lip</entry>
         <entry encoding="base64">XDxsaXBfY29uaWNcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2Zvcm1fZW50aXRpZXNcPg==</entry>
         <entry encoding="base64">XDxfdHJhbnNmb3JtX2VudGl0eVw+</entry>
@@ -539,13 +537,14 @@
         <entry encoding="base64">XDxmcm9udF9uYWNlbGxlXD4=</entry>
         <entry>remove_face</entry>
         <entry>make_planar_disk</entry>
-        <entry encoding="base64">XDxfc2xpY2VfYm9keV93aXRoX3BsYW5lXD4=</entry>
         <entry>make_planar</entry>
         <entry encoding="base64">XDxfaW5wdXRfZGF0YVw+</entry>
         <entry encoding="base64">XDxFbnRpdHlUeXBlXD4=</entry>
         <entry>curve</entry>
         <entry encoding="base64">XDxzcGxpbmVfY3VydmVcPg==</entry>
         <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
+        <entry encoding="base64">XDxfc2xpY2VfYm9keV93aXRoX3BsYW5lXD4=</entry>
+        <entry encoding="base64">XDxfcmFkaXVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isClosed/isPeriodic/gc</entry>
