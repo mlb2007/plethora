@@ -21,12 +21,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1511888599412">
-        <mark key="'" line="587" column="33" />
-        <mark key="[" line="573" column="19" />
-        <mark key="]" line="587" column="33" />
-        <mark key="." line="587" column="33" />
-        <mark key="^" line="587" column="33" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1511889755070">
+        <mark key="'" line="343" column="19" />
+        <mark key="[" line="345" column="0" />
+        <mark key="]" line="345" column="0" />
+        <mark key="^" line="585" column="33" />
+        <mark key="." line="345" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1510961951087">
         <mark key="'" line="167" column="7" />
@@ -47,12 +47,12 @@
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511888578174">
-        <mark key="'" line="20" column="13" />
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="5" column="30" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511890361361">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="61" column="63" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="57" column="90" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1510601481074">
         <mark key="'" line="358" column="3" />
@@ -360,21 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="370" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="377" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="383" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="391" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="396" column="60" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="3" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="43" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="55" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="67" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="79" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="468" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="478" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="488" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="540" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="629" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="635" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="3" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
@@ -460,58 +445,73 @@
       <jump line="16" column="13" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
       <jump line="343" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="587" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="322" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="328" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="329" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="330" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="331" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="332" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="333" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="334" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="335" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="336" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="337" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="338" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="339" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="341" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="343" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnBfYm9keSA9IGJvZHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW5wdXRfZGF0YVw+</text>
+        <text encoding="base64">XDxFbnRpdHlUeXBlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfZGlza196ZXJvX3JhZGl1cyhzZWxmKToKICAgICAgICBwID0gc2FnZS5jb3JlLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgxLCAxLCAxKSwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgIHJhZGl1cyA9IDAKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHAuZGlzayhyYWRpdXMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnBfYm9keSA9IGJvZHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBtYWtlIGEgZGlzayBmb3IgdmlzdWFsaXphdGlvbiB3aXRoIHNvbWUgYXJiaXRyYXJ5IHJhZGl1cyBhbmQgYWRkIGl0IHRvIGxpc3Qgb2Ygc2xpY2UgcGxhbmVzIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3NsaWNlX3BsYW5lc192aXouYXBwZW5kKHNsaWNlX3BsYW5lLmRpc2socmFkaXVzKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChwLmRpc2socmFkaXVzKSwgImRpc2suc2F0IikK</text>
+        <text encoding="base64">ICAgICAgICAjIGNhbGN1bGF0ZSB0aGUgc3BpbmUncyBzcGxpbmUgY3VydmUgYmFzZWQgb24gdGhlIGdhdGhlcmVkIGNlbnRyb2lkIGRhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcC5zaGVldC5zX2VudGl0eS5pc19zaGVldCgpIGlzIFRydWUK</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UuY29yZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgcC5kaXNrKHJhZGl1cykudm9sdW1lID09IDAuMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwID0gc2FnZS5jb3JlLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgxLCAyLCAzKSwgKDQsIC0xLCAxKSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9pbnBfYm9keSA9IGJvZHkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW5wdXRfZGF0YVw+</last-search>
+      <last-search encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW5wdXRfZGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -519,7 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bfr</entry>
         <entry>external_surface</entry>
         <entry>sage_old.loft</entry>
         <entry encoding="base64">XDxndWlkZXNcPg==</entry>
@@ -539,6 +538,7 @@
         <entry encoding="base64">XDxfc2xpY2VfYm9keV93aXRoX3BsYW5lXD4=</entry>
         <entry>make_planar</entry>
         <entry encoding="base64">XDxfaW5wdXRfZGF0YVw+</entry>
+        <entry encoding="base64">XDxFbnRpdHlUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isClosed/isPeriodic/gc</entry>
