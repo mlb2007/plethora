@@ -21,12 +21,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1511889755070">
-        <mark key="'" line="343" column="19" />
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="^" line="585" column="33" />
-        <mark key="." line="345" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1511892931082">
+        <mark key="'" line="347" column="19" />
+        <mark key="[" line="138" column="21" />
+        <mark key="]" line="138" column="21" />
+        <mark key="." line="138" column="21" />
+        <mark key="^" line="138" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1510961951087">
         <mark key="'" line="167" column="7" />
@@ -47,12 +47,10 @@
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/OCC/StlAPI.py" timestamp="1510176207038">
         <mark key="'" line="323" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511890361361">
-        <mark key="'" line="21" column="13" />
-        <mark key="[" line="61" column="63" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="57" column="90" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511893457913">
+        <mark key="[" line="87" column="64" />
+        <mark key="]" line="87" column="64" />
+        <mark key="." line="87" column="64" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/obnac.json" timestamp="1510601481074">
         <mark key="'" line="358" column="3" />
@@ -102,10 +100,10 @@
         <mark key="." line="4675" column="6" />
         <mark key="^" line="4675" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1511891427893">
-        <mark key="[" line="7" column="68" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1511893736814">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -360,18 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="629" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="635" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="839" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="2248" column="5" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3172" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4432" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2252" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3039" column="10" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2453" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2239" column="48" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="2251" column="57" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="2255" column="11" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
       <jump line="2256" column="44" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
@@ -460,46 +446,58 @@
       <jump line="339" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="341" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="343" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="79" column="31" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="33" column="20" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="82" column="15" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="84" column="28" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="85" column="20" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="89" column="15" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="91" column="28" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="93" column="20" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="101" column="40" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="123" column="20" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
+      <jump line="99" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5LmNvbG9yKCdnJykK</text>
+        <text encoding="base64">ICAgICAgICB6ID0gemlwKGNlbnRyb2lkcywgYXJlYXMsIGRhcmVhcykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnRpdHlUeXBlXD4=</text>
+        <text encoding="base64">XDxzcGxpbmVfY3VydmVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfZGlza196ZXJvX3JhZGl1cyhzZWxmKToKICAgICAgICBwID0gc2FnZS5jb3JlLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgxLCAxLCAxKSwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgIHJhZGl1cyA9IDAKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHAuZGlzayhyYWRpdXMpCg==</text>
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgZ3JheShzZWxmKTogcmV0dXJuIF9Db2xvci5jb2xvcl9kaWN0WydncmF5J10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5LmNvbG9yKCdnJykK</text>
+        <text encoding="base64">ICAgICAgICB6ID0gemlwKGNlbnRyb2lkcywgYXJlYXMsIGRhcmVhcykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjcGF0aCA9IHNhZ2UuY3VydmUuY3ViaWNfYl9zcGxpbmUudGhyb3VnaF9wb2ludHMoWygwLCAwLCAwKSwgKDEwLCAwLCAxMCksICgxNSwgMCwgMjApLCAoMTUsIDAsIDIwKV0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlX21pZCA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDEwLXJhZGl1cywgMCwgMCksIHJhZGl1cywgc2FnZS5VTklUX1ZFQ19aKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlX2JvdCA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKC1yYWRpdXMsIDAsIDApLCByYWRpdXMsIHNhZ2UuVU5JVF9WRUNfWikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9zcGluZV9jdXJ2ZSA9IHNwaW5lX3NwbGluZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZvciB2aXogLi4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzcGluZV9zcGxpbmUgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCpjbnRycykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBtYWtlIGEgZGlzayBmb3IgdmlzdWFsaXphdGlvbiB3aXRoIHNvbWUgYXJiaXRyYXJ5IHJhZGl1cyBhbmQgYWRkIGl0IHRvIGxpc3Qgb2Ygc2xpY2UgcGxhbmVzIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgICBjbnRycyA9IHNlbGYuX3NhbXBsZWRfY2VudHJvaWRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuX3NsaWNlX3BsYW5lc192aXouYXBwZW5kKHNsaWNlX3BsYW5lLmRpc2socmFkaXVzKSkK</text>
+        <text encoding="base64">ICAgIGRlZiBiZXppZXJfY3VydmUoc2VsZik6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
@@ -509,9 +507,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-search>
+      <last-search encoding="base64">XDxzcGxpbmVfY3VydmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnRpdHlUeXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzcGxpbmVfY3VydmVcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -519,8 +517,6 @@
     </search>
     <history>
       <history-search>
-        <entry>external_surface</entry>
-        <entry>sage_old.loft</entry>
         <entry encoding="base64">XDxndWlkZXNcPg==</entry>
         <entry>lip</entry>
         <entry encoding="base64">XDxsaXBfY29uaWNcPg==</entry>
@@ -539,6 +535,8 @@
         <entry>make_planar</entry>
         <entry encoding="base64">XDxfaW5wdXRfZGF0YVw+</entry>
         <entry encoding="base64">XDxFbnRpdHlUeXBlXD4=</entry>
+        <entry>curve</entry>
+        <entry encoding="base64">XDxzcGxpbmVfY3VydmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isClosed/isPeriodic/gc</entry>
