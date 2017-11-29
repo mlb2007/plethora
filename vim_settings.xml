@@ -78,11 +78,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="26" column="73" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1510617329686">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1511991539510">
         <mark key="'" line="37" column="53" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1510715007626">
@@ -459,7 +459,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChpbmxldF9uYWNlbGxlLCAiaW5sZXRfbmFjZWxsZS5zYXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlfd3JpdGVyKGVudGl0eSwgb3V0cHV0LCAqKm91dHB1dF9rd2FyZ3MpCg==</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -471,31 +471,31 @@
         <text encoding="base64">aWYgaXNpbnN0YW5jZShzaGVldCwgc2FnZS5xdWVyeS5GbGF0RGlzayk6CiAgICAgICAgICAgICAgICB2aXpfc2xpY2VfcGxhbmUgPSBzaGVldC5kaXNrKHJhZGl1cykKICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHNoZWV0LCBzYWdlLnF1ZXJ5LkluZmluaXRlRmxhdFNoZWV0KToKICAgICAgICAgICAgICAgIHZpel9zbGljZV9wbGFuZSA9IHNoZWV0LmRpc2soMTApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJJbnB1dCBzaGVldCBpcyBub3QgYSBmbGF0IHNoZWV0IikKICAgICAgICAgICAgc2VsZi5fc2xpY2VfcGxhbmVzX3Zpei5hcHBlbmQodml6X3NsaWNlX3BsYW5lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChpbmxldF9uYWNlbGxlLCAiaW5sZXRfbmFjZWxsZS5zYXQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlfd3JpdGVyKGVudGl0eSwgb3V0cHV0LCAqKm91dHB1dF9rd2FyZ3MpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlfd3JpdGVyKGVudGl0eSwgb3V0cHV0LCAqKm91dHB1dF9rd2FyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoW2Zyb250X25hY2VsbGUsIHJlY2Vzc2VkX2xpcF9mcm9udCwgZnJvbnRfaW5sZXRdLCJ5YWtfaW5sZXQuaWdlcyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChpbmxldF9uYWNlbGxlLCAiaW5sZXRfbmFjZWxsZS5zYXQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5nbGUgPSBhbmdsZSArIGRlbHRhX2FuZ2xlCg==</text>
+        <text encoding="base64">ICAgICAgICBzYWdlX29sZC5leHBvcnQoW2Zyb250X25hY2VsbGUsIHJlY2Vzc2VkX2xpcF9mcm9udCwgZnJvbnRfaW5sZXRdLCJ5YWtfaW5sZXQuaWdlcyIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkLmV4cG9ydCgnc3BpbmVfZGF0YS5zYXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5nbGUgPSBhbmdsZSArIGRlbHRhX2FuZ2xlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkID0gQXJlYURpc3RyaWJ1dGlvbihib2R5KS5hZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXIobmN1dHMsIGN1dF9wbGFuZV9kaXIpLmV2YWx1YXRlKHNhZ2UuVU5JVF9WRUNfWikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBjYWxjdWxhdGVfYXJlYV9kaXN0cmlidXRpb24oYm9keSwgbnVtX3NsaWNlcywgY3V0X3BsYW5lX2RpciwgYXJlYV9kaXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkLmV4cG9ydCgnc3BpbmVfZGF0YS5zYXQnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
