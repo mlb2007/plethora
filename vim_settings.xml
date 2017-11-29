@@ -306,11 +306,12 @@
         <mark key="." line="74" column="35" />
         <mark key="^" line="74" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1511983244508">
-        <mark key="'" line="4298" column="8" />
-        <mark key="[" line="4302" column="0" />
-        <mark key="]" line="4302" column="0" />
-        <mark key="." line="4302" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1511985451907">
+        <mark key="'" line="4138" column="48" />
+        <mark key="[" line="4132" column="34" />
+        <mark key="]" line="4132" column="35" />
+        <mark key="." line="4132" column="35" />
+        <mark key="^" line="4132" column="35" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/cowl_translator.py" timestamp="1509476059331">
         <mark key="[" line="100" column="4" />
@@ -352,68 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4490" column="46" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4596" column="42" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="257" column="66" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="863" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="864" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="879" column="30" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="880" column="96" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="887" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="896" column="26" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="897" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="900" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="1653" column="36" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4607" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2033" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2046" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2047" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2048" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2049" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2051" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2396" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2397" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4739" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4955" column="12" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4957" column="12" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="123" column="12" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="663" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="861" column="16" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="1130" column="16" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="1687" column="55" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="2035" column="45" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3077" column="53" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3183" column="22" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3146" column="48" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="4550" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3944" column="55" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="3932" column="56" filename="$USER_HOME$/workspace/bugs/intersect_bug/inlet.py" />
-      <jump line="323" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="348" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="680" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="1505" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="573" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1542" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="35" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="18" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="38" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="63" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="66" column="40" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="268" column="47" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="54" column="17" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="60" column="81" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="16" column="13" filename="$USER_HOME$/workspace/inlet_area_distrib/spine.py" />
-      <jump line="343" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="587" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="322" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="328" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="329" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="330" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="331" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="332" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="333" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="334" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="335" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="336" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -452,6 +391,68 @@
       <jump line="2283" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2284" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4297" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4337" column="12" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4346" column="50" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4131" column="7" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="1029" column="29" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2482" column="46" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2487" column="33" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2488" column="19" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2494" column="25" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2497" column="27" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2498" column="72" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2500" column="27" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2501" column="72" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2573" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2574" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2577" column="67" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2605" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2606" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2609" column="81" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2611" column="86" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2626" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2627" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2630" column="81" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2632" column="86" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2849" column="39" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2851" column="31" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="2852" column="64" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3026" column="43" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3028" column="35" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3029" column="71" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3724" column="87" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3727" column="17" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3728" column="29" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3772" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3773" column="32" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3779" column="41" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="3785" column="41" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4067" column="56" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4069" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4468" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4579" column="21" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4580" column="31" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4637" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4639" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4643" column="54" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4648" column="69" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4654" column="33" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4660" column="33" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4666" column="11" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4669" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4671" column="11" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4673" column="54" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4679" column="43" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4680" column="41" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4681" column="31" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4682" column="44" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4683" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4873" column="58" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4874" column="37" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4967" column="10" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4968" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4978" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
+      <jump line="4138" column="48" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -464,7 +465,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNlc3NlZF9saXBfZnJvbnRcPg==</text>
+        <text>mesh</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aWYgaXNpbnN0YW5jZShzaGVldCwgc2FnZS5xdWVyeS5GbGF0RGlzayk6CiAgICAgICAgICAgICAgICB2aXpfc2xpY2VfcGxhbmUgPSBzaGVldC5kaXNrKHJhZGl1cykKICAgICAgICAgICAgZWxpZiBpc2luc3RhbmNlKHNoZWV0LCBzYWdlLnF1ZXJ5LkluZmluaXRlRmxhdFNoZWV0KToKICAgICAgICAgICAgICAgIHZpel9zbGljZV9wbGFuZSA9IHNoZWV0LmRpc2soMTApCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJJbnB1dCBzaGVldCBpcyBub3QgYSBmbGF0IHNoZWV0IikKICAgICAgICAgICAgc2VsZi5fc2xpY2VfcGxhbmVzX3Zpei5hcHBlbmQodml6X3NsaWNlX3BsYW5lKQo=</text>
@@ -501,9 +502,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNlc3NlZF9saXBfZnJvbnRcPg==</last-search>
+      <last-search>mesh</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNlc3NlZF9saXBfZnJvbnRcPg==</last-pattern>
+      <last-pattern>mesh</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +512,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlX2xpcF9jb25pY1w+</entry>
-        <entry encoding="base64">XDxndWlkZV90YWtlb2ZmX2N1cnZlc1w+</entry>
         <entry encoding="base64">XDxleHRlcm5hbF9zZWN0aW9uc1w+</entry>
         <entry>Iteration</entry>
         <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
@@ -531,9 +530,10 @@
         <entry encoding="base64">XDxfaW5wdXRfc2hlZXRzXD4=</entry>
         <entry>stitch</entry>
         <entry encoding="base64">XDxyZWNlc3NlZF9saXBfZnJvbnRcPg==</entry>
+        <entry encoding="base64">XDxvdXRlcl9jb3dsXD4=</entry>
+        <entry>mesh</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/isClosed/isPeriodic/gc</entry>
         <entry>we</entry>
         <entry>ew</entry>
         <entry>%s/modify_curvature/_modify_curvature/gc</entry>
@@ -552,6 +552,7 @@
         <entry>wq</entry>
         <entry>1</entry>
         <entry>2254</entry>
+        <entry>4131</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
