@@ -257,8 +257,12 @@
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet.json" timestamp="1512021511619">
         <mark key="'" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1512072665995">
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1512074805277">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="811" column="43" />
+        <mark key="]" line="811" column="90" />
+        <mark key="^" line="811" column="90" />
+        <mark key="." line="811" column="90" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
