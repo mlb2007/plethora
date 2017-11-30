@@ -257,8 +257,8 @@
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet.json" timestamp="1512021511619">
         <mark key="'" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1512067481758">
-        <mark key="'" line="202" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1512072665995">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
@@ -360,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="60" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="86" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="30" column="13" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
@@ -460,6 +459,7 @@
       <jump line="528" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="120" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="202" column="0" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -472,7 +472,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>unsupported</text>
+        <text>combine</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aW5uZXJfY29uaWNfcmVjZXNzZWQgPSBzYWdlX29sZC5jb25pY19zdGFydF9lbmRfdGFuX3JobyhbTEVfcG9pbnRbMF0gKyBjb3ZlX3Nob3J0LCBMRV9wb2ludFsxXSwgTEVfcG9pbnRbMl1dLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlubGV0X3BvaW50LCBzdGFydF9kaXIsIGlubGV0X3RhbiwgcmhvX3NjYWxlICogaW5uZXJfcmhvKQogICAgICAgICAgICBvdXRlcl9jb25pY19yZWNlc3NlZCA9IHNhZ2Vfb2xkLmNvbmljX3N0YXJ0X2VuZF90YW5fcmhvKFtMRV9wb2ludFswXSArIGNvdmVfc2hvcnQsIExFX3BvaW50WzFdLCBMRV9wb2ludFsyXV0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFjZWxsZV9wb2ludCwgc3RhcnRfZGlyLCBuYWNlbGxlX3RhbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaG9fc2NhbGUgKiBvdXRlcl9yaG8pCg==</text>
@@ -509,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unsupported</last-search>
+      <last-search>combine</last-search>
       <last-offset />
-      <last-pattern>unsupported</last-pattern>
+      <last-pattern>combine</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -519,7 +519,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGxpbmVfY3VydmVcPg==</entry>
         <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
         <entry encoding="base64">XDxfc2xpY2VfYm9keV93aXRoX3BsYW5lXD4=</entry>
         <entry encoding="base64">XDxfcmFkaXVzXD4=</entry>
@@ -539,6 +538,7 @@
         <entry encoding="base64">XDxQb2ludFJlc3VsdHNcPg==</entry>
         <entry>Unsupported</entry>
         <entry>unsupported</entry>
+        <entry>combine</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
