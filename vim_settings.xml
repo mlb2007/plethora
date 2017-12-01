@@ -326,9 +326,11 @@
         <mark key="." line="5026" column="19" />
         <mark key="^" line="5026" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512164729410">
-        <mark key="'" line="3334" column="47" />
-        <mark key="[" line="4172" column="74" />
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512166497264">
+        <mark key="'" line="3441" column="88" />
+        <mark key="[" line="2269" column="80" />
+        <mark key="]" line="4178" column="0" />
+        <mark key="." line="4178" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510707969693">
         <mark key="[" line="2" column="0" />
@@ -352,34 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2577" column="67" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2605" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2606" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2609" column="81" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2611" column="86" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2626" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2627" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2630" column="81" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2632" column="86" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2849" column="39" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2851" column="31" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2852" column="64" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3026" column="43" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3028" column="35" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3029" column="71" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3724" column="87" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3727" column="17" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3728" column="29" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3772" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3773" column="32" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3779" column="41" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="3785" column="41" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4067" column="56" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4069" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4468" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4579" column="21" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4580" column="31" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4637" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4639" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4643" column="54" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4648" column="69" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
@@ -450,60 +424,88 @@
       <jump line="0" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="674" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="812" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="3334" column="47" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4174" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4643" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4651" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4665" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4666" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4667" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4668" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4669" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4670" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4671" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4672" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4785" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4804" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4850" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4858" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4894" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4915" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4931" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="4953" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="3629" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="3729" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="235" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="711" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="830" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="921" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="1088" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="1204" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="3437" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHdhcm5pbmdzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">dHJhbnNsYXRpbmcg</text>
+        <text>build_inlet</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGNvcHkoc2VsZik6CiAgICAgICAgcmV0dXJuIGJvZGllcy5GYWNlLmZyb21fcXVlcnkoc2VsZikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHdhcm5pbmdzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGl0KDApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjcmV0dXJuIGJvZGllcy5GYWNlLmZyb21fcXVlcnkoc2VsZikK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChmaWxsZWRfbmFjZWxsZSwgJ2lubGV0LnNhdCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxsZWRfbmFjZWxsZSA9IGJib3hfY3Vib2lkICYgbmFjZWxsZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb3B5KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChuYWNlbGxlLCBiYm94X2N1Ym9pZCwgJ2lubGV0X3dfYmJveCAuc2F0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYm94X2N1Ym9pZC5jb2xvcigncicpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBib2RpZXMuQm9keS5mcm9tX3F1ZXJ5KHNlbGYpCg==</text>
+        <text encoding="base64">ICAgICAgICBiYm94X2N1Ym9pZCA9IHNhZ2UuYnVpbGQuY3Vib2lkKG5hY2VsbGVfYmJveF9sb3cgLSBzYWdlLlBvaW50M0QoMTAwLCAxMDAsIDEwMCksIG5hY2VsbGVfYmJveF9oaSArIHNhZ2UuUG9pbnQzRCgxMDAsIDEwMCwgMTAwKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAibmFjZWxsZSBiYm94IiwgbmFjZWxsZV9iYm94X2xvdywgbmFjZWxsZV9iYm94X2hpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBjb3B5KHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBuYWNlbGxlX2Jib3hfbG93LCBuYWNlbGxlX2Jib3hfaGkgPSBuYWNlbGxlLmJib3gK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>2237</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">dHJhbnNsYXRpbmcg</last-search>
+      <last-search>build_inlet</last-search>
       <last-offset />
-      <last-pattern encoding="base64">dHJhbnNsYXRpbmcg</last-pattern>
+      <last-pattern>build_inlet</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -511,8 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmcm9udF9jZW50ZXJsaW5lXD4=</entry>
-        <entry encoding="base64">XDxoaWdobGlnaHRfcG9pbnRzXD4=</entry>
         <entry encoding="base64">XDxhbmdsZVw+</entry>
         <entry encoding="base64">XDxQb2ludFJlc3VsdHNcPg==</entry>
         <entry>Unsupported</entry>
@@ -531,9 +531,10 @@
         <entry>warning</entry>
         <entry>make_tra</entry>
         <entry encoding="base64">dHJhbnNsYXRpbmcg</entry>
+        <entry>build_inlet_surface</entry>
+        <entry>build_inlet</entry>
       </history-search>
       <history-cmd>
-        <entry>we</entry>
         <entry>ew</entry>
         <entry>%s/modify_curvature/_modify_curvature/gc</entry>
         <entry>qw</entry>
@@ -553,6 +554,7 @@
         <entry>2254</entry>
         <entry>4131</entry>
         <entry>w</entry>
+        <entry>2237</entry>
       </history-cmd>
       <history-expr />
       <history-input />
