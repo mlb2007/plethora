@@ -326,6 +326,10 @@
         <mark key="." line="5026" column="19" />
         <mark key="^" line="5026" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512164729410">
+        <mark key="'" line="3334" column="47" />
+        <mark key="[" line="4172" column="74" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510707969693">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -348,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2573" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="2574" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2577" column="67" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2605" column="28" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2606" column="40" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
@@ -448,6 +450,8 @@
       <jump line="0" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="674" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="812" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
+      <jump line="3334" column="47" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -460,7 +464,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>warning</text>
+        <text encoding="base64">dHJhbnNsYXRpbmcg</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGNvcHkoc2VsZik6CiAgICAgICAgcmV0dXJuIGJvZGllcy5GYWNlLmZyb21fcXVlcnkoc2VsZikK</text>
@@ -497,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>warning</last-search>
+      <last-search encoding="base64">dHJhbnNsYXRpbmcg</last-search>
       <last-offset />
-      <last-pattern>warning</last-pattern>
+      <last-pattern encoding="base64">dHJhbnNsYXRpbmcg</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -507,8 +511,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXRfc3VyZmFjZVw+</entry>
-        <entry>cut_angle_z</entry>
         <entry encoding="base64">XDxmcm9udF9jZW50ZXJsaW5lXD4=</entry>
         <entry encoding="base64">XDxoaWdobGlnaHRfcG9pbnRzXD4=</entry>
         <entry encoding="base64">XDxhbmdsZVw+</entry>
@@ -527,6 +529,8 @@
         <entry>join_edges</entry>
         <entry>warnings</entry>
         <entry>warning</entry>
+        <entry>make_tra</entry>
+        <entry encoding="base64">dHJhbnNsYXRpbmcg</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
