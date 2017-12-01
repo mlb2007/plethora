@@ -139,8 +139,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1512080722658">
-        <mark key="'" line="388" column="11" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1512151456123">
+        <mark key="'" line="722" column="24" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="388" column="11" />
@@ -377,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2482" column="46" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2487" column="33" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2488" column="19" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="2494" column="25" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
@@ -477,6 +476,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="716" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="41" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="722" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -489,7 +489,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>from_edge</text>
+        <text>slice</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGNvcHkoc2VsZik6CiAgICAgICAgcmV0dXJuIGJvZGllcy5GYWNlLmZyb21fcXVlcnkoc2VsZikK</text>
@@ -526,9 +526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>from_edge</last-search>
+      <last-search>slice</last-search>
       <last-offset />
-      <last-pattern>from_edge</last-pattern>
+      <last-pattern>slice</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -536,7 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNlc3NlZF9saXBfZnJvbnRcPg==</entry>
         <entry encoding="base64">XDxvdXRlcl9jb3dsXD4=</entry>
         <entry>mesh</entry>
         <entry encoding="base64">XDx0aGlja25lc3Nfc3BsaW5lXD4=</entry>
@@ -556,6 +555,7 @@
         <entry encoding="base64">XDxzY1w+</entry>
         <entry>FaceQuery</entry>
         <entry>from_edge</entry>
+        <entry>slice</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
