@@ -93,11 +93,11 @@
         <mark key="." line="1712" column="93" />
         <mark key="^" line="1712" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512406627114">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="19" column="10" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512409531845">
+        <mark key="[" line="47" column="8" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -339,12 +339,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1512406297717">
-        <mark key="'" line="83" column="13" />
-        <mark key="[" line="205" column="17" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="29" column="40" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1512409779420">
+        <mark key="'" line="217" column="34" />
+        <mark key="[" line="220" column="33" />
+        <mark key="]" line="220" column="32" />
+        <mark key="." line="220" column="32" />
+        <mark key="^" line="220" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -355,10 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4648" column="69" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4654" column="33" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4660" column="33" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4666" column="11" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4669" column="24" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4671" column="11" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4673" column="54" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
@@ -455,58 +451,62 @@
       <jump line="3437" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="342" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="279" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="70" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="130" column="40" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="203" column="34" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cGx0LnBsb3QoYWQubm9ybWFsX2FyZWFzKQogICAgICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">IGN1dF9hcmVhID0gY3V0X2ZhY2VzLnN1cmZhY2VfYXJlYQogICAgICAgIGN1dF9jZW50cm9pZCA9IGN1dF9mYWNlcy5jZW50cm9pZAog</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>intersect</text>
+        <text encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">cGx0LnBsb3QoYWQubm9ybWFsX2FyZWFzKQogICAgICAgIHBsdC5zaG93KCkK</text>
+        <text encoding="base64">IGRlZiBub190ZXN0X2FyZWFfZGlzdHJpYnV0aW9uX2lubGV0X2R1Y3Qoc2VsZik6CiAgICAgICAgYm9keSA9IHNlbGYuX2lubGV0X2RhdGEoKQogICAgICAgIG51bV9zbGljZXMgPSAxMAogICAgICAgIGN1dF9wbGFuZV9kaXIgPSBzYWdlLlVOSVRfVkVDX1gKICAgICAgICBhcmVhX2RpciA9IGN1dF9wbGFuZV9kaXIKICAgICAgICBhZCA9IGNhbGN1bGF0ZV9hcmVhX2Rpc3RyaWJ1dGlvbihib2R5LCBudW1fc2xpY2VzLCBjdXRfcGxhbmVfZGlyLCBhcmVhX2Rpciwgdml6PVRydWUpCiAgICAgICAgZm9yIGRpY3RfaXRlbSBpbiBhZC5kYXRhOgogICAgICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkaWN0X2l0ZW0uaXRlcml0ZW1zKCk6CiAgICAgICAgICAgICAgICBwcmludCBrZXksIHZhbHVlCiAgICAgICAgcGx0LnBsb3QoYWQubm9ybWFsX2FyZWFzKQogICAgICAgIHBsdC5zaG93KCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwbHQucGxvdChhZC5jZW50cm9pZHMsIGFkLm5vcm1hbF9hcmVhcykgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGN1dF9hcmVhID0gY3V0X2ZhY2VzLnN1cmZhY2VfYXJlYQogICAgICAgIGN1dF9jZW50cm9pZCA9IGN1dF9mYWNlcy5jZW50cm9pZAog</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl92aXpfcmFkaXVzID0gc2FnZS5Qb2ludDNEKF9iYm94X2xvdykuZGlzdChzYWdlLlBvaW50M0QoX2Jib3hfaGkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfYmJveF9sb3csIF9iYm94X2hpID0gc2VsZi5faW5wX2JvZHkuYmJveAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBjYWxjdWxhdGVfYXJlYV9kaQo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgbWF0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGJvZGllcykgPT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwbHQucGxvdChhZC5jZW50cm9pZHMsIGFkLm5vcm1hbF9hcmVhcykgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib2RpZXMgPSBpbXBvcnRlZC5ib2RpZXMK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNhZ2UuaW8uaW1wb3J0X2dlb21ldHJ5KCdpbmxldC5zYXQnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0ZWQgPSBzYWdlLmlvLmltcG9ydF9nZW9tZXRyeSgnaW5sZXQuc2F0JykK</text>
+        <text encoding="base64">ICAgIGRlZiBjYWxjdWxhdGVfYXJlYV9kaQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGJvZGllcykgPT0gMQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>intersect</last-search>
+      <last-search encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</last-search>
       <last-offset />
-      <last-pattern>intersect</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -514,8 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQb2ludFJlc3VsdHNcPg==</entry>
-        <entry>Unsupported</entry>
         <entry>unsupported</entry>
         <entry>combine</entry>
         <entry encoding="base64">XDxkZWZcPg==</entry>
@@ -534,6 +532,8 @@
         <entry>build_inlet_surface</entry>
         <entry>build_inlet</entry>
         <entry>intersect</entry>
+        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVcPg==</entry>
+        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
