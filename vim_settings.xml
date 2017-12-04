@@ -326,11 +326,12 @@
         <mark key="." line="5026" column="19" />
         <mark key="^" line="5026" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512166497264">
+      <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512405610496">
         <mark key="'" line="3441" column="88" />
-        <mark key="[" line="2269" column="80" />
-        <mark key="]" line="4178" column="0" />
-        <mark key="." line="4178" column="0" />
+        <mark key="[" line="2271" column="53" />
+        <mark key="]" line="2273" column="65" />
+        <mark key="." line="2273" column="65" />
+        <mark key="^" line="2273" column="65" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1510707969693">
         <mark key="[" line="2" column="0" />
