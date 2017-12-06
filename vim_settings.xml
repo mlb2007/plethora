@@ -16,12 +16,12 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1512589833623">
-        <mark key="'" line="321" column="4" />
-        <mark key="[" line="317" column="15" />
-        <mark key="]" line="317" column="26" />
-        <mark key="." line="317" column="26" />
-        <mark key="^" line="317" column="26" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1512600057635">
+        <mark key="'" line="1190" column="30" />
+        <mark key="[" line="1206" column="21" />
+        <mark key="]" line="1206" column="22" />
+        <mark key="." line="1206" column="22" />
+        <mark key="^" line="1206" column="22" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1512154945543">
         <mark key="'" line="41" column="16" />
@@ -71,12 +71,11 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1512588295677">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1512600071548">
         <mark key="'" line="838" column="17" />
-        <mark key="[" line="398" column="0" />
-        <mark key="]" line="406" column="24" />
-        <mark key="." line="1712" column="93" />
-        <mark key="^" line="1712" column="93" />
+        <mark key="[" line="2588" column="27" />
+        <mark key="]" line="2588" column="27" />
+        <mark key="." line="2588" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512409531845">
         <mark key="[" line="47" column="8" />
@@ -104,8 +103,11 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/api.py" timestamp="1511981894365">
-        <mark key="[" line="1712" column="58" />
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/api.py" timestamp="1512599490614">
+        <mark key="[" line="2589" column="19" />
+        <mark key="]" line="2588" column="43" />
+        <mark key="^" line="2588" column="43" />
+        <mark key="." line="2588" column="43" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/cennac.json" timestamp="1510601500465">
         <mark key="'" line="3" column="18" />
@@ -148,7 +150,7 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1512580349757">
+      <file name="/Python Console" timestamp="1512599508275">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1512580626303">
@@ -238,12 +240,12 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="32" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512581314455">
+      <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512600198311">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+        <mark key="[" line="32" column="43" />
+        <mark key="]" line="32" column="43" />
+        <mark key="." line="32" column="43" />
+        <mark key="^" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510786848085">
         <mark key="[" line="17" column="28" />
@@ -321,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4138" column="48" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4135" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4156" column="58" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4115" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4155" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
@@ -421,58 +421,60 @@
       <jump line="17" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="626" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="318" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1190" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>vec_perp</text>
+        <text encoding="base64">XDxwcm9jZXNzX3Rlcm1pbmFsX2ZhY2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICMgdHJ5IFkKICAgIGMgPSBQb2ludDNEKHZlY19jcm9zcyhhLCBzYWdlLlVOSVRfVkVDX1kpKQogICAgaWYgYy5ub3JtID4gRkxPQVRfVE9MOgogICAgICAgIHJldHVybiBjLm5vcm1hbGl6ZSgpCiA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdHJ5IFkK</text>
+        <text encoding="base64">IyBjID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9kaWFtZXRlcl9lbmRzX2FuZF9ub3JkZG1hbCgoMCwgLTMsIDApLCAoMCwgMywgMCksIHNhZ2UuVU5JVF9WRUNfWCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIk5vIGRlZGdlIGNvcHkgbWFkZSAuLi4iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGMgPSBQb2ludDNEKHZlY19jcm9zcyhhLCBzYWdlLlVOSVRfVkVDX1gpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJDYW5ub3QgY29tcHV0ZSBwZXJwZW5kaWN1bGFyLCBub3JtIG9mIGdpdmVuIHZlY3RvciBpcyB0b28gY2xvc2UgdG8gemVybyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3MgPSBwcm9maWxlLmNsb25lKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIFBvaW50M0QoYSkubm9ybSA8IHRvbDoK</text>
+        <text encoding="base64">ICAgICMgdHJ5IFkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFthWzBdLCBhWzFdLCBhWzJdXSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YyA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoc2FnZS5PUklHSU4sIDMsIHNhZ2UuVU5JVF9WRUNfWCkK</text>
+        <text encoding="base64">ICAgIGMgPSBQb2ludDNEKHZlY19jcm9zcyhhLCBzYWdlLlVOSVRfVkVDX1gpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJDYW5ub3QgY29tcHV0ZSBwZXJwZW5kaWN1bGFyLCBub3JtIG9mIGdpdmVuIHZlY3RvciBpcyB0b28gY2xvc2UgdG8gemVybyIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KGN5bCwgJ2N5bC5zYXQnKQo=</text>
+        <text encoding="base64">ICAgIGlmIFBvaW50M0QoYSkubm9ybSA8IHRvbDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vec_perp</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzX3Rlcm1pbmFsX2ZhY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>vec_perp</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzX3Rlcm1pbmFsX2ZhY2VcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -480,8 +482,6 @@
     </search>
     <history>
       <history-search>
-        <entry>from_edge</entry>
-        <entry>slice</entry>
         <entry>createSolid</entry>
         <entry>join_edges</entry>
         <entry>warnings</entry>
@@ -500,6 +500,8 @@
         <entry>vec_per</entry>
         <entry encoding="base64">XDx2ZWNfcGVycGVuZGljdWxhclw+</entry>
         <entry>vec_perp</entry>
+        <entry>loft</entry>
+        <entry encoding="base64">XDxwcm9jZXNzX3Rlcm1pbmFsX2ZhY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
