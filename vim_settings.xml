@@ -16,7 +16,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/inlet/run_sage.py" timestamp="1512610995926" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1512602346675">
         <mark key="'" line="990" column="28" />
         <mark key="[" line="1186" column="21" />
@@ -78,9 +77,9 @@
         <mark key="]" line="2588" column="27" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512668809528">
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512675386537">
         <mark key="'" line="87" column="8" />
-        <mark key="[" line="87" column="8" />
+        <mark key="[" line="96" column="42" />
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="8" />
       </file>
@@ -306,11 +305,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1512668940629">
-        <mark key="'" line="95" column="10" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="0" />
-        <mark key="." line="275" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1512676496395">
+        <mark key="'" line="105" column="10" />
+        <mark key="[" line="13" column="100" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -427,43 +427,60 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzbGljZV9wbGFuZV9ub3JtYWw6IEEgdXNlciBzcGVjaWZpZWQgZGlyZWN0aW9uIHVzZWQgdG8gZGV0ZXJtaW5lIHRoZSBzcGluZSBvZiB0aGUgYm9keQo=</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfYXJlYV9kaXN0cmlidXRpb25fY3lsXzMoc2VsZik6CiAgICAgICAgYm9keSA9IHNlbGYuX21ha2VfY3lsKHJhZGl1cz0yKQogICAgICAgIG51bV9zbGljZXMgPSA1CiAgICAgICAgY3V0X3BsYW5lX2RpciA9IHNhZ2UuVU5JVF9WRUNfWgogICAgICAgIGFyZWFfZGlyID0gY3V0X3BsYW5lX2RpcgogICAgICAgICMgdml6PVRydWUgdHVybnMgb24gZXhwb3J0IG9mIGRhdGEgdG8gSUdFUyBmb3JtYXQKICAgICAgICBhZCA9IGNhbGN1bGF0ZV9hcmVhX2Rpc3RyaWJ1dGlvbihib2R5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV9zbGljZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3V0X3BsYW5lX2RpciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmVhX2RpciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRfdmFsdWU9MTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdml6PVRydWUpCiAgICAgICAgZm9yIGRpY3RfaXRlbSBpbiBhZC5kYXRhOgogICAgICAgICAgICBwcHJpbnQucHByaW50KGRpY3RfaXRlbSkKCiAgICAgICAgIyBkZWJ1ZyAuLgogICAgICAgIHBsdC5wbG90KGFkLm5vcm1hbF9hcmVhcykKICAgICAgICBwbHQucGxvdChhZC5kaXJlY3Rpb25hbF9hcmVhcywgY29sb3I9J3InKQogICAgICAgIHBsdC5zaG93KCkK</text>
+        <text>&quot;&quot;&quot;
+    Calculate area distribution of a given solid body, first by finding the spine of the body,
+    and then calculating area at different points on the spine along tangent to spine and also
+    in any user specified direction.
+    This API takes as input number of sample points required to calculate the spine along with a 
+    direction to be used as reference to calculate the spine.
+    
+    :param body: Input body 
+    :param num_slices: Number of slices required to determine the spine of the input body
+    :param slice_plane_normal: A user specified direction used to determine the spine of the body
+    :param area_distribution_dir: A user specified direction to determine area normal to that direction at different pts
+    :param start_value: An optional float value that is used to determine the start point for determining spine of the body
+                        If not specified, the bounding box of the body is used to determine this value
+    :param end_value: An optional float value that is used to determine the end point for determining spine of the body
+                        If not specified, the bounding box of the body is used to determine this value
+    :param viz: A boolean if turned on will generate an igs file for debugging purposes 
+    :return: An AreaDistribution instance that contains results for further processing
+    &quot;&quot;&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBzbGljZV9wbGFuZV9ub3JtYWw6IEEgdXNlciBzcGVjaWZpZWQgZGlyZWN0aW9uIHVzZWQgdG8gZGV0ZXJtaW5lIHRoZSBzcGluZSBvZiB0aGUgYm9keQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQga2V5LCB2YWx1ZQo=</text>
+        <text encoding="base64">ICAgIGFuZCB0aGUgZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkaWN0X2l0ZW0uaXRlcml0ZW1zKCk6Cg==</text>
+        <text encoding="base64">ICAgIiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgOnJldHVybjogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXRfcGxhbmVfZGlyLAo=</text>
+        <text encoding="base64">ICAgOnBhcmFtIHZpejogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHZpej1UcnVlIHR1cm5zIG9uIGV4cG9ydCBvZiBkYXRhIHRvIElHRVMgZm9ybWF0Cg==</text>
+        <text encoding="base64">ICAgOnBhcmFtIGVuZF9wdDogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhX2RpciA9IGN1dF9wbGFuZV9kaXIK</text>
+        <text encoding="base64">ICAgOnBhcmFtIHN0YXJ0X3B0OiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgOnBhcmFtIGFyZWFfZGlzdHJpYnV0aW9uX2RpcjogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRfdmFsdWUsCg==</text>
+        <text encoding="base64">ICAgOnBhcmFtIG51bV9zbGljZXM6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
