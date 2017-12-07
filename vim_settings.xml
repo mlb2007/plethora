@@ -483,7 +483,7 @@
         <text encoding="base64">ICAgOnBhcmFtIGFyZWFfZGlzdHJpYnV0aW9uX2RpcjogCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -530,7 +530,6 @@
         <entry>10.24 s/return/=/gc</entry>
         <entry>10,24 s/return/=/gc</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>%s/as2components/AS2Components/gc</entry>
         <entry>%s/as2Components/AS2Components/gc</entry>
         <entry>wq</entry>
@@ -539,6 +538,7 @@
         <entry>4131</entry>
         <entry>2237</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
