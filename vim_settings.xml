@@ -78,11 +78,11 @@
         <mark key="]" line="2588" column="27" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512409531845">
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="2" column="1" />
-        <mark key="." line="2" column="1" />
-        <mark key="^" line="2" column="1" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1512668809528">
+        <mark key="'" line="87" column="8" />
+        <mark key="[" line="87" column="8" />
+        <mark key="]" line="20" column="8" />
+        <mark key="." line="20" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -306,11 +306,11 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1512610269854">
-        <mark key="'" line="240" column="34" />
-        <mark key="[" line="104" column="69" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1512668940629">
+        <mark key="'" line="95" column="10" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -321,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4434" column="75" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
-      <jump line="4228" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4240" column="12" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4239" column="14" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
       <jump line="4146" column="8" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" />
@@ -421,6 +419,8 @@
       <jump line="818" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="988" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="990" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="95" column="10" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="87" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -430,57 +430,56 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX3dpcmVcPg==</text>
+        <text encoding="base64">XDxwbHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICMgdGVtcG9yYXJpbHkgaG9sZCB0aGUgZGF0YSBnYXRoZXJlZCBmcm9tIGRpZmZlcmVudCBzbGljZXMgd2hpY2ggc2hhbGwgYmUgdXNlZCBmb3Igc3BpbmUncyBzcGxpbmUgY2FsY3VsYXRpb24KICAgICAgICBmb3Igc2xpY2VfaW5kZXggaW4gcmFuZ2UoMCwgbnVtX3NsaWNlcyk6CiAgICAgICAgICAgICMgcHJvZ3Jlc3NpdmVseSBtb3ZlIGZyb20gcG9pbnQgdG8gcG9pbnQgYXMgZGV0ZXJtaW5lZCBieSBudW1iZXIgb2Ygc2xpY2VzIGFuZCBtYWtlIGN1dCBwbGFuZXMgLi4uCiAgICAgICAgICAgIHNsaWNlX3B0ID0gc2FnZS5Qb2ludDNEKFtzZWxmLl9zdGFydFtpXSArIChzbGljZV9pbmRleCpkaXJfZGVsdGFbaV0pIGZvciBpIGluIHJhbmdlKDAsIDMpXSkKICAgICAgICAgICAgc2VsZi5hZGRfc2xpY2VfcGxhbmUoc2xpY2VfcHQsIG5vcm1hbCkKICAgICAgICA=</text>
+        <text encoding="base64">ZGVmIHRlc3RfYXJlYV9kaXN0cmlidXRpb25fY3lsXzMoc2VsZik6CiAgICAgICAgYm9keSA9IHNlbGYuX21ha2VfY3lsKHJhZGl1cz0yKQogICAgICAgIG51bV9zbGljZXMgPSA1CiAgICAgICAgY3V0X3BsYW5lX2RpciA9IHNhZ2UuVU5JVF9WRUNfWgogICAgICAgIGFyZWFfZGlyID0gY3V0X3BsYW5lX2RpcgogICAgICAgICMgdml6PVRydWUgdHVybnMgb24gZXhwb3J0IG9mIGRhdGEgdG8gSUdFUyBmb3JtYXQKICAgICAgICBhZCA9IGNhbGN1bGF0ZV9hcmVhX2Rpc3RyaWJ1dGlvbihib2R5LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bV9zbGljZXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY3V0X3BsYW5lX2RpciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmVhX2RpciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmRfdmFsdWU9MTAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdml6PVRydWUpCiAgICAgICAgZm9yIGRpY3RfaXRlbSBpbiBhZC5kYXRhOgogICAgICAgICAgICBwcHJpbnQucHByaW50KGRpY3RfaXRlbSkKCiAgICAgICAgIyBkZWJ1ZyAuLgogICAgICAgIHBsdC5wbG90KGFkLm5vcm1hbF9hcmVhcykKICAgICAgICBwbHQucGxvdChhZC5kaXJlY3Rpb25hbF9hcmVhcywgY29sb3I9J3InKQogICAgICAgIHBsdC5zaG93KCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQga2V5LCB2YWx1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3Iga2V5LCB2YWx1ZSBpbiBkaWN0X2l0ZW0uaXRlcml0ZW1zKCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VfcHQgPSBzYWdlLlBvaW50M0QoW3NlbGYuX3N0YXJ0W2ldICsgKHNsaWNlX2luZGV4KmRpcl9kZWx0YVtpXSkgZm9yIGkgaW4gcmFuZ2UoMCwgMyldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcm9ncmVzc2l2ZWx5IG1vdmUgZnJvbSBwb2ludCB0byBwb2ludCBhcyBkZXRlcm1pbmVkIGJ5IG51bWJlciBvZiBzbGljZXMgYW5kIG1ha2UgY3V0IHBsYW5lcyAuLi4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjdXRfcGxhbmVfZGlyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2xpY2VfaW5kZXggaW4gcmFuZ2UoMCwgbnVtX3NsaWNlcyk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHZpej1UcnVlIHR1cm5zIG9uIGV4cG9ydCBvZiBkYXRhIHRvIElHRVMgZm9ybWF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHRlbXBvcmFyaWx5IGhvbGQgdGhlIGRhdGEgZ2F0aGVyZWQgZnJvbSBkaWZmZXJlbnQgc2xpY2VzIHdoaWNoIHNoYWxsIGJlIHVzZWQgZm9yIHNwaW5lJ3Mgc3BsaW5lIGNhbGN1bGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBhcmVhX2RpciA9IGN1dF9wbGFuZV9kaXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igc2xpY2VfcHQgaW4gc2xpY2VfcHRzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VfcHQgPSBzYWdlLlBvaW50M0QoW3NlbGYuX3N0YXJ0W2ldICsgKHNsaWNlX2luZGV4KmRpcl9kZWx0YVtpXSkgZm9yIGkgaW4gcmFuZ2UoMCwgMyldKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRfdmFsdWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX3dpcmVcPg==</last-search>
+      <last-search encoding="base64">XDxwbHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX3dpcmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwbHRcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>warning</entry>
         <entry>make_tra</entry>
         <entry encoding="base64">dHJhbnNsYXRpbmcg</entry>
         <entry>build_inlet_surface</entry>
@@ -500,6 +499,7 @@
         <entry>dedge</entry>
         <entry encoding="base64">XDxtYWtlX21vY2tfZGVkZ2VcPg==</entry>
         <entry encoding="base64">XDxtYWtlX3dpcmVcPg==</entry>
+        <entry encoding="base64">XDxwbHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
