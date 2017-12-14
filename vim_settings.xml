@@ -324,12 +324,12 @@
         <mark key="^" line="2" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513293368502">
-        <mark key="'" line="196" column="41" />
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="25" />
-        <mark key="." line="70" column="25" />
-        <mark key="^" line="70" column="25" />
+      <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513294397540">
+        <mark key="'" line="44" column="51" />
+        <mark key="[" line="199" column="59" />
+        <mark key="]" line="204" column="56" />
+        <mark key="." line="204" column="56" />
+        <mark key="^" line="204" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -340,20 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" />
-      <jump line="4" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="390" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="41" column="73" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
-      <jump line="716" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
-      <jump line="41" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
-      <jump line="722" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="1583" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1925" column="105" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="1354" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="5" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="674" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="812" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="3334" column="47" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="4174" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="4643" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
@@ -388,7 +374,6 @@
       <jump line="279" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="87" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="130" column="40" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
-      <jump line="203" column="34" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" />
       <jump line="2693" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
@@ -440,58 +425,73 @@
       <jump line="167" column="17" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="182" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="196" column="41" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="334" column="12" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="134" column="15" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="168" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="266" column="4" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="78" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="200" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="79" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="201" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="204" column="40" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="50" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="77" column="25" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="199" column="47" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="203" column="45" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="44" column="51" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmFsdWF0ZVw+</text>
+        <text encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIEBwcm9wZXJ0eQogICAgZGVmIGVudGl0aWVzKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLl9lbnRpdGllcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBhcmVhX2Rpc3RyaWJ1dGlvbl9kaXI6IEEgdXNlciBzcGVjaWZpZWQgZGlyZWN0aW9uIHRvIGRldGVybWluZSBhcmVhIG5vcm1hbCB0byB0aGF0IGRpcmVjdGlvbiBhdCBkaWZmZXJlbnQgcHRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VfYXJlYV9pbl9kaXIsIF8gPSBzZWxmLnNsaWNlX2JvZHlfd2l0aF9zaGVldChzbGljZV9wbGFuZV9pbl9kaXIuc2hlZXQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmVhX2Rpc3RyaWJ1dGlvbl9kaXI9c2FnZS5VTklUX1ZFQ19aLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxmLnNsaWNlX2JvZHlfd2l0aF9zaGVldChzbGljZV9wbGFuZS5zaGVldCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VfYXJlYSwgc2xpY2VfY2VudHJvaWQgPSBzZWxmLnNsaWNlX2JvZHlfd2l0aF9zaGVldChzbGljZV9wbGFuZS5zaGVldCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3V0X2NlbnRyb2lkID0gMCwgMCwgMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzbGljZV9hcmVhX2luX2RpciwgXyA9IHNlbGYuc2xpY2VfYm9keV93aXRoX3NoZWV0KHNsaWNlX3BsYW5lX2luX2Rpci5zaGVldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3V0X2FyZWEgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBzbGljZV9wbGFuZV9pbl9kaXIgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKGNlbnRlciwgYXJlYV9kaXJlY3Rpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3V0X2NlbnRyb2lkID0gY3V0X2ZhY2VzLmNlbnRyb2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBub3cgYWxvbmcgdGhlIGdpdmVuIGFyZWEgZGlyZWN0aW9uIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3V0X2FyZWEgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyB3aGlsZSB0aGlzIGlzIHVzZWZ1bCBpbiBpdHNlbGYsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3V0X2FyZWEgPSBjdXRfZmFjZXMuc3VyZmFjZV9hcmVhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2dvLmFkZChlbnRpdHkpCg==</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBhcmVhX2Rpc3RyaWJ1dGlvbl9kaXI6IEEgdXNlciBzcGVjaWZpZWQgZGlyZWN0aW9uIHRvIGRldGVybWluZSBhcmVhIG5vcm1hbCB0byB0aGF0IGRpcmVjdGlvbiBhdCBkaWZmZXJlbnQgcHRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmFsdWF0ZVw+</last-search>
+      <last-search encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmFsdWF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -499,10 +499,6 @@
     </search>
     <history>
       <history-search>
-        <entry>intersect</entry>
-        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</entry>
-        <entry encoding="base64">XDx3cmFwcGVkXD4=</entry>
-        <entry>perp</entry>
         <entry encoding="base64">XDxfcGVycGVuZGljdWxhcl92ZWNcPg==</entry>
         <entry encoding="base64">XDxfcGVycGVuZGljdWxhclw+</entry>
         <entry>vec_per</entry>
@@ -519,6 +515,10 @@
         <entry encoding="base64">XDxmaW5kX3NwaW5lXD4=</entry>
         <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVcPg==</entry>
         <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
+        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</entry>
+        <entry>dir_to</entry>
+        <entry encoding="base64">XDxzbGljZV9ib2R5X3dpdGhfc2hlZXRcPg==</entry>
+        <entry encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
