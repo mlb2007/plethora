@@ -10,6 +10,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/area_distribution/axisymmetric_spike_inlet.py" timestamp="1513380669137">
+        <mark key="'" line="24" column="43" />
+        <mark key="[" line="467" column="31" />
+        <mark key="]" line="466" column="37" />
+        <mark key="." line="466" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.pyi" timestamp="1510698725805">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -200,6 +206,13 @@
       <file name="/Python Console" timestamp="1513377101574">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513380918188">
+        <mark key="'" line="298" column="12" />
+        <mark key="[" line="149" column="67" />
+        <mark key="]" line="301" column="69" />
+        <mark key="^" line="301" column="69" />
+        <mark key="." line="301" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/sheet_sheet.py" timestamp="1511811489523">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="16" />
@@ -370,15 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4672" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4785" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4804" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4850" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4858" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4894" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4915" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4931" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4953" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="3629" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="3729" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
@@ -470,25 +474,34 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="40346" column="0" filename="$USER_HOME$/workspace/tmp/trifile.tri" />
       <jump line="21132" column="0" filename="$USER_HOME$/workspace/tmp/test.tri" />
+      <jump line="24" column="43" filename="$USER_HOME$/workspace/bugs/area_distribution/axisymmetric_spike_inlet.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="255" column="44" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="40" column="13" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="166" column="17" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="85" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="143" column="17" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="146" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
+      <jump line="297" column="12" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>x</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KGR1Y3QsICdkdWN0LmlnZXMnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>gmp</text>
+        <text encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KGR1Y3QsICdkdWN0LmlnZXMnKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,31 +510,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>gmp</last-search>
+      <last-search encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern>gmp</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -529,8 +542,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vec_perp</entry>
-        <entry>loft</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Rlcm1pbmFsX2ZhY2VcPg==</entry>
         <entry>dedge</entry>
         <entry encoding="base64">XDxtYWtlX21vY2tfZGVkZ2VcPg==</entry>
@@ -539,9 +550,7 @@
         <entry>test_dist</entry>
         <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
         <entry encoding="base64">XDxmaW5kX3NwaW5lXD4=</entry>
-        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVcPg==</entry>
         <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
-        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</entry>
         <entry>dir_to</entry>
         <entry encoding="base64">XDxzbGljZV9ib2R5X3dpdGhfc2hlZXRcPg==</entry>
         <entry encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</entry>
@@ -549,6 +558,10 @@
         <entry encoding="base64">XDxzbGljZV9jZW50cm9pZFw+</entry>
         <entry>tag</entry>
         <entry>gmp</entry>
+        <entry>calculate_area</entry>
+        <entry encoding="base64">XDxfc2xpY2VfcGxhbmVzX3Zpelw+</entry>
+        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVcPg==</entry>
+        <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s212,220/self._/assert\ builder\./gc</entry>
@@ -565,12 +578,12 @@
         <entry>2254</entry>
         <entry>4131</entry>
         <entry>2237</entry>
-        <entry>w</entry>
         <entry>21133</entry>
         <entry>+42162</entry>
         <entry>40346</entry>
         <entry>+80688</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
