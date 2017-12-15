@@ -49,11 +49,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513371855850">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="72" column="25" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513374173689">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="47" column="24" />
+        <mark key="." line="47" column="24" />
+        <mark key="^" line="47" column="24" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
@@ -461,53 +461,53 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIHdyaXRlX2hlYWRlcihzZWxmLCBmKToKICAgICAgICBoZWFkZXIgPSAnJWQsICVkXG4nICUgKHNlbGYubWVzaC5ub2RlX2NvdW50LCBzZWxmLm1lc2guZWxlbWVudF9jb3VudCkKICAgICAgICBmLndyaXRlKGhlYWRlcikK</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGljZV9jZW50cm9pZFw+</text>
+        <text>gmp</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHdyaXRlX2hlYWRlcihzZWxmLCBmKToKICAgICAgICBoZWFkZXIgPSAnJWQsICVkXG4nICUgKHNlbGYubWVzaC5ub2RlX2NvdW50LCBzZWxmLm1lc2guZWxlbWVudF9jb3VudCkKICAgICAgICBmLndyaXRlKGhlYWRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1lc2ggaW4gc2VsZi5tZXNoZXM6CiAgICAgICAgICAgICAgICBtZXNoLndyaXRlX2VsZW1lbnRzKGYpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxlbVsyXSArIDEpICsgc3RhcnRfaW5kZXgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX2VsZW1lbnRzKGYsIHN0YXJ0X2luZGV4KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxlbVsxXSArIDEgKyBzdGFydF9pbmRleCwK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX25vZGVzKGYsIHN0YXJ0X2luZGV4KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxlbVswXSArIDEgKyBzdGFydF9pbmRleCwK</text>
+        <text encoding="base64">ICAgIGRlZiB3cml0ZShzZWxmLCBmLCBzdGFydF9pbmRleCk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX2hlYWRlcihmKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmLndyaXRlKGhlYWRlcikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAnJWQsICVkXG4nICUgKHNlbGYubWVzaC5ub2RlX2NvdW50LCBzZWxmLm1lc2guZWxlbWVudF9jb3VudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgiJWcgJWcgJWdcbiIgJSAobm9kZVswXSwgbm9kZVsxXSwgbm9kZVsyXSkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB3cml0ZV9oZWFkZXIoc2VsZiwgZik6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Igbm9kZSBpbiBzZWxmLnBvaW50czoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzaC5lbGVtZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbGljZV9jZW50cm9pZFw+</last-search>
+      <last-search>gmp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGljZV9jZW50cm9pZFw+</last-pattern>
+      <last-pattern>gmp</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vec_per</entry>
-        <entry encoding="base64">XDx2ZWNfcGVycGVuZGljdWxhclw+</entry>
         <entry>vec_perp</entry>
         <entry>loft</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Rlcm1pbmFsX2ZhY2VcPg==</entry>
@@ -535,6 +533,8 @@
         <entry encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</entry>
         <entry>surface_area</entry>
         <entry encoding="base64">XDxzbGljZV9jZW50cm9pZFw+</entry>
+        <entry>tag</entry>
+        <entry>gmp</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
