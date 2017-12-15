@@ -30,6 +30,18 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="264" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1513377195510">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tmp/trifile.tri" timestamp="1513378142060">
+        <mark key="'" line="40346" column="0" />
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1513295555902">
         <mark key="[" line="294" column="3" />
         <mark key="]" line="335" column="3" />
@@ -49,11 +61,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513375322762">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="89" column="22" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513377941084">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="43" />
+        <mark key="." line="28" column="53" />
+        <mark key="^" line="56" column="19" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
@@ -185,6 +197,9 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
+      <file name="/Python Console" timestamp="1513377101574">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/sheet_sheet.py" timestamp="1511811489523">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="16" />
@@ -231,6 +246,9 @@
         <mark key="]" line="123" column="7" />
         <mark key="." line="123" column="7" />
         <mark key="^" line="123" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/tmp/test.tri" timestamp="1513378109476">
+        <mark key="'" line="21132" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.pyi" timestamp="1510704384137">
         <mark key="[" line="153" column="35" />
@@ -352,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4670" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="4671" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="4672" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="4785" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="4804" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
@@ -452,16 +468,18 @@
       <jump line="102" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="307" column="46" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
+      <jump line="40346" column="0" filename="$USER_HOME$/workspace/tmp/trifile.tri" />
+      <jump line="21132" column="0" filename="$USER_HOME$/workspace/tmp/test.tri" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>gmp</text>
@@ -470,34 +488,34 @@
         <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3YXJuaW5ncy53YXJuKCJVbnN1cHBvcnRlZCB0eXBlIGZvciB0cmkgZmlsZSB3cml0ZSIpCg==</text>
+        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -533,10 +551,6 @@
         <entry>gmp</entry>
       </history-search>
       <history-cmd>
-        <entry>ew</entry>
-        <entry>%s/modify_curvature/_modify_curvature/gc</entry>
-        <entry>qw</entry>
-        <entry>%s/writer/output/gc</entry>
         <entry>%s212,220/self._/assert\ builder\./gc</entry>
         <entry>995</entry>
         <entry encoding="base64">JXMvXDxMb2Z0U2V0dXAvTG9mdEJ1aWxkZXIvZ2M=</entry>
@@ -551,8 +565,12 @@
         <entry>2254</entry>
         <entry>4131</entry>
         <entry>2237</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>21133</entry>
+        <entry>+42162</entry>
+        <entry>40346</entry>
+        <entry>+80688</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
