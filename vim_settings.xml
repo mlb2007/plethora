@@ -49,11 +49,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513374173689">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513375322762">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="89" column="22" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
@@ -83,12 +83,11 @@
         <mark key="^" line="288" column="35" />
         <mark key="." line="288" column="35" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1511991539510">
-        <mark key="'" line="37" column="53" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="119" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513376117131">
+        <mark key="'" line="46" column="53" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1513102482927">
         <mark key="[" line="49" column="0" />
@@ -185,9 +184,6 @@
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
-      </file>
-      <file name="/fragment.py" timestamp="1512580626303">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/sheet_sheet.py" timestamp="1511811489523">
         <mark key="[" line="37" column="19" />
@@ -462,43 +458,43 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>gmp</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIG1lc2ggaW4gc2VsZi5tZXNoZXM6CiAgICAgICAgICAgICAgICBtZXNoLndyaXRlX2VsZW1lbnRzKGYpCg==</text>
+        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX2VsZW1lbnRzKGYsIHN0YXJ0X2luZGV4KQo=</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLndyaXRlX25vZGVzKGYsIHN0YXJ0X2luZGV4KQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZShzZWxmLCBmLCBzdGFydF9pbmRleCk6Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmLndyaXRlKGhlYWRlcikK</text>
+        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXIgPSAnJWQsICVkXG4nICUgKHNlbGYubWVzaC5ub2RlX2NvdW50LCBzZWxmLm1lc2guZWxlbWVudF9jb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZV9oZWFkZXIoc2VsZiwgZik6Cg==</text>
+        <text encoding="base64">ICAgIGVsaWYgX2lzX2dlb21fd3JpdGVyKG91dHB1dCk6ICAjIGVudGl0eV93cml0ZXIoKSBoYW5kbGVzIHRoaXMgLi4uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzaC5lbGVtZW50cwo=</text>
+        <text encoding="base64">ICAgICAgICB3YXJuaW5ncy53YXJuKCJVbnN1cHBvcnRlZCB0eXBlIGZvciB0cmkgZmlsZSB3cml0ZSIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
