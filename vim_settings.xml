@@ -22,10 +22,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1513100326168">
-        <mark key="'" line="279" column="6" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1513449563429">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="22" />
         <mark key="." line="1194" column="22" />
         <mark key="^" line="1194" column="22" />
       </file>
@@ -64,11 +64,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513448421345">
-        <mark key="[" line="100" column="34" />
-        <mark key="]" line="77" column="86" />
-        <mark key="." line="77" column="86" />
-        <mark key="^" line="77" column="86" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513448984061">
+        <mark key="'" line="69" column="23" />
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="76" column="24" />
+        <mark key="." line="76" column="24" />
+        <mark key="^" line="76" column="24" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
@@ -98,11 +99,12 @@
         <mark key="^" line="288" column="35" />
         <mark key="." line="288" column="35" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513376117131">
-        <mark key="'" line="46" column="53" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513449297149">
+        <mark key="'" line="138" column="9" />
+        <mark key="[" line="44" column="59" />
+        <mark key="]" line="44" column="83" />
+        <mark key="." line="44" column="83" />
+        <mark key="^" line="44" column="83" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1513447308496">
         <mark key="[" line="47" column="0" />
@@ -206,7 +208,7 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1513448419797">
+      <file name="/Python Console" timestamp="1513448541221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513382389533">
@@ -318,13 +320,8 @@
         <mark key="." line="92" column="27" />
         <mark key="^" line="92" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_reported_bugs.py" timestamp="1512604032567">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1513101135747">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1513449512888">
+        <mark key="'" line="7" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -365,10 +362,10 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513445979204">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513449612366">
+        <mark key="]" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+        <mark key="^" line="18" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513383585622">
         <mark key="'" line="0" column="0" />
@@ -392,22 +389,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1204" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="3437" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="342" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="279" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="87" column="8" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
-      <jump line="130" column="40" filename="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" />
-      <jump line="2693" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="398" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="405" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="4485" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="387" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="838" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1101" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="320" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="17" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
@@ -492,22 +477,34 @@
       <jump line="279" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
       <jump line="73" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="53" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="69" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" />
+      <jump line="42" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="56" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="70" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="86" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="100" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="115" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="138" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="638" column="89" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIF8sIGV4dCA9IG9zLnBhdGguc3BsaXRleHQoZmlsZW5hbWUpCiAgICByZXR1cm4gZXh0Lmxvd2VyKCkK</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</text>
+        <text>file</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aWYgb3MucGF0aC5pc2ZpbGUoZm5hbWUpOgogICAgICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgd2FybmluZ3Mud2FybigiQ291bGQgbm90IGZpbmQgZmlsZTp7fSB0byByZW1vdmUiLmZvcm1hdChmbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgIF8sIGV4dCA9IG9zLnBhdGguc3BsaXRleHQoZmlsZW5hbWUpCiAgICByZXR1cm4gZXh0Lmxvd2VyKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -541,9 +538,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</last-search>
+      <last-search>file</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</last-pattern>
+      <last-pattern>file</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -551,12 +548,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbHRcPg==</entry>
-        <entry>test_dist</entry>
-        <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
-        <entry encoding="base64">XDxmaW5kX3NwaW5lXD4=</entry>
-        <entry encoding="base64">XDxldmFsdWF0ZVw+</entry>
-        <entry>dir_to</entry>
         <entry encoding="base64">XDxzbGljZV9ib2R5X3dpdGhfc2hlZXRcPg==</entry>
         <entry encoding="base64">XDxzdXJmYWNlX2FyZWFcPg==</entry>
         <entry>surface_area</entry>
@@ -571,6 +562,12 @@
         <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</entry>
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
         <entry encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</entry>
+        <entry encoding="base64">XDxtZXNoX25hbWVcPg==</entry>
+        <entry encoding="base64">XDxfaXNfdHJpX3dyaXRlclw+</entry>
+        <entry>file_ext</entry>
+        <entry>ext</entry>
+        <entry>filext</entry>
+        <entry>file</entry>
       </history-search>
       <history-cmd>
         <entry>%s212,220/self._/assert\ builder\./gc</entry>
