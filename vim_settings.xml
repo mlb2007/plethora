@@ -64,12 +64,11 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513448984061">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513450604766">
         <mark key="'" line="69" column="23" />
-        <mark key="[" line="69" column="28" />
-        <mark key="]" line="76" column="24" />
-        <mark key="." line="76" column="24" />
-        <mark key="^" line="76" column="24" />
+        <mark key="[" line="81" column="46" />
+        <mark key="]" line="81" column="46" />
+        <mark key="." line="81" column="46" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curves.py" timestamp="1503599422781">
         <mark key="'" line="703" column="0" />
@@ -208,7 +207,7 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1513448541221">
+      <file name="/Python Console" timestamp="1513450578250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513382389533">
@@ -495,10 +494,10 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIF8sIGV4dCA9IG9zLnBhdGguc3BsaXRleHQoZmlsZW5hbWUpCiAgICByZXR1cm4gZXh0Lmxvd2VyKCkK</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>file</text>
@@ -507,34 +506,34 @@
         <text encoding="base64">ICAgIF8sIGV4dCA9IG9zLnBhdGguc3BsaXRleHQoZmlsZW5hbWUpCiAgICByZXR1cm4gZXh0Lmxvd2VyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdmFsdWUgc2V0IGJ5IHVzZXIuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc28gdGhhdCBzdWJzZXF1ZW50IG1lc2hlcywgaWYgbm90IHRhZ2dlZCwgZ2V0IHRhZ2dlZCBmcm9tIHRoYXQgKm1heCogdGFnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICBnby53cml0ZV90b19maWxlKGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2V0IHRoZSB1c2VyIGlucHV0IHRhZyBhcyBkZWZpbmluZyB0aGUgbWF4IHRhZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAjIG5vdyB3cml0ZSB0byBmaWxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIF9hZGRfcmF3X29yX3NtYXJ0X2VudGl0eShlbnRpdHksIGdvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgZWxzZToK</text>
+        <text encoding="base64">IyAgICBnby53cml0ZV90b19maWxlKGZpbGVuYW1lKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICBfYWRkX3Jhd19vcl9zbWFydF9lbnRpdHkoZSwgZ28pCg==</text>
+        <text encoding="base64">IyAgICAjIG5vdyB3cml0ZSB0byBmaWxlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGZvciBlIGluIGVudGl0eToK</text>
+        <text encoding="base64">IyAgICAgICAgICAgIF9hZGRfcmF3X29yX3NtYXJ0X2VudGl0eShlbnRpdHksIGdvKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgaWYgaXNpbnN0YW5jZShlbnRpdHksIChsaXN0LCB0dXBsZSkpOgo=</text>
+        <text encoding="base64">IyAgICAgICAgZWxzZToK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -579,7 +578,6 @@
         <entry>e</entry>
         <entry>%s/as2components/AS2Components/gc</entry>
         <entry>%s/as2Components/AS2Components/gc</entry>
-        <entry>wq</entry>
         <entry>1</entry>
         <entry>2254</entry>
         <entry>4131</entry>
@@ -590,6 +588,7 @@
         <entry>+80688</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
