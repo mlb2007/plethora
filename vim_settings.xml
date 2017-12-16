@@ -104,11 +104,11 @@
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1513442681958">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1513447308496">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="40" column="61" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" timestamp="1512600071548">
         <mark key="'" line="838" column="17" />
@@ -116,10 +116,11 @@
         <mark key="]" line="2588" column="27" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1513443531741">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1513446966713">
+        <mark key="[" line="86" column="20" />
+        <mark key="]" line="86" column="49" />
+        <mark key="." line="86" column="49" />
+        <mark key="^" line="86" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1513383538081">
         <mark key="'" line="117" column="0" />
@@ -161,12 +162,12 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1512588759765">
-        <mark key="'" line="626" column="8" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="^" line="339" column="62" />
-        <mark key="." line="318" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1513445178037">
+        <mark key="'" line="627" column="8" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="35" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1511845693475">
         <mark key="'" line="680" column="20" />
@@ -336,10 +337,11 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1513100593389">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="46" />
-        <mark key="." line="73" column="46" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1513446740844">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="53" column="9" />
+        <mark key="]" line="53" column="9" />
+        <mark key="." line="53" column="9" />
         <mark key="^" line="73" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1512064871579">
@@ -363,17 +365,10 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1513443486963">
-        <mark key="'" line="278" column="8" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513442726787">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="1" column="34" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513445979204">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513383585622">
         <mark key="'" line="0" column="0" />
@@ -397,8 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="921" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
-      <jump line="1088" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="1204" column="4" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="3437" column="88" filename="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" />
       <jump line="342" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
@@ -497,6 +490,8 @@
       <jump line="299" column="12" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
       <jump line="123" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
       <jump line="279" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
+      <jump line="73" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="53" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -506,57 +501,56 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NlcnRcPg==</text>
+        <text encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
+        <text encoding="base64">aWYgb3MucGF0aC5pc2ZpbGUoZm5hbWUpOgogICAgICAgICAgICBvcy5yZW1vdmUoZm5hbWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgd2FybmluZ3Mud2FybigiQ291bGQgbm90IGZpbmQgZmlsZTp7fSB0byByZW1vdmUiLmZvcm1hdChmbmFtZSkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyAgICBnby53cml0ZV90b19maWxlKGZpbGVuYW1lKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dHJpd3JpdGVyLmFkZChjeWwpCg==</text>
+        <text encoding="base64">IyAgICAjIG5vdyB3cml0ZSB0byBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3lsID0gc2FnZS5idWlsZC5jdWJvaWQoKDAsIDAsIDApLCAoMTAsIDEwLCAxMCkpCg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgIF9hZGRfcmF3X29yX3NtYXJ0X2VudGl0eShlbnRpdHksIGdvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyAgICAgICAgZWxzZToK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBpbml0IG1lc2ggaW5zdGFuY2Ugd2l0aCByZXFkLiBpbmZvCiAgICAgICAgICAgIHNlbGYubWVzaGVzLmFwcGVuZChUcmlNZXNoKG1lc2gsIG1lc2hfbmFtZSwgc2VsZi5fbmV4dF9ub2RlX2luZGV4LCBzZWxmLl90YWcpKQog</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICAgICAgICAgICAgICBfYWRkX3Jhd19vcl9zbWFydF9lbnRpdHkoZSwgZ28pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgIGZvciBlIGluIGVudGl0eToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5hZGRfc2xpY2VfcGxhbmUoc2xpY2VfcHQsIGRpcmVjdGlvbikK</text>
+        <text encoding="base64">IyAgICAgICAgaWYgaXNpbnN0YW5jZShlbnRpdHksIChsaXN0LCB0dXBsZSkpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NlcnRcPg==</last-search>
+      <last-search encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NlcnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlX3dpcmVcPg==</entry>
         <entry encoding="base64">XDxwbHRcPg==</entry>
         <entry>test_dist</entry>
         <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
@@ -576,6 +570,7 @@
         <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX3N0YXJ0X2VuZF9wb2ludHNcPg==</entry>
         <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVfZnJvbV9udW1fc2xpY2VzX2FuZF9kaXJcPg==</entry>
         <entry encoding="base64">XDxhc3NlcnRcPg==</entry>
+        <entry encoding="base64">XDxfaW1wb3J0X3Jhd19ib2RpZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s212,220/self._/assert\ builder\./gc</entry>
