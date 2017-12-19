@@ -365,11 +365,16 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513636865608">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="10" column="74" />
-        <mark key="." line="10" column="74" />
-        <mark key="^" line="10" column="74" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" timestamp="1513651149785">
+        <mark key="[" line="211" column="42" />
+        <mark key="]" line="211" column="42" />
+        <mark key="." line="211" column="42" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513651004950">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513383585622">
         <mark key="'" line="0" column="0" />
@@ -504,17 +509,17 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>export(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
+        <text encoding="base64">IGlmIGV4dCA9PSAndHJpJzoKICAgICAgICBleHBvcnRlciA9IFRyaURhdGEoKQogICAg</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
