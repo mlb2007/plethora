@@ -61,7 +61,6 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/triio.py" timestamp="1513705214975" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
         <mark key="'" line="72" column="23" />
         <mark key="[" line="16" column="24" />
@@ -96,8 +95,8 @@
         <mark key="^" line="288" column="35" />
         <mark key="." line="288" column="35" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/stlio.py" timestamp="1513653179623">
-        <mark key="[" line="17" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/stlio.py" timestamp="1513707135011">
+        <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -227,11 +226,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="119" column="15" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1513705576719">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1513707198027">
+        <mark key="'" line="180" column="55" />
+        <mark key="[" line="65" column="22" />
+        <mark key="]" line="96" column="25" />
+        <mark key="." line="96" column="25" />
+        <mark key="^" line="96" column="25" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1513652031279">
         <mark key="'" line="35" column="0" />
@@ -240,7 +240,6 @@
         <mark key="." line="1785" column="0" />
         <mark key="^" line="1792" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/io.py" timestamp="1513705139696" />
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="142" column="24" />
@@ -313,8 +312,8 @@
         <mark key="." line="17" column="27" />
         <mark key="^" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_stlio.py" timestamp="1513653213150">
-        <mark key="[" line="21" column="64" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_stlio.py" timestamp="1513707146268">
+        <mark key="[" line="21" column="70" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
@@ -397,10 +396,11 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1513706468907">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1513707120118">
+        <mark key="[" line="77" column="8" />
+        <mark key="]" line="77" column="15" />
+        <mark key="." line="77" column="15" />
+        <mark key="^" line="77" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
         <mark key="'" line="47" column="68" />
@@ -411,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="626" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="318" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -511,6 +510,7 @@
       <jump line="1568" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="35" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="180" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
