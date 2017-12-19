@@ -99,12 +99,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513647141668">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513647272978">
         <mark key="'" line="54" column="32" />
-        <mark key="[" line="101" column="46" />
-        <mark key="]" line="100" column="15" />
-        <mark key="." line="100" column="15" />
-        <mark key="^" line="100" column="15" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="133" column="15" />
+        <mark key="." line="133" column="15" />
+        <mark key="^" line="133" column="15" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1513636485419">
         <mark key="[" line="1" column="0" />
@@ -505,7 +505,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIGxvZy5sb2dfd2FybmluZygiVW5zdXBwb3J0ZWQgdHlwZSBmb3IgdHJpIGZpbGUgd3JpdGUiKQog</text>
+        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -514,34 +514,34 @@
         <text>export(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIGxvZy5sb2dfd2FybmluZygiVW5zdXBwb3J0ZWQgdHlwZSBmb3IgdHJpIGZpbGUgd3JpdGUiKQog</text>
+        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgie31cbiIuZm9ybWF0KHNlbGYuX3RhZykpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgwLCBsZW4oc2VsZi5tZXNoLmVsZW1lbnRzKSk6Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZV90YWcoc2VsZiwgZik6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgie31cbiIuZm9ybWF0KHNlbGYuX3RhZykpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgwLCBsZW4oc2VsZi5tZXNoLmVsZW1lbnRzKSk6Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZWxlbVsyXSArIDEgKyBzZWxmLl9zdGFydF9pbmRleCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiB3cml0ZV90YWcoc2VsZiwgZik6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
