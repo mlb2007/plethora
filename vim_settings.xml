@@ -60,9 +60,9 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513636497138">
-        <mark key="'" line="64" column="23" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
+        <mark key="'" line="72" column="23" />
+        <mark key="[" line="16" column="24" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -99,12 +99,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513647272978">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513649208291">
         <mark key="'" line="54" column="32" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="133" column="15" />
-        <mark key="." line="133" column="15" />
-        <mark key="^" line="133" column="15" />
+        <mark key="[" line="158" column="13" />
+        <mark key="]" line="158" column="15" />
+        <mark key="." line="158" column="15" />
+        <mark key="^" line="158" column="15" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1513636485419">
         <mark key="[" line="1" column="0" />
@@ -504,8 +504,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWxpZiBfaXNfdHJpX3dyaXRlcihvdXRwdXQpOgogICAgICAgIHBhc3MKIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -520,28 +520,28 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgie31cbiIuZm9ybWF0KHNlbGYuX3RhZykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgwLCBsZW4oc2VsZi5tZXNoLmVsZW1lbnRzKSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZi53cml0ZSgie31cbiIuZm9ybWF0KHNlbGYuX3RhZykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB3cml0ZV90YWcoc2VsZiwgZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgXyBpbiByYW5nZSgwLCBsZW4oc2VsZi5tZXNoLmVsZW1lbnRzKSk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
