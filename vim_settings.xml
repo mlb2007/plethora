@@ -36,11 +36,10 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1513629720080">
-        <mark key="[" line="10" column="23" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
+      <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1513653627604">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1513295555902">
         <mark key="[" line="294" column="3" />
@@ -516,7 +515,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UudHJpaW8gYXMgc2dfdHJpCg==</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -525,15 +524,27 @@
         <text>export_geometry</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">QG1vY2sucGF0Y2goJ3NhZ2UuY29yZS5tZXNoX2RlbGV0ZScpCiAgICBkZWYgdGVzdF9wcm9wX25vZGVzKHNlbGYsIF8pOgogICAgICAgIG1zaCA9IHRlc3MuTWVzaCgiYW55IiwgImFueSIsICJhbnkiLCAiYW55IikKICAgICAgICAjIGNhbGwKICAgICAgICBuZGl0ZXIgPSBtc2gubm9kZXMKICAgICAgICBhc3NlcnQgbmRpdGVyID09ICJhbnkiCg==</text>
+        <text encoding="base64">CnRyaXdyaXRlciA9IHNnX3RyaS5UcmlEYXRhKGRlZmF1bHRfbWVzaF9vcHRpb25zPW1zaF9vcHRpb25zKQp0cml3cml0ZXIuYWRkKGN5bCkKdHJpd3JpdGVyLmFkZChjeWwyKQp0cml3cml0ZXIud3JpdGVfdG9fZmlsZSgidHJpZmlsZS50cmkiKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UudHJpaW8gYXMgc2dfdHJpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByYXdfbWVzaF9saXN0ID0gW20ubWVzaCBmb3IgbSBpbiBdCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>#
 #
 #
@@ -559,23 +570,11 @@
 #
 #</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9yZW1vdmVfZmlsZShmbmFtZSkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZnN6ID4gMAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmc3ogPSBvcy5zdGF0KGZuYW1lKS5zdF9zaXplCg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
