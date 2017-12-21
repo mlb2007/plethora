@@ -169,12 +169,12 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1511845693475">
-        <mark key="'" line="680" column="20" />
-        <mark key="[" line="818" column="0" />
-        <mark key="]" line="818" column="0" />
-        <mark key="^" line="818" column="17" />
-        <mark key="." line="818" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1513886161500">
+        <mark key="'" line="646" column="12" />
+        <mark key="[" line="502" column="12" />
+        <mark key="]" line="502" column="18" />
+        <mark key="^" line="502" column="18" />
+        <mark key="." line="502" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1512578504582">
         <mark key="[" line="82" column="43" />
@@ -202,7 +202,10 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="/Python Console" timestamp="1513705260383">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1513885801963">
+        <mark key="[" line="371" column="30" />
+      </file>
+      <file name="/Python Console" timestamp="1513885948426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
@@ -409,8 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="626" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="318" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1190" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -509,58 +510,60 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="35" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="180" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
+      <jump line="502" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="646" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>export_geometry</text>
+        <text encoding="base64">XDxfd3JhcFw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIF9fZXFfXyhzZWxmLCBvdGhlcik6CiAgICAgICAgIiIiZXEgb3BlcmF0b3IgYmFzZWQgb24gdGhlIGN1c3RvbSBoYXNoIGRlZmluZWQgaW4gdGhpcyBjbGFzcyIiIgogICAgICAgIHJldHVybiBzZWxmLnNfZW50aXR5ID09IG90aGVyLnNfZW50aXR5Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGUgY3VzdG9tIGhhc2ggZGVmaW5lZCBpbiB0aGlzIGNsYXNzIiIiCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgcmVzdWx0cy5jbG9zZXN0KCgzLCAyLCAxKSkgPT0gNDIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgICAgICB0aGUgY3VzdG9tIGhhc2ggZGVmaW5lZCBpbiB0aGlzIGNsYXNzIiIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyAgICBzYWdlLmxvZy5sb2dfd2FybmluZygiSW50ZXJwb2xhdGVkIHBvaW50IGlzIGF0IHplcm86e30sIHNraXBwaW5nIHRoaXMgcG9pbnQgLi4uIi5mb3JtYXQoY2VudGVyKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICBjb250aW51ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI2lmIGFicyhjZW50ZXIuZGlzdCh6ZXJvKSkgPCBGTE9BVF9UT0w6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyAgICBzYWdlLmxvZy5sb2dfd2FybmluZygiSW50ZXJwb2xhdGVkIHBvaW50IGlzIGF0IHplcm86e30sIHNraXBwaW5nIHRoaXMgcG9pbnQgLi4uIi5mb3JtYXQoY2VudGVyKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB6ZXJvID0gc2FnZS5Qb2ludDNEKDAsIDAsIDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgI2lmIGFicyhjZW50ZXIuZGlzdCh6ZXJvKSkgPCBGTE9BVF9UT0w6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB6ZXJvID0gc2FnZS5Qb2ludDNEKDAsIDAsIDApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY2VudGVyIGluIHNlbGYuX3NwaW5lX2N1cnZlLmludGVycG9sYXRlZF9wb2ludHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcHJpbnQucHByaW50KGNlbnRlcikK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgY2VudGVyIGluIHNlbGYuX3NwaW5lX2N1cnZlLmludGVycG9sYXRlZF9wb2ludHM6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>export_geometry</last-search>
+      <last-search encoding="base64">XDxfd3JhcFw+</last-search>
       <last-offset />
-      <last-pattern>export_geometry</last-pattern>
+      <last-pattern encoding="base64">XDxfd3JhcFw+</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -568,7 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
         <entry>gmp</entry>
         <entry>calculate_area</entry>
         <entry encoding="base64">XDxfc2xpY2VfcGxhbmVzX3Zpelw+</entry>
@@ -588,6 +590,7 @@
         <entry>export</entry>
         <entry>export(</entry>
         <entry>export_geometry</entry>
+        <entry encoding="base64">XDxfd3JhcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>995</entry>
