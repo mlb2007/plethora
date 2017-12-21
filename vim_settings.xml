@@ -322,11 +322,11 @@
         <mark key="." line="92" column="27" />
         <mark key="^" line="92" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1513883552417">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1513885355524">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="36" column="24" />
-        <mark key="]" line="36" column="27" />
-        <mark key="." line="36" column="27" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
         <mark key="^" line="36" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
@@ -514,11 +514,11 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGUgY3VzdG9tIGhhc2ggZGVmaW5lZCBpbiB0aGlzIGNsYXNzIiIiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>export_geometry</text>
