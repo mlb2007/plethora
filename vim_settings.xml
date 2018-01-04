@@ -129,12 +129,12 @@
         <mark key="]" line="140" column="75" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515106317496">
+      <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515107485696">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="179" column="15" />
-        <mark key="]" line="162" column="31" />
-        <mark key="." line="162" column="31" />
-        <mark key="^" line="162" column="31" />
+        <mark key="[" line="154" column="9" />
+        <mark key="]" line="88" column="14" />
+        <mark key="." line="88" column="14" />
+        <mark key="^" line="88" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1513383538081">
         <mark key="'" line="117" column="0" />
@@ -534,10 +534,10 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgZWxpZiBwcmVzc2VkW0tfal06CiAgICAgICAgICAgIG1vdmVtZW50X2RpcmVjdGlvbi55ID0gLTEuMAogICAgICAgIGVsaWYgcHJlc3NlZFtLX2tdOgogICAgICAgICAgICBtb3ZlbWVudF9kaXJlY3Rpb24ueSA9ICsxLjAKICAgICAg</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbml0XD4=</text>
@@ -546,31 +546,31 @@
         <text encoding="base64">ICAgZWxpZiBwcmVzc2VkW0tfal06CiAgICAgICAgICAgIG1vdmVtZW50X2RpcmVjdGlvbi55ID0gLTEuMAogICAgICAgIGVsaWYgcHJlc3NlZFtLX2tdOgogICAgICAgICAgICBtb3ZlbWVudF9kaXJlY3Rpb24ueSA9ICsxLjAKICAgICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDEuMCBmLCAwLjAgZiwgMC4wIGYpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IG9yaWdpbiA9ICgwLCAwLCAwKQogICAgeGF4ID0gKDEsIDAsIDApCiAgICB5YXggPSAoMCwgMSwgMCkKICAgIHpheCA9ICgwLCAwLCAxKQogICAg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGYpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGYsIDAuMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGYsIDAuMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDEuMAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9yaWdpbiA9ICgwLCAwLCAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGQuZGlzcGxheSgpCg==</text>
+        <text encoding="base64">ICAgICgwLjAgZiwgMC4wIGYsIDAuMCBmKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGQgPSBndWkoZW50aXR5KQo=</text>
+        <text encoding="base64">ICAgIGZvciBkcmF3aW5nIGF4ZXMgKiAvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
