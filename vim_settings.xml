@@ -10,6 +10,12 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" timestamp="1515090541381">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/axisymmetric_spike_inlet.py" timestamp="1513795483174">
         <mark key="'" line="24" column="43" />
         <mark key="[" line="472" column="64" />
@@ -122,6 +128,13 @@
         <mark key="]" line="140" column="75" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515089619243">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="84" column="8" />
+        <mark key="]" line="109" column="8" />
+        <mark key="." line="46" column="7" />
+        <mark key="^" line="46" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1513383538081">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="25" column="59" />
@@ -207,7 +220,7 @@
         <mark key="]" line="381" column="0" />
         <mark key="." line="381" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1513885948426">
+      <file name="/Python Console" timestamp="1515090107941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
@@ -405,17 +418,15 @@
         <mark key="." line="77" column="15" />
         <mark key="^" line="77" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1508981198394">
+      <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1515089160257">
         <mark key="'" line="47" column="68" />
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="47" column="68" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="." line="47" column="68" />
         <mark key="^" line="47" column="68" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1190" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1184" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1185" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -514,66 +525,67 @@
       <jump line="180" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="502" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="646" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
+      <jump line="30" column="8" filename="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBnbFZlcnRleDNmKHNlbGYudmVydGljZXNbZmFjZVsyXV0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd3JhcFw+</text>
+        <text encoding="base64">XDxmb3JcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3Rfd3JhcF9oYXNoKHNlbGYpOgogICAgICAgIGEgPSBzYWdlLmNvcmUuUG9pbnQzRCgxLCAyLCAzKQogICAgICAgIGIgPSBzYWdlLmNvcmUuUG9pbnQzRCgxLCAyLCAzKQogICAgICAgIHN3MSA9IHNhZ2UuY29yZS5XcmFwcGVkU0VudGl0eShhKQogICAgICAgIHN3MiA9IHNhZ2UuY29yZS5XcmFwcGVkU0VudGl0eShhKQogICAgICAgIGFzc2VydCBzdzEgPT0gc3cyCiAgICAgICAgYXNzZXJ0IHN3MSBpcyBub3Qgc3cyCiAgICAgICAgc3czID0gc2FnZS5jb3JlLldyYXBwZWRTRW50aXR5KGIpCiAgICAgICAgYXNzZXJ0IHN3MyA9PSBzdzEKICAgICAgICBhc3NlcnQgc3czIGlzIG5vdCBzdzEK</text>
+        <text encoding="base64">c2VsZi52ZXJ0aWNlcyA9IGxpc3QoKQogICAgICAgIGZvciBuZCBpbiBzZWxmLl9tZXNoLm5vZGVzOgogICAgICAgICAgICBzZWxmLl92ZXJ0aWNlcy5hcHBlbmQoKG5kWzBdLCBuZFsxXSwgbmRbMl0pKQoKICAgICAgICBzZWxmLnZlcnRleF9pbmRpY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIGVsZV9ub2RlcyBpbiBzZWxmLl9tZXNoLmVsZW1lbnRzOgogICAgICAgICAgICBhc3NlcnQgbGVuKGVsZV9ub2RlcykgPT0gMzoKICAgICAgICAgICAgc2VsZi5fdmVydGV4X2luZGljZXMuYXBwZW5kKGVsZV9ub2Rlc1swXSwgZWxlX25vZGVzWzFdLCBlbGVfbm9kZXNbMl0pKQoKICAgIGRlZiByZW5kZXIoc2VsZik6CgogICAgICAgIGdsQ29sb3IoIHNlbGYuY29sb3IgKQoKICAgICAgICAjIEFkanVzdCBhbGwgdGhlIHZlcnRpY2VzIHNvIHRoYXQgdGhlIGN1YmUgaXMgYXQgc2VsZi5wb3NpdGlvbgogICAgICAgIHZlcnRpY2VzID0gW3R1cGxlKFZlY3RvcjModikgKyBzZWxmLnBvc2l0aW9uKSBmb3IgdiBpbiBzZWxmLnZlcnRpY2VzXQoKICAgICAgICBnbEJlZ2luKEdMX1RSSUFOR0xFUykKCiAgICAgICAgZm9yIGZhY2UgaW4gc2VsZi52ZXJ0ZXhfaW5kaWNlczoKICAgICAgICAgICAgI2dsTm9ybWFsM2R2KCBzZWxmLm5vcm1hbHNbZmFjZV9ub10gKQogICAgICAgICAgICAjdjEsIHYyLCB2MyA9IHNlbGYudmVydGV4X2luZGljZXNbZmFjZV9ub10KICAgICAgICAgICAgZ2xWZXJ0ZXgoIHNlbGYudmVydGljZXNbZmFjZVswXV0gKQogICAgICAgICAgICBnbFZlcnRleCggc2VsZi52ZXJ0aWNlc1tmYWNlWzFdXSApCiAgICAgICAgICAgIGdsVmVydGV4KCBzZWxmLnZlcnRpY2VzW2ZhY2VbMl1dICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBnbFZlcnRleDNmKHNlbGYudmVydGljZXNbZmFjZVsyXV0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2xWZXJ0ZXgzZihzZWxmLnZlcnRpY2VzW2ZhY2VbMl1dKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgdmVydGV4IGluIHZlcnRpY2VzOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2xWZXJ0ZXgzZihzZWxmLnZlcnRpY2VzW2ZhY2VbMV1dKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2xWZXJ0ZXgzZih2MVswXSwgdjFbMV0sIHYxWzJdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdjEgPSBzZWxmLnZlcnRpY2VzW2ZhY2VbMF1dCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3czIGlzIG5vdCBzdzEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdjMgPSBzZWxmLnZlcnRpY2VzW2ZhY2VbMF1dCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3czID09IHN3MQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdjIgPSBzZWxmLnZlcnRpY2VzW2ZhY2VbMF1dCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdzMgPSBzYWdlLmNvcmUuV3JhcHBlZFNFbnRpdHkoYikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdjEgPSBzZWxmLnZlcnRpY2VzW2ZhY2VbMF1dCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgc3cxIGlzIG5vdCBzdzIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd3JhcFw+</last-search>
+      <last-search encoding="base64">XDxmb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd3JhcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gmp</entry>
         <entry>calculate_area</entry>
         <entry encoding="base64">XDxfc2xpY2VfcGxhbmVzX3Zpelw+</entry>
         <entry encoding="base64">XDxhZGRfc2xpY2VfcGxhbmVcPg==</entry>
@@ -593,6 +605,7 @@
         <entry>export(</entry>
         <entry>export_geometry</entry>
         <entry encoding="base64">XDxfd3JhcFw+</entry>
+        <entry encoding="base64">XDxmb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>995</entry>
