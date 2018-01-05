@@ -41,11 +41,10 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1515173483824">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1515175727452">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1513295555902">
         <mark key="[" line="294" column="3" />
@@ -262,6 +261,7 @@
         <mark key="." line="1785" column="0" />
         <mark key="^" line="1792" column="18" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/io.py" timestamp="1515175748740" />
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="142" column="24" />
@@ -538,8 +538,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2FnZS5hcGkuZXhwb3J0X21lc2gobXNoLnNfZW50aXR5LCAnc3BoZXJlX29sZC5zdGwnKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -551,7 +551,7 @@
         <text encoding="base64">Z2xQdXNoTWF0cml4KCkKICAgICAgICBnbExvYWRJZGVudGl0eSgpCiAgICAgICAgZ2xUcmFuc2xhdGVmKHR4LCB0eSwgdHopCiAgICAgICAgZ2xSb3RhdGVmKHJ5LCAwLCAwLCAxKQogICAgICAgIGdsTXVsdE1hdHJpeGYodmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xHZXRGbG9hdHYoR0xfTU9ERUxWSUVXX01BVFJJWCwgdmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUfEdMX0RFUFRIX0JVRkZFUl9CSVQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2FnZS5hcGkuZXhwb3J0X21lc2gobXNoLnNfZW50aXR5LCAnc3BoZXJlX29sZC5zdGwnKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -560,22 +560,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgZ2xNYXRlcmlhbChHTF9GUk9OVCwgR0xfRElGRlVTRSwgKDEuMCwgMS4wLCAxLjAsIDEuMCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZ2xNYXRlcmlhbChHTF9GUk9OVCwgR0xfQU1CSUVOVCwgKDAuMSwgMC4xLCAwLjEsIDEuMCkpCg==</text>
+        <text encoding="base64">ICAgICMgZ2xNYXRlcmlhbChHTF9GUk9OVCwgR0xfRElGRlVTRSwgKDEuMCwgMS4wLCAxLjAsIDEuMCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZ2xNYXRlcmlhbChHTF9GUk9OVCwgR0xfQU1CSUVOVCwgKDAuMSwgMC4xLCAwLjEsIDEuMCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgZ2xMb2FkSWRlbnRpdHkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgZ2xHZXRGbG9hdHYoR0xfTU9ERUxWSUVXX01BVFJJWCwgY2FtZXJhX21hdHJpeC50b19vcGVuZ2woKSkK</text>
+        <text encoding="base64">ICAgICMgZ2xMb2FkSWRlbnRpdHkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZ2xHZXRGbG9hdHYoR0xfTU9ERUxWSUVXX01BVFJJWCwgY2FtZXJhX21hdHJpeC50b19vcGVuZ2woKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
