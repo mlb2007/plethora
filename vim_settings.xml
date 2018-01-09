@@ -46,7 +46,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1513295555902">
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1515513289736">
+        <mark key="'" line="311" column="57" />
         <mark key="[" line="294" column="3" />
         <mark key="]" line="335" column="3" />
         <mark key="^" line="335" column="3" />
@@ -412,39 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="44" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="40" column="13" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="166" column="17" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="143" column="17" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="297" column="12" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="146" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="102" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="195" column="40" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="147" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="299" column="12" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="123" column="8" filename="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" />
-      <jump line="279" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_serialize.py" />
-      <jump line="73" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
-      <jump line="53" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
-      <jump line="69" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" />
-      <jump line="42" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="56" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="70" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="86" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="100" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="115" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="138" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="638" column="89" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="46" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1568" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
-      <jump line="35" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="180" column="55" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="502" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="646" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
@@ -512,6 +480,39 @@
       <jump line="4804" column="27" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="23" column="7" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="4775" column="16" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="186" column="26" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="36" column="10" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="50" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="55" column="94" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="57" column="38" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="70" column="17" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="72" column="32" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="73" column="26" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="75" column="16" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="81" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="86" column="25" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="89" column="38" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="91" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="92" column="23" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="167" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="170" column="15" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="171" column="34" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="172" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="173" column="59" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="201" column="18" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="205" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="207" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="208" column="17" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="210" column="27" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="224" column="59" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="234" column="44" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="237" column="53" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="255" column="33" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="306" column="58" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="309" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="310" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="311" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -524,7 +525,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmVhX2Rpc3RyaWJ1dGlvblw+</text>
+        <text>centroid</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2xQdXNoTWF0cml4KCkKICAgICAgICBnbExvYWRJZGVudGl0eSgpCiAgICAgICAgZ2xUcmFuc2xhdGVmKHR4LCB0eSwgdHopCiAgICAgICAgZ2xSb3RhdGVmKHJ5LCAwLCAwLCAxKQogICAgICAgIGdsTXVsdE1hdHJpeGYodmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xHZXRGbG9hdHYoR0xfTU9ERUxWSUVXX01BVFJJWCwgdmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUfEdMX0RFUFRIX0JVRkZFUl9CSVQpCg==</text>
@@ -561,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmVhX2Rpc3RyaWJ1dGlvblw+</last-search>
+      <last-search>centroid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmVhX2Rpc3RyaWJ1dGlvblw+</last-pattern>
+      <last-pattern>centroid</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -571,8 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JcPg==</entry>
-        <entry encoding="base64">XDxTYWdlRGlzcGxheVdpbmRvd1w+</entry>
         <entry encoding="base64">XDxyZXNpemVcPg==</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxwcmVzc2VkXD4=</entry>
@@ -591,6 +590,8 @@
         <entry encoding="base64">XDxjYWxjX2FyZWFfZGlzdHJpYnV0aW9uXD4=</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfYXJlYV9kaXN0cmlidXRpb25cPg==</entry>
         <entry encoding="base64">XDxhcmVhX2Rpc3RyaWJ1dGlvblw+</entry>
+        <entry>find_centroid</entry>
+        <entry>centroid</entry>
       </history-search>
       <history-cmd>
         <entry>995</entry>
