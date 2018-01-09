@@ -169,12 +169,12 @@
         <mark key="^" line="55" column="0" />
         <mark key="." line="379" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1513886161500">
-        <mark key="'" line="646" column="12" />
-        <mark key="[" line="502" column="12" />
-        <mark key="]" line="502" column="18" />
-        <mark key="^" line="502" column="18" />
-        <mark key="." line="502" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1515515535088">
+        <mark key="'" line="493" column="16" />
+        <mark key="[" line="691" column="32" />
+        <mark key="]" line="785" column="32" />
+        <mark key="^" line="785" column="32" />
+        <mark key="." line="785" column="32" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1512578504582">
         <mark key="[" line="82" column="43" />
@@ -413,7 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="30" column="8" filename="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" />
       <jump line="71" column="13" filename="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" />
       <jump line="16" column="4" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
@@ -513,6 +512,7 @@
       <jump line="311" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="494" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="493" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -525,7 +525,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>centroid</text>
+        <text>TestCentroid</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Z2xQdXNoTWF0cml4KCkKICAgICAgICBnbExvYWRJZGVudGl0eSgpCiAgICAgICAgZ2xUcmFuc2xhdGVmKHR4LCB0eSwgdHopCiAgICAgICAgZ2xSb3RhdGVmKHJ5LCAwLCAwLCAxKQogICAgICAgIGdsTXVsdE1hdHJpeGYodmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xHZXRGbG9hdHYoR0xfTU9ERUxWSUVXX01BVFJJWCwgdmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUfEdMX0RFUFRIX0JVRkZFUl9CSVQpCg==</text>
@@ -562,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>centroid</last-search>
+      <last-search>TestCentroid</last-search>
       <last-offset />
-      <last-pattern>centroid</last-pattern>
+      <last-pattern>TestCentroid</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNpemVcPg==</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxwcmVzc2VkXD4=</entry>
         <entry encoding="base64">XDxtb3ZlbWVudF9kaXJlY3Rpb25cPg==</entry>
@@ -592,6 +591,7 @@
         <entry encoding="base64">XDxhcmVhX2Rpc3RyaWJ1dGlvblw+</entry>
         <entry>find_centroid</entry>
         <entry>centroid</entry>
+        <entry>TestCentroid</entry>
       </history-search>
       <history-cmd>
         <entry>995</entry>
