@@ -162,12 +162,12 @@
         <mark key="^" line="2588" column="43" />
         <mark key="." line="2588" column="43" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1513445178037">
-        <mark key="'" line="627" column="8" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="35" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1515513629491">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="379" column="0" />
+        <mark key="]" line="379" column="0" />
         <mark key="^" line="55" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="." line="379" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1513886161500">
         <mark key="'" line="646" column="12" />
@@ -413,8 +413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="646" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="30" column="8" filename="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" />
       <jump line="71" column="13" filename="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" />
@@ -513,13 +511,15 @@
       <jump line="309" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="310" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="311" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="494" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGUgYXJlYSBkaXN0cmlidXRpb24gLi4uIgo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -531,31 +531,31 @@
         <text encoding="base64">Z2xQdXNoTWF0cml4KCkKICAgICAgICBnbExvYWRJZGVudGl0eSgpCiAgICAgICAgZ2xUcmFuc2xhdGVmKHR4LCB0eSwgdHopCiAgICAgICAgZ2xSb3RhdGVmKHJ5LCAwLCAwLCAxKQogICAgICAgIGdsTXVsdE1hdHJpeGYodmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xHZXRGbG9hdHYoR0xfTU9ERUxWSUVXX01BVFJJWCwgdmlld19tYXQudG9fb3BlbmdsKCkpCiAgICAgICAgZ2xDbGVhcihHTF9DT0xPUl9CVUZGRVJfQklUfEdMX0RFUFRIX0JVRkZFUl9CSVQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGUgYXJlYSBkaXN0cmlidXRpb24gLi4uIgo=</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnbFRyYW5zbGF0ZWYoNSwgNSwgNSkK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBnbFRyYW5zbGF0ZWYoNSwgNSwgNSkK</text>
+        <text encoding="base64">ICAgIHByaW50ICJDYWxjdWxhdGUgYXJlYSBkaXN0cmlidXRpb24gLi4uIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGdsTG9hZE1hdHJpeGQoY2FtZXJhX21hdHJpeC5nZXRfaW52ZXJzZSgpLnRvX29wZW5nbCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBnbFRyYW5zbGF0ZWYoNSwgNSwgNSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnbExvYWRNYXRyaXhkKGNhbWVyYV9tYXRyaXguZ2V0X2ludmVyc2UoKS50b19vcGVuZ2woKSkK</text>
+        <text encoding="base64">ICAgICAgICBnbFRyYW5zbGF0ZWYoNSwgNSwgNSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnbExvYWRNYXRyaXhkKGNhbWVyYV9tYXRyaXguZ2V0X2ludmVyc2UoKS50b19vcGVuZ2woKSkK</text>
+        <text encoding="base64">ICAgICAgICAjIGdsTG9hZE1hdHJpeGQoY2FtZXJhX21hdHJpeC5nZXRfaW52ZXJzZSgpLnRvX29wZW5nbCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBMaWdodCBtdXN0IGJlIHRyYW5zZm9ybWVkIGFzIHdlbGwK</text>
+        <text encoding="base64">ICAgICAgICBnbExvYWRNYXRyaXhkKGNhbWVyYV9tYXRyaXguZ2V0X2ludmVyc2UoKS50b19vcGVuZ2woKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbExvYWRNYXRyaXhkKGNhbWVyYV9tYXRyaXguZ2V0X2ludmVyc2UoKS50b19vcGVuZ2woKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgIyBMaWdodCBtdXN0IGJlIHRyYW5zZm9ybWVkIGFzIHdlbGwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
