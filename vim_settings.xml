@@ -51,12 +51,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1515533356663">
-        <mark key="'" line="39" column="41" />
-        <mark key="[" line="290" column="11" />
-        <mark key="]" line="295" column="44" />
-        <mark key="^" line="295" column="44" />
-        <mark key="." line="295" column="44" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1515613909760">
+        <mark key="'" line="59" column="38" />
+        <mark key="[" line="89" column="52" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
@@ -478,15 +475,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="310" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="311" column="57" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="494" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="493" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="94" column="69" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="295" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="39" column="41" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="5063" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="216" column="8" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
@@ -578,13 +567,21 @@
       <jump line="550" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="584" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="666" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="295" column="44" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="11" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="36" column="10" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="39" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="52" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="57" column="94" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="59" column="38" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY250ciA9IHNsaWNlLm1hc3NfcHJvcGVydGllcygpLndpdGhfYWNjdXJhY3koc2VsZi5fY2VudHJvaWRfdG9sKS5jZW50cm9pZAo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -599,13 +596,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>make_</text>
+        <text>centroid_tol</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfZmFjZV9jZW50cm9pZF90b2woc2VsZik6CiAgICAgICAgYm9keSA9IHNhZ2UuYnVpbGQuc3BoZXJlKCgwLCAwLCAwKSwgMykKICAgICAgICBwbGFuZSA9IHNhZ2UuY29yZS5QbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMCwgMCwgLTEuNSksICgtMSwgLTEsIC0xLjY3KSkKICAgICAgICBwbGFuZV9zaGVldCA9IHBsYW5lLnNoZWV0CiAgICAgICAgcmVzID0gYm9keSAmIHBsYW5lX3NoZWV0CiAgICAgICAgYXNzZXJ0IHJlcy52b2x1bWUgPT0gMCBhbmQgcmVzLnN1cmZhY2VfYXJlYSA+IDAKICAgICAgICBjZW50cm9pZCA9IHJlcy5jZW50cm9pZAogICAgICAgIHByaW50IGNlbnRyb2lkWzBdLCBjZW50cm9pZFsxXSwgY2VudHJvaWRbMl0KICAgICAgICByZWZfeF9jZW50cm9pZCA9IC0wLjUyMzA4NDYzMzIxNAogICAgICAgIHJlZl95X2NlbnRyb2lkID0gLTAuNTIzMDg0NjMzMjE0CiAgICAgICAgcmVmX3pfY2VudHJvaWQgPSAtMC44NzM1NTEzMzc0NjgKICAgICAgICBhc3NlcnQgYWJzKGNlbnRyb2lkWzBdIC0gcmVmX3hfY2VudHJvaWQpIDwgMWUtNwogICAgICAgIGFzc2VydCBhYnMoY2VudHJvaWRbMV0gLSByZWZfeV9jZW50cm9pZCkgPCAxZS03CiAgICAgICAgYXNzZXJ0IGFicyhjZW50cm9pZFsyXSAtIHJlZl96X2NlbnRyb2lkKSA8IDFlLTcKICAgICAgICBhY2N1cmFjeSA9IDFlLTYKICAgICAgICBjZW50cm9pZF90aWdodCA9IHJlcy5tYXNzX3Byb3BlcnRpZXMoKS53aXRoX2FjY3VyYWN5KGFjY3VyYWN5KS5jZW50cm9pZAogICAgICAgIHRpZ2h0X3RvbCA9IGFjY3VyYWN5CiAgICAgICAgeF90aWdodF9jaGVjayA9IGFicyhjZW50cm9pZF90aWdodFswXSAtIHJlZl94X2NlbnRyb2lkKQogICAgICAgIHlfdGlnaHRfY2hlY2sgPSBhYnMoY2VudHJvaWRfdGlnaHRbMV0gLSByZWZfeV9jZW50cm9pZCkKICAgICAgICB6X3RpZ2h0X2NoZWNrID0gYWJzKGNlbnRyb2lkX3RpZ2h0WzJdIC0gcmVmX3pfY2VudHJvaWQpCgogICAgICAgIGFzc2VydCB4X3RpZ2h0X2NoZWNrIDwgdGlnaHRfdG9sCiAgICAgICAgYXNzZXJ0IHlfdGlnaHRfY2hlY2sgPCB0aWdodF90b2wKICAgICAgICBhc3NlcnQgel90aWdodF9jaGVjayA8IHRpZ2h0X3RvbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY250ciA9IHNsaWNlLm1hc3NfcHJvcGVydGllcygpLndpdGhfYWNjdXJhY3koc2VsZi5fY2VudHJvaWRfdG9sKS5jZW50cm9pZAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -635,37 +632,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IGN1cnZlcy5TcGxpbmUoY29yZS5tYWtlX2N1YmljX2JzcGxpbmVfZml0KHBvaW50cywgc2QsIGVkLCB0b2xlcmFuY2U9Zml0X3RvbGVyYW5jZSkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaXRfdG9sZXJhbmNlID4gMDoK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZSA9IGNvcmUubWFrZV9jdWJpY19ic3BsaW5lX2ZpdChwb2ludHMsIE5vbmUsIE5vbmUsIHBlcmlvZGljPVRydWUsIHRvbGVyYW5jZT1maXRfdG9sZXJhbmNlKQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IGN1cnZlcy5TcGxpbmUoY29yZS5tYWtlX2N1YmljX2JzcGxpbmVfZml0KHBvaW50cywgc2QsIGVkLCB0b2xlcmFuY2U9Zml0X3RvbGVyYW5jZSkpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpZiBmaXRfdG9sZXJhbmNlID4gMDoK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZSA9IGNvcmUubWFrZV9jdWJpY19ic3BsaW5lX2ZpdChwb2ludHMsIE5vbmUsIE5vbmUsIHBlcmlvZGljPVRydWUsIHRvbGVyYW5jZT1maXRfdG9sZXJhbmNlKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBmaXRfdG9sZXJhbmNlID4gMDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBweXNhZ2UuQ3ViaWNTcGxpbmVCdWlsZGVyKHNwbGluZV9wYXJhbXMpLmJ1aWxkKCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>make_</last-search>
+      <last-search>centroid_tol</last-search>
       <last-offset />
-      <last-pattern>make_</last-pattern>
+      <last-pattern>centroid_tol</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -673,7 +670,6 @@
     </search>
     <history>
       <history-search>
-        <entry>glMatrixMode</entry>
         <entry encoding="base64">XDx0ZWNwbG90X2RhdGFcPg==</entry>
         <entry encoding="base64">XDxidWlsZF9pbmxldFw+</entry>
         <entry>build_inlet(</entry>
@@ -688,11 +684,12 @@
         <entry encoding="base64">XDxiZWFyaW5nX21vdW50X2VkZ2VfdG9fYmxlbmRcPg==</entry>
         <entry encoding="base64">XDxFZGdlRXZhbHVhdGlvblw+</entry>
         <entry>volume(</entry>
-        <entry>centroid</entry>
         <entry>EdgeEvaluation</entry>
         <entry>evaluate</entry>
         <entry>tolerance</entry>
         <entry>make_</entry>
+        <entry>centroid</entry>
+        <entry>centroid_tol</entry>
       </history-search>
       <history-cmd>
         <entry>995</entry>
