@@ -139,12 +139,12 @@
         <mark key="]" line="161" column="8" />
         <mark key="." line="161" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515441616904">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="287" column="8" />
-        <mark key="]" line="287" column="7" />
-        <mark key="." line="287" column="7" />
-        <mark key="^" line="287" column="7" />
+      <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515618316517">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="412" column="10" />
+        <mark key="]" line="265" column="8" />
+        <mark key="." line="265" column="8" />
+        <mark key="^" line="265" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1513383538081">
         <mark key="'" line="117" column="0" />
@@ -243,7 +243,7 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515566565056">
+      <file name="/Python Console" timestamp="1515617810044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
@@ -323,10 +323,10 @@
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1515603514820">
         <mark key="'" line="216" column="8" />
-        <mark key="[" line="1023" column="32" />
-        <mark key="]" line="1024" column="35" />
-        <mark key="^" line="1024" column="35" />
-        <mark key="." line="1024" column="35" />
+        <mark key="[" line="1004" column="32" />
+        <mark key="]" line="1005" column="35" />
+        <mark key="^" line="1005" column="35" />
+        <mark key="." line="1005" column="35" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1513636474426">
         <mark key="[" line="1" column="0" />
@@ -441,12 +441,11 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" timestamp="1515607242320">
-        <mark key="'" line="71" column="2" />
-        <mark key="[" line="110" column="13" />
-        <mark key="]" line="114" column="7" />
-        <mark key="." line="114" column="7" />
-        <mark key="^" line="114" column="7" />
+      <file name="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" timestamp="1515617703324">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513383585622">
         <mark key="'" line="0" column="0" />
@@ -475,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="69" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="5063" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="216" column="8" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
       <jump line="73" column="18" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
@@ -575,13 +572,27 @@
       <jump line="52" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="57" column="94" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="59" column="38" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
+      <jump line="12" column="20" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY250ciA9IHNsaWNlLm1hc3NfcHJvcGVydGllcygpLndpdGhfYWNjdXJhY3koc2VsZi5fY2VudHJvaWRfdG9sKS5jZW50cm9pZAo=</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -601,8 +612,20 @@
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfZmFjZV9jZW50cm9pZF90b2woc2VsZik6CiAgICAgICAgYm9keSA9IHNhZ2UuYnVpbGQuc3BoZXJlKCgwLCAwLCAwKSwgMykKICAgICAgICBwbGFuZSA9IHNhZ2UuY29yZS5QbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMCwgMCwgLTEuNSksICgtMSwgLTEsIC0xLjY3KSkKICAgICAgICBwbGFuZV9zaGVldCA9IHBsYW5lLnNoZWV0CiAgICAgICAgcmVzID0gYm9keSAmIHBsYW5lX3NoZWV0CiAgICAgICAgYXNzZXJ0IHJlcy52b2x1bWUgPT0gMCBhbmQgcmVzLnN1cmZhY2VfYXJlYSA+IDAKICAgICAgICBjZW50cm9pZCA9IHJlcy5jZW50cm9pZAogICAgICAgIHByaW50IGNlbnRyb2lkWzBdLCBjZW50cm9pZFsxXSwgY2VudHJvaWRbMl0KICAgICAgICByZWZfeF9jZW50cm9pZCA9IC0wLjUyMzA4NDYzMzIxNAogICAgICAgIHJlZl95X2NlbnRyb2lkID0gLTAuNTIzMDg0NjMzMjE0CiAgICAgICAgcmVmX3pfY2VudHJvaWQgPSAtMC44NzM1NTEzMzc0NjgKICAgICAgICBhc3NlcnQgYWJzKGNlbnRyb2lkWzBdIC0gcmVmX3hfY2VudHJvaWQpIDwgMWUtNwogICAgICAgIGFzc2VydCBhYnMoY2VudHJvaWRbMV0gLSByZWZfeV9jZW50cm9pZCkgPCAxZS03CiAgICAgICAgYXNzZXJ0IGFicyhjZW50cm9pZFsyXSAtIHJlZl96X2NlbnRyb2lkKSA8IDFlLTcKICAgICAgICBhY2N1cmFjeSA9IDFlLTYKICAgICAgICBjZW50cm9pZF90aWdodCA9IHJlcy5tYXNzX3Byb3BlcnRpZXMoKS53aXRoX2FjY3VyYWN5KGFjY3VyYWN5KS5jZW50cm9pZAogICAgICAgIHRpZ2h0X3RvbCA9IGFjY3VyYWN5CiAgICAgICAgeF90aWdodF9jaGVjayA9IGFicyhjZW50cm9pZF90aWdodFswXSAtIHJlZl94X2NlbnRyb2lkKQogICAgICAgIHlfdGlnaHRfY2hlY2sgPSBhYnMoY2VudHJvaWRfdGlnaHRbMV0gLSByZWZfeV9jZW50cm9pZCkKICAgICAgICB6X3RpZ2h0X2NoZWNrID0gYWJzKGNlbnRyb2lkX3RpZ2h0WzJdIC0gcmVmX3pfY2VudHJvaWQpCgogICAgICAgIGFzc2VydCB4X3RpZ2h0X2NoZWNrIDwgdGlnaHRfdG9sCiAgICAgICAgYXNzZXJ0IHlfdGlnaHRfY2hlY2sgPCB0aWdodF90b2wKICAgICAgICBhc3NlcnQgel90aWdodF9jaGVjayA8IHRpZ2h0X3RvbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY250ciA9IHNsaWNlLm1hc3NfcHJvcGVydGllcygpLndpdGhfYWNjdXJhY3koc2VsZi5fY2VudHJvaWRfdG9sKS5jZW50cm9pZAo=</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -632,28 +655,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IGN1cnZlcy5TcGxpbmUoY29yZS5tYWtlX2N1YmljX2JzcGxpbmVfZml0KHBvaW50cywgc2QsIGVkLCB0b2xlcmFuY2U9Zml0X3RvbGVyYW5jZSkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaXRfdG9sZXJhbmNlID4gMDoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZSA9IGNvcmUubWFrZV9jdWJpY19ic3BsaW5lX2ZpdChwb2ludHMsIE5vbmUsIE5vbmUsIHBlcmlvZGljPVRydWUsIHRvbGVyYW5jZT1maXRfdG9sZXJhbmNlKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmaXRfdG9sZXJhbmNlID4gMDoK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHdoZWVsX2FuZF90aXJlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgc2FnZS5tZXNoX3RyaSh3aGVlbF9hbmRfdGlyZSwgJ3doZWVsX2FuZF90aXJlLnRyaScsIG1heF9lZGdlX2xlbmd0aD0wLjA1LCBub3JtYWxfY2hhbmdlPTMpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY250ciA9IHNsaWNlLm1hc3NfcHJvcGVydGllcygpLndpdGhfYWNjdXJhY3koc2VsZi5fY2VudHJvaWRfdG9sKS5jZW50cm9pZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IGN1cnZlcy5TcGxpbmUoY29yZS5tYWtlX2N1YmljX2JzcGxpbmVfZml0KHBvaW50cywgc2QsIGVkLCB0b2xlcmFuY2U9Zml0X3RvbGVyYW5jZSkpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBmaXRfdG9sZXJhbmNlID4gMDoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
