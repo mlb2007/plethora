@@ -314,14 +314,18 @@
         <mark key="." line="123" column="7" />
         <mark key="^" line="123" column="7" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/sketch.py" timestamp="1515603302199">
+        <mark key="[" line="169" column="8" />
+        <mark key="]" line="179" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.pyi" timestamp="1510704384137">
         <mark key="[" line="153" column="35" />
         <mark key="]" line="151" column="30" />
         <mark key="." line="151" column="30" />
         <mark key="^" line="151" column="30" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1512578417888">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1515603514820">
+        <mark key="'" line="216" column="8" />
         <mark key="[" line="1023" column="32" />
         <mark key="]" line="1024" column="35" />
         <mark key="^" line="1024" column="35" />
@@ -440,6 +444,13 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" timestamp="1515604359136">
+        <mark key="'" line="71" column="2" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="4" />
+        <mark key="." line="72" column="4" />
+        <mark key="^" line="72" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513383585622">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="292" column="27" />
@@ -467,10 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="4" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
-      <jump line="212" column="13" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
-      <jump line="214" column="13" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="216" column="13" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="218" column="13" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="228" column="29" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
@@ -567,13 +574,17 @@
       <jump line="295" column="43" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="39" column="41" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="5063" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="216" column="8" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
+      <jump line="73" column="18" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
+      <jump line="71" column="2" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmVhcmluZ19tb3VudF9lZGdlX3RvX2JsZW5kID0gc2FnZS5nZXRfZWRnZXMoYmVhcmluZ19tb3VudCwgYmJveD1bKDAuMSwgLTEsIC0xKSwgKDEwLCAxLCAxKV0sIGV4cGVjdF9zaW5nbGU9VHJ1ZSkK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -585,16 +596,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>calculate_area</text>
+        <text encoding="base64">XDxiZWFyaW5nX21vdW50X2VkZ2VfdG9fYmxlbmRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGxvZnRlciA9IHNhZ2UuYnVpbGQuc2V0dXBfbG9mdCgpCiAgICBsb2Z0ZXIuc2VjdGlvbnMgPSBbcHJvZmlsZV9zaWRlMSwgcHJvZmlsZV9zaWRlMl0KICAgIA==</text>
+        <text encoding="base64">Y2VudGVyID0gY29yZS5Qb2ludDNEKGNlbnRlcikKICAgICAgICBtYWpvcl92ZXJ0ZXggPSBjb3JlLlBvaW50M0QobWFqb3JfdmVydGV4KQogICAgICAgIG1ham9yX2F4aXNfdmVjID0gbWFqb3JfdmVydGV4IC0gY2VudGVyCiAgICAgICAgYXNwZWN0X3JhdGlvID0gY2VudGVyLmRpc3QobWFqb3JfdmVydGV4KSAvIGNlbnRlci5kaXN0KG1pbm9yX3ZlcnRleCkKICAgICAgICBtaW5vcl9heGlzX3ZlYyA9IG1pbm9yX3ZlcnRleCAtIGNlbnRlcgogICAgICAgIGlmIGFzcGVjdF9yYXRpbyA8IDEuMDoKICAgICAgICAgICAgcmFpc2UgVmFsdWVFcnJvcigiR2l2ZW4gbWFqb3IgdmVydGV4IGlzIGNsb3NlciB0byBjZW50ZXIgdGhhbiBtaW5vciB2ZXJ0ZXgiKQogICAgICAgIGVsaWYgYWJzKGNvcmUudmVjX2RvdChtYWpvcl9heGlzX3ZlYywgbWlub3JfYXhpc192ZWMpKSA+IGNvcmUuRkxPQVRfVE9MOgogICAgICAgICAgICByYWlzZSBWYWx1ZUVycm9yKCJHaXZlbiBtYWpvciBheGlzIGFuZCBtaW5vciBheGlzIGFyZSBub3QgcGVycGVuZGljdWxhciIpCiAgICAgICAgbm9ybWFsID0gY29yZS5Vbml0VmVjdG9yM0QoY29yZS52ZWNfY3Jvc3MobWFqb3JfYXhpc192ZWMsIG1pbm9yX2F4aXNfdmVjKSkKIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmVhcmluZ19tb3VudF9lZGdlX3RvX2JsZW5kID0gc2FnZS5nZXRfZWRnZXMoYmVhcmluZ19tb3VudCwgYmJveD1bKDAuMSwgLTEsIC0xKSwgKDEwLCAxLCAxKV0sIGV4cGVjdF9zaW5nbGU9VHJ1ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -624,37 +635,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhcGkuZ2V0X3BvaW50X29uX2VkZ2UoZWQsIDAuNSwgbm9ybWFsaXplPUZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIG1pZFBvaW50KGVkKToK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChwWzJdLDEwKQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcGkuZ2V0X3BvaW50X29uX2VkZ2UoZWQsIDAuNSwgbm9ybWFsaXplPUZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChwWzFdLDUpCg==</text>
+        <text encoding="base64">ZGVmIG1pZFBvaW50KGVkKToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChwWzBdLDUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAgPSBhcGkuZ2V0X2Nsb3Nlc3RfcG9pbnRfb25fZW50aXR5KHNvbGlkLCg1LDUsMTAuMSkpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>calculate_area</last-search>
+      <last-search encoding="base64">XDxiZWFyaW5nX21vdW50X2VkZ2VfdG9fYmxlbmRcPg==</last-search>
       <last-offset />
-      <last-pattern>calculate_area</last-pattern>
+      <last-pattern encoding="base64">XDxiZWFyaW5nX21vdW50X2VkZ2VfdG9fYmxlbmRcPg==</last-pattern>
       <last-replace>AS2Components</last-replace>
       <last-substitute>as2Components</last-substitute>
       <last-dir>1</last-dir>
@@ -662,8 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVzc2VkXD4=</entry>
-        <entry encoding="base64">XDxtb3ZlbWVudF9kaXJlY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxkaXNwbGF5XD4=</entry>
         <entry encoding="base64">XDxzY3JlZW5cPg==</entry>
         <entry>translate(</entry>
@@ -682,6 +691,8 @@
         <entry>centroid</entry>
         <entry>TestCentroid</entry>
         <entry>calculate_area</entry>
+        <entry>vec_</entry>
+        <entry encoding="base64">XDxiZWFyaW5nX21vdW50X2VkZ2VfdG9fYmxlbmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>995</entry>
