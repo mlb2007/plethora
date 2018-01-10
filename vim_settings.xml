@@ -17,6 +17,12 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.6-meshopts.py" timestamp="1515564081572">
+        <mark key="[" line="26" column="25" />
+        <mark key="]" line="26" column="24" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.pyi" timestamp="1510698725805">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -100,7 +106,7 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1515532665860">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1515561008034">
         <mark key="[" line="39" column="29" />
         <mark key="]" line="39" column="11" />
         <mark key="." line="39" column="11" />
@@ -147,6 +153,11 @@
         <mark key="]" line="87" column="22" />
         <mark key="." line="87" column="22" />
         <mark key="^" line="87" column="22" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.5-exports.py" timestamp="1515563311016">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -199,6 +210,11 @@
         <mark key="]" line="321" column="0" />
         <mark key="." line="321" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/loft_examples.py" timestamp="1515564364040">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/strake_translator.py" timestamp="1510600733359">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="16" column="48" />
@@ -216,7 +232,7 @@
         <mark key="]" line="391" column="0" />
         <mark key="." line="391" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515557588713">
+      <file name="/Python Console" timestamp="1515561482146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
@@ -231,10 +247,10 @@
         <mark key="^" line="37" column="16" />
         <mark key="." line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515559143242">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="21" column="29" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1513101373581">
         <mark key="'" line="64" column="25" />
@@ -256,6 +272,12 @@
         <mark key="]" line="1799" column="64" />
         <mark key="." line="1785" column="0" />
         <mark key="^" line="1792" column="18" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/io.py" timestamp="1515560987251">
+        <mark key="[" line="35" column="27" />
+        <mark key="]" line="36" column="15" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="36" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
         <mark key="'" line="0" column="0" />
@@ -296,11 +318,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.2-create3D.py" timestamp="1515559125784">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="37" column="15" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="35" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.2-create3D.py" timestamp="1515564028463">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="33" column="36" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
@@ -393,8 +415,13 @@
         <mark key="]" line="211" column="42" />
         <mark key="." line="211" column="42" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1513651004950">
-        <mark key="[" line="25" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.4-transf.py" timestamp="1515563230556">
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1515561586626">
+        <mark key="[" line="34" column="40" />
         <mark key="]" line="27" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="^" line="23" column="3" />
@@ -531,48 +558,80 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>if __name__ == '__main__':
-    sage.log.show_error()
-    testSolids()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
+      </register>
+      <register name="c" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>calculate_area</text>
       </register>
       <register name="0" type="4">
-        <text>if __name__ == '__main__':
-    sage.log.show_error()
-    testSolids()</text>
+        <text encoding="base64">IyBtZXNoaW5nIG9wdGlvbnMgZXhwbGljaXQKICAgIG1zaF9vcHRpb25zID0gc2FnZS5tZXNoLkFjaXNPcHRpb25zKG1heF9lZGdlX2xlbmd0aD0xLCBub3JtYWxfY2hhbmdlPTUsIHNhZz0wLjAxLCByZWxhdGl2ZT1UcnVlKQoKICAgICMgYWxzbyBhdmFpbGFibGUsIENPQVJTRV9PUFRJT05TLCBNRURJVU1fT1BUSU9OUyAoZGVmYXVsdCksIEZJTkVfT1BUSU9OUwogICAgbXNoX29wdGlvbnMgPSBzYWdlLm1lc2guQ09BUlNFX09QVElPTlMKCiAgICAjIG5vdyBtZWFoCiAgICBtZXNoID0gc2FnZS50ZXNzZWxsYXRlKHNvbGlkX2JveF9jeWxfY29uZSwgb3B0aW9ucz1tc2hfb3B0aW9ucywgbnVtX3RocmVhZHM9OCkKCiAgICBzYWdlLmlvLmV4cG9ydChtZXNoLCAibWVzaC50cmkiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YXBpLmV4cG9ydChzd2VlcCwgInN3ZWVwLmlnZXMiKQo=</text>
+        <text encoding="base64">aW1wb3J0IHVuaXR0ZXN0Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="65535" code="37" mods="0" />
+          <key char="113" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBpLmV4cG9ydChzaW1wbGVfcmV2b2x2ZSwgInJldm9sdmUuaWdlcyIpCg==</text>
+        <text encoding="base64">YXBpLmV4cG9ydF9tZXNoKG1lc2gsICJyZXN1bHRfY29hcnNlLmRhdCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBpLmV4cG9ydChzaW1wbGVfM19sb2Z0LCAibG9mdF8zLmlnZXMiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICB0aHJlYWRfY291bnQ9dGhyZWFkX2NvdW50KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvZiA9IHNhZ2UuY3VydmUuY2lyY3VsYXJfYXJjLmZyb21fY2VudGVyX3N0YXJ0X2FuZ2xlX25vcm1hbChbMCwgMCwgMF0sIFsxLCAwLCAwXSwgMzYwLCBbMC4wLCAwLjAsIDEuMF0sIFRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBlZGdlX251bV9zYW1wbGVzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBlZGdlX2FyY2xlbl9mcmFjcywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBtYXhfYXNwZWN0X3JhdGlvLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZWFkX2NvdW50PXRocmVhZF9jb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBzYWcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9udW1fc2FtcGxlcywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBub3JtYWxfY2hhbmdlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9hcmNsZW5fZnJhY3MsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBtYXhfbWVzaF9sZW5ndGgsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
