@@ -220,7 +220,7 @@
         <mark key="]" line="391" column="0" />
         <mark key="." line="391" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515455482712">
+      <file name="/Python Console" timestamp="1515557588713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
@@ -294,6 +294,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.2-create3D.py" timestamp="1515558187467">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
@@ -399,11 +404,10 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.1-create2D.py" timestamp="1513630811624">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="9" column="18" />
-        <mark key="." line="9" column="18" />
-        <mark key="^" line="9" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.1-create2D.py" timestamp="1515557761908">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1513707120118">
         <mark key="[" line="77" column="8" />
@@ -526,7 +530,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAicG9zOiIsIHAyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -538,31 +542,31 @@
         <text encoding="base64">ZGVmIHRlc3RfYmFkX3RlbnNpb25zKHNlbGYpOgogICAgICAgIHAgPSAoMywgMCwgMC41KQogICAgICAgIHEgPSBzYy5VTklUX1ZFQ19YICogNgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc2suQ3ViaWNCU3BsaW5lLnRocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdLCBzdGFydF90ZW5zaW9uPTAuMDUsIGVuZF90ZW5zaW9uPS0wLjA1KQogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc2suQ3ViaWNCU3BsaW5lLnRocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdLCBzdGFydF90ZW5zaW9uPS0xLjEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAicG9zOiIsIHAyCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZWFkX2NvdW50PXRocmVhZF9jb3VudCkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWJzKHB0WzBdLXAyWzBdKSA8IHRvbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9udW1fc2FtcGxlcywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9hcmNsZW5fZnJhY3MsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzcGxpbmVfZml0LmNvbG9yKCdyJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X2FzcGVjdF9yYXRpbywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydChzcGxpbmVfZml0LCB0aHJvdWdoX2ZpdCwgInNwbGluZXNfZml0X3RocnUuc2F0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjd2l0aCBweXRlc3QucmFpc2VzKFJ1bnRpbWVFcnJvcik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ybWFsX2NoYW5nZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJ0b2wgaXM6IiwgdG9sZXJhbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X21lc2hfbGVuZ3RoLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIkkgY2FtZSBoZXJlIgo=</text>
+        <text encoding="base64">ICAgIG1lc2ggPSBzYWdlLm1lc2hfZW50aXR5KHNvbGlkX2JveF9jeWxfY29uZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
