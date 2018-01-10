@@ -17,10 +17,6 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/area_distribution/axisymmetric_spike_inlet.py" timestamp="1513795483174">
-        <mark key="'" line="24" column="43" />
-        <mark key="[" line="472" column="64" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.pyi" timestamp="1510698725805">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
@@ -235,6 +231,11 @@
         <mark key="^" line="37" column="16" />
         <mark key="." line="37" column="16" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515559143242">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1513101373581">
         <mark key="'" line="64" column="25" />
         <mark key="[" line="1" column="0" />
@@ -295,10 +296,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.2-create3D.py" timestamp="1515558187467">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.2-create3D.py" timestamp="1515559125784">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
@@ -529,44 +531,48 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>if __name__ == '__main__':
+    sage.log.show_error()
+    testSolids()</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>calculate_area</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfYmFkX3RlbnNpb25zKHNlbGYpOgogICAgICAgIHAgPSAoMywgMCwgMC41KQogICAgICAgIHEgPSBzYy5VTklUX1ZFQ19YICogNgogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc2suQ3ViaWNCU3BsaW5lLnRocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdLCBzdGFydF90ZW5zaW9uPTAuMDUsIGVuZF90ZW5zaW9uPS0wLjA1KQogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhWYWx1ZUVycm9yKToKICAgICAgICAgICAgc2suQ3ViaWNCU3BsaW5lLnRocm91Z2hfcG9pbnRzKFtzYy5PUklHSU4sIHAsIHFdLCBzdGFydF90ZW5zaW9uPS0xLjEpCg==</text>
+        <text>if __name__ == '__main__':
+    sage.log.show_error()
+    testSolids()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBpLmV4cG9ydChzd2VlcCwgInN3ZWVwLmlnZXMiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZWFkX2NvdW50PXRocmVhZF9jb3VudCkK</text>
+        <text encoding="base64">YXBpLmV4cG9ydChzaW1wbGVfcmV2b2x2ZSwgInJldm9sdmUuaWdlcyIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9udW1fc2FtcGxlcywK</text>
+        <text encoding="base64">YXBpLmV4cG9ydChzaW1wbGVfM19sb2Z0LCAibG9mdF8zLmlnZXMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9hcmNsZW5fZnJhY3MsCg==</text>
+        <text encoding="base64">cHJvZiA9IHNhZ2UuY3VydmUuY2lyY3VsYXJfYXJjLmZyb21fY2VudGVyX3N0YXJ0X2FuZ2xlX25vcm1hbChbMCwgMCwgMF0sIFsxLCAwLCAwXSwgMzYwLCBbMC4wLCAwLjAsIDEuMF0sIFRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X2FzcGVjdF9yYXRpbywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9ybWFsX2NoYW5nZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyZWFkX2NvdW50PXRocmVhZF9jb3VudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgbWF4X21lc2hfbGVuZ3RoLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9udW1fc2FtcGxlcywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lc2ggPSBzYWdlLm1lc2hfZW50aXR5KHNvbGlkX2JveF9jeWxfY29uZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgZWRnZV9hcmNsZW5fZnJhY3MsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
