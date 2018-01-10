@@ -131,10 +131,10 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1513705847049">
-        <mark key="[" line="141" column="36" />
-        <mark key="]" line="140" column="75" />
-        <mark key="." line="140" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1515566435504">
+        <mark key="[" line="161" column="8" />
+        <mark key="]" line="161" column="8" />
+        <mark key="." line="161" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515441616904">
         <mark key="'" line="19" column="4" />
@@ -567,8 +567,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF93cml0ZXMoKToK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,7 +580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>calculate_area</text>
