@@ -57,6 +57,11 @@
         <mark key="^" line="295" column="44" />
         <mark key="." line="295" column="44" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511894248091">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="126" column="0" />
@@ -219,8 +224,8 @@
         <mark key="]" line="321" column="0" />
         <mark key="." line="321" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/loft_examples.py" timestamp="1515565457129">
-        <mark key="[" line="127" column="18" />
+      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/loft_examples.py" timestamp="1515566566224">
+        <mark key="[" line="132" column="22" />
         <mark key="]" line="132" column="27" />
         <mark key="." line="132" column="0" />
       </file>
@@ -241,7 +246,7 @@
         <mark key="]" line="391" column="0" />
         <mark key="." line="391" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1515561482146">
+      <file name="/Python Console" timestamp="1515566565056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
@@ -567,8 +572,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,7 +585,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>calculate_area</text>
@@ -589,7 +594,7 @@
         <text encoding="base64">IGxvZnRlciA9IHNhZ2UuYnVpbGQuc2V0dXBfbG9mdCgpCiAgICBsb2Z0ZXIuc2VjdGlvbnMgPSBbcHJvZmlsZV9zaWRlMSwgcHJvZmlsZV9zaWRlMl0KICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF93cml0ZXMoKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -619,28 +624,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF9lZGdlc193aXRoX2d1aWRlKCk6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhcGkuZ2V0X3BvaW50X29uX2VkZ2UoZWQsIDAuNSwgbm9ybWFsaXplPUZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF9mYWNlKCk6Cg==</text>
+        <text encoding="base64">ZGVmIG1pZFBvaW50KGVkKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF9lZGdlcygpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIHRlc3RfbG9mdF9jb25lKCk6Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZnRlci5zZWN0aW9ucyA9IFtwcm9maWxlX3NpZGUxLCBwcm9maWxlX3NpZGUyXQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChwWzJdLDEwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZnRlciA9IHNhZ2UuYnVpbGQuc2V0dXBfbG9mdCgpCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChwWzFdLDUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJoZXJlIgo=</text>
+        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChwWzBdLDUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">W3Byb2ZpbGVfc2lkZTEsIHByb2ZpbGVfc2lkZTJdLCBbZ3VpZGVdKQo=</text>
+        <text encoding="base64">ICAgIHAgPSBhcGkuZ2V0X2Nsb3Nlc3RfcG9pbnRfb25fZW50aXR5KHNvbGlkLCg1LDUsMTAuMSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
