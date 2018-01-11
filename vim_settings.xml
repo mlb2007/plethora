@@ -138,9 +138,9 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1515566435504">
-        <mark key="[" line="161" column="8" />
-        <mark key="]" line="161" column="8" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1515700862604">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="17" column="85" />
         <mark key="." line="161" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515618316517">
@@ -589,8 +589,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRlc3RfaW50ZXJzZWN0X2FyYml0cmFyeV9wbGFuZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIF9yZW1vdmVfZmlsZShzZWxmLCBmaWxlbmFtZSk6CiAgICAgICAgaWYgb3MucGF0aC5pc2ZpbGUoZmlsZW5hbWUpOgogICAgICAgICAgICBvcy5yZW1vdmUoZmlsZW5hbWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2FnZS5sb2cubG9nX3dhcm5pbmcoIkNvdWxkIG5vdCBmaW5kIGZpbGU6e30gdG8gcmVtb3ZlIi5mb3JtYXQoZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -608,7 +608,7 @@
         <text>sat</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IG91dGVyX2N1YmUgPSBzYWdlLmJ1aWxkLmN1Ym9pZCgoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkKICAgIGlubmVyX2N1YmUgPSBzYWdlLmJ1aWxkLmN1Ym9pZCgoMywgMywgMCksICg3LCA3LCAxMCkpCiAgICAKICAgICMgYm9vbGVhbiBzdWJ0cmFjdAogICAgY3ViZSA9IG91dGVyX2N1YmUgLSBpbm5lcl9jdWJlCiAgICAKICAgICMgYm9vbGVhbiBpbnRlcnNlY3QgPT0+IHVzZSAmCiAgICAjIGJvb2xlYW4gdW5pdGUgPT0+IHVzZSArCiAgICAjIGFsc28gc3VwcG9ydGVkIC09LCArPQogICAgIyBjaG9wIGlzIHN1cHBvcnRlZCBhcyB3ZWxsCiAgICAKICAgIGN1YmVfY2hvcCA9IGN1YmUuY29weSgpCiAgICA=</text>
+        <text encoding="base64">ZGVmIF9yZW1vdmVfZmlsZShzZWxmLCBmaWxlbmFtZSk6CiAgICAgICAgaWYgb3MucGF0aC5pc2ZpbGUoZmlsZW5hbWUpOgogICAgICAgICAgICBvcy5yZW1vdmUoZmlsZW5hbWUpCiAgICAgICAgZWxzZToKICAgICAgICAgICAgc2FnZS5sb2cubG9nX3dhcm5pbmcoIkNvdWxkIG5vdCBmaW5kIGZpbGU6e30gdG8gcmVtb3ZlIi5mb3JtYXQoZmlsZW5hbWUpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRlc3RfaW50ZXJzZWN0X2FyYml0cmFyeV9wbGFuZSgpCg==</text>
