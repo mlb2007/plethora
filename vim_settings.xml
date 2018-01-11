@@ -457,6 +457,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sage_runner.py" timestamp="1515707326094">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1834" column="18" />
+        <mark key="]" line="1835" column="7" />
+        <mark key="^" line="1835" column="7" />
+        <mark key="." line="1835" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/inlet_area_distrib/area_distribution.py" timestamp="1513383585622">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="292" column="27" />
@@ -484,7 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1077" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="776" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -584,13 +590,14 @@
       <jump line="111" column="55" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="20" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sage_runner.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigie30gcmVtb3ZhbCBmYWlsZWQiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -605,13 +612,13 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVtb3ZlX2ZpbGVcPg==</text>
+        <text>approx_eval</text>
       </register>
       <register name="0" type="4">
         <text>TestExport.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigie30gcmVtb3ZhbCBmYWlsZWQiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -644,16 +651,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigie30gcmVtb3ZhbCBmYWlsZWQiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigie30gcmVtb3ZhbCBmYWlsZWQiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lMSkK</text>
+        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lMSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
@@ -662,16 +669,16 @@
         <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVtb3ZlX2ZpbGVcPg==</last-search>
+      <last-search>approx_eval</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVtb3ZlX2ZpbGVcPg==</last-pattern>
+      <last-pattern>approx_eval</last-pattern>
       <last-replace>igs</last-replace>
       <last-substitute>sat</last-substitute>
       <last-dir>1</last-dir>
@@ -679,7 +686,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build_inlet(</entry>
         <entry>calculate_area_</entry>
         <entry encoding="base64">XDxjYWxjX2FyZWFfZGlzdHJpYnV0aW9uXD4=</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfYXJlYV9kaXN0cmlidXRpb25cPg==</entry>
@@ -699,6 +705,7 @@
         <entry>centroid_tol</entry>
         <entry>sat</entry>
         <entry encoding="base64">XDxfcmVtb3ZlX2ZpbGVcPg==</entry>
+        <entry>approx_eval</entry>
       </history-search>
       <history-cmd>
         <entry>10.24 s/return/==/gc</entry>
