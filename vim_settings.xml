@@ -20,18 +20,6 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.6-meshopts.py" timestamp="1515564081572">
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="24" />
-        <mark key="." line="26" column="24" />
-        <mark key="^" line="26" column="24" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.pyi" timestamp="1510698725805">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1515613434697">
         <mark key="'" line="666" column="4" />
         <mark key="[" line="811" column="0" />
@@ -60,21 +48,9 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/spine.py" timestamp="1511894248091">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-        <mark key="^" line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/curvesCreation.py" timestamp="1515620355222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/2.3a-lofting_guides.py" timestamp="1515565200983">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="37" column="53" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
         <mark key="'" line="72" column="23" />
@@ -165,12 +141,6 @@
         <mark key="^" line="2801" column="25" />
         <mark key="." line="2801" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/cowl_translation_debug/strake_translator.py" timestamp="1510599516030">
-        <mark key="[" line="98" column="33" />
-        <mark key="]" line="87" column="22" />
-        <mark key="." line="87" column="22" />
-        <mark key="^" line="87" column="22" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.5-exports.py" timestamp="1515563311016">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="26" column="0" />
@@ -183,12 +153,6 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/api.py" timestamp="1512599490614">
-        <mark key="[" line="2589" column="19" />
-        <mark key="]" line="2588" column="43" />
-        <mark key="^" line="2588" column="43" />
-        <mark key="." line="2588" column="43" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1515608917792">
         <mark key="'" line="256" column="15" />
         <mark key="[" line="410" column="0" />
@@ -200,12 +164,6 @@
         <mark key="[" line="819" column="0" />
         <mark key="]" line="819" column="0" />
         <mark key="." line="819" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1512578504582">
-        <mark key="[" line="82" column="43" />
-        <mark key="]" line="82" column="42" />
-        <mark key="." line="82" column="42" />
-        <mark key="^" line="82" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/gameobjects/matrix44.py" timestamp="1515113020428">
         <mark key="'" line="98" column="4" />
@@ -251,18 +209,6 @@
       <file name="/Python Console" timestamp="1515617810044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/area_distribution/area_distribution.py" timestamp="1513805026963">
-        <mark key="[" line="85" column="89" />
-        <mark key="]" line="180" column="0" />
-        <mark key="^" line="85" column="116" />
-        <mark key="." line="180" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/inlet_area_distrib/sheet_sheet.py" timestamp="1511811489523">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="16" />
-        <mark key="^" line="37" column="16" />
-        <mark key="." line="37" column="16" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="21" column="29" />
@@ -295,12 +241,6 @@
         <mark key="." line="1785" column="0" />
         <mark key="^" line="1792" column="18" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/io.py" timestamp="1515560987251">
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="36" column="15" />
-        <mark key="^" line="36" column="15" />
-        <mark key="." line="36" column="15" />
-      </file>
       <file name="$USER_HOME$/workspace/scratch.py" timestamp="1508792744901">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="142" column="24" />
@@ -326,12 +266,6 @@
         <mark key="[" line="169" column="8" />
         <mark key="]" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.pyi" timestamp="1510704384137">
-        <mark key="[" line="153" column="35" />
-        <mark key="]" line="151" column="30" />
-        <mark key="." line="151" column="30" />
-        <mark key="^" line="151" column="30" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1515603514820">
         <mark key="'" line="216" column="8" />
         <mark key="[" line="1004" column="32" />
@@ -343,12 +277,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.2-create3D.py" timestamp="1515564028463">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="33" column="36" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
@@ -364,12 +292,6 @@
         <mark key="." line="228" column="0" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.pyi" timestamp="1510703931816">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="32" column="45" />
-        <mark key="^" line="17" column="29" />
-        <mark key="." line="32" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512603873509">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="43" />
@@ -377,11 +299,8 @@
         <mark key="." line="32" column="43" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1510786848085">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
-        <mark key="^" line="17" column="27" />
+      <file name="/code.py" timestamp="1516056058610">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_stlio.py" timestamp="1513707146268">
         <mark key="[" line="21" column="70" />
@@ -407,12 +326,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_triio.py" timestamp="1513634458155">
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="118" column="85" />
-        <mark key="." line="144" column="25" />
-        <mark key="^" line="144" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1512064871579">
         <mark key="'" line="4146" column="8" />
@@ -450,12 +363,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/io.py" timestamp="1515561586626">
-        <mark key="[" line="34" column="40" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="25" column="4" />
-        <mark key="^" line="23" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" timestamp="1515617703324">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="3" column="0" />
@@ -480,12 +387,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/mesh.py" timestamp="1513707120118">
-        <mark key="[" line="77" column="8" />
-        <mark key="]" line="77" column="15" />
-        <mark key="." line="77" column="15" />
-        <mark key="^" line="77" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1515089160257">
         <mark key="'" line="47" column="68" />
