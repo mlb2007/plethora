@@ -428,6 +428,11 @@
         <mark key="." line="4786" column="61" />
         <mark key="^" line="4786" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/tmp/iges_import.py" timestamp="1516050435953">
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512405610496">
         <mark key="'" line="3441" column="88" />
         <mark key="[" line="2271" column="53" />
@@ -597,7 +602,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Jy9Vc2Vycy9ibXVrdW5kL0Rlc2t0b3AvZWJ1X3N1cmYuaWdzJykK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -618,7 +623,7 @@
         <text>TestExport.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Jy9Vc2Vycy9ibXVrdW5kL0Rlc2t0b3AvZWJ1X3N1cmYuaWdzJykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -648,28 +653,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigie30gcmVtb3ZhbCBmYWlsZWQiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
+        <text encoding="base64">aW1wb3J0ZWQgPSBzYWdlLmlvLmltcG9ydF9nZW9tZXRyeSgnL1VzZXJzL2JtdWt1bmQvRGVza3RvcC9lYnVfc3VyZi5pZ3MnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigie30gcmVtb3ZhbCBmYWlsZWQiLmZvcm1hdChmaWxlbmFtZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
+        <text encoding="base64">c2ltcGxpZnlfYW5kX3VuaXRlID0gVHJ1ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
+        <text encoding="base64">IyBhcHByb3hpbWF0aW9ucyBvZiBzdXJmYWNlcy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lMSkK</text>
+        <text encoding="base64">IyAsIGZhaWxpbmcgd2hpY2ggbWFrZXMgc3BsaW5lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
