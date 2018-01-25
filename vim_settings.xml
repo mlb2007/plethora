@@ -344,10 +344,11 @@
         <mark key="." line="4786" column="61" />
         <mark key="^" line="4786" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/iges_import.py" timestamp="1516905835907">
-        <mark key="[" line="59" column="1" />
-        <mark key="]" line="63" column="13" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/workspace/tmp/iges_import.py" timestamp="1516907776519">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512405610496">
         <mark key="'" line="3441" column="88" />
@@ -505,8 +506,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bDEuY29sb3IoJ3InKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -526,8 +527,8 @@
       <register name="0" type="4">
         <text>TestExport.</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bDEuY29sb3IoJ3InKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">aGVsaXhfc3dlcHQgPSBzYWdlLnN3ZWVwKGNyLCBwYXRoPWhlbGl4KQpoZWxpeF9zd2VwdC5jb2xvcigncicpCgpzdGVtIC09IGhlbGl4X3N3ZXB0CgpudXQgPSBudXRfaGVhZCArIHN0ZW0Kc2FnZS5pby5leHBvcnQobnV0LCBoZWxpeCwgbDEsIGwyLCBsMywgbDQsIGhlbGl4X3N3ZXB0LCAgIm51dC5zYXQiKQoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -557,28 +558,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bDEgPSBzYWdlLmN1cnZlLmxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0MSwgcHQyKQo=</text>
+        <text encoding="base64">bDEuY29sb3IoJ3InKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eiA9IAo=</text>
+        <text encoding="base64">bDEgPSBzYWdlLmN1cnZlLmxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0MSwgcHQyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eSA9IFt4IGZvciB4IGluIHJhbmdlKDMsIDgpXQo=</text>
+        <text encoding="base64">eiA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eCA9IG1hdGguY29zKHQpICogcmFkCg==</text>
+        <text encoding="base64">eSA9IFt4IGZvciB4IGluIHJhbmdlKDMsIDgpXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eCA9IFt4IGZvciB4IGluIHJhbmdlKDMsIDgpXQo=</text>
+        <text encoding="base64">eCA9IG1hdGguY29zKHQpICogcmFkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3ViZTIgPSBjdWJlMS5jb3B5KCkucm90YXRlKHNhZ2UuVU5JVF9WRUNfWiwgMjIuNSkK</text>
+        <text encoding="base64">eCA9IFt4IGZvciB4IGluIHJhbmdlKDMsIDgpXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Jy9Vc2Vycy9ibXVrdW5kL0Rlc2t0b3AvZWJ1X3N1cmYuaWdzJykK</text>
+        <text encoding="base64">Y3ViZTIgPSBjdWJlMS5jb3B5KCkucm90YXRlKHNhZ2UuVU5JVF9WRUNfWiwgMjIuNSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0ZWQgPSBzYWdlLmlvLmltcG9ydF9nZW9tZXRyeSgnL1VzZXJzL2JtdWt1bmQvRGVza3RvcC9lYnVfc3VyZi5pZ3MnKQo=</text>
+        <text encoding="base64">Jy9Vc2Vycy9ibXVrdW5kL0Rlc2t0b3AvZWJ1X3N1cmYuaWdzJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
