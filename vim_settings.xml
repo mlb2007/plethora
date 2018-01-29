@@ -39,9 +39,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1515613909760">
-        <mark key="'" line="59" column="38" />
-        <mark key="[" line="89" column="52" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" timestamp="1517237482783">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="315" column="11" />
+        <mark key="]" line="314" column="109" />
+        <mark key="." line="314" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
@@ -337,13 +339,6 @@
         <mark key="." line="4223" column="8" />
         <mark key="^" line="4223" column="8" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1515533374239">
-        <mark key="'" line="5066" column="0" />
-        <mark key="[" line="4792" column="115" />
-        <mark key="]" line="4786" column="61" />
-        <mark key="." line="4786" column="61" />
-        <mark key="^" line="4786" column="61" />
-      </file>
       <file name="$USER_HOME$/workspace/tmp/iges_import.py" timestamp="1516909981943">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="0" />
@@ -401,7 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1077" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="776" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="726" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -501,13 +495,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="20" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sage_runner.py" />
+      <jump line="83" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBjZW50cm9pZF90b2w6IEEgdG9sZXJhbmNlIHZhbHVlIHVzZWQgdG8gY29udHJvbCBhY2N1cmFjeSBvZiBjZW50cm9pZCBjYWxjdWxhdGlvbiAoRGVmYXVsdCBpcyAxZS0yKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -522,13 +517,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>approx_eval</text>
+        <text encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>TestExport.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">aGVsaXhfc3dlcHQgPSBzYWdlLnN3ZWVwKGNyLCBwYXRoPWhlbGl4KQpoZWxpeF9zd2VwdC5jb2xvcigncicpCgpzdGVtIC09IGhlbGl4X3N3ZXB0CgpudXQgPSBudXRfaGVhZCArIHN0ZW0Kc2FnZS5pby5leHBvcnQobnV0LCBoZWxpeCwgbDEsIGwyLCBsMywgbDQsIGhlbGl4X3N3ZXB0LCAgIm51dC5zYXQiKQoK</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDpwYXJhbSBjZW50cm9pZF90b2w6IEEgdG9sZXJhbmNlIHZhbHVlIHVzZWQgdG8gY29udHJvbCBhY2N1cmFjeSBvZiBjZW50cm9pZCBjYWxjdWxhdGlvbiAoRGVmYXVsdCBpcyAxZS0yKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -558,37 +553,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bDEuY29sb3IoJ3InKQo=</text>
+        <text encoding="base64">ICAgICAgICAjZXhwb3J0aXRlbXMuZXh0ZW5kKHNlbGYuX3NwaW5lX2N1dHNfdml6KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bDEgPSBzYWdlLmN1cnZlLmxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0MSwgcHQyKQo=</text>
+        <text encoding="base64">ICAgICAgICAjZXhwb3J0aXRlbXMuZXh0ZW5kKHNlbGYuX3NsaWNlX3BsYW5lc192aXopCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">eiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VfYXJlYSA9IHNsaWNlLnN1cmZhY2VfYXJlYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eSA9IFt4IGZvciB4IGluIHJhbmdlKDMsIDgpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FyZWEgPSBzbGljZS5tYXNzX3Byb3BlcnRpZXMoKS53aXRoX2FjY3VyYWN5KHNlbGYuX2FyZWFfdG9sKS5zdXJmYWNlX2FyZWEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">eCA9IG1hdGguY29zKHQpICogcmFkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjbnRyID0gc2xpY2UuY2VudHJvaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eCA9IFt4IGZvciB4IGluIHJhbmdlKDMsIDgpXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3ViZTIgPSBjdWJlMS5jb3B5KCkucm90YXRlKHNhZ2UuVU5JVF9WRUNfWiwgMjIuNSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY2VudHJvaWRfY3V0c192aXouYXBwZW5kKHNsaWNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Jy9Vc2Vycy9ibXVrdW5kL0Rlc2t0b3AvZWJ1X3N1cmYuaWdzJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FyZWEgPSBzbGljZS5tYXNzX3Byb3BlcnRpZXMoKS53aXRoX2FjY3VyYWN5KHNlbGYuX2FyZWFfdG9sKS5zdXJmYWNlX2FyZWEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>approx_eval</last-search>
+      <last-search encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</last-search>
       <last-offset />
-      <last-pattern>approx_eval</last-pattern>
+      <last-pattern encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</last-pattern>
       <last-replace>igs</last-replace>
       <last-substitute>sat</last-substitute>
       <last-dir>1</last-dir>
@@ -596,7 +591,6 @@
     </search>
     <history>
       <history-search>
-        <entry>calculate_area_</entry>
         <entry encoding="base64">XDxjYWxjX2FyZWFfZGlzdHJpYnV0aW9uXD4=</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVfYXJlYV9kaXN0cmlidXRpb25cPg==</entry>
         <entry encoding="base64">XDxhcmVhX2Rpc3RyaWJ1dGlvblw+</entry>
@@ -616,6 +610,7 @@
         <entry>sat</entry>
         <entry encoding="base64">XDxfcmVtb3ZlX2ZpbGVcPg==</entry>
         <entry>approx_eval</entry>
+        <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>10.24 s/return/==/gc</entry>
