@@ -345,11 +345,10 @@
         <mark key="." line="4223" column="8" />
         <mark key="^" line="4223" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/iges_import.py" timestamp="1516909981943">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/tmp/iges_import.py" timestamp="1517606495457">
+        <mark key="[" line="78" column="6" />
+        <mark key="]" line="78" column="30" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" timestamp="1517263360985">
         <mark key="'" line="5029" column="11" />
@@ -511,7 +510,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0Ll9yZW1vdmVfZmlsZShmbmFtZV9hbGwpCg==</text>
+        <text encoding="base64">ICAgIHB0ID0gc2FnZS5Qb2ludDNEKDEsIDIsIDMpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -532,7 +531,7 @@
         <text encoding="base64">IGRlZiB0ZXN0X3ZlcnRleF9saXN0KHNlbGYsIG1vY2tfdnR4KToKICAgICAgICByZXQgPSBzYy5tYWtlX3ZlcnRleChbMCwgMCwgMV0pCiAgICAgICAgYXNzZXJ0IG1vY2tfdnR4LmNhbGxfY291bnQgPT0gMQogICAgICAgIGFzc2VydCBtb2NrX3Z0eC5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKDAsIDAsIDEpXQogICAgICAgIGFzc2VydCByZXQgPT0gMTAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0Ll9yZW1vdmVfZmlsZShmbmFtZV9hbGwpCg==</text>
+        <text encoding="base64">ICAgIHB0ID0gc2FnZS5Qb2ludDNEKDEsIDIsIDMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -562,28 +561,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMgo=</text>
+        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0Ll9yZW1vdmVfZmlsZShmbmFtZV9hbGwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNhZ2UuaW8uaW1wb3J0X2dlb21ldHJ5KGZuYW1lX2FsbCkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgZnN6ID4gMAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNhZ2UuaW8uaW1wb3J0X2dlb21ldHJ5KGZuYW1lX2FsbCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmc3ogPSBvcy5zdGF0KGZuYW1lX2FsbCkuc3Rfc2l6ZQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgZnN6ID4gMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydCh2MSwgdjIsIGZuYW1lX2FsbCkK</text>
+        <text encoding="base64">ICAgICAgICBmc3ogPSBvcy5zdGF0KGZuYW1lX2FsbCkuc3Rfc2l6ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmlvLmV4cG9ydCh2MSwgdjIsIGZuYW1lX2FsbCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbmFtZV9hbGwgPSAndnR4X2V4cF8zLnN0bCcK</text>
+        <text encoding="base64">ICAgICAgICBUZXN0RXhwb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lX2FsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2MiA9IHNhZ2UuY29yZS5tYWtlX3ZlcnRleChzYWdlLmNvcmUuUG9pbnQzRCg1LCA5LCAtOCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmbmFtZV9hbGwgPSAndnR4X2V4cF8zLnN0bCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
