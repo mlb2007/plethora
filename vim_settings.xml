@@ -20,12 +20,13 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1515613434697">
-        <mark key="'" line="666" column="4" />
-        <mark key="[" line="811" column="0" />
-        <mark key="]" line="811" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1517603179011">
+        <mark key="'" line="671" column="4" />
+        <mark key="[" line="584" column="16" />
+        <mark key="]" line="584" column="16" />
         <mark key="n" line="535" column="40" />
-        <mark key="." line="811" column="0" />
+        <mark key="." line="584" column="16" />
+        <mark key="^" line="584" column="16" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1515611656525">
         <mark key="'" line="237" column="85" />
@@ -100,10 +101,11 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1515561008034">
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1517602875086">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="37" column="82" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sketch.py" timestamp="1515535019036">
         <mark key="[" line="593" column="0" />
@@ -116,11 +118,12 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1515704609806">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1517603480936">
+        <mark key="'" line="195" column="7" />
+        <mark key="[" line="195" column="7" />
+        <mark key="]" line="195" column="7" />
+        <mark key="." line="195" column="7" />
+        <mark key="^" line="195" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" timestamp="1515618316517">
         <mark key="'" line="12" column="20" />
@@ -304,6 +307,11 @@
         <mark key="." line="32" column="43" />
         <mark key="^" line="5" column="51" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1517603615836">
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="/code.py" timestamp="1516061595320">
         <mark key="[" line="0" column="0" />
       </file>
@@ -399,7 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="698" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="699" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="700" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="701" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -499,13 +506,14 @@
       <jump line="55" column="13" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="112" column="17" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="5029" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
+      <jump line="195" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjZW50cm9pZF90b2w6IEEgdG9sZXJhbmNlIHZhbHVlIHVzZWQgdG8gY29udHJvbCBhY2N1cmFjeSBvZiBjZW50cm9pZCBjYWxjdWxhdGlvbiAoRGVmYXVsdCBpcyAxZS0yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZV9saXN0ID0gcXVlcnkuRWRnZXMoZV9saXN0X3dyYXBwZWQsIHdyYXBwZWQ9VHJ1ZSkK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -523,10 +531,10 @@
         <text>calculate_area</text>
       </register>
       <register name="0" type="4">
-        <text>TestExport.</text>
+        <text encoding="base64">QHByb3BlcnR5CiAgICBkZWYgZWRnZXMoc2VsZik6CiAgICAgICAgaWYgJ0VER0UnIGluIHNlbGYuX3Jhd19lbnRpdHlfbWFwOgogICAgICAgICAgICBlX2xpc3Rfd3JhcHBlZCA9IFtjdXJ2ZXMuQ3VydmUoZSkgZm9yIGUgaW4gc2VsZi5fcmF3X2VudGl0eV9tYXBbJ0VER0UnXV0KICAgICAgICAgICAgZV9saXN0ID0gcXVlcnkuRWRnZXMoZV9saXN0X3dyYXBwZWQsIHdyYXBwZWQ9VHJ1ZSkKICAgICAgICAgICAgcmV0dXJuIGVfbGlzdAogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHJldHVybiBxdWVyeS5FZGdlcyhbXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBjZW50cm9pZF90b2w6IEEgdG9sZXJhbmNlIHZhbHVlIHVzZWQgdG8gY29udHJvbCBhY2N1cmFjeSBvZiBjZW50cm9pZCBjYWxjdWxhdGlvbiAoRGVmYXVsdCBpcyAxZS0yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZV9saXN0ID0gcXVlcnkuRWRnZXMoZV9saXN0X3dyYXBwZWQsIHdyYXBwZWQ9VHJ1ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -556,28 +564,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjZXhwb3J0aXRlbXMuZXh0ZW5kKHNlbGYuX3NwaW5lX2N1dHNfdml6KQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjZXhwb3J0aXRlbXMuZXh0ZW5kKHNlbGYuX3NsaWNlX3BsYW5lc192aXopCg==</text>
+        <text encoding="base64">ICAgICAgICBib2R5MiA9IHNhZ2UuY29yZS5ib3goKDIwLCAyMCwgMjApLCAoMzAsIDMwLCAzMCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2xpY2VfYXJlYSA9IHNsaWNlLnN1cmZhY2VfYXJlYQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FyZWEgPSBzbGljZS5tYXNzX3Byb3BlcnRpZXMoKS53aXRoX2FjY3VyYWN5KHNlbGYuX2FyZWFfdG9sKS5zdXJmYWNlX2FyZWEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjbnRyID0gc2xpY2UuY2VudHJvaWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhZGl1cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFBvaW50M0QocGxhbmVfcG9pbnQpLnNfZW50aXR5LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5fY2VudHJvaWRfY3V0c192aXouYXBwZW5kKHNsaWNlKQo=</text>
+        <text encoding="base64">ICAgIFZlY3RvcjNEKHBsYW5lX25vcm1hbCkuc19lbnRpdHksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FyZWEgPSBzbGljZS5tYXNzX3Byb3BlcnRpZXMoKS53aXRoX2FjY3VyYWN5KHNlbGYuX2FyZWFfdG9sKS5zdXJmYWNlX2FyZWEK</text>
+        <text encoding="base64">ICAgIDpwYXJhbSBjZW50cm9pZF90b2w6IEEgdG9sZXJhbmNlIHZhbHVlIHVzZWQgdG8gY29udHJvbCBhY2N1cmFjeSBvZiBjZW50cm9pZCBjYWxjdWxhdGlvbiAoRGVmYXVsdCBpcyAxZS0yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
