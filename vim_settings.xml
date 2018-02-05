@@ -20,8 +20,8 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1517605250415">
-        <mark key="'" line="355" column="8" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1517869836271">
+        <mark key="'" line="1201" column="4" />
         <mark key="[" line="591" column="33" />
         <mark key="]" line="590" column="16" />
         <mark key="n" line="535" column="40" />
@@ -318,8 +318,8 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1513885355524">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1517869824964">
+        <mark key="'" line="278" column="8" />
         <mark key="[" line="36" column="24" />
         <mark key="]" line="36" column="24" />
         <mark key="." line="36" column="24" />
@@ -404,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="710" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="711" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="712" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="713" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="714" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -504,6 +502,8 @@
       <jump line="1711" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1717" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1691" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="278" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
+      <jump line="1201" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -525,7 +525,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>color_entity(</text>
+        <text>make_face</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRlZiB0ZXN0X3ZlcnRleF9saXN0KHNlbGYsIG1vY2tfdnR4KToKICAgICAgICByZXQgPSBzYy5tYWtlX3ZlcnRleChbMCwgMCwgMV0pCiAgICAgICAgYXNzZXJ0IG1vY2tfdnR4LmNhbGxfY291bnQgPT0gMQogICAgICAgIGFzc2VydCBtb2NrX3Z0eC5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKDAsIDAsIDEpXQogICAgICAgIGFzc2VydCByZXQgPT0gMTAwCg==</text>
@@ -589,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>color_entity(</last-search>
+      <last-search>make_face</last-search>
       <last-offset />
-      <last-pattern>color_entity(</last-pattern>
+      <last-pattern>make_face</last-pattern>
       <last-replace>igs</last-replace>
       <last-substitute>sat</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZWFyaW5nX21vdW50X2VkZ2VfdG9fYmxlbmRcPg==</entry>
         <entry encoding="base64">XDxFZGdlRXZhbHVhdGlvblw+</entry>
         <entry>volume(</entry>
         <entry>EdgeEvaluation</entry>
@@ -619,6 +618,7 @@
         <entry>make_vertex</entry>
         <entry>color(</entry>
         <entry>color_entity(</entry>
+        <entry>make_face</entry>
       </history-search>
       <history-cmd>
         <entry>10.24 s/return/==/gc</entry>
