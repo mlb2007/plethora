@@ -20,8 +20,8 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1517869836271">
-        <mark key="'" line="1201" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1517871760399">
+        <mark key="'" line="1481" column="12" />
         <mark key="[" line="591" column="33" />
         <mark key="]" line="590" column="16" />
         <mark key="n" line="535" column="40" />
@@ -404,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="712" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="713" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="714" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="715" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -504,6 +503,7 @@
       <jump line="1691" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="278" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="1201" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="1481" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -525,7 +525,7 @@
         <text>[</text>
       </register>
       <register name="/" type="4">
-        <text>make_face</text>
+        <text>model</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGRlZiB0ZXN0X3ZlcnRleF9saXN0KHNlbGYsIG1vY2tfdnR4KToKICAgICAgICByZXQgPSBzYy5tYWtlX3ZlcnRleChbMCwgMCwgMV0pCiAgICAgICAgYXNzZXJ0IG1vY2tfdnR4LmNhbGxfY291bnQgPT0gMQogICAgICAgIGFzc2VydCBtb2NrX3Z0eC5jYWxsX2FyZ3NfbGlzdCA9PSBbbW9jay5jYWxsKDAsIDAsIDEpXQogICAgICAgIGFzc2VydCByZXQgPT0gMTAwCg==</text>
@@ -589,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search>make_face</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern>make_face</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>igs</last-replace>
       <last-substitute>sat</last-substitute>
       <last-dir>1</last-dir>
@@ -599,7 +599,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFZGdlRXZhbHVhdGlvblw+</entry>
         <entry>volume(</entry>
         <entry>EdgeEvaluation</entry>
         <entry>evaluate</entry>
@@ -619,6 +618,7 @@
         <entry>color(</entry>
         <entry>color_entity(</entry>
         <entry>make_face</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>10.24 s/return/==/gc</entry>
