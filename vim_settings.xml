@@ -266,8 +266,11 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/dev-gui/mptest.py" timestamp="1518197480088">
-        <mark key="[" line="18" column="16" />
+      <file name="$USER_HOME$/workspace/dev-gui/mptest.py" timestamp="1518202543430">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="44" />
+        <mark key="." line="23" column="40" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509401690333">
         <mark key="'" line="35" column="19" />
@@ -517,8 +520,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -530,7 +533,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
