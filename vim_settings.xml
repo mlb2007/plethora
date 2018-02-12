@@ -13,9 +13,7 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518471254211">
-        <mark key="[" line="7" column="33" />
-      </file>
+      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518476925471" />
       <file name="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" timestamp="1515095017934">
         <mark key="'" line="71" column="13" />
         <mark key="[" line="58" column="0" />
@@ -523,8 +521,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sage.mesh.FINE_OPTIONS)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -536,7 +534,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>sage.mesh.FINE_OPTIONS)</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
