@@ -13,6 +13,11 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518548572915">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" timestamp="1515095017934">
         <mark key="'" line="71" column="13" />
         <mark key="[" line="58" column="0" />
@@ -274,12 +279,12 @@
         <mark key="." line="123" column="7" />
         <mark key="^" line="123" column="7" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1515603514820">
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1518549168606">
         <mark key="'" line="216" column="8" />
-        <mark key="[" line="1004" column="32" />
-        <mark key="]" line="1005" column="35" />
-        <mark key="^" line="1005" column="35" />
-        <mark key="." line="1005" column="35" />
+        <mark key="[" line="1504" column="4" />
+        <mark key="]" line="1505" column="60" />
+        <mark key="^" line="1505" column="60" />
+        <mark key="." line="1505" column="60" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/tecio.py" timestamp="1513636474426">
         <mark key="[" line="1" column="0" />
@@ -523,7 +528,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkaXZlcnRlciA9ICNkaXZlcnRlcl9sb2Z0LmNvcHkoKSAtIHRyaW1fYm94Cg==</text>
+        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbl9hbmRfbWF4X3R1cm4K</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -548,7 +553,7 @@ import sage.mesh as tess
 import sage.curve as sc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaXZlcnRlciA9ICNkaXZlcnRlcl9sb2Z0LmNvcHkoKSAtIHRyaW1fYm94Cg==</text>
+        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbl9hbmRfbWF4X3R1cm4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -581,22 +586,22 @@ import sage.curve as sc</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UubWVzaCBhcyB0ZXNzCg==</text>
+        <text encoding="base64">ZGlzayA9IHNoZWV0LmRpc2soKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">c2hlZXQgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgwLCAwLCAwKSwgKDEsIDAsIDApKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiICBOdW1iZXIgb2YgcG9pbnRzOiAiLCBsZW4obWVzaHB0cykK</text>
+        <text encoding="base64">QWNpc09wdGlvbnMocmVsYXRpdmU9RmFsc2UsIG1heF9lZGdlX2xlbmd0aD0xLCBzYWc9MWUtNiwgbm9ybWFsX2NoYW5nZT01KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2sK</text>
+        <text encoding="base64">b3B0cyA9IHNhZ2UubWVzaC5BY2lzT3B0aW9ucyhyZWxhdGl2ZT1GYWxzZSwgbWF4X2VkZ2VfbGVuZ3RoPTEsIHNhZz0xZS02LCBub3JtYWxfY2hhbmdlPTUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICNyYXdfZmFjZXMgPSBsaXN0KGV4ZWN1dG9yLm1hcChnLCB4X3ZhbHMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXZlcnRlciA9ICNkaXZlcnRlcl9sb2Z0LmNvcHkoKSAtIHRyaW1fYm94Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
