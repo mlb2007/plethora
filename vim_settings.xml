@@ -13,10 +13,10 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518557034461">
-        <mark key="[" line="3" column="85" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518566069336">
+        <mark key="[" line="3" column="97" />
+        <mark key="]" line="3" column="97" />
+        <mark key="." line="3" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" timestamp="1515095017934">
         <mark key="'" line="71" column="13" />
@@ -527,7 +527,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -539,7 +539,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
@@ -552,7 +552,7 @@ import sage.mesh as tess
 import sage.curve as sc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,31 +582,31 @@ import sage.curve as sc</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbl9hbmRfbWF4X3R1cm4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbl9hbmRfbWF4X3R1cm4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2FnZS5pby5leHBvcnQodywgJ3dpcmVfbWVzaC5zYXQnKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGlzayA9IHNoZWV0LmRpc2soKQo=</text>
+        <text encoding="base64">cHJpbnQgIk51bWJlciBvZiBub2RlczoiLCBsZW4obWVzaC5ub2RlcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2hlZXQgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgwLCAwLCAwKSwgKDEsIDAsIDApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QWNpc09wdGlvbnMocmVsYXRpdmU9RmFsc2UsIG1heF9lZGdlX2xlbmd0aD0xLCBzYWc9MWUtNiwgbm9ybWFsX2NoYW5nZT01KQo=</text>
+        <text encoding="base64">I29wdHMgPSBzYWdlLm1lc2guQWNpc09wdGlvbnMocmVsYXRpdmU9RmFsc2UsIG1heF9lZGdlX2xlbmd0aD0xLCBzYWc9MWUtNiwgbm9ybWFsX2NoYW5nZT01KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3B0cyA9IHNhZ2UubWVzaC5BY2lzT3B0aW9ucyhyZWxhdGl2ZT1GYWxzZSwgbWF4X2VkZ2VfbGVuZ3RoPTEsIHNhZz0xZS02LCBub3JtYWxfY2hhbmdlPTUpCg==</text>
+        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -657,11 +657,11 @@ import sage.curve as sc</text>
         <entry>40346</entry>
         <entry>+80688</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>182</entry>
         <entry>s/sat/igs/gc</entry>
         <entry>%s/sat/igs/gc</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
