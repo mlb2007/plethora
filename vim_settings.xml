@@ -337,8 +337,10 @@
         <mark key="." line="36" column="24" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/diverter.py" timestamp="1518471007002">
-        <mark key="[" line="7" column="46" />
+      <file name="$USER_HOME$/as2_deltaLRR/geometry_scripts/diverter.py" timestamp="1518478245130">
+        <mark key="[" line="275" column="8" />
+        <mark key="]" line="275" column="51" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -521,8 +523,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sage.mesh.FINE_OPTIONS)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkaXZlcnRlciA9ICNkaXZlcnRlcl9sb2Z0LmNvcHkoKSAtIHRyaW1fYm94Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -547,7 +549,7 @@ import sage.mesh as tess
 import sage.curve as sc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXZlcnRlciA9ICNkaXZlcnRlcl9sb2Z0LmNvcHkoKSAtIHRyaW1fYm94Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -577,25 +579,25 @@ import sage.curve as sc</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHNhZ2UubWVzaCBhcyB0ZXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
+        <text encoding="base64">aW1wb3J0IHNhZ2UubWVzaCBhcyB0ZXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHB5dGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiICBOdW1iZXIgb2YgcG9pbnRzOiAiLCBsZW4obWVzaHB0cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2sK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiICBOdW1iZXIgb2YgcG9pbnRzOiAiLCBsZW4obWVzaHB0cykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICNyYXdfZmFjZXMgPSBsaXN0KGV4ZWN1dG9yLm1hcChnLCB4X3ZhbHMpKQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vY2sK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICNyYXdfZmFjZXMgPSBsaXN0KGV4ZWN1dG9yLm1hcChnLCB4X3ZhbHMpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
