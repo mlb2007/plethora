@@ -238,12 +238,12 @@
         <mark key="]" line="178" column="36" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1518223711189">
-        <mark key="'" line="180" column="55" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="22" />
-        <mark key="." line="96" column="25" />
-        <mark key="^" line="96" column="25" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" timestamp="1518568435563">
+        <mark key="'" line="244" column="0" />
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1517605822877">
         <mark key="'" line="1691" column="0" />
@@ -421,7 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="723" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="725" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="730" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="736" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -521,13 +520,14 @@
       <jump line="1016" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1169" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1208" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
+      <jump line="243" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -582,31 +582,31 @@ import sage.curve as sc</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWMud3JpdGVfdG9fZmlsZSgnd2lyZV9tZXNoLmRhdCcpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZWMuYWRkKG1lc2gpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2FnZS5pby5leHBvcnQodywgJ3dpcmVfbWVzaC5zYXQnKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZWMgPSBzYWdlLmlvLlRlY3Bsb3REYXRhKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQgIk51bWJlciBvZiBub2RlczoiLCBsZW4obWVzaC5ub2RlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Nsb3NlZF9jdXJ2ZShzZWxmKToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I29wdHMgPSBzYWdlLm1lc2guQWNpc09wdGlvbnMocmVsYXRpdmU9RmFsc2UsIG1heF9lZGdlX2xlbmd0aD0xLCBzYWc9MWUtNiwgbm9ybWFsX2NoYW5nZT01KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVkZ2VfbWVzaGluZ19hbGdvID0gcHlzYWdlLkVkZ2VTYW1wbGluZ09wdGlvbi5tYXhfYXJjX2xlbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -660,8 +660,8 @@ import sage.curve as sc</text>
         <entry>182</entry>
         <entry>s/sat/igs/gc</entry>
         <entry>%s/sat/igs/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
