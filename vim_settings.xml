@@ -220,11 +220,10 @@
       <file name="/Python Console" timestamp="1518631356308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/vtk.py" timestamp="1518730740822">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="53" />
-        <mark key="." line="20" column="53" />
-        <mark key="^" line="20" column="12" />
+      <file name="$USER_HOME$/workspace/tmp/vtk.py" timestamp="1518731820404">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -535,8 +534,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -548,7 +547,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
@@ -557,7 +556,7 @@
         <text encoding="base64">dnRrLnRvZmlsZSgnZXhhbXBsZTInLCAnYXNjaWknKQp2dGsudG9maWxlKCdleGFtcGxlMWInLCAnYmluYXJ5JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZ0ayA9IFZ0a0RhdGEoc3RydWN0dXJlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -587,28 +586,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3Z0ay50b2ZpbGUoJ2V4YW1wbGUyJywgJ2FzY2lpJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHB5dnRrIGltcG9ydCBTY2FsYXJzLCBWZWN0b3JzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnZ0ay50b2ZpbGUoZmlsZW5hbWUsICdhc2NpaScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTGVnYWN5VnRrRmlsZShwYXRobmFtZSArICIudnRrIiwgc2VsZi5zdHJ1Y3R1cmUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAicGFyYWxsZWwgdmlzdWFsaXphdGlvbiIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnZ0ayA9IFZ0a0RhdGEoc3RydWN0dXJlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiTGVnYWN5IFZUSyBkb2VzIG5vdCBzdXBvcnQgIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbGVuKHBjb250ZXh0LnJhbmtzKSA+IDE6Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHB5dnRrIGltcG9ydCBTY2FsYXJzLCBWZWN0b3JzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
