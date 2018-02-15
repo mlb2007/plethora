@@ -16,10 +16,10 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518568245898">
-        <mark key="[" line="3" column="97" />
-        <mark key="]" line="3" column="97" />
-        <mark key="." line="3" column="97" />
+      <file name="$USER_HOME$/workspace/tmp/wire_tess.py" timestamp="1518725552322">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/trypyglet.py" timestamp="1515095017934">
         <mark key="'" line="71" column="13" />
@@ -219,6 +219,11 @@
       </file>
       <file name="/Python Console" timestamp="1518631356308">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/tmp/vtk.py" timestamp="1518725592157">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -548,11 +553,7 @@
         <text>make_wire</text>
       </register>
       <register name="0" type="4">
-        <text>import unittest
-import mock
-import pytest
-import sage.mesh as tess
-import sage.curve as sc</text>
+        <text encoding="base64">dyA9IHNhZ2UuY3VydmUucG9seV9saW5lLmZyb21fcG9pbnRzKFsoMCwgMCwgMCksICgxMCwgMCwgMCksICgxMCwgMTAsIDApLCAoMCwgMTAsIDApXSwgY2xvc2U9VHJ1ZSkKb3B0cyA9IHNhZ2UubWVzaC5DT0FSU0VfT1BUSU9OUwptZXNoID0gc2FnZS50ZXNzZWxsYXRlKHcsIG9wdHMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -585,28 +586,28 @@ import sage.curve as sc</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWMud3JpdGVfdG9fZmlsZSgnd2lyZV9tZXNoLmRhdCcpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWMuYWRkKG1lc2gpCg==</text>
+        <text encoding="base64">I3Z0ay50b2ZpbGUoJ0RlbGF1bmF5MkRiJywgJ2JpbmFyeScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZWMgPSBzYWdlLmlvLlRlY3Bsb3REYXRhKCkK</text>
+        <text encoding="base64">I3Z0ay50b2ZpbGUoJ0RlbGF1bmF5MkQnKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2Nsb3NlZF9jdXJ2ZShzZWxmKToK</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgJzJEIERlbGF1bmF5IEV4YW1wbGUnKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgc2FnZQo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgTm9uZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgTm9uZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3Z0ayA9IFZ0a0RhdGEoVW5zdHJ1Y3R1cmVkR3JpZChwb2ludHMsIHRldHJhPXRyaS5zaW1wbGljZXMpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
