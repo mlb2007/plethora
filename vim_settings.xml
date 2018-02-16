@@ -326,10 +326,10 @@
         <mark key="." line="32" column="43" />
         <mark key="^" line="5" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/tmp/viz.py" timestamp="1518806698110">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="5" column="5" />
+      <file name="$USER_HOME$/workspace/tmp/viz.py" timestamp="1518809162935">
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="5" />
+        <mark key="." line="49" column="5" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1517603615836">
         <mark key="[" line="45" column="19" />
@@ -541,7 +541,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -553,7 +553,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
