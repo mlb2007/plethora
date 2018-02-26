@@ -109,10 +109,10 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/mptest.py" timestamp="1519431013449">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="64" />
-        <mark key="." line="19" column="64" />
+      <file name="$USER_HOME$/Desktop/mptest.py" timestamp="1519672784713">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="9" column="50" />
+        <mark key="." line="9" column="50" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1517602875086">
         <mark key="[" line="39" column="0" />
@@ -549,7 +549,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -561,7 +561,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
