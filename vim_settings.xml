@@ -109,11 +109,11 @@
         <mark key="." line="158" column="15" />
         <mark key="^" line="158" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/mptest.py" timestamp="1519690646795">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="31" column="3" />
-        <mark key="." line="31" column="3" />
-        <mark key="^" line="31" column="3" />
+      <file name="$USER_HOME$/Desktop/mptest.py" timestamp="1519693060391">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomio.py" timestamp="1517602875086">
         <mark key="[" line="39" column="0" />
@@ -549,8 +549,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGM1ID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMTAwMCwgMCwgMCksIDUsIHNhZ2UuVU5JVF9WRUNfWCkK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -562,7 +562,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>make_wire</text>
