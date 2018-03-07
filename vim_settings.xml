@@ -229,7 +229,7 @@
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1519763493646">
+      <file name="/Python Console" timestamp="1520456047222">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/vtk.py" timestamp="1518735637395">
@@ -354,7 +354,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520286410628">
+      <file name="/Dummy.txt" timestamp="1520455986540">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516061595320">
@@ -364,6 +364,11 @@
         <mark key="[" line="21" column="70" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/pyML/ML/pyML/thinkstats_ex1.py" timestamp="1520456919120">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1517869824964">
         <mark key="'" line="278" column="8" />
@@ -558,8 +563,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0ID0gdGltZS50aW1lKCkKICAgIHBpY2tsZS5kdW1wcyhlbnRpdHkuc19lbnRpdHksIHBpY2tsZS5ISUdIRVNUX1BST1RPQ09MKQogICAgZWQgPSB0aW1lLnRpbWUoKQogICAgcGlja2xlX3RpbWUgPSBlZCAtIHN0CiAgICA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJyZWM6IiwgcmVjLCByZWMubmJybmFsaXYK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,7 +585,7 @@
         <text encoding="base64">IHN0ID0gdGltZS50aW1lKCkKICAgIHBpY2tsZS5kdW1wcyhlbnRpdHkuc19lbnRpdHksIHBpY2tsZS5ISUdIRVNUX1BST1RPQ09MKQogICAgZWQgPSB0aW1lLnRpbWUoKQogICAgcGlja2xlX3RpbWUgPSBlZCAtIHN0CiAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgIHByaW50ICJyZWM6IiwgcmVjLCByZWMubmJybmFsaXYK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -610,28 +615,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHBpY2tsZV9hbmRfaW9fdGltZXMoZW50aXR5KToK</text>
+        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBpY2tsZV9hbmRfaW9fdGltZXMoaW50ZmFjZSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ZGVmIHBpY2tsZV9hbmRfaW9fdGltZXMoZW50aXR5KToK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBpY2tsZV9hbmRfaW9fdGltZXMoaW50ZmFjZSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIHBpY2tsZV9hbmRfaW9fdGltZXMoZW50aXR5KToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICB4X3ZhbHMgPSBucC5saW5zcGFjZSg2MSwgMTUwMCwgMTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJQaWNrbGluZyB0aW1lIHRha2VuID0iLCBlbmQgLSBzdGFydAo=</text>
+        <text encoding="base64">CiAgICB4X3ZhbHMgPSBucC5saW5zcGFjZSg2MSwgMTUwMCwgMTAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZCA9IHRpbWUudGltZSgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJQaWNrbGluZyB0aW1lIHRha2VuID0iLCBlbmQgLSBzdGFydAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
