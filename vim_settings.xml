@@ -224,10 +224,11 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1513894696681">
-        <mark key="[" line="381" column="0" />
-        <mark key="]" line="381" column="0" />
-        <mark key="." line="381" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521057737120">
+        <mark key="'" line="107" column="37" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" timestamp="1515613689640">
         <mark key="[" line="390" column="0" />
@@ -274,12 +275,12 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1517605822877">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" timestamp="1521057544766">
         <mark key="'" line="1691" column="0" />
-        <mark key="[" line="1889" column="29" />
-        <mark key="]" line="1889" column="29" />
-        <mark key="." line="1889" column="29" />
-        <mark key="^" line="1888" column="3" />
+        <mark key="[" line="1849" column="3" />
+        <mark key="]" line="1860" column="0" />
+        <mark key="." line="1849" column="3" />
+        <mark key="^" line="1849" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/curve_try.py" timestamp="1519247241046">
         <mark key="[" line="6" column="3" />
@@ -462,7 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="725" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="730" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="736" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="737" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -562,13 +562,14 @@
       <jump line="1169" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1208" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="243" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
+      <jump line="107" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -586,10 +587,10 @@
         <text>make_wire</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5zX2VudGl0eS53cml0ZSgpCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgc2VsZi5zX2VudGl0eS5yZWFkKHN0YXRlKQo=</text>
+        <text encoding="base64">QG1vY2sucGF0Y2goJ3B5c2FnZS5JbXBvcnRPcGVyYXRpb25zLlJlYWRTQVQnKQogICAgZGVmIHRlc3RfaW1wb3J0X3NhdChzZWxmLCBtb2NrX3NhdCwgbW9ja19tYXApOgogICAgICAgIG1vY2tfc2F0LnJldHVybl92YWx1ZSA9IDEgICMgZmFrZSB0aGUgc2l6ZSBvZiBmaWxlCiAgICAgICAgZm5hbWUgPSAnZm9vLnNhdCcKICAgICAgICB3aXRoIG9wZW4oZm5hbWUsICdhJykgYXMgZmg6CiAgICAgICAgICAgIGZoLndyaXRlKCJzb21lIHJhbmRvbSBzdHVmZiIpCiAgICAgICAgaW1wb3J0ZXIgPSBzYy5fSW1wb3J0R2VvbWV0cnkoZm5hbWUpCiAgICAgICAgaW1wb3J0ZXIuaW1wb3J0X2VudGl0aWVzKCkKICAgICAgICBhc3NlcnQgbW9ja19zYXQuY2FsbF9jb3VudCA9PSAxCiAgICAgICAgYXNzZXJ0IG1vY2tfc2F0LmNhbGxfYXJnc19saXN0ID09IFttb2NrLmNhbGwoZm5hbWUsIG1vY2tfbWFwLnJldHVybl92YWx1ZSldCiAgICAgICAgb3MucmVtb3ZlKGZuYW1lKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -619,25 +620,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNfZW50aXR5LnJlYWQoc3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX3NldHN0YXRlX18oc2VsZiwgc3RhdGUpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5zX2VudGl0eS53cml0ZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2dldHN0YXRlX18oc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlID0gSW5zdGFudGlhYmxlRW50aXR5KCdmb28nKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihFbnRpdHksIHNlbGYpLl9fc2V0c3RhdGVfXyhzdGF0ZSkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLnNfZW50aXR5LnJlYWQoc3RhdGUpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGRlZiBfX3NldHN0YXRlX18oc2VsZiwgc3RhdGUpOgo=</text>
