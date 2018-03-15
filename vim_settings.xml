@@ -223,10 +223,10 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521076336819">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521077085625">
+        <mark key="[" line="138" column="8" />
+        <mark key="]" line="138" column="8" />
+        <mark key="." line="138" column="8" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" timestamp="1515613689640">
         <mark key="[" line="390" column="0" />
@@ -567,8 +567,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,7 +580,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
