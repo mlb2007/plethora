@@ -226,10 +226,11 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521070883965">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521073039505">
         <mark key="[" line="138" column="8" />
-        <mark key="]" line="144" column="0" />
-        <mark key="." line="144" column="0" />
+        <mark key="]" line="138" column="7" />
+        <mark key="." line="138" column="7" />
+        <mark key="^" line="138" column="7" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" timestamp="1515613689640">
         <mark key="[" line="390" column="0" />
