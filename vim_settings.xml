@@ -223,18 +223,18 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521217893876">
-        <mark key="[" line="140" column="16" />
-        <mark key="]" line="143" column="8" />
-        <mark key="." line="140" column="7" />
-        <mark key="^" line="132" column="7" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521254986618">
+        <mark key="[" line="136" column="4" />
+        <mark key="]" line="136" column="4" />
+        <mark key="." line="136" column="4" />
+        <mark key="^" line="136" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" timestamp="1515613689640">
         <mark key="[" line="390" column="0" />
         <mark key="]" line="390" column="0" />
         <mark key="." line="390" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1521217512916">
+      <file name="/Python Console" timestamp="1521254451119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/vtk.py" timestamp="1518735637395">
@@ -569,7 +569,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHBpY2tsZWRfZmFjZSA9IHBpY2tsZS5kdW1wcyhmYWNlLnNfZW50aXR5KQogICAgICAgIHVucGlja2xlZF9mYWNlX3JhdyA9IHBpY2tsZS5sb2FkcyhwaWNrbGVkX2ZhY2UpCiAgICAgICAgdWZhY2UgPSBzYWdlLmJvZGllcy5Cb2R5KHVucGlja2xlZF9mYWNlX3JhdykKICAgICAgICA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -581,7 +581,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>import</text>
