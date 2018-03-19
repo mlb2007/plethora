@@ -292,11 +292,10 @@
         <mark key="^" line="127" column="53" />
         <mark key="." line="127" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/dev-gui/mptest.py" timestamp="1521481556235">
-        <mark key="[" line="110" column="19" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="109" column="0" />
+      <file name="$USER_HOME$/workspace/dev-gui/mptest.py" timestamp="1521482458157">
+        <mark key="[" line="128" column="4" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/as2_deltaLRR/as2_configuration/sageOptions.json" timestamp="1509401690333">
         <mark key="'" line="35" column="19" />
@@ -562,8 +561,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIGNvbmN1cnJlbnRfcHJvY2Vzc2luZyh3b3JrZXJzPTEpOgogICAgZXhlY3V0b3IgPSBjb25jdXJyZW50LmZ1dHVyZXMuUHJvY2Vzc1Bvb2xFeGVjdXRvcihtYXh3b3JrZXJzPXdvcmtlcnMpCgogICAgd2luZ19ib2R5ID0gZ2V0X3JlZl9zb2xpZCgpCgogICAgcGlja2xlX2FuZF9pb190aW1lcyh3aW5nX2JvZHkpCgoKICAgIHhfdmFscyA9IG5wLmxpbnNwYWNlKDYxLCAxNTAwLCAxNikKCiAgICBjb3BpZXMgPSBbd2luZ19ib2R5LnNfZW50aXR5LmNsb25lKCkgZm9yIHggaW4geF92YWxzXQogICAgZmlsZW5hbWVzID0gWyd0bXBfJTAzZCclaSBmb3IgaSBpbiByYW5nZShsZW4oeF92YWxzKSldCgogICAgc3RhcnQgPSB0aW1lLnRpbWUoKQogICAgI2ludGVyZmFjZV9lbnRzID0gbGlzdChleGVjdXRvci5tYXAoZywgeF92YWxzLCBmaWxlbmFtZXMpKQogICAgaW50ZXJmYWNlX2VudHMgPSBsaXN0KGV4ZWN1dG9yLm1hcChnLCB4X3ZhbHMpKQogICAgZW5kID0gdGltZS50aW1lKCkKICAgIHByaW50ICJUaW1lIHRha2VuID0iLCBlbmQgLSBzdGFydAoKICAgICNpbnRmYWNlcyA9IFtzYWdlLmJvZGllcy5Cb2R5KHgpIGZvciB4IGluIGludGVyZmFjZV9lbnRzXQogICAgI2FyZWFzID0gW3guc3VyZmFjZV9hcmVhIGZvciB4IGluIGludGZhY2VzXQoKICAgICNwbHQuZmlndXJlKCkKICAgICNwbHQucGxvdChhcmVhcywgJy4tJykKICAgICNwbHQuc2hvdygpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -575,7 +574,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>make_vertex</text>
@@ -614,28 +613,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNhZ2UubG9nLnNob3dfd2FybmluZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiPT09PjoiLCB2dHguY29vcmRzKCkuZ2V0Q29vcmQoMCkK</text>
+        <text encoding="base64">ICAgIHhfdmFscyA9IG5wLmxpbnNwYWNlKDYxLCAxNTAwLCAxNjApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgdnR4LmNvb3JkcygpLmdldENvb3JkKDApID09IHV2dHguY29vcmRzLmdldENvb3JkKDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHhfdmFscyA9IG5wLmxpbnNwYWNlKDYxLCAxNTAwLCAxNikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9zX2VudGl0eS5yZWFkKHN0YXRlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
