@@ -175,8 +175,8 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1515608917792">
-        <mark key="'" line="256" column="15" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1521577084363">
+        <mark key="'" line="385" column="17" />
         <mark key="[" line="410" column="0" />
         <mark key="]" line="410" column="0" />
         <mark key="." line="410" column="0" />
@@ -456,8 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="760" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="761" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="762" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="769" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -556,6 +554,8 @@
       <jump line="1901" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1907" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1913" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="385" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -577,7 +577,7 @@
         <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>make_vertex</text>
+        <text>expect_single(</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfcGlja2xlX3Jhd19lZGdlKHNlbGYpOgogICAgICAgIGVkZ2UgPSBzZWxmLl9tYWtlX2FuX2VkZ2UoKQogICAgICAgIHBpY2tsZWRfZWRnZSA9IHBpY2tsZS5kdW1wcyhlZGdlLnNfZW50aXR5KQogICAgICAgIHVucGlja2xlZF9lZGdlX3JhdyA9IHBpY2tsZS5sb2FkcyhwaWNrbGVkX2VkZ2UpCiAgICAgICAgdXBpY2tlZGdlID0gc2FnZS5jdXJ2ZXMuQ3VydmUodW5waWNrbGVkX2VkZ2VfcmF3KQogICAgICAgIGFzc2VydCBlZGdlLmxlbmd0aCA9PSB1cGlja2VkZ2UubGVuZ3RoCiAgICAgICAgYXNzZXJ0IGVkZ2Uuc3RhcnQgPT0gdXBpY2tlZGdlLnN0YXJ0CiAgICAgICAgYXNzZXJ0IGVkZ2UuZW5kID09IHVwaWNrZWRnZS5lbmQK</text>
@@ -641,9 +641,9 @@
       </register>
     </registers>
     <search>
-      <last-search>make_vertex</last-search>
+      <last-search>expect_single(</last-search>
       <last-offset />
-      <last-pattern>make_vertex</last-pattern>
+      <last-pattern>expect_single(</last-pattern>
       <last-replace>igs</last-replace>
       <last-substitute>sat</last-substitute>
       <last-dir>1</last-dir>
@@ -651,7 +651,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVtb3ZlX2ZpbGVcPg==</entry>
         <entry>approx_eval</entry>
         <entry encoding="base64">XDxfc2FtcGxlZF9jZW50cm9pZHNcPg==</entry>
         <entry encoding="base64">XDxfYXJlYV90b2xcPg==</entry>
@@ -671,6 +670,7 @@
         <entry encoding="base64">XDxjdXJ2ZTFcPg==</entry>
         <entry>getCoord</entry>
         <entry>make_vertex</entry>
+        <entry>expect_single(</entry>
       </history-search>
       <history-cmd>
         <entry>10.24 s/return/==/gc</entry>
