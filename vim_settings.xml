@@ -304,6 +304,11 @@
         <mark key="." line="123" column="7" />
         <mark key="^" line="123" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" timestamp="1521669527984">
+        <mark key="[" line="520" column="24" />
+        <mark key="]" line="520" column="24" />
+        <mark key="." line="520" column="24" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1521401251207">
         <mark key="'" line="596" column="39" />
         <mark key="[" line="1058" column="44" />
@@ -561,8 +566,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd2lyZS5zdGFydCA9PSB1cGlja3dpcmUuc3RhcnQK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -574,7 +579,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>tag(</text>
