@@ -6,6 +6,9 @@
       <file name="/start_script.py" timestamp="1521669060181">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1515564638164">
         <mark key="[" line="0" column="0" />
       </file>
@@ -236,6 +239,12 @@
       </file>
       <file name="/Python Console" timestamp="1521669467628">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
+        <mark key="[" line="86" column="30" />
+        <mark key="]" line="178" column="0" />
+        <mark key="." line="178" column="0" />
+        <mark key="^" line="178" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1521264862563">
         <mark key="[" line="0" column="0" />
@@ -568,7 +577,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>-</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -580,7 +589,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>TODO</text>
@@ -589,7 +598,7 @@
         <text encoding="base64">ZGVmIHRlc3RfcGlja2xlX3Jhd19lZGdlKHNlbGYpOgogICAgICAgIGVkZ2UgPSBzZWxmLl9tYWtlX2FuX2VkZ2UoKQogICAgICAgIHBpY2tsZWRfZWRnZSA9IHBpY2tsZS5kdW1wcyhlZGdlLnNfZW50aXR5KQogICAgICAgIHVucGlja2xlZF9lZGdlX3JhdyA9IHBpY2tsZS5sb2FkcyhwaWNrbGVkX2VkZ2UpCiAgICAgICAgdXBpY2tlZGdlID0gc2FnZS5jdXJ2ZXMuQ3VydmUodW5waWNrbGVkX2VkZ2VfcmF3KQogICAgICAgIGFzc2VydCBlZGdlLmxlbmd0aCA9PSB1cGlja2VkZ2UubGVuZ3RoCiAgICAgICAgYXNzZXJ0IGVkZ2Uuc3RhcnQgPT0gdXBpY2tlZGdlLnN0YXJ0CiAgICAgICAgYXNzZXJ0IGVkZ2UuZW5kID09IHVwaWNrZWRnZS5lbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd2lyZS5zdGFydCA9PSB1cGlja3dpcmUuc3RhcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -619,31 +628,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd2lyZS5lbmQgPT0gdXBpY2t3aXJlLmVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgd2lyZS5zdGFydCA9PSB1cGlja3dpcmUuc3RhcnQK</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmYWNlcyA9IFtzYWdlLmJvZGllcy5GYWNlLmZyb21fcXVlcnkoZmMpIGZvciBmYyBpbiBib2R5LmZhY2VzXQo=</text>
+        <text encoding="base64">aW1wb3J0IG9zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gc2FnZS5ib2RpZXMuQm9keShib2R5MSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aXJlYm9keTEgPSBzYWdlLmNvcmUuYm94KCgwLCAwLCAwKSwgKDEwLCAxMCwgMTApKQo=</text>
+        <text encoding="base64">ZGF0YV9kaXIgPSBvcy5wYXRoLmpvaW4oc3lzLnByZWZpeCwgImxpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy9zYWdlIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lMSA9IHNhZ2UuY3VydmUubGluZS5mcm9tX2VuZF9wb2ludHMoKDAsIDAsIDApLCAoMSwgMSwgMSkpCg==</text>
+        <text encoding="base64">ICAgICMgZGF0YV9maWxlcz1bKCdzYWdlJyxbZ2xvYihlKSBmb3IgZSBpbiBbIiouZHlsaWIiLCAiKi5zbyJdXSksXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgZGF0YV9maWxlcz1bKCdzYWdlJyxbb3MucGF0aC5qb2luKGRhdGFfZGlyLCAicHlzYWdlLnNvIildKV0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgcGFja2FnZV9kYXRhPXtiJ3NhZ2UnOiBbInB5c2FnZS5zbyJdfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -697,8 +706,8 @@
         <entry>182</entry>
         <entry>s/sat/igs/gc</entry>
         <entry>%s/sat/igs/gc</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
