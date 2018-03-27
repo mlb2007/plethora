@@ -237,7 +237,7 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1521669467628">
+      <file name="/Python Console" timestamp="1522193222468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
@@ -372,6 +372,12 @@
       </file>
       <file name="/code.py" timestamp="1516061595320">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" timestamp="1522193456856">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="10" />
+        <mark key="^" line="10" column="10" />
+        <mark key="." line="10" column="10" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_stlio.py" timestamp="1513707146268">
         <mark key="[" line="21" column="70" />
@@ -652,7 +658,7 @@
         <text encoding="base64">ICAgICMgcGFja2FnZV9kYXRhPXtiJ3NhZ2UnOiBbInB5c2FnZS5zbyJdfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>273</text>
       </register>
     </registers>
     <search>
@@ -688,7 +694,6 @@
         <entry>TODO</entry>
       </history-search>
       <history-cmd>
-        <entry>10.24 s/return/==/gc</entry>
         <entry>10.24 s/return/=/gc</entry>
         <entry>10,24 s/return/=/gc</entry>
         <entry>e</entry>
@@ -706,8 +711,9 @@
         <entry>182</entry>
         <entry>s/sat/igs/gc</entry>
         <entry>%s/sat/igs/gc</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>273</entry>
       </history-cmd>
       <history-expr />
       <history-input />
