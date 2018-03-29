@@ -376,11 +376,11 @@
       <file name="/code.py" timestamp="1516061595320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" timestamp="1522287441342">
+      <file name="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" timestamp="1522288106956">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_stlio.py" timestamp="1513707146268">
         <mark key="[" line="21" column="70" />
@@ -586,7 +586,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gZmxvYXQoZikK</text>
+        <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KHNwYXJzLCAic3BhcnMuc2F0IikK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -607,7 +607,7 @@
         <text encoding="base64">ZGVmIHRlc3RfcGlja2xlX3Jhd19lZGdlKHNlbGYpOgogICAgICAgIGVkZ2UgPSBzZWxmLl9tYWtlX2FuX2VkZ2UoKQogICAgICAgIHBpY2tsZWRfZWRnZSA9IHBpY2tsZS5kdW1wcyhlZGdlLnNfZW50aXR5KQogICAgICAgIHVucGlja2xlZF9lZGdlX3JhdyA9IHBpY2tsZS5sb2FkcyhwaWNrbGVkX2VkZ2UpCiAgICAgICAgdXBpY2tlZGdlID0gc2FnZS5jdXJ2ZXMuQ3VydmUodW5waWNrbGVkX2VkZ2VfcmF3KQogICAgICAgIGFzc2VydCBlZGdlLmxlbmd0aCA9PSB1cGlja2VkZ2UubGVuZ3RoCiAgICAgICAgYXNzZXJ0IGVkZ2Uuc3RhcnQgPT0gdXBpY2tlZGdlLnN0YXJ0CiAgICAgICAgYXNzZXJ0IGVkZ2UuZW5kID09IHVwaWNrZWRnZS5lbmQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gZmxvYXQoZikK</text>
+        <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KHNwYXJzLCAic3BhcnMuc2F0IikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -637,28 +637,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gZmxvYXQoZikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwdHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiXG5sb3dlcjoiLCBwdHMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBwdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">ICAgICAgICBwdHMuYXBwZW5kKHB0c1swXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdHMuYXBwZW5kKHB0c1swXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGF0YV9kaXIgPSBvcy5wYXRoLmpvaW4oc3lzLnByZWZpeCwgImxpYi9weXRob24yLjcvc2l0ZS1wYWNrYWdlcy9zYWdlIikK</text>
+        <text encoding="base64">ICAgICAgICBwdHNbLTFdID0gcHRzWzBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZGF0YV9maWxlcz1bKCdzYWdlJyxbZ2xvYihlKSBmb3IgZSBpbiBbIiouZHlsaWIiLCAiKi5zbyJdXSksXSwK</text>
+        <text encoding="base64">ICAgICAgICBmID0gZmxvYXQoZikK</text>
       </register>
       <register name=":" type="4">
         <text>273</text>
