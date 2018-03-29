@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1521669060181">
+      <file name="/start_script.py" timestamp="1522286508532">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
@@ -367,14 +367,15 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521669495570">
+      <file name="/Dummy.txt" timestamp="1522286613233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516061595320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" timestamp="1522193456856">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" timestamp="1522286646492">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="10" column="10" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="10" />
@@ -477,7 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="770" column="67" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="772" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="773" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="774" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -577,6 +577,7 @@
       <jump line="46" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="502" column="41" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -598,7 +599,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text encoding="base64">XDxpbXBvcnRcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIHRlc3RfcGlja2xlX3Jhd19lZGdlKHNlbGYpOgogICAgICAgIGVkZ2UgPSBzZWxmLl9tYWtlX2FuX2VkZ2UoKQogICAgICAgIHBpY2tsZWRfZWRnZSA9IHBpY2tsZS5kdW1wcyhlZGdlLnNfZW50aXR5KQogICAgICAgIHVucGlja2xlZF9lZGdlX3JhdyA9IHBpY2tsZS5sb2FkcyhwaWNrbGVkX2VkZ2UpCiAgICAgICAgdXBpY2tlZGdlID0gc2FnZS5jdXJ2ZXMuQ3VydmUodW5waWNrbGVkX2VkZ2VfcmF3KQogICAgICAgIGFzc2VydCBlZGdlLmxlbmd0aCA9PSB1cGlja2VkZ2UubGVuZ3RoCiAgICAgICAgYXNzZXJ0IGVkZ2Uuc3RhcnQgPT0gdXBpY2tlZGdlLnN0YXJ0CiAgICAgICAgYXNzZXJ0IGVkZ2UuZW5kID09IHVwaWNrZWRnZS5lbmQK</text>
@@ -662,17 +663,16 @@
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search encoding="base64">XDxpbXBvcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern encoding="base64">XDxpbXBvcnRcPg==</last-pattern>
       <last-replace>igs</last-replace>
       <last-substitute>sat</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYXJlYV90b2xcPg==</entry>
         <entry encoding="base64">XDxjYWNoZWRfYXJlYXNcPg==</entry>
         <entry>calculate_area</entry>
         <entry>color</entry>
@@ -692,6 +692,7 @@
         <entry>expect_single(</entry>
         <entry>tag(</entry>
         <entry>TODO</entry>
+        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>10.24 s/return/=/gc</entry>
