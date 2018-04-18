@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1524087931878">
+      <file name="/start_script.py" timestamp="1524088414736">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
@@ -166,6 +166,9 @@
         <mark key="]" line="79" column="40" />
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524088380717">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
