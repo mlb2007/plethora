@@ -355,11 +355,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1521400623966">
-        <mark key="'" line="235" column="4" />
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="441" column="0" />
-        <mark key="." line="441" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1524159689811">
+        <mark key="'" line="303" column="0" />
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="339" column="0" />
+        <mark key="." line="339" column="0" />
+        <mark key="^" line="339" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512603873509">
         <mark key="'" line="29" column="0" />
@@ -488,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="772" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="773" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="774" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="775" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -588,6 +588,7 @@
       <jump line="502" column="41" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" />
+      <jump line="305" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -669,7 +670,7 @@
         <text encoding="base64">ICAgICAgICBmID0gZmxvYXQoZikK</text>
       </register>
       <register name=":" type="4">
-        <text>273</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -723,8 +724,8 @@
         <entry>s/sat/igs/gc</entry>
         <entry>%s/sat/igs/gc</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>273</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
