@@ -64,7 +64,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" timestamp="1524256014613" />
+      <file name="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" timestamp="1524256686297">
+        <mark key="'" line="4" column="10" />
+        <mark key="[" line="699" column="8" />
+        <mark key="]" line="734" column="82" />
+        <mark key="^" line="4" column="10" />
+        <mark key="." line="566" column="8" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
         <mark key="'" line="72" column="23" />
         <mark key="[" line="16" column="24" />
@@ -143,7 +149,7 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/curve.py" timestamp="1524256019013" />
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/curve.py" timestamp="1524256710425" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1521061923900">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="8" column="8" />
@@ -246,7 +252,7 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1524256023392">
+      <file name="/Python Console" timestamp="1524256711846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
@@ -487,8 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="796" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="395" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="224" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="242" column="74" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -587,13 +591,15 @@
       <jump line="459" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="719" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="215" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="601" column="8" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
+      <jump line="4" column="10" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBudGVzdF9lcXVhbGl0eShzZWxmKToKICAgICAgICBwMSA9IHNhZ2UuY3VydmUucG9seV9saW5lLmZyb21fZGVsdGFzKCgwLCAtMSwgLTEpLCBbKDAsIDIsIDApLCAoMCwgMCwgMildKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -605,13 +611,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>evaluate</text>
+        <text>test_</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ZGVmIHRlc3RfcGlja2xlX3Jhd19lZGdlKHNlbGYpOgogICAgICAgIGVkZ2UgPSBzZWxmLl9tYWtlX2FuX2VkZ2UoKQogICAgICAgIHBpY2tsZWRfZWRnZSA9IHBpY2tsZS5kdW1wcyhlZGdlLnNfZW50aXR5KQogICAgICAgIHVucGlja2xlZF9lZGdlX3JhdyA9IHBpY2tsZS5sb2FkcyhwaWNrbGVkX2VkZ2UpCiAgICAgICAgdXBpY2tlZGdlID0gc2FnZS5jdXJ2ZXMuQ3VydmUodW5waWNrbGVkX2VkZ2VfcmF3KQogICAgICAgIGFzc2VydCBlZGdlLmxlbmd0aCA9PSB1cGlja2VkZ2UubGVuZ3RoCiAgICAgICAgYXNzZXJ0IGVkZ2Uuc3RhcnQgPT0gdXBpY2tlZGdlLnN0YXJ0CiAgICAgICAgYXNzZXJ0IGVkZ2UuZW5kID09IHVwaWNrZWRnZS5lbmQK</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBudGVzdF9lcXVhbGl0eShzZWxmKToKICAgICAgICBwMSA9IHNhZ2UuY3VydmUucG9seV9saW5lLmZyb21fZGVsdGFzKCgwLCAtMSwgLTEpLCBbKDAsIDIsIDApLCAoMCwgMCwgMildKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHNhZ2UuaW8uZXhwb3J0KHNwYXJzLCAic3BhcnMuc2F0IikK</text>
@@ -668,21 +674,20 @@
         <text encoding="base64">ICAgICAgICBmID0gZmxvYXQoZikK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/test_/ntest_/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>evaluate</last-search>
+      <last-search>test_</last-search>
       <last-offset />
-      <last-pattern>evaluate</last-pattern>
-      <last-replace>igs</last-replace>
-      <last-substitute>sat</last-substitute>
+      <last-pattern>test_</last-pattern>
+      <last-replace>ntest_</last-replace>
+      <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>calculate_area</entry>
         <entry>color</entry>
         <entry>color(</entry>
         <entry>color_entity(</entry>
@@ -702,9 +707,9 @@
         <entry>TODO</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>evaluate</entry>
+        <entry>test_</entry>
       </history-search>
       <history-cmd>
-        <entry>10.24 s/return/=/gc</entry>
         <entry>10,24 s/return/=/gc</entry>
         <entry>e</entry>
         <entry>%s/as2components/AS2Components/gc</entry>
@@ -724,6 +729,7 @@
         <entry>wq</entry>
         <entry>273</entry>
         <entry>w</entry>
+        <entry>%s/test_/ntest_/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
