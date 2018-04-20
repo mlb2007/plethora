@@ -36,10 +36,6 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1521075122393">
-        <mark key="'" line="1590" column="13" />
-        <mark key="n" line="535" column="40" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1515611656525">
         <mark key="'" line="237" column="85" />
         <mark key="[" line="263" column="0" />
@@ -68,6 +64,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" timestamp="1524256014613" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
         <mark key="'" line="72" column="23" />
         <mark key="[" line="16" column="24" />
@@ -146,6 +143,7 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/curve.py" timestamp="1524256019013" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1521061923900">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="8" column="8" />
@@ -248,7 +246,7 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1522193222468">
+      <file name="/Python Console" timestamp="1524256023392">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
