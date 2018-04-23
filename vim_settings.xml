@@ -115,12 +115,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" timestamp="1524517359972">
-        <mark key="'" line="194" column="20" />
-        <mark key="[" line="357" column="21" />
-        <mark key="]" line="357" column="21" />
-        <mark key="." line="357" column="21" />
-        <mark key="^" line="357" column="24" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" timestamp="1524523609182">
+        <mark key="[" line="216" column="52" />
+        <mark key="]" line="216" column="73" />
+        <mark key="." line="216" column="73" />
+        <mark key="^" line="216" column="73" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/serialize.py" timestamp="1513649208291">
         <mark key="'" line="54" column="32" />
@@ -385,10 +384,10 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1524514989428">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" timestamp="1524522265813">
         <mark key="'" line="88" column="8" />
-        <mark key="[" line="288" column="33" />
-        <mark key="]" line="288" column="26" />
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="120" column="79" />
         <mark key="." line="288" column="26" />
         <mark key="^" line="288" column="26" />
       </file>
@@ -519,7 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="44" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="11" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="36" column="10" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
@@ -619,13 +617,14 @@
       <jump line="311" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="194" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
+      <jump line="201" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5zX2VudGl0eS53cml0ZSgpCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgc2VsZi5fc19lbnRpdHkgPSBjb3JlLnB5c2FnZS5zRmFjZSgpCiAgICAgICAgc2VsZi5fc19lbnRpdHkucmVhZChzdGF0ZSkK</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -637,16 +636,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>deepcopy</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICByZXR1cm4gc2VsZi5zX2VudGl0eS53cml0ZSgpCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgc2VsZi5fc19lbnRpdHkgPSBjb3JlLnB5c2FnZS5zRmFjZSgpCiAgICAgICAgc2VsZi5fc19lbnRpdHkucmVhZChzdGF0ZSkK</text>
+        <text>pickle.loads(state[3])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMl0pXQo=</text>
+        <text encoding="base64">ICAgICAgICBwb2ludF9zdGF0ZSA9IHN1cGVyKFRoaWNrbmVzc0NvbnN0cmFpbnREYXRhUG9pbnQsIHNlbGYpLl9fZ2V0c3RhdGVfXygpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -676,28 +675,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMV0pLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihUaGlja25lc3NDb25zdHJhaW50RGF0YVBvaW50LCBzZWxmKS5fX2luaXRfXyhjb29yZHNbOjNdKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzX2Nvb3JkcyA9IHBpY2tsZS5sb2FkcyhzdGF0ZVswXSksCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLm5vX3RoaWNrbmVzcyA9IHBpY2tsZS5sb2FkcyhzdGF0ZVsxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2F2ZV9zdGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlX3N0YXRlLmFwcGVuZChwaWNrbGUuZHVtcHMoc2VsZi5ub190aGlja25lc3MpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQocGlja2xlLmR1bXBzKGMpKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiBzZWxmLl9jb29yZHM6Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBpY2tsZS5sb2FkcyhzdGF0ZVsyXSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHNfY29vcmRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBpY2tsZS5sb2FkcyhzdGF0ZVsxXSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMl0pXQo=</text>
+        <text encoding="base64">ICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMF0pLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -736,7 +735,6 @@
         <entry>deepcopy</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/as2components/AS2Components/gc</entry>
         <entry>%s/as2Components/AS2Components/gc</entry>
         <entry>1</entry>
         <entry>2254</entry>
@@ -755,6 +753,7 @@
         <entry>%s/test_/ntest_/gc</entry>
         <entry>256</entry>
         <entry>1475</entry>
+        <entry>200</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
