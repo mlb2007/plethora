@@ -22,11 +22,12 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524505494366">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524518080112">
         <mark key="'" line="141" column="7" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+        <mark key="[" line="145" column="4" />
+        <mark key="]" line="145" column="4" />
+        <mark key="." line="145" column="4" />
+        <mark key="^" line="145" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1515175727452">
         <mark key="[" line="28" column="0" />
@@ -64,6 +65,13 @@
         <mark key="[" line="17" column="51" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" timestamp="1524517359972">
+        <mark key="'" line="194" column="20" />
+        <mark key="[" line="357" column="21" />
+        <mark key="]" line="357" column="21" />
+        <mark key="." line="357" column="21" />
+        <mark key="^" line="357" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/mptest/mptest.py" timestamp="1520559239097">
         <mark key="[" line="107" column="4" />
@@ -307,9 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="544" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="550" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="666" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="295" column="44" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="11" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
@@ -407,13 +412,16 @@
       <jump line="561" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="140" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="88" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
+      <jump line="311" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
+      <jump line="194" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90b3BfbGV2ZWxfcHlfZW50aXRpZXMuYWRkKEN1cnZlKHNfZWRnZSkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -425,16 +433,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>InterpolatedSpline</text>
+        <text>deepcopy</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gbGlzdCgpCiAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQoc2VsZi5zX2VudGl0eS53cml0ZSgpKQogICAgICAgIHNhdmVfc3RhdGVfcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHAgaW4gc2VsZi5fc2VnbWVudHM6CiAgICAgICAgICAgIHNhdmVfc3RhdGVfcGllY2VzLmFwcGVuZChwLl9fZ2V0c3RhdGVfXygpKQogICAgICAgIHNhdmVfc3RhdGUuYXBwZW5kKHNhdmVfc3RhdGVfcGllY2VzKQogICAgICAgIHJldHVybiBzYXZlX3N0YXRlCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgcl9lbnRpdHkgPSBweXNhZ2Uuc0VkZ2UoKQogICAgICAgIHJfZW50aXR5LnJlYWQoc3RhdGVbMF0pCiAgICAgICAgcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVbMV06CiAgICAgICAgICAgIGMgPSBDdXJ2ZShOb25lKQogICAgICAgICAgICBjLl9fc2V0c3RhdGVfXyhzKQogICAgICAgICAgICBwaWVjZXMuYXBwZW5kKGMpCiAgICAgICAgc2VsZi5fX2luaXRfXyhyX2VudGl0eSwgcGllY2VzKQo=</text>
+        <text>ThicknessConstraintDataPoint(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90b3BfbGV2ZWxfcHlfZW50aXRpZXMuYWRkKEN1cnZlKHNfZWRnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMl0pXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -464,37 +472,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl90b3BfbGV2ZWxfcHlfZW50aXRpZXMuYWRkKEN1cnZlKHNfZWRnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMV0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzX2Nvb3JkcyA9IHBpY2tsZS5sb2FkcyhzdGF0ZVswXSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fbm9ybWFsCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2F2ZV9zdGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBub3JtYWwoc2VsZik6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQocGlja2xlLmR1bXBzKGMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgYyBpbiBzZWxmLl9jb29yZHM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9ub3JtYWwgPSBub3JtYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBpY2tsZS5sb2FkcyhzdGF0ZVs0XSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHNfY29vcmRzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBpY2tsZS5sb2FkcyhzdGF0ZVszXSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMl0pXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>InterpolatedSpline</last-search>
+      <last-search>deepcopy</last-search>
       <last-offset />
-      <last-pattern>InterpolatedSpline</last-pattern>
+      <last-pattern>deepcopy</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -502,8 +510,6 @@
     </search>
     <history>
       <history-search>
-        <entry>makeFace</entry>
-        <entry>make_wire</entry>
         <entry>pySage.sEdge</entry>
         <entry>sEdeg</entry>
         <entry>sBody</entry>
@@ -522,9 +528,10 @@
         <entry>tanget</entry>
         <entry>CubicSpline</entry>
         <entry>InterpolatedSpline</entry>
+        <entry>copy.copy</entry>
+        <entry>deepcopy</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>%s/as2components/AS2Components/gc</entry>
         <entry>%s/as2Components/AS2Components/gc</entry>
         <entry>1</entry>
@@ -543,6 +550,7 @@
         <entry>273</entry>
         <entry>%s/test_/ntest_/gc</entry>
         <entry>256</entry>
+        <entry>1475</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
