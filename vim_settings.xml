@@ -147,11 +147,10 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/curve.py" timestamp="1524256710425" />
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1521061923900">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1524501457842">
         <mark key="'" line="128" column="4" />
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="231" column="0" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="28" column="16" />
         <mark key="." line="231" column="0" />
         <mark key="^" line="231" column="0" />
       </file>
@@ -209,12 +208,11 @@
         <mark key="]" line="933" column="0" />
         <mark key="." line="933" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1512082056285">
-        <mark key="'" line="716" column="34" />
-        <mark key="[" line="716" column="21" />
-        <mark key="]" line="716" column="21" />
-        <mark key="^" line="716" column="22" />
-        <mark key="." line="716" column="21" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1524501737291">
+        <mark key="'" line="258" column="42" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_point.py" timestamp="1513020140697">
         <mark key="'" line="4" column="0" />
@@ -234,9 +232,10 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1521483295671">
-        <mark key="[" line="157" column="71" />
-        <mark key="]" line="160" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" timestamp="1524501184538">
+        <mark key="'" line="128" column="13" />
+        <mark key="[" line="128" column="3" />
+        <mark key="]" line="134" column="42" />
         <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" timestamp="1515613689640">
@@ -503,11 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="224" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="242" column="74" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="243" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="247" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="265" column="74" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="266" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
       <jump line="270" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
@@ -603,13 +597,18 @@
       <jump line="215" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="601" column="8" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
       <jump line="4" column="10" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="5" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
+      <jump line="128" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
+      <jump line="255" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -624,13 +623,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>test_</text>
+        <text>pickle</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzWzBdLCAyKQogICAgYXNzZXJ0X2Zsb2F0KHNbMV0sIDMpCiAgICBhc3NlcnRfZmxvYXQoc1syXSwgNCkKIA==</text>
+        <text encoding="base64">dXNlcl9maWxlcyA9IGxpc3QoKQoKICAgIEBjbGFzc21ldGhvZAogICAgZGVmIHRlYXJEb3duQ2xhc3MoY2xzKToKICAgICAgICBmb3IgZiBpbiBUZXN0RXhwb3J0LnVzZXJfZmlsZXM6CiAgICAgICAgICAgIFRlc3RFeHBvcnQuX3JlbW92ZV9maWxlKGYpCgogICAgQGNsYXNzbWV0aG9kCiAgICBkZWYgX3JlbW92ZV9maWxlKGNscywgZmlsZW5hbWUpOgogICAgICAgIGlmIG9zLnBhdGguaXNmaWxlKGZpbGVuYW1lKToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgb3MucmVtb3ZlKGZpbGVuYW1lKQogICAgICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgICAgICBlbHNlOgogICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -660,37 +659,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwMiA9IHNjLnBvbHlfbGluZS5mcm9tX2RlbHRhcygoMywgNCwgNSksIFsoMSwgMCwgMCksICgwLCAxLCAwKV0sIGNsb3NlPUZhbHNlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzMVsyXSwgczNbMl0pCg==</text>
+        <text encoding="base64">ICAgICAgICB1Ym9keSA9IHNhZ2UuYm9kaWVzLkJvZHkodW5waWNrbGVkX2JvZHlfcmF3KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzMVsxXSwgczNbMV0pCg==</text>
+        <text encoding="base64">aW1wb3J0IHBpY2tsZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzMVswXSwgczNbMF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHMzID0gc2FnZS5nZXRfZWRnZV9wb2ludF9hdF9wYXJhbShlZGdlX2wsIDAuNjUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzMlsyXSwgMTcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzMlsxXSwgOSkK</text>
+        <text encoding="base64">ICAgIGFzc2VydF9mbG9hdChzMVsyXSwgczNbMl0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>256</text>
       </register>
     </registers>
     <search>
-      <last-search>test_</last-search>
+      <last-search>pickle</last-search>
       <last-offset />
-      <last-pattern>test_</last-pattern>
+      <last-pattern>pickle</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -698,7 +697,6 @@
     </search>
     <history>
       <history-search>
-        <entry>color</entry>
         <entry>color(</entry>
         <entry>color_entity(</entry>
         <entry>model</entry>
@@ -718,9 +716,9 @@
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>evaluate</entry>
         <entry>test_</entry>
+        <entry>pickle</entry>
       </history-search>
       <history-cmd>
-        <entry>10,24 s/return/=/gc</entry>
         <entry>e</entry>
         <entry>%s/as2components/AS2Components/gc</entry>
         <entry>%s/as2Components/AS2Components/gc</entry>
@@ -740,6 +738,7 @@
         <entry>273</entry>
         <entry>%s/test_/ntest_/gc</entry>
         <entry>w</entry>
+        <entry>256</entry>
       </history-cmd>
       <history-expr />
       <history-input />
