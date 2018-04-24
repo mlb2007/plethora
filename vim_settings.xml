@@ -448,12 +448,11 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1524529074146">
-        <mark key="'" line="159" column="56" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="56" />
-        <mark key="^" line="159" column="56" />
-        <mark key="." line="159" column="56" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1524530824216">
+        <mark key="'" line="51" column="30" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1512064871579">
         <mark key="'" line="4146" column="8" />
@@ -518,7 +517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="20" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="74" column="3" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="41" column="52" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="144" column="43" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
@@ -618,13 +616,14 @@
       <jump line="16" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" />
       <jump line="19" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" />
       <jump line="88" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
+      <jump line="51" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHB5c2FnZS5JbXBvcnRPcGVyYXRpb25zLlJlYWRTVEwK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -645,7 +644,7 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHB5c2FnZS5JbXBvcnRPcGVyYXRpb25zLlJlYWRTVEwK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -675,28 +674,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIGZpbGVfZXh0IGluIFsnLnN0bCddOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNlbGYuX2ltcG9ydF9vbmVfYm9keShmbmFtZSkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNlbGYuX2ltcG9ydF9ib2RpZXMoZm5hbWUpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUZXN0SW1wb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmbmFtZSA9ICdmb29fc3RsLnN0bCcK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2R5X3N0bChzZWxmKToK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RsKHNlbGYpOgo=</text>
+        <text encoding="base64">ICAgICAgICBib2R5Mi5jb2xvcigwLCAxLCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
