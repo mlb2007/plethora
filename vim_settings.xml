@@ -43,12 +43,11 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="264" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524518080112">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524529068789">
         <mark key="'" line="141" column="7" />
-        <mark key="[" line="145" column="4" />
-        <mark key="]" line="145" column="4" />
-        <mark key="." line="145" column="4" />
-        <mark key="^" line="145" column="4" />
+        <mark key="[" line="1455" column="0" />
+        <mark key="]" line="1455" column="0" />
+        <mark key="." line="1455" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1515175727452">
         <mark key="[" line="28" column="0" />
@@ -203,8 +202,8 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1524520258263">
-        <mark key="'" line="215" column="9" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1524529452392">
+        <mark key="'" line="88" column="51" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
@@ -403,7 +402,8 @@
         <mark key="]" line="49" column="5" />
         <mark key="." line="49" column="5" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1517603615836">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" timestamp="1524529443798">
+        <mark key="'" line="19" column="25" />
         <mark key="[" line="45" column="19" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -448,12 +448,12 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1521062311960">
-        <mark key="'" line="63" column="8" />
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="40" column="29" />
-        <mark key="." line="26" column="3" />
-        <mark key="^" line="26" column="3" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1524529074146">
+        <mark key="'" line="159" column="56" />
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="56" />
+        <mark key="^" line="159" column="56" />
+        <mark key="." line="159" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1512064871579">
         <mark key="'" line="4146" column="8" />
@@ -518,14 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="11" column="29" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="36" column="10" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="39" column="30" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="52" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="57" column="94" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="59" column="38" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/gui/opengl_gui/wheel_and_tire.py" />
       <jump line="12" column="20" filename="$USER_HOME$/workspace/gui/opengl_gui/firstopengl.py" />
       <jump line="74" column="3" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="41" column="52" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
@@ -618,13 +610,21 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="194" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="201" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="43" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="70" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="44" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="159" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="16" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" />
+      <jump line="19" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" />
+      <jump line="88" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHB5c2FnZS5JbXBvcnRPcGVyYXRpb25zLlJlYWRTVEwK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -639,13 +639,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>deepcopy</text>
+        <text>Bodies</text>
       </register>
       <register name="0" type="4">
-        <text>pickle.loads(state[3])</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwb2ludF9zdGF0ZSA9IHN1cGVyKFRoaWNrbmVzc0NvbnN0cmFpbnREYXRhUG9pbnQsIHNlbGYpLl9fZ2V0c3RhdGVfXygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHB5c2FnZS5JbXBvcnRPcGVyYXRpb25zLlJlYWRTVEwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -675,37 +675,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihUaGlja25lc3NDb25zdHJhaW50RGF0YVBvaW50LCBzZWxmKS5fX2luaXRfXyhjb29yZHNbOjNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGZpbGVfZXh0IGluIFsnLnN0bCddOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5vX3RoaWNrbmVzcyA9IHBpY2tsZS5sb2FkcyhzdGF0ZVsxXSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlX3N0YXRlLmFwcGVuZChwaWNrbGUuZHVtcHMoc2VsZi5ub190aGlja25lc3MpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNlbGYuX2ltcG9ydF9ib2RpZXMoZm5hbWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBpY2tsZS5sb2FkcyhzdGF0ZVsyXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0SW1wb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHBpY2tsZS5sb2FkcyhzdGF0ZVsxXSksCg==</text>
+        <text encoding="base64">ICAgICAgICBmbmFtZSA9ICdmb29fc3RsLnN0bCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwaWNrbGUubG9hZHMoc3RhdGVbMF0pLAo=</text>
+        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RsKHNlbGYpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deepcopy</last-search>
+      <last-search>Bodies</last-search>
       <last-offset />
-      <last-pattern>deepcopy</last-pattern>
+      <last-pattern>Bodies</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -713,9 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pySage.sEdge</entry>
-        <entry>sEdeg</entry>
-        <entry>sBody</entry>
         <entry>import</entry>
         <entry encoding="base64">XDxjdXJ2ZTFcPg==</entry>
         <entry>getCoord</entry>
@@ -733,6 +730,9 @@
         <entry>InterpolatedSpline</entry>
         <entry>copy.copy</entry>
         <entry>deepcopy</entry>
+        <entry encoding="base64">XDxfbWFrZV90d29fYm9kaWVzXD4=</entry>
+        <entry encoding="base64">XDxCb2RpZXNcPg==</entry>
+        <entry>Bodies</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
