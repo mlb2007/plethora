@@ -180,12 +180,11 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524691930900">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524693237396">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -644,7 +643,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYWdlXD4=</text>
@@ -683,28 +682,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2VkZ2UgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCgtMSwgMiwgMyksICgzLCA0LCA2KSwgKDEwLCA3LCA5KSwgKC0xLCAyLCAzKSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiPT09PT09PSBQYXJhbSBvYnRhaW5lZCBmcm9tIHBvaW50IHt9IGlzIHt9Ii5mb3JtYXQocG9pbnQsIHBhcmFtKQo=</text>
+        <text encoding="base64">I2VkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5taW5feCgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBhcmFtIG9idGFpbmVkIGZyb20gcG9pbnQge30gaXMge30iLmZvcm1hdChwb2ludCwgcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">I3ByaW50ICJ2ZXJ0aWNlcy5tYXhfeDoiLCBlZGdlLnZlcnRpY2VzLm1heF94KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">I3ByaW50ICJbMF0gIiwgZWRnZS5ldmFsdWF0ZSgwKS5wb3NpdGlvbiwgIiBbMV0gIiwgIGVkZ2UuZXZhbHVhdGUoMSkucG9zaXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBhcmFtIG9idGFpbmVkIGZyb20gcG9pbnQge30gaXMge30iLmZvcm1hdChwb2ludCwgcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
