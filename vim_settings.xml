@@ -180,8 +180,9 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524094500319">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524689814783">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -270,7 +271,7 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1524256711846">
+      <file name="/Python Console" timestamp="1524690003017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
@@ -508,6 +509,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524689924671">
+        <mark key="[" line="252" column="8" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1515089160257">
         <mark key="'" line="47" column="68" />
         <mark key="[" line="0" column="0" />
@@ -517,7 +523,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="3" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="41" column="52" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="144" column="43" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
       <jump line="156" column="49" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
@@ -617,13 +622,14 @@
       <jump line="19" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/geomimport.py" />
       <jump line="88" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="51" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -638,13 +644,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Bodies</text>
+        <text encoding="base64">XDxzYWdlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -674,45 +680,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNlbGYuX2ltcG9ydF9vbmVfYm9keShmbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBhcmFtIG9idGFpbmVkIGZyb20gcG9pbnQge30gaXMge30iLmZvcm1hdChwb2ludCwgcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0SW1wb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmbmFtZSA9ICdmb29fc3RsLnN0bCcK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2R5X3N0bChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNlbGYuX2ltcG9ydF9vbmVfYm9keShmbmFtZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5Mi5jb2xvcigwLCAxLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBUZXN0SW1wb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Bodies</last-search>
+      <last-search encoding="base64">XDxzYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>Bodies</last-pattern>
+      <last-pattern encoding="base64">XDxzYWdlXD4=</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry encoding="base64">XDxjdXJ2ZTFcPg==</entry>
         <entry>getCoord</entry>
         <entry>make_vertex</entry>
@@ -732,6 +737,7 @@
         <entry encoding="base64">XDxfbWFrZV90d29fYm9kaWVzXD4=</entry>
         <entry encoding="base64">XDxCb2RpZXNcPg==</entry>
         <entry>Bodies</entry>
+        <entry encoding="base64">XDxzYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
