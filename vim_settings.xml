@@ -180,9 +180,12 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524689814783">
+      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524691930900">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -509,10 +512,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524689924671">
-        <mark key="[" line="252" column="8" />
-        <mark key="]" line="254" column="0" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/gui/gui_animate.py" timestamp="1515089160257">
         <mark key="'" line="47" column="68" />
@@ -629,7 +632,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -650,7 +653,7 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -680,28 +683,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBhcmFtIG9idGFpbmVkIGZyb20gcG9pbnQge30gaXMge30iLmZvcm1hdChwb2ludCwgcCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiPT09PT09PSBQYXJhbSBvYnRhaW5lZCBmcm9tIHBvaW50IHt9IGlzIHt9Ii5mb3JtYXQocG9pbnQsIHBhcmFtKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmVkZ2VzKSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBhcmFtIG9idGFpbmVkIGZyb20gcG9pbnQge30gaXMge30iLmZvcm1hdChwb2ludCwgcCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmZhY2VzKSA9PSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbGVuKGltcG9ydGVkLmJvZGllcykgPT0gMQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRlZCA9IHNlbGYuX2ltcG9ydF9vbmVfYm9keShmbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAiUGFyYW0gb2J0YWluZWQgZnJvbSBwb2ludCB7fSBpcyB7fSIuZm9ybWF0KHBvaW50LCBwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0SW1wb3J0LnVzZXJfZmlsZXMuYXBwZW5kKGZuYW1lKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlBhcmFtIG9idGFpbmVkIGZyb20gcG9pbnQge30gaXMge30iLmZvcm1hdChwb2ludCwgcCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
