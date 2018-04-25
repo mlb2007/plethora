@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/broken_edge.sat" timestamp="1524693430770">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1515564638164">
         <mark key="[" line="0" column="0" />
       </file>
@@ -180,11 +183,11 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524693237396">
+      <file name="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" timestamp="1524693841114">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -631,7 +634,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgImhhIGhhIC4uLiIsIGVkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5tYXhfeCgpKS5wb3NpdGlvbgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -643,7 +646,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYWdlXD4=</text>
@@ -652,7 +655,7 @@
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgImhhIGhhIC4uLiIsIGVkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5tYXhfeCgpKS5wb3NpdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -682,25 +685,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2VkZ2UgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCgtMSwgMiwgMyksICgzLCA0LCA2KSwgKDEwLCA3LCA5KSwgKC0xLCAyLCAzKSkK</text>
+        <text encoding="base64">ZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWRnZS5ldmFsdWF0ZShlZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2VkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5taW5feCgpKQo=</text>
+        <text encoding="base64">ZWRnZS5ldmFsdWF0ZShlZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I3ByaW50ICJ2ZXJ0aWNlcy5tYXhfeDoiLCBlZGdlLnZlcnRpY2VzLm1heF94KCkK</text>
+        <text encoding="base64">I2VkZ2UgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCgtMSwgMiwgMyksICgzLCA0LCA2KSwgKDEwLCA3LCA5KSwgKC0xLCAyLCAzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3ByaW50ICJbMF0gIiwgZWRnZS5ldmFsdWF0ZSgwKS5wb3NpdGlvbiwgIiBbMV0gIiwgIGVkZ2UuZXZhbHVhdGUoMSkucG9zaXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2VkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5taW5feCgpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
