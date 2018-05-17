@@ -157,7 +157,6 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/curve.py" timestamp="1526577771407" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1524503451071">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="13" column="4" />
@@ -217,7 +216,9 @@
         <mark key="]" line="819" column="0" />
         <mark key="." line="819" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526577741064">
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1526580093486" />
+      <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526580903292">
+        <mark key="'" line="1432" column="19" />
         <mark key="[" line="5263" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/gameobjects/matrix44.py" timestamp="1515113020428">
@@ -275,7 +276,7 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1526577773728">
+      <file name="/Python Console" timestamp="1526580095486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
@@ -527,14 +528,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="52" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="144" column="43" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="156" column="49" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="171" column="41" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="172" column="41" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="111" column="55" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/intersects.py" />
-      <jump line="20" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sage_runner.py" />
       <jump line="83" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="4737" column="32" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -627,6 +620,14 @@
       <jump line="88" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="51" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/bugs/Nischint_edge_eval_bug/edge_eval.py" />
+      <jump line="751" column="4" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="883" column="21" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="910" column="20" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="1043" column="20" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="1169" column="20" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="1276" column="20" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="1407" column="21" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="1432" column="19" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -648,7 +649,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYWdlXD4=</text>
+        <text encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
@@ -712,17 +713,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJ2ZTFcPg==</entry>
         <entry>getCoord</entry>
         <entry>make_vertex</entry>
         <entry>expect_single(</entry>
@@ -742,6 +742,7 @@
         <entry encoding="base64">XDxCb2RpZXNcPg==</entry>
         <entry>Bodies</entry>
         <entry encoding="base64">XDxzYWdlXD4=</entry>
+        <entry encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
