@@ -216,12 +216,12 @@
         <mark key="]" line="819" column="0" />
         <mark key="." line="819" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526581891941">
-        <mark key="'" line="1433" column="19" />
-        <mark key="[" line="753" column="4" />
-        <mark key="]" line="753" column="7" />
-        <mark key="^" line="753" column="7" />
-        <mark key="." line="753" column="7" />
+      <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526592261194">
+        <mark key="'" line="1434" column="19" />
+        <mark key="[" line="751" column="55" />
+        <mark key="]" line="752" column="41" />
+        <mark key="^" line="752" column="41" />
+        <mark key="." line="752" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/gameobjects/matrix44.py" timestamp="1515113020428">
         <mark key="'" line="98" column="4" />
