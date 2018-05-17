@@ -73,11 +73,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" timestamp="1524256686297">
-        <mark key="'" line="4" column="10" />
-        <mark key="]" line="734" column="82" />
-        <mark key="^" line="4" column="10" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
         <mark key="'" line="72" column="23" />
         <mark key="[" line="16" column="24" />
@@ -162,6 +157,7 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/curve.py" timestamp="1526577771407" />
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1524503451071">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="13" column="4" />
@@ -221,6 +217,9 @@
         <mark key="]" line="819" column="0" />
         <mark key="." line="819" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526577741064">
+        <mark key="[" line="5263" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/gui/opengl_gui/gameobjects/matrix44.py" timestamp="1515113020428">
         <mark key="'" line="98" column="4" />
         <mark key="[" line="933" column="0" />
@@ -276,7 +275,7 @@
         <mark key="." line="49" column="1" />
         <mark key="^" line="49" column="1" />
       </file>
-      <file name="/Python Console" timestamp="1524690003017">
+      <file name="/Python Console" timestamp="1526577773728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/setup.py" timestamp="1522116180390">
@@ -414,7 +413,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524773880470">
+      <file name="/Dummy.txt" timestamp="1526577689486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516061595320">
