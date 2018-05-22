@@ -216,6 +216,12 @@
         <mark key="]" line="819" column="0" />
         <mark key="." line="819" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1527030781502">
+        <mark key="'" line="420" column="4" />
+        <mark key="[" line="687" column="0" />
+        <mark key="]" line="687" column="0" />
+        <mark key="." line="687" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526592261194">
         <mark key="'" line="1434" column="19" />
         <mark key="[" line="751" column="55" />
@@ -325,6 +331,9 @@
         <mark key="." line="1849" column="3" />
         <mark key="^" line="1849" column="3" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/io.py" timestamp="1527030787333">
+        <mark key="[" line="34" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/tmp/curve_try.py" timestamp="1519247241046">
         <mark key="[" line="6" column="3" />
       </file>
@@ -416,7 +425,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526577689486">
+      <file name="/Dummy.txt" timestamp="1527030284022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516061595320">
@@ -432,6 +441,9 @@
         <mark key="[" line="21" column="70" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/import_export/imp_exp.py" timestamp="1527030181419">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/pyML/ML/pyML/thinkstats_ex1.py" timestamp="1520870328144">
         <mark key="[" line="1" column="0" />
@@ -530,7 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sage_runner.py" />
       <jump line="83" column="8" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
       <jump line="4737" column="32" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
       <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
@@ -630,13 +641,14 @@
       <jump line="1276" column="20" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
       <jump line="1407" column="21" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
       <jump line="1432" column="19" filename="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" />
+      <jump line="420" column="4" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgImhhIGhhIC4uLiIsIGVkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5tYXhfeCgpKS5wb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -651,13 +663,13 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</text>
+        <text>Bodies</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIGRlZiB0ZXN0X2ltcG9ydF9ib2RpZXNfc3RwKHNlbGYpOgogICAgICAgIGZuYW1lID0gJ2Zvb19zdHAuc3RwJwogICAgICAgIFRlc3RJbXBvcnQudXNlcl9maWxlcy5hcHBlbmQoZm5hbWUpCiAgICAgICAgaW1wb3J0ZWQgPSBzZWxmLl9pbXBvcnRfYm9kaWVzKGZuYW1lKQogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuYm9kaWVzKSA9PSAyCiAgICAgICAgYXNzZXJ0IGxlbihpbXBvcnRlZC5mYWNlcykgPT0gMAogICAgICAgIGFzc2VydCBsZW4oaW1wb3J0ZWQuZWRnZXMpID09IDAK</text>
+        <text encoding="base64">ZGVmIF9faXRlcl9fKHNlbGYpOgogICAgICAgIGlmIHNlbGYuX3dyYXBwZWQ6CiAgICAgICAgICAgIGl0ZW1zID0gc2VsZi5fYmFzZV9pdGVyYWJsZQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIGl0ZW1zID0gW3NlbGYuX3dyYXAoZSkgZm9yIGUgaW4gc2VsZi5fYmFzZV9pdGVyYWJsZV0KICAgICAgICBmaWx0ZXJlZCA9IFtlIGZvciBlIGluIGl0ZW1zIGlmIHNlbGYuX3ByZWRpY2F0ZShlKV0KICAgICAgICByZXR1cm4gZmlsdGVyZWQuX19pdGVyX18oKQoKICAgIGRlZiBfX2dldGl0ZW1fXyhzZWxmLCBpbmRleCk6CiAgICAgICAgaWYgc2VsZi5fY2FjaGVkX2xpc3QgaXMgTm9uZToKICAgICAgICAgICAgc2VsZi5fY2FjaGVkX2xpc3QgPSBbZSBmb3IgZSBpbiBzZWxmXQogICAgICAgIHJldHVybiBzZWxmLl9jYWNoZWRfbGlzdFtpbmRleF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQgImhhIGhhIC4uLiIsIGVkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5tYXhfeCgpKS5wb3NpdGlvbgo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -686,38 +698,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGRlZiBfX2l0ZXJfXyhzZWxmKToKICAgICAgICBpZiBzZWxmLl93cmFwcGVkOgogICAgICAgICAgICBpdGVtcyA9IHNlbGYuX2Jhc2VfaXRlcmFibGUKICAgICAgICBlbHNlOgogICAgICAgICAgICBpdGVtcyA9IFtzZWxmLl93cmFwKGUpIGZvciBlIGluIHNlbGYuX2Jhc2VfaXRlcmFibGVdCiAgICAgICAgZmlsdGVyZWQgPSBbZSBmb3IgZSBpbiBpdGVtcyBpZiBzZWxmLl9wcmVkaWNhdGUoZSldCiAgICAgICAgcmV0dXJuIGZpbHRlcmVkLl9faXRlcl9fKCkKCiAgICBkZWYgX19nZXRpdGVtX18oc2VsZiwgaW5kZXgpOgogICAgICAgIGlmIHNlbGYuX2NhY2hlZF9saXN0IGlzIE5vbmU6CiAgICAgICAgICAgIHNlbGYuX2NhY2hlZF9saXN0ID0gW2UgZm9yIGUgaW4gc2VsZl0KICAgICAgICByZXR1cm4gc2VsZi5fY2FjaGVkX2xpc3RbaW5kZXhdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWRnZS5ldmFsdWF0ZShlZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX2l0ZXJfXwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWRnZS5ldmFsdWF0ZShlZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
+        <text encoding="base64">cHJpbnQgImhhIGhhIC4uLiIsIGVkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5tYXhfeCgpKS5wb3NpdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2VkZ2UgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCgtMSwgMiwgMyksICgzLCA0LCA2KSwgKDEwLCA3LCA5KSwgKC0xLCAyLCAzKSkK</text>
+        <text encoding="base64">ZWRnZS5ldmFsdWF0ZShlZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWRnZS5ldmFsdWF0ZShlZGdlLnZlcnRpY2VzLm1heF94KCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I2VkZ2UuZXZhbHVhdGUoZWRnZS52ZXJ0aWNlcy5taW5feCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2VkZ2UgPSBzYWdlLmN1cnZlLmJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCgtMSwgMiwgMyksICgzLCA0LCA2KSwgKDEwLCA3LCA5KSwgKC0xLCAyLCAzKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</last-search>
+      <last-search>Bodies</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</last-pattern>
+      <last-pattern>Bodies</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -742,9 +754,9 @@
         <entry>deepcopy</entry>
         <entry encoding="base64">XDxfbWFrZV90d29fYm9kaWVzXD4=</entry>
         <entry encoding="base64">XDxCb2RpZXNcPg==</entry>
-        <entry>Bodies</entry>
         <entry encoding="base64">XDxzYWdlXD4=</entry>
         <entry encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</entry>
+        <entry>Bodies</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
