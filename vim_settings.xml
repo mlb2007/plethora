@@ -210,9 +210,9 @@
         <mark key="]" line="49" column="5" />
         <mark key="." line="49" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/connect_issue/example_tess.py" timestamp="1527641367120">
-        <mark key="'" line="7" column="6" />
-        <mark key="[" line="31" column="9" />
+      <file name="$USER_HOME$/workspace/bugs/connect_issue/example_tess.py" timestamp="1527723423912">
+        <mark key="'" line="29" column="8" />
+        <mark key="[" line="29" column="8" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="0" />
       </file>
@@ -416,6 +416,9 @@
       <file name="$USER_HOME$/workspace/jupyter_examples/scratch.py" timestamp="1516327228440">
         <mark key="[" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" timestamp="1527723507687">
+        <mark key="'" line="986" column="22" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1524520183807">
         <mark key="'" line="78" column="25" />
         <mark key="[" line="18" column="4" />
@@ -460,9 +463,9 @@
         <mark key="." line="123" column="7" />
         <mark key="^" line="123" column="7" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1521401251207">
+      <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" timestamp="1527723448518">
         <mark key="'" line="596" column="39" />
-        <mark key="[" line="1058" column="44" />
+        <mark key="[" line="866" column="43" />
         <mark key="]" line="1512" column="61" />
         <mark key="^" line="1512" column="60" />
         <mark key="." line="1512" column="61" />
@@ -553,18 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="218" column="68" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="40" column="14" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="109" column="63" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="228" column="63" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="55" column="13" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="112" column="17" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/area_distribution.py" />
-      <jump line="5029" column="11" filename="$USER_HOME$/as2_deltaLRR/geometry_scripts/inlet.py" />
-      <jump line="195" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" />
-      <jump line="584" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="355" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1797" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1884" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1695" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
       <jump line="1699" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
@@ -653,6 +644,18 @@
       <jump line="420" column="4" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/connect_issue/example_tess.py" />
       <jump line="7" column="6" filename="$USER_HOME$/workspace/bugs/connect_issue/example_tess.py" />
+      <jump line="29" column="8" filename="$USER_HOME$/workspace/bugs/connect_issue/example_tess.py" />
+      <jump line="732" column="12" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="734" column="12" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="737" column="55" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="741" column="12" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="743" column="12" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="746" column="55" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="975" column="22" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="977" column="22" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="980" column="65" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="984" column="22" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
+      <jump line="986" column="22" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -674,7 +677,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>Bodies</text>
+        <text>Wire</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">dGVjID0gc2FnZS5pby5UZWNwbG90RGF0YSgpI2RlZmF1bHRfbWVzaF9vcHRpb25zPWNydl9tZXNoX29wdGlvbnMsIHRpdGxlPSdDb25uZWN0ZWQgQ3VydmUgRXhhbXBsZScpCnRlYy5hZGQoY29ubmVjdGVkX2Nydi5zX2VudGl0eSwgem9uZV9uYW1lX3ByZWZpeD0nY29ubmVjdGVkX2NydicpCmZvciBpLCBzIGluIGVudW1lcmF0ZShjb25uZWN0ZWRfY3J2LnNlZ21lbnRzKToKICAgIHRlYy5hZGQocy5zX2VudGl0eSwgem9uZV9uYW1lX3ByZWZpeD0nc2VnbWVudCcgKyBzdHIoaSkpCnRlYy53cml0ZV90b19maWxlKCdjb25uZWN0ZWRfY3VydmVfZXhhbXBsZS5kYXQnKQpwcmludCgnd3JvdGUgLi4nKQoKZm9yIGksIFtzMSwgczJdIGluIGVudW1lcmF0ZSh6aXAoW2MxLCBjMiwgYzMsIGM0XSwgY29ubmVjdGVkX2Nydi5zZWdtZW50cykpOgogICAgaWYgczEubWlkcG9pbnQuZGlzdChzMi5taWRwb2ludCkgPiBzYWdlLkZMT0FUX1RPTDoKICAgICAgICAnU2VnbWVudCAnICsgc3RyKGkpICsgJyBvZiB0aGUgY29ubmVjdGVkIGN1cnZlIGRvZXMgbm90IG1hdGNoIHRoZSBjb3JyZXNwb25kaW5nIGlucHV0IGN1cnZlIGxpc3Qn</text>
@@ -738,9 +741,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Bodies</last-search>
+      <last-search>Wire</last-search>
       <last-offset />
-      <last-pattern>Bodies</last-pattern>
+      <last-pattern>Wire</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -748,9 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getCoord</entry>
-        <entry>make_vertex</entry>
-        <entry>expect_single(</entry>
         <entry>tag(</entry>
         <entry>TODO</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
@@ -768,6 +768,9 @@
         <entry encoding="base64">XDxzYWdlXD4=</entry>
         <entry encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</entry>
         <entry>Bodies</entry>
+        <entry encoding="base64">XDxjM1w+</entry>
+        <entry>Branched</entry>
+        <entry>Wire</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
