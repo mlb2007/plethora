@@ -6,10 +6,11 @@
       <file name="/start_script.py" timestamp="1528739981536">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528752718984">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="66" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528760051744">
+        <mark key="'" line="233" column="33" />
+        <mark key="[" line="272" column="34" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="31" />
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
@@ -50,12 +51,12 @@
         <mark key="]" line="1455" column="0" />
         <mark key="." line="1455" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1515611656525">
-        <mark key="'" line="237" column="85" />
-        <mark key="[" line="263" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
-        <mark key="^" line="264" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1528759910158">
+        <mark key="'" line="115" column="4" />
+        <mark key="[" line="491" column="15" />
+        <mark key="]" line="511" column="25" />
+        <mark key="." line="511" column="25" />
+        <mark key="^" line="511" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1515175727452">
         <mark key="[" line="28" column="0" />
@@ -505,17 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1695" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1699" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1701" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1705" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1711" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1717" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1691" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="278" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="1201" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1481" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="3059" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1278" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1209" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -605,13 +595,24 @@
       <jump line="984" column="22" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
       <jump line="986" column="22" filename="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" />
+      <jump line="114" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="451" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="81" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="449" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="464" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="468" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="472" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="115" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
+      <jump line="208" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="233" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc2luZih4ZVswXSkgb3IgaXNpbmYoeGVbMV0pIG9yIGlzaW5mKHhlWzJdKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -623,16 +624,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>reverse(</text>
+        <text>trim(</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGRlZiB0ZXN0X2NyZWF0ZV9mcm9tX2VuZF9wb2ludHMoc2VsZik6CiAgICAgICAgbGluZSA9IHNhZ2UuY3VydmUuTGluZS5mcm9tX2VuZF9wb2ludHMoKDAsIDEsIDIpLCAoNCwgNSwgNikpCiAgICAgICAgYXNzZXJ0IGxpbmUuc3RhcnQgPT0gKDAsIDEsIDIpCiAgICAgICAgYXNzZXJ0IGxpbmUuZW5kID09ICg0LCA1LCA2KQo=</text>
+        <text>&quot;&quot;&quot;
+    Trims the given curve. If the given cutter is a floating-point value, it is interpreted as a normalized parameter
+    value for the curve. If it is a point or is convertible to a point, it is interpreted as a point on the curve. It
+    can be a Plane, and is used as such.
+
+    :param curve: the curve to trim.
+    :param cutter: object to trim with.
+    :param to_discard: a point or param on the curve that identifies the part to be trimmed (or discarded). Also
+            accepted are keywords 'start', 'mid', 'end' as identifiers on the original input that specifies the curve
+            segment to be trimmed off after cutting the curve. By default, the end of the original curve is trimmed off.
+    :return: a list of curve pieces that can be further filtered.
+
+    &quot;&quot;&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc2luZih4ZVswXSkgb3IgaXNpbmYoeGVbMV0pIG9yIGlzaW5mKHhlWzJdKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -662,37 +675,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc25hbih4ZVswXSkgb3IgaXNuYW4oeGVbMV0pIG9yIGlzbmFuKHhlWzJdKSkpCg==</text>
+        <text encoding="base64">ICAgIGNhbiBiZSBhIFBsYW5lLCBhbmQgaXMgdXNlZCBhcyBzdWNoLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhlWzBdKSBhbmQgbm90IGlzbmFuKHhlWzFdKSBhbmQgbm90IGlzbmFuKHhlWzJdKSkK</text>
+        <text encoding="base64">ICAgIHZhbHVlIGZvciB0aGUgY3VydmUuIElmIGl0IGlzIGEgcG9pbnQgb3IgaXMgY29udmVydGlibGUgdG8gYSBwb2ludCwgaXQgaXMgaW50ZXJwcmV0ZWQgYXMgYSBwb2ludCBvbiB0aGUgY3VydmUuIEl0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc25hbih4c1swXSkgb3IgaXNuYW4oeHNbMV0pIG9yIGlzbmFuKHhzWzJdKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBJZiB0aGUgZ2l2ZW4gY3V0dGVyIGlzIGEgZmxvYXRpbmctcG9pbnQgdmFsdWUsIGl0IGlzIGludGVycHJldGVkIGFzIGEgbm9ybWFsaXplZCBwYXJhbWV0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhlWzBdKSBhbmQgbm90IGlzbmFuKHhlWzFdKSBhbmQgbm90IGlzbmFuKHhlWzJdKSkK</text>
+        <text encoding="base64">ICAgICAgICBjYW4gYmUgYSBQbGFuZSwgYW5kIGlzIHVzZWQgYXMgc3VjaC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhzWzBdKSBhbmQgbm90IGlzbmFuKHhzWzFdKSBhbmQgbm90IGlzbmFuKHhzWzJdKSkK</text>
+        <text encoding="base64">ICAgICAgICAgaXQgaXMgYSBwb2ludCBvciBpcyBjb252ZXJ0aWJsZSB0byBhIHBvaW50LCBpdCBpcyBpbnRlcnByZXRlZCBhcyBhIHBvaW50IG9uIHRoZSBjdXJ2ZS4gSXQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzaW5mKHhlKSkK</text>
+        <text encoding="base64">ICAgIGNhbiBiZSBhIFBsYW5lLCBhbmQgaXMgdXNlZCBhcyBzdWNoLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzaW5mKHhzKSkK</text>
+        <text encoding="base64">ICAgIElmIGl0IGlzIGEgcG9pbnQgb3IgaXMgY29udmVydGlibGUgdG8gYSBwb2ludCwgaXQgaXMgaW50ZXJwcmV0ZWQgYXMgYSBwb2ludCBvbiB0aGUgY3VydmUuIEl0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>reverse(</last-search>
+      <last-search>trim(</last-search>
       <last-offset />
-      <last-pattern>reverse(</last-pattern>
+      <last-pattern>trim(</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -700,7 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>evaluate</entry>
         <entry>test_</entry>
         <entry>pickle</entry>
@@ -720,6 +732,7 @@
         <entry>Wire</entry>
         <entry>Line</entry>
         <entry>reverse(</entry>
+        <entry>trim(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
