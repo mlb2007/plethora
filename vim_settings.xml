@@ -6,9 +6,9 @@
       <file name="/start_script.py" timestamp="1528739981536">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528751626408">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="16" column="29" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528752718984">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="66" />
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
@@ -611,7 +611,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzaW5mKHhzKSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc2luZih4ZVswXSkgb3IgaXNpbmYoeGVbMV0pIG9yIGlzaW5mKHhlWzJdKSkpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -632,7 +632,7 @@
         <text encoding="base64">IGRlZiB0ZXN0X2NyZWF0ZV9mcm9tX2VuZF9wb2ludHMoc2VsZik6CiAgICAgICAgbGluZSA9IHNhZ2UuY3VydmUuTGluZS5mcm9tX2VuZF9wb2ludHMoKDAsIDEsIDIpLCAoNCwgNSwgNikpCiAgICAgICAgYXNzZXJ0IGxpbmUuc3RhcnQgPT0gKDAsIDEsIDIpCiAgICAgICAgYXNzZXJ0IGxpbmUuZW5kID09ICg0LCA1LCA2KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzaW5mKHhzKSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc2luZih4ZVswXSkgb3IgaXNpbmYoeGVbMV0pIG9yIGlzaW5mKHhlWzJdKSkpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -662,28 +662,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhzKSkK</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc25hbih4ZVswXSkgb3IgaXNuYW4oeGVbMV0pIG9yIGlzbmFuKHhlWzJdKSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBnaXZlbihoc3RyYXQudHVwbGVzKGhzdHJhdC5kb3VibGVzLCBoc3RyYXQuZG91YmxlcywgaHN0cmF0LmRvdWJsZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhlWzBdKSBhbmQgbm90IGlzbmFuKHhlWzFdKSBhbmQgbm90IGlzbmFuKHhlWzJdKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBnaXZlbihoc3RyYXQudHVwbGVzKGhzdHJhdC5kZWNpbWFscygpLCBoc3RyYXQuZGVjaW1hbHMoKSwgaHN0cmF0LmRlY2ltYWxzKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IChpc25hbih4c1swXSkgb3IgaXNuYW4oeHNbMV0pIG9yIGlzbmFuKHhzWzJdKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhlWzBdKSBhbmQgbm90IGlzbmFuKHhlWzFdKSBhbmQgbm90IGlzbmFuKHhlWzJdKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgUG9seUxpbmVUZXN0RnJvbVBvaW50cyh1bml0dGVzdC5UZXN0Q2FzZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhzWzBdKSBhbmQgbm90IGlzbmFuKHhzWzFdKSBhbmQgbm90IGlzbmFuKHhzWzJdKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBnaXZlbihoc3RyYXQudHVwbGVzKGhzdHJhdC5kb3VibGVzLCBoc3RyYXQuZG91YmxlcywgaHN0cmF0LmRvdWJsZXMpKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzaW5mKHhlKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzaW5mKHhzKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3N1bWUobm90IGlzbmFuKHhlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
