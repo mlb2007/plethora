@@ -6,11 +6,12 @@
       <file name="/start_script.py" timestamp="1528739981536">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528760051744">
-        <mark key="'" line="233" column="33" />
-        <mark key="[" line="272" column="34" />
-        <mark key="]" line="24" column="31" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528761338136">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="357" column="29" />
+        <mark key="]" line="349" column="43" />
+        <mark key="^" line="349" column="43" />
+        <mark key="." line="349" column="43" />
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
@@ -225,10 +226,10 @@
         <mark key="]" line="933" column="0" />
         <mark key="." line="933" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1524509303358">
-        <mark key="'" line="561" column="39" />
-        <mark key="[" line="547" column="55" />
-        <mark key="]" line="548" column="54" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1528761090160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="674" column="0" />
+        <mark key="]" line="781" column="0" />
         <mark key="." line="548" column="54" />
         <mark key="^" line="548" column="54" />
       </file>
@@ -506,7 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/api.py" />
       <jump line="1278" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1209" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="844" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -541,7 +541,6 @@
       <jump line="4" column="10" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="5" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="128" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="255" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
@@ -606,6 +605,8 @@
       <jump line="208" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="233" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -627,22 +628,10 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>trim(</text>
+        <text>trim</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;&quot;&quot;
-    Trims the given curve. If the given cutter is a floating-point value, it is interpreted as a normalized parameter
-    value for the curve. If it is a point or is convertible to a point, it is interpreted as a point on the curve. It
-    can be a Plane, and is used as such.
-
-    :param curve: the curve to trim.
-    :param cutter: object to trim with.
-    :param to_discard: a point or param on the curve that identifies the part to be trimmed (or discarded). Also
-            accepted are keywords 'start', 'mid', 'end' as identifiers on the original input that specifies the curve
-            segment to be trimmed off after cutting the curve. By default, the end of the original curve is trimmed off.
-    :return: a list of curve pieces that can be further filtered.
-
-    &quot;&quot;&quot;</text>
+        <text encoding="base64">Y2xhc3MgVGVzdFRyaW0odW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfdHJpbV9hdF9wYXJhbV8wXzVfZGlzY2FyZF9zdGFydChzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgc2FnZS5Qb2ludDNEKDAsIDAsIDApKQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAxCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgxKS5wb3NpdGlvbiA9PSAoMSwgMSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX3N0YXJ0X3N0cihzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgJ3N0YXJ0JykKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDEsIDEsIDApCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgwKS5wb3NpdGlvbiA9PSAoMC41LCAwLjUsIDApCgogICAgZGVmIHRlc3RfdHJpbV9hdF9wYXJhbV8wXzVfZGlzY2FyZF9lbmQoc2VsZik6CiAgICAgICAgcCA9IHNhZ2UuY3VydmUubGluZS5mcm9tX2VuZF9wb2ludHMoc3RhcnQ9KDAsIDAsIDApLCBlbmQ9KDEsIDEsIDApKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShwLCAwLjUsIHNhZ2UuUG9pbnQzRCgxLCAxLCAwKSkKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDAuNSwgMC41LCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gKDAuMCwgMC4wLCAwKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfZW5kX3N0cihzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgJ0VORCcpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDEpLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjAsIDAuMCwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX3N0YXJ0XzAyNShzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgc2FnZS5Qb2ludDNEKDAuMjUsIDAuMjUsIDApKQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAxCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgxKS5wb3NpdGlvbiA9PSAoMSwgMSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX2VuZF8wNzUoc2VsZik6CiAgICAgICAgcCA9IHNhZ2UuY3VydmUubGluZS5mcm9tX2VuZF9wb2ludHMoc3RhcnQ9KDAsIDAsIDApLCBlbmQ9KDEsIDEsIDApKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShwLCAwLjUsIHNhZ2UuUG9pbnQzRCgwLjc1LCAwLjc1LCAwKSkKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDAuNSwgMC41LCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gKDAuMCwgMC4wLCAwKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfZW5kXzA3NV9wb2ludF9hc190dXBsZShzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsICgwLjUsIDAuNSwgMCksICgwLjc1LCAwLjc1LCAwKSkKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDAuNSwgMC41LCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gKDAuMCwgMC4wLCAwKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfc3RhcnRfMDI1X3BvaW50KHNlbGYpOgogICAgICAgIHAgPSBzYWdlLmN1cnZlLmxpbmUuZnJvbV9lbmRfcG9pbnRzKHN0YXJ0PSgwLCAwLCAwKSwgZW5kPSgxLCAxLCAwKSkKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0ocCwgc2FnZS5Qb2ludDNEKDAuNSwgMC41LCAwKSwgKDAuMjUsIDAuMjUsIDApKQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAxCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgxKS5wb3NpdGlvbiA9PSAoMSwgMSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX21pZChzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgIyB0aGUgZGlzY2FyZCBwb2ludCBpcyBzdWNoIHRoYXQgYm90aCBjdXJ2ZSBwaWVjZXMgaGF2ZSBiZWVuIHRyaW1tZWQgb2ZmLCB0aHJvdwogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhSdW50aW1lRXJyb3IpOgogICAgICAgICAgICBzYWdlLmN1cnZlLnRyaW0ocCwgMC41LCBzYWdlLlBvaW50M0QoMC41LCAwLjUsIDApKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfbWlkX3N0cihzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgIyB0aGUgZGlzY2FyZCBwb2ludCBpcyBzdWNoIHRoYXQgYm90aCBjdXJ2ZSBwaWVjZXMgaGF2ZSBiZWVuIHRyaW1tZWQgb2ZmLCB0aHJvdwogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhSdW50aW1lRXJyb3IpOgogICAgICAgICAgICBzYWdlLmN1cnZlLnRyaW0ocCwgMC41LCAnbWlkJykKCiAgICBkZWYgdGVzdF9iZXppZXJfZGlzY2FyZF9taWRkbGUoc2VsZik6CiAgICAgICAgYiA9IHNhZ2UuY3VydmUuYmV6aWVyLmZyb21fY29udHJvbF9wb2ludHMoc2FnZS5PUklHSU4sIHNhZ2UuVU5JVF9WRUNfWiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYWdlLlVOSVRfVkVDX1ggKyBzYWdlLlVOSVRfVkVDX1osCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnZS5VTklUX1ZFQ19YKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKHNhZ2UuVU5JVF9WRUNfWiAqIDAuMiwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShiLCBwLCBiLm1pZHBvaW50KQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAyCiAgICAgICAgYXNzZXJ0IGFicyhwaWVjZXNbMF0uZW5kLnogLSAwLjIpIDwgc2FnZS5GTE9BVF9UT0wKICAgICAgICBhc3NlcnQgYWJzKHBpZWNlc1stMV0uc3RhcnQueiAtIDAuMikgPCBzYWdlLkZMT0FUX1RPTAoKICAgIGRlZiB0ZXN0X2NpcmNsZV9kaXNjYXJkX2hhbGYoc2VsZik6CiAgICAgICAgYyA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDMsIDAsIDQpLCA0LCBzYWdlLlVOSVRfVkVDX1kpCiAgICAgICAgcCA9IHNhZ2UucGxhbmUuZnJvbV9wb2ludF9ub3JtYWwoc2FnZS5VTklUX1ZFQ19aICogNCwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShjLCBwLCAoMywgMCwgOCkpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAogICAgICAgIGFzc2VydCBwaWVjZXMuZXhwZWN0X3NpbmdsZSgpLmJib3hbMV0ueiA8IDUKCiAgICBkZWYgdGVzdF9jaXJjbGVfZGlzY2FyZF9oYWxmX3BhcmFtX2Rpc2NhcmQoc2VsZik6CiAgICAgICAgYyA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDMsIDAsIDQpLCA0LCBzYWdlLlVOSVRfVkVDX1kpCiAgICAgICAgcCA9IHNhZ2UucGxhbmUuZnJvbV9wb2ludF9ub3JtYWwoc2FnZS5VTklUX1ZFQ19aICogNCwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgICMgdGhlIGRpc2NhcmQgcG9pbnQgaXMgc3VjaCB0aGF0IGJvdGggY3VydmUgcGllY2VzIGhhdmUgYmVlbiB0cmltbWVkIG9mZiwgdGhyb3cKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoUnVudGltZUVycm9yKToKICAgICAgICAgICAgc2FnZS5jdXJ2ZS50cmltKGMsIHAsIDAuNSkKCiAgICBkZWYgdGVzdF9jaXJjbGVfaW5fc3BhY2VfY3V0X2J5X3BsYW5lKHNlbGYpOgogICAgICAgIGMgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgxLCAxLCAxKSwgNCwgKDEsIDEsIDEpKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgxLCAxLCAxKSwgKDAsIC0xLCAxKSkKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0oYywgcCwgJ3N0YXJ0JykKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXMuZXhwZWN0X3NpbmdsZSgpLmxlbmd0aCA8IDIgKiAzLjEgKiA0CiAgICAgICAgYXNzZXJ0IHBpZWNlcy5leHBlY3Rfc2luZ2xlKCkuYmJveFsxXS56IDwgNC41CgogICAgZGVmIHRlc3RfY2lyY2xlX2luX3NwYWNlX2N1dF9ieV9wYXJhbGxlbF9wbGFuZShzZWxmKToKICAgICAgICBjID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMSwgMSwgMSksIDQsICgxLCAxLCAxKSkKICAgICAgICBwID0gc2FnZS5wbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMSwgMSwgMSksICgxLCAxLCAxKSkKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShjLCBwLCAnc3RhcnQnKQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -675,37 +664,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhbiBiZSBhIFBsYW5lLCBhbmQgaXMgdXNlZCBhcyBzdWNoLgo=</text>
+        <text encoding="base64">ICAgY2xhc3MgVGVzdFRyaW0odW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbHVlIGZvciB0aGUgY3VydmUuIElmIGl0IGlzIGEgcG9pbnQgb3IgaXMgY29udmVydGlibGUgdG8gYSBwb2ludCwgaXQgaXMgaW50ZXJwcmV0ZWQgYXMgYSBwb2ludCBvbiB0aGUgY3VydmUuIEl0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJZiB0aGUgZ2l2ZW4gY3V0dGVyIGlzIGEgZmxvYXRpbmctcG9pbnQgdmFsdWUsIGl0IGlzIGludGVycHJldGVkIGFzIGEgbm9ybWFsaXplZCBwYXJhbWV0ZXIK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYW4gYmUgYSBQbGFuZSwgYW5kIGlzIHVzZWQgYXMgc3VjaC4K</text>
+        <text encoding="base64">ICAgICAgICBzYWdlLmN1cnZlLlRyaW0uYXRfcGFyYW1ldGVyKGNydixwYXJhbSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgaXQgaXMgYSBwb2ludCBvciBpcyBjb252ZXJ0aWJsZSB0byBhIHBvaW50LCBpdCBpcyBpbnRlcnByZXRlZCBhcyBhIHBvaW50IG9uIHRoZSBjdXJ2ZS4gSXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhbiBiZSBhIFBsYW5lLCBhbmQgaXMgdXNlZCBhcyBzdWNoLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIElmIGl0IGlzIGEgcG9pbnQgb3IgaXMgY29udmVydGlibGUgdG8gYSBwb2ludCwgaXQgaXMgaW50ZXJwcmV0ZWQgYXMgYSBwb2ludCBvbiB0aGUgY3VydmUuIEl0Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB0cmltX2F0X3BhcmFtKHNlbGYsIHBhcmFtKToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICB4ZT1oc3RyYXQudHVwbGVzKGhzdHJhdC5mbG9hdHMoLTFlNiwgMWU2KSwgaHN0cmF0LmZsb2F0cygtMWU2LCAxZTYpLCBoc3RyYXQuZmxvYXRzKC0xZTYsIDFlNikpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>trim(</last-search>
+      <last-search>trim</last-search>
       <last-offset />
-      <last-pattern>trim(</last-pattern>
+      <last-pattern>trim</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
       <last-dir>1</last-dir>
@@ -713,7 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>evaluate</entry>
         <entry>test_</entry>
         <entry>pickle</entry>
         <entry>write(</entry>
@@ -733,6 +721,7 @@
         <entry>Line</entry>
         <entry>reverse(</entry>
         <entry>trim(</entry>
+        <entry>trim</entry>
       </history-search>
       <history-cmd>
         <entry>%s/as2Components/AS2Components/gc</entry>
