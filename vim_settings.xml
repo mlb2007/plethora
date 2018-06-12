@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1528739981536">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528781491236">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="327" column="41" />
-        <mark key="]" line="327" column="41" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="327" column="41" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528786463513">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="441" column="73" />
+        <mark key="]" line="441" column="73" />
+        <mark key="^" line="441" column="72" />
+        <mark key="." line="441" column="73" />
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
@@ -507,7 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1209" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="844" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1014" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1016" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -602,18 +601,19 @@
       <jump line="472" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="115" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" />
       <jump line="208" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="233" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="10" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="26" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="393" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -625,7 +625,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>trim</text>
