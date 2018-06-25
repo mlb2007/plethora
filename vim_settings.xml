@@ -490,6 +490,12 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529954757252">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="41" column="3" />
+      </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="0" />
@@ -615,7 +621,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxsZWQgZnJvbSBhdF9leGl0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -627,16 +633,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>pysage.checkin_license(&quot;pascale&quot;)</text>
+        <text encoding="base64">YWNvbmljXzMgPSBhY29uaWNfMS5jb3B5KCkKYWNvbmljXzMucm90YXRlKGF4aXM9KDAsIDAsIDEpLCBhbmdsZT0xODAsIG9yaWdpbj0oNSwgOCwgMSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDYWxsZWQgZnJvbSBhdF9leGl0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -666,56 +672,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3N5cy5leGNlcHRob29rID0gX3Rocm93X2V4Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">I3Bhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoY29ubmVjdGVkX3BhdGNoLCAncGF0Y2guc2F0JykK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhaXNlIGV4Cg==</text>
+        <text encoding="base64">I3Bhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoY29ubmVjdGVkX3BhdGNoLCAncGF0Y2guc2F0JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIF9jaGVja19pbigpCg==</text>
+        <text encoding="base64">ZHJfYm9keSA9IHBhc2NhbGUuYm9keS5FeHRydWRlLnByb2ZpbGVfYWxvbmdfZGlyZWN0aW9uKGNvbm5lY3RlZF9wcm9maWxlLCAoMCwgMCwgLTEpLCA1KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmIF90aHJvd19leChleGNfdHlwZSwgZXgsICphcmdzKToK</text>
+        <text encoding="base64">Y29uaWNfMSwgYWNvbmljXzIsIGFjb25pY18zLCBhY29uaWNfNCwgbHMxLCBsczIsIGxzMywgbHM0LCAnY29uaWMuc2F0JykK</text>
       </register>
-      <register name="7" type="4">
-        <text># monkey patch sys exit
-# capture exceptions and check-in license
-# stackoverflow.com/questions/9741351/how-to-find-exit-code-or-reason-when-atexit-callback-is-called-in-python
-class _ExitHooks(object):
-    def __init__(self):
-        self.exit_code = None
-        self.exception = None
-
-    def hook(self):
-        self._orig_exit = sys.exit
-        sys.exit = self.exit
-        sys.excepthook = self.exc_handler
-
-    def exit(self, code=0):
-        self.exit_code = code
-        self._orig_exit(code)
-
-    def exc_handler(self, exc_type, exc, *args):
-        pysage.checkin_license(&quot;pascale&quot;)
-        self.exception = exc
-        raise exc
-
-#hooks = _ExitHooks()
-#hooks.hook()
-
-@</text>
+      <register name="7" type="2">
+        <text encoding="base64">I3Bhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoYWNvbmljXzEsIGFjb25pY18yLCBhY29uaWNfMywgYWNvbmljXzQsIGxzMSwgbHMyLCBsczMsIGxzNCwgJ2NvbmljLnNhdCcpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50ICJDaGVja2luZyBpbiBQYXNjYWxlIGxpY2Vuc2UiCg==</text>
+        <text encoding="base64">Y29ubmVjdGVkX3Byb2ZpbGUgPSBwYXNjYWxlLmN1cnZlLlByb2ZpbGUuZnJvbV9jdXJ2ZXMoYWNvbmljXzEsIGxzMSwgYWNvbmljXzIsIGxzMiwgYWNvbmljXzMsIGxzMywgYWNvbmljXzQsIGxzNCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAKZGVmIF9jaGVja19pbl9saWNlbnNlKCk6CiAgICBpZiBob29rcy5leGl0X2NvZGUgaXMgbm90IE5vbmU6CiAgICAgICAgcHlzYWdlLmNoZWNraW5fbGljZW5zZSgicGFzY2FsZSIpCiAgICBlbGlmIGhvb2tzLmV4Y2VwdGlvbiBpcyBub3QgTm9uZToKICAgICAgICBwYXNzCiAgICBlbHNlOgogICAgICAgIHB5c2FnZS5jaGVja2luX2xpY2Vuc2UoInBhc2NhbGUiKQogICAgIAphdGV4aXQucmVnaXN0ZXIoX2NoZWNrX2luX2xpY2Vuc2Up</text>
+      <register name="9" type="2">
+        <text encoding="base64">I3Bhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoYWNvbmljXzEsIGFjb25pY18yLCBhY29uaWNfMywgYWNvbmljXzQsIGxzMSwgbHMyLCBsczMsIGxzNCwgJ2NvbmljLnNhdCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -768,9 +749,9 @@ class _ExitHooks(object):
         <entry>256</entry>
         <entry>1475</entry>
         <entry>200</entry>
+        <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
