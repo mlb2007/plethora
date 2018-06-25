@@ -490,11 +490,11 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529959489883">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="17" column="63" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529961591840">
+        <mark key="[" line="84" column="39" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="22" column="41" />
       </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
         <mark key="[" line="250" column="0" />
@@ -621,7 +621,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoZHJfYm9keSwgJ2NvbmljLnNhdCcpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -642,7 +642,7 @@
         <text encoding="base64">IyA9PT09CiAgICBwcm9wX291dGxpbmVSID0gcGFzY2FsZS5jdXJ2ZS5CU3BsaW5lLnRocm91Z2hfcG9pbnRzKHByb3Bfb3V0bGluZV9wdHNSKQogICAgZW5kX3NlZ21lbnRSID0gcGFzY2FsZS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwcm9wX291dGxpbmVfcHRzUlstMV0sIHByb3Bfb3V0bGluZV9wdHNSWzBdKQogICAgZW5kX3NlZ21lbnRSLmNvbG9yKDEsIDAsIDApCiAgICBwcm9wX3NoZWV0UiA9IHBhc2NhbGUuYm9keS5QYXRjaC5jdXJ2ZV9jaXJjdWl0KHByb3Bfb3V0bGluZVIsIGVuZF9zZWdtZW50UikKICAgIHByb3Bfc2hlZXRSLmNvbG9yKDAsIDEsIDApCiAgICBwcm9wX3NoZWV0Ui50cmFuc2xhdGUoMi41LCAwLCAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoZHJfYm9keSwgJ2NvbmljLnNhdCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -675,25 +675,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3Bfb3V0bGluZV9wdHNMID0gKCgwLCAyLCAwKSwgKC01LjU0NiwgMCwgLTEuMTIpLCAoLTE0LCAwLCAwLjgyMyksICgtMTQuNCwgMCwgMy44MTMpLCAoLTksIDAsIDQpLCAoMCwgMCwgMikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb3Bfc2hlZXRfbS5jb2xvcigxLCAwLCAwKQo=</text>
+        <text encoding="base64">ICAgIHByb3Bfb3V0bGluZV9wdHNMID0gKCgwLCAyLCAwKSwgKC01LjU0NiwgMCwgLTEuMTIpLCAoLTE0LCAwLCAwLjgyMyksICgtMTQuNCwgMCwgMy44MTMpLCAoLTksIDAsIDQpLCAoMCwgMCwgMikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3Bfc2hlZXRfbSA9IHByb3Bfc2hlZXQubWlycm9yKCgxLCAwLCAwKSkK</text>
+        <text encoding="base64">ICAgIHByb3Bfc2hlZXRfbS5jb2xvcigxLCAwLCAwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb3Bfb3V0bGluZV9wdHMgPSAoKDAsIDAsIDApLCAoNS41NDYsIDAsIC0xLjEyKSwgKDE0LCAwLCAwLjgyMyksICgxNC40LCAwLCAzLjgxMyksICg5LCAwLCA0KSwgKDAsIDAsIDIpKQo=</text>
+        <text encoding="base64">ICAgIHByb3Bfc2hlZXRfbSA9IHByb3Bfc2hlZXQubWlycm9yKCgxLCAwLCAwKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3Bfc2hlZXQuY29sb3IoMCwgMSwgMCkK</text>
+        <text encoding="base64">ICAgIHByb3Bfb3V0bGluZV9wdHMgPSAoKDAsIDAsIDApLCAoNS41NDYsIDAsIC0xLjEyKSwgKDE0LCAwLCAwLjgyMyksICgxNC40LCAwLCAzLjgxMyksICg5LCAwLCA0KSwgKDAsIDAsIDIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpYTEgPSBsczEubGVuZ3RoCg==</text>
+        <text encoding="base64">ICAgIHByb3Bfc2hlZXQuY29sb3IoMCwgMSwgMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1pZHB0MSA9IGxzMS5taWRwb2ludAo=</text>
+        <text encoding="base64">ICAgIGRpYTEgPSBsczEubGVuZ3RoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
