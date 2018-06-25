@@ -256,7 +256,7 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="97" column="8" />
       </file>
-      <file name="/Python Console" timestamp="1529618304250">
+      <file name="/Python Console" timestamp="1529620351017">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1521264862563">
@@ -375,11 +375,6 @@
         <mark key="]" line="49" column="5" />
         <mark key="." line="49" column="5" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/install/lib/pascale/sage/_license.py" timestamp="1529618647433">
-        <mark key="[" line="92" column="13" />
-        <mark key="]" line="92" column="14" />
-        <mark key="." line="92" column="14" />
-      </file>
       <file name="$USER_HOME$/workspace/bugs/connect_issue/example_tess.py" timestamp="1527724101210">
         <mark key="'" line="29" column="8" />
         <mark key="[" line="29" column="8" />
@@ -495,6 +490,9 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529947476232">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="0" />
@@ -514,8 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="844" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
-      <jump line="1014" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1016" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1169" column="38" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="1208" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
@@ -614,13 +610,15 @@
       <jump line="26" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="393" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" />
+      <jump line="99" column="0" filename="$USER_HOME$/sandbox/Thyme/install/lib/pascale/sage/_license.py" />
+      <jump line="84" column="8" filename="$USER_HOME$/sandbox/Thyme/install/lib/pascale/sage/_license.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50ICJDYWxsZWQgZnJvbSBhdF9leGl0Igo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -632,16 +630,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
-        <text>trim</text>
+        <text encoding="base64">XDxzZWxmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdFRyaW0odW5pdHRlc3QuVGVzdENhc2UpOgogICAgZGVmIHRlc3RfdHJpbV9hdF9wYXJhbV8wXzVfZGlzY2FyZF9zdGFydChzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgc2FnZS5Qb2ludDNEKDAsIDAsIDApKQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAxCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgxKS5wb3NpdGlvbiA9PSAoMSwgMSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX3N0YXJ0X3N0cihzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgJ3N0YXJ0JykKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDEsIDEsIDApCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgwKS5wb3NpdGlvbiA9PSAoMC41LCAwLjUsIDApCgogICAgZGVmIHRlc3RfdHJpbV9hdF9wYXJhbV8wXzVfZGlzY2FyZF9lbmQoc2VsZik6CiAgICAgICAgcCA9IHNhZ2UuY3VydmUubGluZS5mcm9tX2VuZF9wb2ludHMoc3RhcnQ9KDAsIDAsIDApLCBlbmQ9KDEsIDEsIDApKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShwLCAwLjUsIHNhZ2UuUG9pbnQzRCgxLCAxLCAwKSkKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDAuNSwgMC41LCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gKDAuMCwgMC4wLCAwKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfZW5kX3N0cihzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgJ0VORCcpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDEpLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjAsIDAuMCwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX3N0YXJ0XzAyNShzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsIDAuNSwgc2FnZS5Qb2ludDNEKDAuMjUsIDAuMjUsIDApKQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAxCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgxKS5wb3NpdGlvbiA9PSAoMSwgMSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX2VuZF8wNzUoc2VsZik6CiAgICAgICAgcCA9IHNhZ2UuY3VydmUubGluZS5mcm9tX2VuZF9wb2ludHMoc3RhcnQ9KDAsIDAsIDApLCBlbmQ9KDEsIDEsIDApKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShwLCAwLjUsIHNhZ2UuUG9pbnQzRCgwLjc1LCAwLjc1LCAwKSkKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDAuNSwgMC41LCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gKDAuMCwgMC4wLCAwKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfZW5kXzA3NV9wb2ludF9hc190dXBsZShzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgcGllY2VzID0gc2FnZS5jdXJ2ZS50cmltKHAsICgwLjUsIDAuNSwgMCksICgwLjc1LCAwLjc1LCAwKSkKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMSkucG9zaXRpb24gPT0gKDAuNSwgMC41LCAwKQogICAgICAgIGFzc2VydCBwaWVjZXNbMF0uZXZhbHVhdGUoMCkucG9zaXRpb24gPT0gKDAuMCwgMC4wLCAwKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfc3RhcnRfMDI1X3BvaW50KHNlbGYpOgogICAgICAgIHAgPSBzYWdlLmN1cnZlLmxpbmUuZnJvbV9lbmRfcG9pbnRzKHN0YXJ0PSgwLCAwLCAwKSwgZW5kPSgxLCAxLCAwKSkKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0ocCwgc2FnZS5Qb2ludDNEKDAuNSwgMC41LCAwKSwgKDAuMjUsIDAuMjUsIDApKQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAxCiAgICAgICAgYXNzZXJ0IHBpZWNlc1swXS5ldmFsdWF0ZSgxKS5wb3NpdGlvbiA9PSAoMSwgMSwgMCkKICAgICAgICBhc3NlcnQgcGllY2VzWzBdLmV2YWx1YXRlKDApLnBvc2l0aW9uID09ICgwLjUsIDAuNSwgMCkKCiAgICBkZWYgdGVzdF90cmltX2F0X3BhcmFtXzBfNV9kaXNjYXJkX21pZChzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgIyB0aGUgZGlzY2FyZCBwb2ludCBpcyBzdWNoIHRoYXQgYm90aCBjdXJ2ZSBwaWVjZXMgaGF2ZSBiZWVuIHRyaW1tZWQgb2ZmLCB0aHJvdwogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhSdW50aW1lRXJyb3IpOgogICAgICAgICAgICBzYWdlLmN1cnZlLnRyaW0ocCwgMC41LCBzYWdlLlBvaW50M0QoMC41LCAwLjUsIDApKQoKICAgIGRlZiB0ZXN0X3RyaW1fYXRfcGFyYW1fMF81X2Rpc2NhcmRfbWlkX3N0cihzZWxmKToKICAgICAgICBwID0gc2FnZS5jdXJ2ZS5saW5lLmZyb21fZW5kX3BvaW50cyhzdGFydD0oMCwgMCwgMCksIGVuZD0oMSwgMSwgMCkpCiAgICAgICAgIyB0aGUgZGlzY2FyZCBwb2ludCBpcyBzdWNoIHRoYXQgYm90aCBjdXJ2ZSBwaWVjZXMgaGF2ZSBiZWVuIHRyaW1tZWQgb2ZmLCB0aHJvdwogICAgICAgIHdpdGggcHl0ZXN0LnJhaXNlcyhSdW50aW1lRXJyb3IpOgogICAgICAgICAgICBzYWdlLmN1cnZlLnRyaW0ocCwgMC41LCAnbWlkJykKCiAgICBkZWYgdGVzdF9iZXppZXJfZGlzY2FyZF9taWRkbGUoc2VsZik6CiAgICAgICAgYiA9IHNhZ2UuY3VydmUuYmV6aWVyLmZyb21fY29udHJvbF9wb2ludHMoc2FnZS5PUklHSU4sIHNhZ2UuVU5JVF9WRUNfWiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzYWdlLlVOSVRfVkVDX1ggKyBzYWdlLlVOSVRfVkVDX1osCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2FnZS5VTklUX1ZFQ19YKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKHNhZ2UuVU5JVF9WRUNfWiAqIDAuMiwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShiLCBwLCBiLm1pZHBvaW50KQogICAgICAgIGFzc2VydCBwaWVjZXMuY291bnQoKSA9PSAyCiAgICAgICAgYXNzZXJ0IGFicyhwaWVjZXNbMF0uZW5kLnogLSAwLjIpIDwgc2FnZS5GTE9BVF9UT0wKICAgICAgICBhc3NlcnQgYWJzKHBpZWNlc1stMV0uc3RhcnQueiAtIDAuMikgPCBzYWdlLkZMT0FUX1RPTAoKICAgIGRlZiB0ZXN0X2NpcmNsZV9kaXNjYXJkX2hhbGYoc2VsZik6CiAgICAgICAgYyA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDMsIDAsIDQpLCA0LCBzYWdlLlVOSVRfVkVDX1kpCiAgICAgICAgcCA9IHNhZ2UucGxhbmUuZnJvbV9wb2ludF9ub3JtYWwoc2FnZS5VTklUX1ZFQ19aICogNCwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShjLCBwLCAoMywgMCwgOCkpCiAgICAgICAgYXNzZXJ0IHBpZWNlcy5jb3VudCgpID09IDEKICAgICAgICBhc3NlcnQgcGllY2VzLmV4cGVjdF9zaW5nbGUoKS5sZW5ndGggPCAyICogMy4xICogNAogICAgICAgIGFzc2VydCBwaWVjZXMuZXhwZWN0X3NpbmdsZSgpLmJib3hbMV0ueiA8IDUKCiAgICBkZWYgdGVzdF9jaXJjbGVfZGlzY2FyZF9oYWxmX3BhcmFtX2Rpc2NhcmQoc2VsZik6CiAgICAgICAgYyA9IHNhZ2UuY3VydmUuY2lyY2xlLmZyb21fY2VudGVyX3JhZGl1c19ub3JtYWwoKDMsIDAsIDQpLCA0LCBzYWdlLlVOSVRfVkVDX1kpCiAgICAgICAgcCA9IHNhZ2UucGxhbmUuZnJvbV9wb2ludF9ub3JtYWwoc2FnZS5VTklUX1ZFQ19aICogNCwgc2FnZS5VTklUX1ZFQ19aKQogICAgICAgICMgdGhlIGRpc2NhcmQgcG9pbnQgaXMgc3VjaCB0aGF0IGJvdGggY3VydmUgcGllY2VzIGhhdmUgYmVlbiB0cmltbWVkIG9mZiwgdGhyb3cKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoUnVudGltZUVycm9yKToKICAgICAgICAgICAgc2FnZS5jdXJ2ZS50cmltKGMsIHAsIDAuNSkKCiAgICBkZWYgdGVzdF9jaXJjbGVfaW5fc3BhY2VfY3V0X2J5X3BsYW5lKHNlbGYpOgogICAgICAgIGMgPSBzYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgxLCAxLCAxKSwgNCwgKDEsIDEsIDEpKQogICAgICAgIHAgPSBzYWdlLnBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgxLCAxLCAxKSwgKDAsIC0xLCAxKSkKICAgICAgICBwaWVjZXMgPSBzYWdlLmN1cnZlLnRyaW0oYywgcCwgJ3N0YXJ0JykKICAgICAgICBhc3NlcnQgcGllY2VzLmNvdW50KCkgPT0gMQogICAgICAgIGFzc2VydCBwaWVjZXMuZXhwZWN0X3NpbmdsZSgpLmxlbmd0aCA8IDIgKiAzLjEgKiA0CiAgICAgICAgYXNzZXJ0IHBpZWNlcy5leHBlY3Rfc2luZ2xlKCkuYmJveFsxXS56IDwgNC41CgogICAgZGVmIHRlc3RfY2lyY2xlX2luX3NwYWNlX2N1dF9ieV9wYXJhbGxlbF9wbGFuZShzZWxmKToKICAgICAgICBjID0gc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoMSwgMSwgMSksIDQsICgxLCAxLCAxKSkKICAgICAgICBwID0gc2FnZS5wbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMSwgMSwgMSksICgxLCAxLCAxKSkKICAgICAgICB3aXRoIHB5dGVzdC5yYWlzZXMoVmFsdWVFcnJvcik6CiAgICAgICAgICAgIHBpZWNlcyA9IHNhZ2UuY3VydmUudHJpbShjLCBwLCAnc3RhcnQnKQoK</text>
+        <text>pysage.checkin_license(&quot;pascale&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50ICJDYWxsZWQgZnJvbSBhdF9leGl0Igo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,46 +669,69 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgY2xhc3MgVGVzdFRyaW0odW5pdHRlc3QuVGVzdENhc2UpOgo=</text>
+        <text encoding="base64">I3N5cy5leGNlcHRob29rID0gX3Rocm93X2V4Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHJhaXNlIGV4Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzYWdlLmN1cnZlLlRyaW0uYXRfcGFyYW1ldGVyKGNydixwYXJhbSkK</text>
+        <text encoding="base64">ICAgIF9jaGVja19pbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIF90aHJvd19leChleGNfdHlwZSwgZXgsICphcmdzKToK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text># monkey patch sys exit
+# capture exceptions and check-in license
+# stackoverflow.com/questions/9741351/how-to-find-exit-code-or-reason-when-atexit-callback-is-called-in-python
+class _ExitHooks(object):
+    def __init__(self):
+        self.exit_code = None
+        self.exception = None
+
+    def hook(self):
+        self._orig_exit = sys.exit
+        sys.exit = self.exit
+        sys.excepthook = self.exc_handler
+
+    def exit(self, code=0):
+        self.exit_code = code
+        self._orig_exit(code)
+
+    def exc_handler(self, exc_type, exc, *args):
+        pysage.checkin_license(&quot;pascale&quot;)
+        self.exception = exc
+        raise exc
+
+#hooks = _ExitHooks()
+#hooks.hook()
+
+@</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiB0cmltX2F0X3BhcmFtKHNlbGYsIHBhcmFtKToK</text>
+        <text encoding="base64">ICAgIHByaW50ICJDaGVja2luZyBpbiBQYXNjYWxlIGxpY2Vuc2UiCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICB4ZT1oc3RyYXQudHVwbGVzKGhzdHJhdC5mbG9hdHMoLTFlNiwgMWU2KSwgaHN0cmF0LmZsb2F0cygtMWU2LCAxZTYpLCBoc3RyYXQuZmxvYXRzKC0xZTYsIDFlNikpKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAKZGVmIF9jaGVja19pbl9saWNlbnNlKCk6CiAgICBpZiBob29rcy5leGl0X2NvZGUgaXMgbm90IE5vbmU6CiAgICAgICAgcHlzYWdlLmNoZWNraW5fbGljZW5zZSgicGFzY2FsZSIpCiAgICBlbGlmIGhvb2tzLmV4Y2VwdGlvbiBpcyBub3QgTm9uZToKICAgICAgICBwYXNzCiAgICBlbHNlOgogICAgICAgIHB5c2FnZS5jaGVja2luX2xpY2Vuc2UoInBhc2NhbGUiKQogICAgIAphdGV4aXQucmVnaXN0ZXIoX2NoZWNrX2luX2xpY2Vuc2Up</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>trim</last-search>
+      <last-search encoding="base64">XDxzZWxmXD4=</last-search>
       <last-offset />
-      <last-pattern>trim</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxmXD4=</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>test_</entry>
-        <entry>pickle</entry>
         <entry>write(</entry>
         <entry>tanget</entry>
         <entry>CubicSpline</entry>
@@ -729,9 +750,10 @@
         <entry>reverse(</entry>
         <entry>trim(</entry>
         <entry>trim</entry>
+        <entry encoding="base64">XDxhdGV4aXRcPg==</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/as2Components/AS2Components/gc</entry>
         <entry>1</entry>
         <entry>2254</entry>
         <entry>4131</entry>
@@ -751,6 +773,7 @@
         <entry>200</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
