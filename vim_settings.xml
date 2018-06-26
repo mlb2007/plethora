@@ -490,10 +490,12 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529965065676">
-        <mark key="[" line="74" column="18" />
-        <mark key="]" line="110" column="101" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529970568554">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
         <mark key="[" line="250" column="0" />
@@ -514,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1208" column="14" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="243" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_tessellate.py" />
       <jump line="107" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="127" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" />
@@ -614,13 +615,14 @@
       <jump line="84" column="8" filename="$USER_HOME$/sandbox/Thyme/install/lib/pascale/sage/_license.py" />
       <jump line="81" column="4" filename="$USER_HOME$/workspace/AIAA2018/prop.py" />
       <jump line="92" column="4" filename="$USER_HOME$/workspace/AIAA2018/prop.py" />
+      <jump line="20" column="33" filename="$USER_HOME$/workspace/AIAA2018/prop.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoZHJfYm9keSwgYmxhZGVfYm9keSwgYmxhZGVfYm9keTIsIGJsYWRlX2JvZHkzICwgYmxhZGVfYm9keTQsICdhbGwuc2F0JykK</text>
+        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoYmxhZGVfYm9keSwgJ2JsYWRlLnNhdCcpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -635,13 +637,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibGFkZV9ib2R5Mlw+</text>
+        <text encoding="base64">XDxDeWxpbmRlclw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGJsYWRlX2JvZHkyID0gX2JsYWRlX2JvZHkuY29weSgpCiAgICBibGFkZV9ib2R5Mi50cmFuc2xhdGUoZHJfY2VudHJvaWQpCiAgICBibGFkZV9ib2R5Mi50cmFuc2xhdGUoZHJfY2VudHJvaWQtbHMyLm1pZHBvaW50KQogICAgYmxhZGVfYm9keTIudHJhbnNsYXRlKDAsIDAsIDEuKQogICAgYmxhZGVfYm9keTIuY29sb3IoMSwgMCwgMCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoZHJfYm9keSwgYmxhZGVfYm9keSwgYmxhZGVfYm9keTIsIGJsYWRlX2JvZHkzICwgYmxhZGVfYm9keTQsICdhbGwuc2F0JykK</text>
+        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoYmxhZGVfYm9keSwgJ2JsYWRlLnNhdCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,45 +673,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbF9ib2R5ID0gZHJfYm9keSArIGJsYWRlX2JvZHkgKyBibGFkZV9ib2R5MiArIGJsYWRlX2JvZHkzICsgYmxhZGVfYm9keTQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFsbF9ib2R5ID0gZHJfYm9keSArIGJsYWRlX2JvZHkgKyBibGFkZV9ib2R5MiArIGJsYWRlX2JvZHkzICsgYmxhZGVfYm9keTQK</text>
+        <text encoding="base64">ICAgICNwYXNjYWxlLmlvLkV4cG9ydC50b19maWxlKGRyX2JvZHksICdjb25pYy5zYXQnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJsYWRlX2JvZHkyLnJvdGF0ZSgoMCwgMCwgMSksIDMwKQo=</text>
+        <text encoding="base64">ICAgICNkcl9ib2R5LnRyYW5zbGF0ZSgwLCAwLCAwKSAjLWRyX2NlbnRyb2lkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJsYWRlX2JvZHkzLnJvdGF0ZSgoMCwgMCwgMSksIDYwKQo=</text>
+        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoZHJfYm9keSwgYmxhZGVfYm9keSwgYmxhZGVfYm9keTIsIGJsYWRlX2JvZHkzICwgYmxhZGVfYm9keTQsICdhbGwuc2F0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJsYWRlX2JvZHkyLnJvdGF0ZSgoMCwgMCwgMSksIDMwKQo=</text>
+        <text encoding="base64">ICAgIGFsbF9ib2R5ID0gZHJfYm9keSArIGJsYWRlX2JvZHkgKyBibGFkZV9ib2R5MiArIGJsYWRlX2JvZHkzICsgYmxhZGVfYm9keTQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJsYWRlX2JvZHk0LnJvdGF0ZSgoMCwgMCwgMSksIDkwLCBkcl9jZW50cm9pZC1sczQubWlkcG9pbnQpCg==</text>
+        <text encoding="base64">ICAgIGFsbF9ib2R5ID0gZHJfYm9keSArIGJsYWRlX2JvZHkgKyBibGFkZV9ib2R5MiArIGJsYWRlX2JvZHkzICsgYmxhZGVfYm9keTQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJsYWRlX2JvZHkzLnJvdGF0ZSgoMCwgMCwgMSksIDYwLCBkcl9jZW50cm9pZC1sczMubWlkcG9pbnQpCg==</text>
+        <text encoding="base64">ICAgIGJsYWRlX2JvZHkyLnJvdGF0ZSgoMCwgMCwgMSksIDMwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJsYWRlX2JvZHkyLnJvdGF0ZSgoMCwgMCwgMSksIDMwLCBkcl9jZW50cm9pZC1sczIubWlkcG9pbnQpCg==</text>
+        <text encoding="base64">ICAgIGJsYWRlX2JvZHkzLnJvdGF0ZSgoMCwgMCwgMSksIDYwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxibGFkZV9ib2R5Mlw+</last-search>
+      <last-search encoding="base64">XDxDeWxpbmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibGFkZV9ib2R5Mlw+</last-pattern>
+      <last-pattern encoding="base64">XDxDeWxpbmRlclw+</last-pattern>
       <last-replace>ntest_</last-replace>
       <last-substitute>test_</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>CubicSpline</entry>
         <entry>InterpolatedSpline</entry>
         <entry>copy.copy</entry>
         <entry>deepcopy</entry>
@@ -729,6 +730,7 @@
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxibGFkZV9ib2R5XD4=</entry>
         <entry encoding="base64">XDxibGFkZV9ib2R5Mlw+</entry>
+        <entry encoding="base64">XDxDeWxpbmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>1</entry>
