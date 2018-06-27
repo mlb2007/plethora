@@ -495,10 +495,10 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1530059922214">
-        <mark key="[" line="66" column="51" />
-        <mark key="]" line="66" column="51" />
-        <mark key="." line="66" column="51" />
+      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1530107703585">
+        <mark key="[" line="59" column="4" />
+        <mark key="]" line="59" column="4" />
+        <mark key="." line="59" column="4" />
         <mark key="^" line="66" column="51" />
       </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
@@ -625,8 +625,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQgIjEiLCBmZGF0YVs6LCAwXQo=</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -638,7 +638,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDeWxpbmRlclw+</text>
