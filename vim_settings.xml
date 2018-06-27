@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528786463513">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/AIAA2018/to_stl.py" timestamp="1530060636640">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="39" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
       </file>
@@ -490,10 +496,11 @@
         <mark key="^" line="292" column="18" />
         <mark key="." line="292" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1529974734346">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/workspace/AIAA2018/prop.py" timestamp="1530059922214">
+        <mark key="[" line="66" column="51" />
+        <mark key="]" line="66" column="51" />
+        <mark key="." line="66" column="51" />
+        <mark key="^" line="66" column="51" />
       </file>
       <file name="$USER_HOME$/virtual-py/lib/python2.7/site-packages/sage/query.py" timestamp="1524691710124">
         <mark key="[" line="250" column="0" />
@@ -619,8 +626,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICNiX2VkZ2UgPSBibGFkZV9jZW50ZXIuZWRnZXMud2l0aF95X2JldHdlZW4oLTQsIC0xKS5leHBlY3Rfc2luZ2xlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -632,7 +639,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDeWxpbmRlclw+</text>
@@ -641,7 +648,7 @@
         <text encoding="base64">IGJsYWRlX2JvZHkyID0gX2JsYWRlX2JvZHkuY29weSgpCiAgICBibGFkZV9ib2R5Mi50cmFuc2xhdGUoZHJfY2VudHJvaWQpCiAgICBibGFkZV9ib2R5Mi50cmFuc2xhdGUoZHJfY2VudHJvaWQtbHMyLm1pZHBvaW50KQogICAgYmxhZGVfYm9keTIudHJhbnNsYXRlKDAsIDAsIDEuKQogICAgYmxhZGVfYm9keTIuY29sb3IoMSwgMCwgMCkKICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICNiX2VkZ2UgPSBibGFkZV9jZW50ZXIuZWRnZXMud2l0aF95X2JldHdlZW4oLTQsIC0xKS5leHBlY3Rfc2luZ2xlKCkK</text>
+        <text encoding="base64">ICAgIHBhc2NhbGUuaW8uRXhwb3J0LnRvX2ZpbGUoYmxhZGVfYm9keSwgJ2JsYWRlLnNhdCcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -671,31 +678,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgbWluLCBtYXggc3RyaWN0bHkgZW5mb3JjZWQgaGVyZS4uLiEhCg==</text>
+        <text encoding="base64">ICAgICNiX2VkZ2UgPSBibGFkZV9jZW50ZXIuZWRnZXMud2l0aF95X2JldHdlZW4oLTQsIC0xKS5leHBlY3Rfc2luZ2xlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICNibGVuZAo=</text>
+        <text encoding="base64">ICAgICMgbWluLCBtYXggc3RyaWN0bHkgZW5mb3JjZWQgaGVyZS4uLiEhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICNwYXNjYWxlLmlvLkV4cG9ydC50b19maWxlKGJsYWRlX2NlbnRlciwgJ2JsYWRlLnNhdCcpCg==</text>
+        <text encoding="base64">ICAgICNibGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByb3Bfc2hlZXRMLnRyYW5zbGF0ZSgwLCB5YWRqdXN0LCAwLjApCg==</text>
+        <text encoding="base64">ICAgICNwYXNjYWxlLmlvLkV4cG9ydC50b19maWxlKGJsYWRlX2NlbnRlciwgJ2JsYWRlLnNhdCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZF9zZWdtZW50TC5jb2xvcigxLCAwLCAwKQo=</text>
+        <text encoding="base64">ICAgIHByb3Bfc2hlZXRMLnRyYW5zbGF0ZSgwLCB5YWRqdXN0LCAwLjApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlhZGp1c3QgPSAtMi41Cg==</text>
+        <text encoding="base64">ICAgIGVuZF9zZWdtZW50TC5jb2xvcigxLCAwLCAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb3Bfc2hlZXRSLnRyYW5zbGF0ZSgwLCB5YWRqdXN0LCAwLjApCg==</text>
+        <text encoding="base64">ICAgIHlhZGp1c3QgPSAtMi41Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZF9zZWdtZW50Ui5jb2xvcigxLCAwLCAwKQo=</text>
+        <text encoding="base64">ICAgIHByb3Bfc2hlZXRSLnRyYW5zbGF0ZSgwLCB5YWRqdXN0LCAwLjApCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -739,7 +746,6 @@
         <entry>+42162</entry>
         <entry>40346</entry>
         <entry>+80688</entry>
-        <entry>q</entry>
         <entry>182</entry>
         <entry>s/sat/igs/gc</entry>
         <entry>%s/sat/igs/gc</entry>
@@ -751,6 +757,7 @@
         <entry>wa</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
