@@ -114,11 +114,15 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/embraer/edit.py" timestamp="1534484696391">
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
+      <file name="$USER_HOME$/workspace/embraer/edit.py" timestamp="1534488594870">
+        <mark key="'" line="46" column="13" />
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="35" column="47" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/variadic.py" timestamp="1534486138762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526592261194">
         <mark key="'" line="1434" column="19" />
@@ -389,6 +393,9 @@
         <mark key="]" line="933" column="0" />
         <mark key="." line="933" column="0" />
       </file>
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/core.py" timestamp="1534486109462">
+        <mark key="'" line="143" column="6" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="21" column="29" />
@@ -551,13 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="596" column="39" filename="$USER_HOME$/sandbox/Thyme/install/lib/sage/cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1898" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1901" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1907" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="1913" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="385" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="46" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="502" column="41" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
@@ -651,13 +651,20 @@
       <jump line="7" column="4" filename="$USER_HOME$/workspace/embraer/embraer.py" />
       <jump line="161" column="0" filename="$USER_HOME$/workspace/embraer/embraer.py" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/embraer/embraer.py" />
+      <jump line="143" column="6" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/core.py" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/embraer/edit.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/embraer/edit.py" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/embraer/edit.py" />
+      <jump line="33" column="4" filename="$USER_HOME$/workspace/embraer/edit.py" />
+      <jump line="36" column="1" filename="$USER_HOME$/workspace/embraer/edit.py" />
+      <jump line="39" column="13" filename="$USER_HOME$/workspace/embraer/edit.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IyBWSUVXRVIgLi4KZGVmIHNob3coKmVudGl0aWVzKToKICAgIGNvbW1vbl92aWV3ZXJfc2F0ID0gJ3ZpZXcuc2F0JwogICAgcGEuaW8uRXhwb3J0LnRvX2ZpbGUoZW50aXRpZXMsIGNvbW1vbl92aWV3ZXJfc2F0KQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzaG93KFtjcnYsIG9yaWdfY3J2XSArIGN0cmxfcG9seV9saW5lcykK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -669,16 +676,26 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YWlsX21pZF9zZWNfcG9zXD4=</text>
+        <text encoding="base64">XDxyb290X2FmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IyBWSUVXRVIgLi4KZGVmIHNob3coKmVudGl0aWVzKToKICAgIGNvbW1vbl92aWV3ZXJfc2F0ID0gJ3ZpZXcuc2F0JwogICAgcGEuaW8uRXhwb3J0LnRvX2ZpbGUoZW50aXRpZXMsIGNvbW1vbl92aWV3ZXJfc2F0KQo=</text>
+        <text>ctrl_poly_lines = list()
+for i, pt in enumerate(ctrl_pts):
+    j = (i + 1) % len(ctrl_pts)
+    pt_s = ctrl_pts[i]
+    pt_e = ctrl_pts[j]
+    ln = pa.curve.Line.from_end_points(pt_s, pt_e)
+    ctrl_poly_lines.append(ln)
+
+print ctrl_poly_lines
+
+show([af_edge] + ctrl_poly_lines)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFpbF9taWRfYWYucm90YXRlKHBhLlVOSVRfVkVDX1ksIDgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93KFtjcnYsIG9yaWdfY3J2XSArIGN0cmxfcG9seV9saW5lcykK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -711,19 +728,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWRpdG9yLmluc2VydF9rbm90X2F0KDAuMiwgbXVsdGlwbGljaXR5PTIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBmb3IgY29udmVuaWVuY2UK</text>
+        <text encoding="base64">IyBrbm90IHZlY3Rvcgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29tbW9uX3ZpZXdlcl9zYXQgPSAndmlldy5zYXQnCg==</text>
+        <text encoding="base64">cHJpbnQgZWRpdG9yLmRlZ3JlZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBzaG93X2N1cnZlX2FuZF9jdHJsX3B0cyhjcnYsIGN0cmxfcHRzKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -736,9 +753,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YWlsX21pZF9zZWNfcG9zXD4=</last-search>
+      <last-search encoding="base64">XDxyb290X2FmXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YWlsX21pZF9zZWNfcG9zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb290X2FmXD4=</last-pattern>
       <last-replace>back</last-replace>
       <last-substitute>front</last-substitute>
       <last-dir>1</last-dir>
@@ -746,8 +763,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYWdlXD4=</entry>
-        <entry encoding="base64">XDxmaWxsZXRfY3VydmVzX2FuZF9jb21iaW5lXD4=</entry>
         <entry>Bodies</entry>
         <entry encoding="base64">XDxjM1w+</entry>
         <entry>Branched</entry>
@@ -764,8 +779,10 @@
         <entry>front</entry>
         <entry encoding="base64">XDx0YWlsX3NlY18xXD4=</entry>
         <entry encoding="base64">XDxoX3RhaWxfcG9zXD4=</entry>
-        <entry encoding="base64">XDxzaG93XD4=</entry>
         <entry encoding="base64">XDx0YWlsX21pZF9zZWNfcG9zXD4=</entry>
+        <entry>variadic</entry>
+        <entry encoding="base64">XDxzaG93XD4=</entry>
+        <entry encoding="base64">XDxyb290X2FmXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>2254</entry>
