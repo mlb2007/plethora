@@ -114,10 +114,10 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/embraer/edit.py" timestamp="1534488594870">
+      <file name="$USER_HOME$/workspace/embraer/edit.py" timestamp="1534636272308">
         <mark key="'" line="46" column="13" />
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="35" column="47" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="68" column="49" />
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/variadic.py" timestamp="1534486138762">
@@ -130,6 +130,11 @@
         <mark key="]" line="752" column="41" />
         <mark key="^" line="752" column="41" />
         <mark key="." line="752" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/embraer/fairing.py" timestamp="1534634549574">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" timestamp="1528761090160">
         <mark key="'" line="0" column="0" />
@@ -162,10 +167,6 @@
         <mark key="]" line="168" column="60" />
         <mark key="." line="168" column="60" />
         <mark key="^" line="168" column="60" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/sketch.py" timestamp="1528740082405">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="97" column="8" />
       </file>
       <file name="/Python Console" timestamp="1533762146040">
         <mark key="[" line="0" column="0" />
@@ -248,6 +249,12 @@
         <mark key="]" line="273" column="14" />
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
+      </file>
+      <file name="$USER_HOME$/workspace/embraer/ex_airfoil.py" timestamp="1534637252801">
+        <mark key="'" line="65" column="30" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512405610496">
         <mark key="'" line="3441" column="88" />
@@ -558,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="385" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
       <jump line="46" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
       <jump line="502" column="41" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
@@ -658,13 +664,14 @@
       <jump line="33" column="4" filename="$USER_HOME$/workspace/embraer/edit.py" />
       <jump line="36" column="1" filename="$USER_HOME$/workspace/embraer/edit.py" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/embraer/edit.py" />
+      <jump line="67" column="30" filename="$USER_HOME$/workspace/embraer/ex_airfoil.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93KFtjcnYsIG9yaWdfY3J2XSArIGN0cmxfcG9seV9saW5lcykK</text>
+        <text encoding="base64">Ym90X2FmID0gdG9wX2FmLm1pcnJvcihwYS5VTklUX1ZFQ19aKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -682,20 +689,10 @@
         <text encoding="base64">XDxyb290X2FmXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ctrl_poly_lines = list()
-for i, pt in enumerate(ctrl_pts):
-    j = (i + 1) % len(ctrl_pts)
-    pt_s = ctrl_pts[i]
-    pt_e = ctrl_pts[j]
-    ln = pa.curve.Line.from_end_points(pt_s, pt_e)
-    ctrl_poly_lines.append(ln)
-
-print ctrl_poly_lines
-
-show([af_edge] + ctrl_poly_lines)</text>
+        <text encoding="base64">cGVydHVyYmVkID0gZWRpdG9yLnRvX2N1cnZlKCkKCnNob3dfY3VydmVfYW5kX2N0cmxfcHRzKHBlcnR1cmJlZCwgY3RybF9wdHMsIGNydikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93KFtjcnYsIG9yaWdfY3J2XSArIGN0cmxfcG9seV9saW5lcykK</text>
+        <text encoding="base64">Ym90X2FmID0gdG9wX2FmLm1pcnJvcihwYS5VTklUX1ZFQ19aKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -728,25 +725,25 @@ show([af_edge] + ctrl_poly_lines)</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWRpdG9yLmluc2VydF9rbm90X2F0KDAuMiwgbXVsdGlwbGljaXR5PTIpCg==</text>
+        <text encoding="base64">cGVydHVyYmVkX2JvdF9hZiA9IHBlcnR1cmJlZC5taXJyb3IocGEuVU5JVF9WRUNfWikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBrbm90IHZlY3Rvcgo=</text>
+        <text encoding="base64">IyBnZXQgdGhlIG1pcnJvciBvZiB0aGUgcGVydHVyYmVkIGN1cnZlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b3JpZ19jcnYgPSBwYS5jdXJ2ZS5Kb2luLm1ha2Vfc2luZ2xlX2N1cnZlKHRvcF9hZiwgYm90X2FmKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgZWRpdG9yLmRlZ3JlZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBzaG93X2N1cnZlX2FuZF9jdHJsX3B0cyhjcnYsIGN0cmxfcHRzKQo=</text>
+        <text encoding="base64">Y3J2ID0gcGEuY3VydmUuQ29tYmluZWRDdXJ2ZS4ocGVydHVyYmVkLCBwZXJ0dXJiZWRfYm90X2FmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmaW5hbGx5IHRoZSBwZXJ0dXJiZWQgY3VydmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjaGVjayBwb2ludAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -785,7 +782,6 @@ show([af_edge] + ctrl_poly_lines)</text>
         <entry encoding="base64">XDxyb290X2FmXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>2254</entry>
         <entry>4131</entry>
         <entry>2237</entry>
         <entry>21133</entry>
@@ -802,8 +798,9 @@ show([af_edge] + ctrl_poly_lines)</text>
         <entry>200</entry>
         <entry>wa</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>145,148s/front/back/gc</entry>
+        <entry>q!</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
