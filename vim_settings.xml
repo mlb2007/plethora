@@ -72,6 +72,13 @@
         <mark key="^" line="288" column="35" />
         <mark key="." line="288" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/IAC/rocket_IAC.py" timestamp="1537488538462">
+        <mark key="'" line="56" column="9" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_sketch.py" timestamp="1515535019036">
         <mark key="[" line="593" column="0" />
         <mark key="]" line="593" column="0" />
@@ -106,6 +113,11 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1536358167178">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" timestamp="1524529452392">
         <mark key="'" line="88" column="51" />
@@ -300,11 +312,6 @@
         <mark key="]" line="44" column="4" />
         <mark key="." line="44" column="4" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curve.py" timestamp="1528759910158">
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/tmp/test_tri.py" timestamp="1515175727452">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -493,6 +500,12 @@
         <mark key="]" line="203" column="0" />
         <mark key="." line="203" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/resources/scratch.py" timestamp="1536346549487">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="24" column="22" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" timestamp="1521581399159">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="46" column="0" />
@@ -565,22 +578,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/core.py" />
-      <jump line="502" column="41" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/bugs/boolean_3_21_2018/wing_strake.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/bugs/loft_bug_3_27_18/wing_strake.py" />
-      <jump line="305" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="459" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="719" column="58" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="215" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/query.py" />
-      <jump line="601" column="8" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
-      <jump line="4" column="10" filename="$USER_HOME$/sandbox/Thyme/target/pytests/tests/test_curve.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="128" column="13" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
-      <jump line="255" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="324" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="25" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="112" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="220" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
@@ -665,13 +662,29 @@
       <jump line="36" column="1" filename="$USER_HOME$/workspace/embraer/edit.py" />
       <jump line="39" column="13" filename="$USER_HOME$/workspace/embraer/edit.py" />
       <jump line="67" column="30" filename="$USER_HOME$/workspace/embraer/ex_airfoil.py" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="33" column="16" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="39" column="44" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="40" column="15" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="38" column="14" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="51" column="41" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="54" column="8" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="55" column="8" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="56" column="8" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="57" column="8" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="63" column="9" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="34" column="14" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="44" column="9" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ym90X2FmID0gdG9wX2FmLm1pcnJvcihwYS5VTklUX1ZFQ19aKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -683,16 +696,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290X2FmXD4=</text>
+        <text>body2</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGVydHVyYmVkID0gZWRpdG9yLnRvX2N1cnZlKCkKCnNob3dfY3VydmVfYW5kX2N0cmxfcHRzKHBlcnR1cmJlZCwgY3RybF9wdHMsIGNydikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ym90X2FmID0gdG9wX2FmLm1pcnJvcihwYS5VTklUX1ZFQ19aKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -725,46 +738,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGVydHVyYmVkX2JvdF9hZiA9IHBlcnR1cmJlZC5taXJyb3IocGEuVU5JVF9WRUNfWikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">IyBnZXQgdGhlIG1pcnJvciBvZiB0aGUgcGVydHVyYmVkIGN1cnZlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">b3JpZ19jcnYgPSBwYS5jdXJ2ZS5Kb2luLm1ha2Vfc2luZ2xlX2N1cnZlKHRvcF9hZiwgYm90X2FmKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBub3NlID0gbm9zZV9idWxnZSArIG5vc2UK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIG1ha2VfYm9vc3RlcihiX2gsIGJvZHkpOgogICAgYm9vc3RlciA9IHBhLmJvZHkuRnJ1c3R1bS5mcm9tX2NlbnRlcnNfcmFkaWkocGEuT1JJR0lOLCAoMCwgMCwgLWJfaCksIDAuOCwgMS41KQogICAgYm9keSArPSBib29zdGVyCgogICAgcl9ib29zdGVyX3NwYWNpbmcgPSA0LjEKICAgIGZvciBpIGluIG5wLmxpbnNwYWNlKDAsIDM2MCwgOSk6CiAgICAgICAgdG1wX2xpbmUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwYS5PUklHSU4sICgwLCByX2Jvb3N0ZXJfc3BhY2luZywgMCkpCiAgICAgICAgdG1wX2xpbmUucm90YXRlKHBhLlVOSVRfVkVDX1osIGkpCiAgICAgICAgYiA9IGJvb3N0ZXIuY29weSgpLnRyYW5zbGF0ZSh0bXBfbGluZS5lbmQpCiAgICAgICAgYm9keSArPSBiCiAgICByZXR1cm4gYm9keQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3J2ID0gcGEuY3VydmUuQ29tYmluZWRDdXJ2ZS4ocGVydHVyYmVkLCBwZXJ0dXJiZWRfYm90X2FmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBmaW5hbGx5IHRoZSBwZXJ0dXJiZWQgY3VydmUK</text>
+        <text encoding="base64">I25vc2VfYnVsZ2Uucm90YXRlKHBhLlVOSVRfVkVDX1osIC0xNSAvIDIgLSA0NSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBjaGVjayBwb2ludAo=</text>
+        <text encoding="base64">I25vc2VfYnVsZ2Uucm90YXRlKHBhLlVOSVRfVkVDX1osIC0xNSAvIDIgLSA0NSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290X2FmXD4=</last-search>
+      <last-search>body2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290X2FmXD4=</last-pattern>
-      <last-replace>back</last-replace>
-      <last-substitute>front</last-substitute>
+      <last-pattern>body2</last-pattern>
+      <last-replace>stage_2</last-replace>
+      <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Bodies</entry>
-        <entry encoding="base64">XDxjM1w+</entry>
-        <entry>Branched</entry>
-        <entry>Wire</entry>
-        <entry>Line</entry>
         <entry>reverse(</entry>
         <entry>trim(</entry>
         <entry>trim</entry>
@@ -780,13 +788,13 @@
         <entry>variadic</entry>
         <entry encoding="base64">XDxzaG93XD4=</entry>
         <entry encoding="base64">XDxyb290X2FmXD4=</entry>
+        <entry encoding="base64">XDxjb25lX2Nydlw+</entry>
+        <entry encoding="base64">XDxjb25lMlw+</entry>
+        <entry>cone2</entry>
+        <entry>cone</entry>
+        <entry>body2</entry>
       </history-search>
       <history-cmd>
-        <entry>4131</entry>
-        <entry>2237</entry>
-        <entry>21133</entry>
-        <entry>+42162</entry>
-        <entry>40346</entry>
         <entry>+80688</entry>
         <entry>182</entry>
         <entry>s/sat/igs/gc</entry>
@@ -801,6 +809,11 @@
         <entry>145,148s/front/back/gc</entry>
         <entry>q!</entry>
         <entry>q</entry>
+        <entry>%s/cone2/nose_bulge/gc</entry>
+        <entry>%s/cone/nose/gc</entry>
+        <entry encoding="base64">JVw8Ym9keVw+L3N0YWdlXzEvZ2M=</entry>
+        <entry>44,,s/body2/stage_2/gc</entry>
+        <entry>%s/body2/stage_2/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
