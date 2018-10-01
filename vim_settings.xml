@@ -39,6 +39,9 @@
         <mark key="]" line="1455" column="0" />
         <mark key="." line="1455" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/IAC/gridded_fins.py" timestamp="1538388579981">
+        <mark key="[" line="26" column="50" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="3" column="0" />
@@ -270,6 +273,13 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/IAC/IAC_demo.py" timestamp="1538390063137">
+        <mark key="'" line="166" column="1" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="166" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512405610496">
         <mark key="'" line="3441" column="88" />
@@ -586,12 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="112" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="220" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="285" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="306" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
-      <jump line="130" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_core.py" />
       <jump line="501" column="49" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="526" column="44" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
       <jump line="561" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
@@ -686,6 +690,12 @@
       <jump line="34" column="14" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
       <jump line="44" column="9" filename="$USER_HOME$/workspace/IAC/rocket_IAC.py" />
+      <jump line="6" column="27" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
+      <jump line="56" column="1" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
+      <jump line="62" column="1" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
+      <jump line="105" column="1" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
+      <jump line="118" column="1" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
+      <jump line="166" column="1" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -707,7 +717,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>body2</text>
+        <text encoding="base64">XDx2aWV3ZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGVydHVyYmVkID0gZWRpdG9yLnRvX2N1cnZlKCkKCnNob3dfY3VydmVfYW5kX2N0cmxfcHRzKHBlcnR1cmJlZCwgY3RybF9wdHMsIGNydikK</text>
@@ -743,25 +753,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YyA9IHBhLmN1cnZlLkNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgcGEuVU5JVF9WRUNfWikK</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGksCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZGVmIG1ha2VfZmlucyhib2R5LCByLCBzdHJhaWdodF9oKToKICAgIGYxID0gcGEuY3VydmUuTGluZS5mcm9tX2VuZF9wb2ludHMocGEuT1JJR0lOLCAoMCwgMCwgMTUpKQogICAgZjIgPSBmMS5jb3B5KCkuc2NhbGUoMC41KS50cmFuc2xhdGUoMCwgMywgMSkKICAgIGYzID0gcGEuY3VydmUuQlNwbGluZS50aHJvdWdoX3BvaW50cyhbZjEuc3RhcnQsIGYyLnN0YXJ0XSkKICAgIGY0ID0gcGEuY3VydmUuQlNwbGluZS50aHJvdWdoX3BvaW50cyhbZjEuZW5kLCBmMi5lbmRdKQoKICAgIGZpbl9wcm9maWxlID0gcGEuY3VydmUuUHJvZmlsZS5mcm9tX2N1cnZlcyhmMSwgZjMsIGYyLCBmNCkKICAgIGZpbiA9IHBhLmJvZHkuRXh0cnVkZS5wcm9maWxlX2Fsb25nX2RpcmVjdGlvbihmaW5fcHJvZmlsZSwgcGEuVU5JVF9WRUNfWCwgMSkKCiAgICBwYS5ib2R5LkJsZW5kLndpdGhfY29uc3RhbnRfcmFkaXVzKDAuNSwgZmluLmVkZ2VzKQogICAgZmluLnRyYW5zbGF0ZSgwLCByIC0gMC42LCBzdHJhaWdodF9oIC0gMTUpCgogICAgZm9yIGkgaW4gbnAubGluc3BhY2UoMCwgMzYwLCA1KToKICAgICAgICBmaW4yID0gZmluLmNvcHkoKS5yb3RhdGUocGEuVU5JVF9WRUNfWiwgaSkKICAgICAgICBib2R5ICs9IGZpbjIKICAgIHJldHVybiBib2R5Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Zm9yIGkgaW4gbnAubGluc3BhY2UoMCwgMzYwLCA1KVswOi0xXToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yIGkgaW4gbnAubGluc3BhY2UoMCwgMzYwLCA1KVswOi0xXToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0KGJvb3N0ZXIpCg==</text>
+        <text encoding="base64">YyA9IHBhLmN1cnZlLkNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKCgwLCAwLCAwKSwgMywgcGEuVU5JVF9WRUNfWikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -771,9 +781,9 @@
       </register>
     </registers>
     <search>
-      <last-search>body2</last-search>
+      <last-search encoding="base64">XDx2aWV3ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>body2</last-pattern>
+      <last-pattern encoding="base64">XDx2aWV3ZXJcPg==</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -781,7 +791,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reverse(</entry>
         <entry>trim(</entry>
         <entry>trim</entry>
         <entry encoding="base64">XDxhdGV4aXRcPg==</entry>
@@ -801,6 +810,7 @@
         <entry>cone2</entry>
         <entry>cone</entry>
         <entry>body2</entry>
+        <entry encoding="base64">XDx2aWV3ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>+80688</entry>
