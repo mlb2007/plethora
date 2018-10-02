@@ -395,10 +395,10 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538495303423">
-        <mark key="[" line="30" column="31" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538514099256">
+        <mark key="[" line="65" column="91" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -596,8 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve.py" />
-      <jump line="140" column="7" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" />
       <jump line="88" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/curves.py" />
       <jump line="311" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
@@ -696,13 +694,15 @@
       <jump line="166" column="1" filename="$USER_HOME$/workspace/IAC/IAC_demo.py" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="25" column="21" filename="$USER_HOME$/workspace/IAC/scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -717,13 +717,13 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aW5nXD4=</text>
+        <text encoding="base64">XDx0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YWZfdGlwID0gYWVyby5haXJmb2lsLk5BQ0E0LmZyb21fZGVzaWduYXRpb24oJzI0MTInKQphZl90aXAudHJhbnNsYXRlKCgxMCwgNC41LCAwKSkK</text>
+        <text encoding="base64">emVyb19wdHMgPSBbYS51cHBlci5taWRwb2ludCBmb3IgYSBpbiBhZl9zZWNzXQpvbmVfcHRzID0gW2EubG93ZXIubWlkcG9pbnQgZm9yIGEgaW4gYWZfc2Vjc10KdG9wX2MgPSBwYS5jdXJ2ZS5CU3BsaW5lLnRocm91Z2hfcG9pbnRzKHplcm9fcHRzKQpib3RfYyA9IHBhLmN1cnZlLkJTcGxpbmUudGhyb3VnaF9wb2ludHMob25lX3B0cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -752,46 +752,45 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dGVfZmFyID0gcGEuY3VydmUuTGluZS5mcm9tX2VuZF9wb2ludHModGVfMSwgdGVfZmFyX3B0KQpwdF9yZXEgPSBwYS5jdXJ2ZS5JbnRlcnNlY3Qud2l0aF9wbGFuZSh0ZV9mYXIsIHBhLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCgyNywgNC45LCAwKSwgcGEuVU5JVF9WRUNfWSkpCg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQgYS51cHBlci5ldmFsdWF0ZSgwLjEpLnBvc2l0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHRfcmVxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfcGxhbmUodGVfZmFyLCBwYS5QbGFuZS5mcm9tX3BvaW50X25vcm1hbCgoMjcsIDQuOSwgMCksIHBhLlVOSVRfVkVDX1kpKQo=</text>
+        <text encoding="base64">IyBwbGFuZXMuYXBwZW5kKHBhLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCg1LjUsIDEuMzAsIDApLCBwYS5VTklUX1ZFQ19ZKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyh0ZV8xLCB0ZV8yKQo=</text>
+        <text encoding="base64">IyBwbGFuZXMuYXBwZW5kKHBhLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCg1LjUsIDEuMCwgMCksIHBhLlVOSVRfVkVDX1kpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwbGFuZXMuYXBwZW5kKHBhLlBsYW5lLmZyb21fcG9pbnRfbm9ybWFsKCg1LjUsIDAuNSwgMCksIHBhLlVOSVRfVkVDX1kpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZW5kX2xlID0gcGEuY3VydmUuQmV6aWVyLmZyb21fZW5kc190YW5nZW50c190ZW5zaW9ucygoMTAsIDQuNSwgMCksICg5LCAzLjU4LCAwKSwgbWlkLmVuZF90YW5nZW50LCBwYS5VTklUX1ZFQ19YLCAwLjEsIDEpCg==</text>
+        <text encoding="base64">ZW5kX2xlID0gcGEuY3VydmUuQmV6aWVyLmZyb21fZW5kc190YW5nZW50c190ZW5zaW9ucygoMTAsIDQuNSwgMCksIHRpcF9wdCwgbWlkLmVuZF90YW5nZW50LCBwYS5VTklUX1ZFQ19YLCAwLjAxLCAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZW5kX2xlID0gcGEuY3VydmUuQmV6aWVyLmZyb21fZW5kc190YW5nZW50c190ZW5zaW9ucygoMTAsIDQuNSwgMCksICg5LCAzLjU4LCAwKSwgbWlkLmVuZF90YW5nZW50LCBwYS5VTklUX1ZFQ19YLCAwLjEsIDEpCg==</text>
+        <text encoding="base64">ZW5kX2xlID0gcGEuY3VydmUuQmV6aWVyLmZyb21fZW5kc190YW5nZW50c190ZW5zaW9ucygoMTAsIDQuNSwgMCksICgyNywgNC44NywgMCksIG1pZC5zdGFydF90YW5nZW50LCBwYS5VTklUX1ZFQ19YLCAwLjUsIDEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGlwX2ZhY2UuY29sb3IoJ2cnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2luZyA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMocHJvZmlsZXM9YWZfc2VjcywgZ3VpZGVzPVtsZSwgdGUsIHRvcF9jLCBib3RfY10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aW5nXD4=</last-search>
+      <last-search encoding="base64">XDx0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aW5nXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0ZVw+</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>trim</entry>
         <entry encoding="base64">XDxhdGV4aXRcPg==</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxibGFkZV9ib2R5XD4=</entry>
@@ -811,6 +810,7 @@
         <entry>body2</entry>
         <entry encoding="base64">XDx2aWV3ZXJcPg==</entry>
         <entry encoding="base64">XDx3aW5nXD4=</entry>
+        <entry encoding="base64">XDx0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>+80688</entry>
