@@ -395,10 +395,10 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538483931094">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="79" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538492253479">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -701,8 +701,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">d2luZyA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMocHJvZmlsZXM9YWZfc2VjcywgZ3VpZGVzPVtsZSwgdGVdKQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -714,7 +714,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5nXD4=</text>
@@ -723,7 +723,7 @@
         <text encoding="base64">YWZfdGlwID0gYWVyby5haXJmb2lsLk5BQ0E0LmZyb21fZGVzaWduYXRpb24oJzI0MTInKQphZl90aXAudHJhbnNsYXRlKCgxMCwgNC41LCAwKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2luZyA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMocHJvZmlsZXM9YWZfc2VjcywgZ3VpZGVzPVtsZSwgdGVdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -759,22 +759,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I21pZCA9IHBhLmN1cnZlLkJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCg1LjUsIDEuMTUsIDApLCAoNS43LCAxLjI1LCAwKSwgKDcsIDEuMywgMCksICgxMCwgMy41LCAwKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">IyBtaWQgPSBwYS5jdXJ2ZS5CZXppZXIuZnJvbV9lbmRzX3RhbmdlbnRzX3RlbnNpb25zKCg1LjUsIDEuMTUsIDApLCAoOSwgMy41LCAwKSwgKDEuNCwgMC44LCAwKSwgKDEsIDEsIDApLCAwLjAxLCAwLjA1KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQgYWZfY2VudGVyLnVwcGVyLm1pZHBvaW50LCBhZl9jZW50ZXIubG93ZXIubWlkcG9pbnQK</text>
+        <text encoding="base64">IyBtaWQgPSBwYS5jdXJ2ZS5CZXppZXIuZnJvbV9lbmRzX3RhbmdlbnRzX3RlbnNpb25zKCg3LCAyLjUsIDApLCAoOCwgMy41LCAwKSwgZnJvbnQuZW5kX3RhbmdlbnQsICgxLCAxLCAwKSwgMC4xLCAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBmcm9udCA9IHBhLmN1cnZlLkJlemllci5mcm9tX2NvbnRyb2xfcG9pbnRzKCgwLCAwLCAwKSwgKDEsIDEsIDApLCAoMywgMS4yNSwgMCksICg3LCAyLjUsIDApKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">dnB0cyA9IFtwYS5jdXJ2ZS5JbnRlcnNlY3Qud2l0aF9wbGFuZShhLCBwbGFuZV94KSBmb3IgYSBpbiBhZl9wcm9maWxlc10K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
