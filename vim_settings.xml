@@ -395,11 +395,11 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538659742118">
-        <mark key="'" line="128" column="39" />
-        <mark key="[" line="197" column="4" />
-        <mark key="]" line="197" column="82" />
-        <mark key="." line="197" column="0" />
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538661440659">
+        <mark key="'" line="131" column="48" />
+        <mark key="[" line="118" column="15" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -597,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="43" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="70" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="44" column="23" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
@@ -695,15 +694,16 @@
       <jump line="69" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
-      <jump line="125" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="128" column="39" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="119" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="125" column="48" filename="$USER_HOME$/workspace/IAC/scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -715,19 +715,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2XD4=</text>
+        <text encoding="base64">XDx6a2VlbFw+</text>
       </register>
       <register name="0" type="4">
-        <text>gp2 = pa.curve.Intersect.with_plane(end_pr, pl)[1]
-gp1 = pa.curve.Intersect.with_plane(profile2, pl)[1]
-gd = pa.curve.Line.from_end_points(gp1, gp2)
-#</text>
+        <text encoding="base64">Z3AyID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfcGxhbmUoZW5kX3ByLCBwbClbMV0KZ3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfcGxhbmUocHJvZmlsZTIsIHBsKVsxXQpnZCA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKGdwMSwgZ3AyKQojCmdwMiA9IHBhLmN1cnZlLkludGVyc2VjdC53aXRoX3BsYW5lKGVuZF9wciwgcGwpWzBdCmdwMSA9IHBhLmN1cnZlLkludGVyc2VjdC53aXRoX3BsYW5lKHByb2ZpbGUyLCBwbClbMF0KZ2QyID0gcGEuY3VydmUuTGluZS5mcm9tX2VuZF9wb2ludHMoZ3AxLCBncDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -757,37 +754,37 @@ gd = pa.curve.Line.from_end_points(gp1, gp2)
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfY3VydmUocGwsIGVuZF9wcikuZXhwZWN0X3NpbmdsZSgpCg==</text>
+        <text encoding="base64">I3B0YiA9IHBhLlBvaW50M0QoZW5kX3plcm9bMF0sIHB0MlsxXS1lbmRfemVyb1sxXSwgemRvd24pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZW5kX3ByX2xpbmUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhlbmRfcHIuZW5kLCBlbmRfcHIuc3RhcnQpCg==</text>
+        <text encoding="base64">cGwgPSBwYS5QbGFuZS54eih0b3BfbGluZS5zdGFydFsxXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBsaW5lMyA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0YywgcHRkKQo=</text>
+        <text encoding="base64">cHRiID0gcGEuUG9pbnQzRChlbmRfemVyb1swXSwgcHQyWzFdLWVuZF96ZXJvWzFdLCB6ZG93bikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBsaW5lMiA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0YiwgcHRjKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmJveCA9IHdpbmcuYmJveAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXAgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGxpbmUxLCBsaW5lNSwgbGluZTQpCg==</text>
+        <text encoding="base64">Z3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfY3VydmUocGwsIGVuZF9wcikuZXhwZWN0X3NpbmdsZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW5kX3ByX2xpbmUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhlbmRfcHIuZW5kLCBlbmRfcHIuc3RhcnQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2XD4=</last-search>
+      <last-search encoding="base64">XDx6a2VlbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx6a2VlbFw+</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -795,7 +792,6 @@ gd = pa.curve.Line.from_end_points(gp1, gp2)
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxibGFkZV9ib2R5XD4=</entry>
         <entry encoding="base64">XDxibGFkZV9ib2R5Mlw+</entry>
         <entry encoding="base64">XDxDeWxpbmRlclw+</entry>
         <entry>front</entry>
@@ -815,6 +811,7 @@ gd = pa.curve.Line.from_end_points(gp1, gp2)
         <entry encoding="base64">XDxwbGFuZV94XD4=</entry>
         <entry encoding="base64">XDx0ZVw+</entry>
         <entry encoding="base64">XDx2XD4=</entry>
+        <entry encoding="base64">XDx6a2VlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>+80688</entry>
