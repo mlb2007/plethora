@@ -395,11 +395,11 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538661440659">
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538663577009">
         <mark key="'" line="131" column="48" />
-        <mark key="[" line="118" column="15" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
+        <mark key="[" line="236" column="34" />
+        <mark key="]" line="235" column="53" />
+        <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -703,7 +703,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJ1c3QyLnRyYW5zbGF0ZSh0ZV8xWzBdLCB0ZV8xWzFdIC0gMSwgdGVfMVsyXSAtIDAuNCkK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -724,7 +724,7 @@
         <text encoding="base64">Z3AyID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfcGxhbmUoZW5kX3ByLCBwbClbMV0KZ3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfcGxhbmUocHJvZmlsZTIsIHBsKVsxXQpnZCA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKGdwMSwgZ3AyKQojCmdwMiA9IHBhLmN1cnZlLkludGVyc2VjdC53aXRoX3BsYW5lKGVuZF9wciwgcGwpWzBdCmdwMSA9IHBhLmN1cnZlLkludGVyc2VjdC53aXRoX3BsYW5lKHByb2ZpbGUyLCBwbClbMF0KZ2QyID0gcGEuY3VydmUuTGluZS5mcm9tX2VuZF9wb2ludHMoZ3AxLCBncDIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJ1c3QyLnRyYW5zbGF0ZSh0ZV8xWzBdLCB0ZV8xWzFdIC0gMSwgdGVfMVsyXSAtIDAuNCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -754,28 +754,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I3B0YiA9IHBhLlBvaW50M0QoZW5kX3plcm9bMF0sIHB0MlsxXS1lbmRfemVyb1sxXSwgemRvd24pCg==</text>
+        <text encoding="base64">ZnJ1c3QudHJhbnNsYXRlKHRlXzFbMF0sIHRlXzFbMV0sIHRlXzFbMl0gKyAwLjQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGwgPSBwYS5QbGFuZS54eih0b3BfbGluZS5zdGFydFsxXSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHRiID0gcGEuUG9pbnQzRChlbmRfemVyb1swXSwgcHQyWzFdLWVuZF96ZXJvWzFdLCB6ZG93bikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">I3B0YiA9IHBhLlBvaW50M0QoZW5kX3plcm9bMF0sIHB0MlsxXS1lbmRfemVyb1sxXSwgemRvd24pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cGwgPSBwYS5QbGFuZS54eih0b3BfbGluZS5zdGFydFsxXSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">YmJveCA9IHdpbmcuYmJveAo=</text>
+        <text encoding="base64">cHRiID0gcGEuUG9pbnQzRChlbmRfemVyb1swXSwgcHQyWzFdLWVuZF96ZXJvWzFdLCB6ZG93bikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfY3VydmUocGwsIGVuZF9wcikuZXhwZWN0X3NpbmdsZSgpCg==</text>
+        <text encoding="base64">YmJveCA9IHdpbmcuYmJveAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW5kX3ByX2xpbmUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhlbmRfcHIuZW5kLCBlbmRfcHIuc3RhcnQpCg==</text>
+        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
