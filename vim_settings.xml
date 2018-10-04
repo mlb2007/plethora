@@ -395,11 +395,11 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538648297888">
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538649365926">
         <mark key="'" line="128" column="39" />
-        <mark key="[" line="174" column="4" />
-        <mark key="]" line="173" column="47" />
-        <mark key="." line="173" column="0" />
+        <mark key="[" line="159" column="10" />
+        <mark key="]" line="161" column="0" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -597,7 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="201" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="26" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="43" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="70" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
@@ -695,6 +694,7 @@
       <jump line="25" column="21" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="162" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="125" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="128" column="39" filename="$USER_HOME$/workspace/IAC/scratch.py" />
     </jumps>
@@ -703,7 +703,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGluZTMgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwdDMsIHB0NCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -715,7 +715,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2XD4=</text>
@@ -733,7 +733,7 @@ keel_conic_pts_3 = pa.Point3D(zero[0], zero[1], zup + zup_straight)
 k</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGluZTMgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwdDMsIHB0NCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -763,28 +763,28 @@ k</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGluZTEgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwdDEsIHB0MikK</text>
+        <text encoding="base64">diA9IHB0MS1lbmRfemVybwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">a2VlbF9jb25pY19wdHNfMyA9IHBhLlBvaW50M0QoemVyb1swXSwgemVyb1sxXSwgenVwICsgenVwX3N0cmFpZ2h0KQo=</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">a2VlbF9jb25pY19wdHNfMiA9IHBhLlBvaW50M0QoemVyb1swXSwgdlsxXSwgemVyb1syXSkK</text>
+        <text encoding="base64">cHJpbnQgdGVfMSwgcHQxCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">a2VlbF9jb25pY19wdHNfMSA9IHBhLlBvaW50M0QoemVyb1swXSwgemVyb1sxXSwgemtlZWwpCg==</text>
+        <text encoding="base64">cHJpbnQgdGVfMSwgcHQxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHQzID0gcGEuUG9pbnQzRChlbmRfemVyb1swXSwgcHQxWzFdLWVuZF96ZXJvWzFdLCBlbmRfemVyb1syXSkK</text>
+        <text encoding="base64">bGluZTMgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwdDMsIHB0NCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHQyID0gcGEuUG9pbnQzRChlbmRfemVyb1swXSwgcHQxWzFdLWVuZF96ZXJvWzFdLCB6ZG93bikK</text>
+        <text encoding="base64">bGluZTEgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhwdDEsIHB0MikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHQxID0gcGEuUG9pbnQzRChlbmRfemVyb1swXSwgZW5kX3plcm9bMV0sIHpkb3duKQo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
