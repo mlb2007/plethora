@@ -395,12 +395,11 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538657844176">
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538659742118">
         <mark key="'" line="128" column="39" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
-        <mark key="^" line="189" column="0" />
+        <mark key="[" line="197" column="4" />
+        <mark key="]" line="197" column="82" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -704,7 +703,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Z3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfY3VydmUocGwsIGVuZF9wcikuZXhwZWN0X3NpbmdsZSgpCg==</text>
+        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -722,19 +721,13 @@
         <text encoding="base64">XDx2XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>zkeel = -1.
-zup = 0.6
-zup_straight = 1.0
-keel_rho = 0.9
-v = pt1-zero
-
-keel_conic_pts_1 = pa.Point3D(zero[0], zero[1], zkeel)
-keel_conic_pts_2 = pa.Point3D(zero[0], v[1], zero[2])
-keel_conic_pts_3 = pa.Point3D(zero[0], zero[1], zup + zup_straight)
-k</text>
+        <text>gp2 = pa.curve.Intersect.with_plane(end_pr, pl)[1]
+gp1 = pa.curve.Intersect.with_plane(profile2, pl)[1]
+gd = pa.curve.Line.from_end_points(gp1, gp2)
+#</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Z3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfY3VydmUocGwsIGVuZF9wcikuZXhwZWN0X3NpbmdsZSgpCg==</text>
+        <text encoding="base64">ZnVzZSA9IHBhLmJvZHkuTG9mdC5mcm9tX3Byb2ZpbGVzX2FuZF9ndWlkZXMoW3Byb2ZpbGUyLCBlbmRfcHJdLCBndWlkZXM9W2dkLCBnZDJdKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -764,25 +757,25 @@ k</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZW5kX3ByX2xpbmUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhlbmRfcHIuZW5kLCBlbmRfcHIuc3RhcnQpCg==</text>
+        <text encoding="base64">Z3AxID0gcGEuY3VydmUuSW50ZXJzZWN0LndpdGhfY3VydmUocGwsIGVuZF9wcikuZXhwZWN0X3NpbmdsZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBsaW5lMyA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0YywgcHRkKQo=</text>
+        <text encoding="base64">ZW5kX3ByX2xpbmUgPSBwYS5jdXJ2ZS5MaW5lLmZyb21fZW5kX3BvaW50cyhlbmRfcHIuZW5kLCBlbmRfcHIuc3RhcnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBsaW5lMiA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0YiwgcHRjKQo=</text>
+        <text encoding="base64">IyBsaW5lMyA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0YywgcHRkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBsaW5lMiA9IHBhLmN1cnZlLkxpbmUuZnJvbV9lbmRfcG9pbnRzKHB0YiwgcHRjKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXAgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGxpbmUxLCBsaW5lNSwgbGluZTQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXAgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGxpbmUxLCBsaW5lNSwgbGluZTQpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
