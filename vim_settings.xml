@@ -395,11 +395,11 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538643014023">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="152" column="18" />
-        <mark key="]" line="151" column="122" />
-        <mark key="." line="151" column="0" />
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538645847404">
+        <mark key="'" line="128" column="39" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="160" column="0" />
+        <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -597,8 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
-      <jump line="194" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="201" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/constraints.py" />
       <jump line="26" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="43" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
@@ -697,13 +695,15 @@
       <jump line="25" column="21" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="125" column="0" filename="$USER_HOME$/workspace/IAC/scratch.py" />
+      <jump line="128" column="39" filename="$USER_HOME$/workspace/IAC/scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">bm9zZV9wcm9maWxlX2NpcmNfdG9wID0gcGEuY3VydmUuQ2lyY3VsYXJBcmMuZnJvbV9jZW50ZXJfc3RhcnRfYW5nbGVfbm9ybWFsKG5vc2VfcHJvZmlsZV9wdCwgY2lyY2xlX3N0LCA5MCwgcGEuVU5JVF9WRUNfWCkK</text>
+        <text encoding="base64">enVwX3N0cmFpZ2h0ID0gMS4wCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -718,13 +718,22 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZVw+</text>
+        <text encoding="base64">XDx2XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>y_pos_for_airfoil_1</text>
+        <text>zkeel = -1.
+zup = 0.6
+zup_straight = 1.0
+keel_rho = 0.9
+v = pt1-zero
+
+keel_conic_pts_1 = pa.Point3D(zero[0], zero[1], zkeel)
+keel_conic_pts_2 = pa.Point3D(zero[0], v[1], zero[2])
+keel_conic_pts_3 = pa.Point3D(zero[0], zero[1], zup + zup_straight)
+k</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm9zZV9wcm9maWxlX2NpcmNfdG9wID0gcGEuY3VydmUuQ2lyY3VsYXJBcmMuZnJvbV9jZW50ZXJfc3RhcnRfYW5nbGVfbm9ybWFsKG5vc2VfcHJvZmlsZV9wdCwgY2lyY2xlX3N0LCA5MCwgcGEuVU5JVF9WRUNfWCkK</text>
+        <text encoding="base64">enVwX3N0cmFpZ2h0ID0gMS4wCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -754,37 +763,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bm9zZV9wcm9maWxlX3B0ID0gemVybyAtIHBhLlBvaW50M0Qobm9zZV94X3BvcywgMCwgMCkK</text>
+        <text encoding="base64">enVwID0gMC42Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvZmlsZTIgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGNsb3NlX3Byb2ZpbGVfbGluZTIsIGNzMikK</text>
+        <text encoding="base64">ZW5kX2xvYyA9IHRlXzEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2lyY2xlX3N0ID0gemVybyAtIHBhLlBvaW50M0QoMSwgMCwgcmFkaXVzKQpub3NlX3Byb2ZpbGUgPSBwYS5jdXJ2ZS5DaXJjdWxhckFyYy5mcm9tX2NlbnRlcl9zdGFydF9hbmdsZV9ub3JtYWwobm9zZV9wcm9maWxlX3B0LCByYWRpdXMsIHBhLlVOSVRfVkVDX1gpCg==</text>
+        <text encoding="base64">bm9zZV9wcm9maWxlX2NpcmNfdG9wID0gcGEuY3VydmUuQ2lyY3VsYXJBcmMuZnJvbV9jZW50ZXJfc3RhcnRfYW5nbGVfbm9ybWFsKG5vc2VfcHJvZmlsZV9wdCwgY2lyY2xlX3N0LCA5MCwgcGEuVU5JVF9WRUNfWCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cmFkaXVzID0gMC4yCg==</text>
+        <text encoding="base64">bm9zZV9wcm9maWxlX3B0ID0gemVybyAtIHBhLlBvaW50M0Qobm9zZV94X3BvcywgMCwgMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJvZmlsZTEgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGNsb3NlX3Byb2ZpbGVfbGluZSwgY3MxKQo=</text>
+        <text encoding="base64">cHJvZmlsZTIgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGNsb3NlX3Byb2ZpbGVfbGluZTIsIGNzMikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2VlbF9jb25pY19wdHNfMiA9IHBhLlBvaW50M0QoemVyb1swXSwgdlsxXSwgemVyb1syXSkK</text>
+        <text encoding="base64">Y2lyY2xlX3N0ID0gemVybyAtIHBhLlBvaW50M0QoMSwgMCwgcmFkaXVzKQpub3NlX3Byb2ZpbGUgPSBwYS5jdXJ2ZS5DaXJjdWxhckFyYy5mcm9tX2NlbnRlcl9zdGFydF9hbmdsZV9ub3JtYWwobm9zZV9wcm9maWxlX3B0LCByYWRpdXMsIHBhLlVOSVRfVkVDX1gpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2VlbF9jb25pY19wdHNfMSA9IHBhLlBvaW50M0QoemVyb1swXSwgemVyb1sxXSwgemtlZWwpCg==</text>
+        <text encoding="base64">cmFkaXVzID0gMC4yCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvZmlsZTEgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGNsb3NlX3Byb2ZpbGVfbGluZSwgY3MxKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZVw+</last-search>
+      <last-search encoding="base64">XDx2XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx2XD4=</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -792,7 +801,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDxibGFkZV9ib2R5XD4=</entry>
         <entry encoding="base64">XDxibGFkZV9ib2R5Mlw+</entry>
         <entry encoding="base64">XDxDeWxpbmRlclw+</entry>
@@ -812,6 +820,7 @@
         <entry encoding="base64">XDx3aW5nXD4=</entry>
         <entry encoding="base64">XDxwbGFuZV94XD4=</entry>
         <entry encoding="base64">XDx0ZVw+</entry>
+        <entry encoding="base64">XDx2XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>+80688</entry>
