@@ -395,11 +395,12 @@
         <mark key="^" line="27" column="13" />
         <mark key="." line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538597399441">
+      <file name="$USER_HOME$/workspace/IAC/scratch.py" timestamp="1538636961947">
         <mark key="'" line="55" column="0" />
-        <mark key="[" line="141" column="58" />
-        <mark key="]" line="141" column="64" />
-        <mark key="." line="141" column="0" />
+        <mark key="[" line="133" column="14" />
+        <mark key="]" line="133" column="70" />
+        <mark key="." line="133" column="70" />
+        <mark key="^" line="133" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/c2_check.py" timestamp="1499897658953">
         <mark key="'" line="3" column="12" />
@@ -702,8 +703,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvZmlsZTEgPSBwYS5jdXJ2ZS5Qcm9maWxlLmZyb21fY3VydmVzKGNsb3NlX3Byb2ZpbGVfbGluZSwgY3MxKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(keel_conic_pts_2[0], keel_conic_pts_2[1], zup_straight)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -715,7 +716,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(keel_conic_pts_2[0], keel_conic_pts_2[1], zup_straight)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZVw+</text>
