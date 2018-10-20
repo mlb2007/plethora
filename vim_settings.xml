@@ -61,12 +61,12 @@
       <file name="$USER_HOME$/workspace/IAC/gridded_fins.py" timestamp="1538388579981">
         <mark key="[" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1539989928131">
-        <mark key="'" line="778" column="24" />
-        <mark key="[" line="9" column="73" />
-        <mark key="]" line="9" column="73" />
-        <mark key="." line="9" column="73" />
-        <mark key="^" line="780" column="54" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540059556458">
+        <mark key="'" line="819" column="0" />
+        <mark key="[" line="44" column="14" />
+        <mark key="]" line="54" column="29" />
+        <mark key="." line="54" column="29" />
+        <mark key="^" line="54" column="29" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
@@ -469,11 +469,12 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1540055737347">
-        <mark key="'" line="301" column="13" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="44" column="36" />
-        <mark key="." line="44" column="36" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1540059613822">
+        <mark key="'" line="305" column="13" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1527030781502">
         <mark key="'" line="420" column="4" />
@@ -691,7 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="717" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="718" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="719" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -791,13 +791,14 @@
       <jump line="299" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="581" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="779" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="810" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">ZGVmIHRlc3RfY2FsbF9vcGVyYXRvcihzZWxmKToKICAgICAgICB0ID0gc3EuQW55Q2FsbGFibGUobGFtYmRhIHg6IDQyKQogICAgICAgIGFzc2VydCB0KCdmb28nKSA9PSA0Mgo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -809,16 +810,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfd2l0aF9wcmVkaWNhdGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y2xhc3MgVGVzdFByZWRpY2F0ZSh1bml0dGVzdC5UZXN0Q2FzZSk6CiAgICBkZWYgdGVzdF9sb2dpY2FsX29wZXJhdG9ycyhzZWxmKToKICAgICAgICB0ID0gc3EuUHJlZGljYXRlKGxhbWJkYSB4OiBUcnVlKQogICAgICAgIGYgPSBzcS5QcmVkaWNhdGUobGFtYmRhIHg6IEZhbHNlKQogICAgICAgIGFzc2VydCAodCAmIHQpKCdmb28nKQogICAgICAgIGFzc2VydCBub3QgKHQgJiBmKSgnZm9vJykKICAgICAgICBhc3NlcnQgbm90IChmICYgZikoJ2ZvbycpCg==</text>
+        <text encoding="base64">ZGVmIHRlc3RfY2FsbF9vcGVyYXRvcihzZWxmKToKICAgICAgICB0ID0gc3EuQW55Q2FsbGFibGUobGFtYmRhIHg6IDQyKQogICAgICAgIGFzc2VydCB0KCdmb28nKSA9PSA0Mgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbm90IChmICYgZikoJ2ZvbycpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -848,28 +849,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgbm90ICh0ICYgZikoJ2ZvbycpCg==</text>
+        <text encoding="base64">ICAgICMgICAgc3VwZXIoUHJlZGljYXRlLCBzZWxmKS5fX2NhbGxfXyhlbnRpdHkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmID0gc3EuUHJlZGljYXRlKGxhbWJkYSB4OiBGYWxzZSkK</text>
+        <text encoding="base64">ICAgICMgICAgIiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgOnJldHVybjogVHJ1ZSBpZiB0aGUgY29uZGl0aW9uIGhvbGRzIGZvciB0aGlzIGVudGl0eS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgOnBhcmFtIGVudGl0eTogdGhlIGdpdmVuIHNfZW50aXR5Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgUmV0dXJuIFRydWUgb3IgRmFsc2UgZm9yIHRoZSBnaXZlbiBzX2VudGl0eS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gW3VzZXJfZnVuY3Rpb24oZW50aXR5KSBmb3IgZW50aXR5IGluIHNlbGZdCg==</text>
+        <text encoding="base64">ICAgICMgICAgIiIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIiI6cnR5cGU6IHVzZXJfZnVuY3Rpb246cl90eXBlIiIiCg==</text>
+        <text encoding="base64">ICAgICNkZWYgX19jYWxsX18oc2VsZiwgZW50aXR5KToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBfd2l0aF91c2VyX2Z1bmN0aW9uKHNlbGYsIHVzZXJfZnVuY3Rpb24pOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
