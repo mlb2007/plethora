@@ -61,10 +61,12 @@
       <file name="$USER_HOME$/workspace/IAC/gridded_fins.py" timestamp="1538388579981">
         <mark key="[" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540139236276">
-        <mark key="'" line="32" column="21" />
-        <mark key="[" line="559" column="4" />
-        <mark key="]" line="564" column="58" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540149419237">
+        <mark key="'" line="568" column="18" />
+        <mark key="[" line="463" column="35" />
+        <mark key="]" line="463" column="35" />
+        <mark key="." line="463" column="35" />
+        <mark key="^" line="463" column="35" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
@@ -695,7 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="39" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="43" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="44" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
@@ -795,13 +796,14 @@
       <jump line="826" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="855" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="32" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="561" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZGVmIHBvaW50c19jbG9zZXN0X3RvKHNlbGYsIHJlZl9wb2ludCk6CiAgICAgICAgIiIiCiAgICAgICAgR2V0cyB0aGUgY2xvc2VzdCBwb2ludCBvbiB0aGUgZW50aXR5IGNvcnJlc3BvbmRpbmcgdG8gdGhlIGlucHV0IGBgcmVmX3BvaW50YGAKICAgICAgICA6cGFyYW0gcmVmX3BvaW50OiB0aGUgZ2l2ZW4gcmVmZXJlbmNlIHBvaW50LgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwcGx5KENsb3Nlc3RQb2ludE9uRW50aXR5KHJlZl9wb2ludCkpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -813,7 +815,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>QueryResults</text>
@@ -822,7 +824,7 @@
         <text encoding="base64">ZGVmIHBvaW50c19jbG9zZXN0X3RvKHNlbGYsIHJlZl9wb2ludCk6CiAgICAgICAgIiIiCiAgICAgICAgR2V0cyB0aGUgY2xvc2VzdCBwb2ludCBvbiB0aGUgZW50aXR5IGNvcnJlc3BvbmRpbmcgdG8gdGhlIGlucHV0IGBgcmVmX3BvaW50YGAKICAgICAgICA6cGFyYW0gcmVmX3BvaW50OiB0aGUgZ2l2ZW4gcmVmZXJlbmNlIHBvaW50LgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwcGx5KENsb3Nlc3RQb2ludE9uRW50aXR5KHJlZl9wb2ludCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gcGFzY2FsZS5zYWdlLmJvZHkuRXh0cnVkZS5wcm9maWxlX2Fsb25nX2RpcmVjdGlvbihjLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWiwgMTAsIG9taXRfZW5kX2NhcHM9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -852,28 +854,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHB0X3Jlc1swXSwgMiwgcGxhY2VzPTIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgtMSwgMCwgMS40KSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzAsIDAsIDEuNF0pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBhcHBseV9yZXN1bHRzKHNlbGYsIHZhbHVlKToK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgyLjUsIDAsIC0xKSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzIuNSwgMCwgMF0pCg==</text>
+        <text encoding="base64">ICAgIEBhcHBseV9yZXN1bHRzLnNldHRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgyLjUsIDAsIC0xKSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzIuNSwgMCwgMF0pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBib2R5ID0gcGFzY2FsZS5zYWdlLmJvZHkuRXh0cnVkZS5wcm9maWxlX2Fsb25nX2RpcmVjdGlvbihjLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWiwgMTAsIG9taXRfZW5kX2NhcHM9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzY2FsZS5zYWdlLmN1cnZlLmNpcmNsZS5mcm9tX2NlbnRlcl9yYWRpdXNfbm9ybWFsKHBhc2NhbGUuc2FnZS5PUklHSU4sIDIsIHBhc2NhbGUuc2FnZS5VTklUX1ZFQ19aKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHB0X3Jlc1swXSwgMiwgcGxhY2VzPTIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgwLCAwLCAzKSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzAsIDAsIDNdKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgtMSwgMCwgMS40KSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzAsIDAsIDEuNF0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsMSA9IHBhc2NhbGUuc2FnZS5jdXJ2ZS5saW5lLmZyb21fc3RhcnRfZGlyX2xlbmd0aChwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWSAqIDQsIHBhc2NhbGUuc2FnZS5VTklUX1ZFQ19YLCAzKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgyLjUsIDAsIC0xKSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzIuNSwgMCwgMF0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -890,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxQcmVkaWNhdGVcPg==</entry>
         <entry encoding="base64">XDxiZXR3ZWVuX2Nvb3JkXD4=</entry>
         <entry>__iter__</entry>
@@ -909,6 +910,7 @@
         <entry>EdgeQuery</entry>
         <entry>Extrude</entry>
         <entry>__init__</entry>
+        <entry>Queryresults</entry>
         <entry>QueryResults</entry>
       </history-search>
       <history-cmd>
