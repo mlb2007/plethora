@@ -61,8 +61,10 @@
       <file name="$USER_HOME$/workspace/IAC/gridded_fins.py" timestamp="1538388579981">
         <mark key="[" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540085263329">
-        <mark key="'" line="853" column="8" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540139236276">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="555" column="4" />
+        <mark key="]" line="560" column="58" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
@@ -693,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="37" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="39" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="43" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
@@ -793,13 +794,14 @@
       <jump line="825" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="826" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="855" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">ZGVmIHBvaW50c19jbG9zZXN0X3RvKHNlbGYsIHJlZl9wb2ludCk6CiAgICAgICAgIiIiCiAgICAgICAgR2V0cyB0aGUgY2xvc2VzdCBwb2ludCBvbiB0aGUgZW50aXR5IGNvcnJlc3BvbmRpbmcgdG8gdGhlIGlucHV0IGBgcmVmX3BvaW50YGAKICAgICAgICA6cGFyYW0gcmVmX3BvaW50OiB0aGUgZ2l2ZW4gcmVmZXJlbmNlIHBvaW50LgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwcGx5KENsb3Nlc3RQb2ludE9uRW50aXR5KHJlZl9wb2ludCkpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -814,10 +816,10 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text>__init__</text>
+        <text>QueryResults</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIG5vX3Rlc3RfaW50ZXJpb3JfcHRfY2xvc2VzdF90b19ob2xsb3dfY3lsaW5kZXIoc2VsZik6CiAgICAgICAgYyA9IHBhc2NhbGUuc2FnZS5jdXJ2ZS5jaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbChwYXNjYWxlLnNhZ2UuT1JJR0lOLCAyLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBib2R5ID0gcGFzY2FsZS5zYWdlLmJvZHkuRXh0cnVkZS5wcm9maWxlX2Fsb25nX2RpcmVjdGlvbihjLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWiwgMTAsIG9taXRfZW5kX2NhcHM9VHJ1ZSkKICAgICAgICBhc3NlcnQgYm9keS5wb2ludF9jbG9zZXN0X3RvKCgwLCAwLCAzKSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzAsIDIsIDNdKQo=</text>
+        <text encoding="base64">ZGVmIHBvaW50c19jbG9zZXN0X3RvKHNlbGYsIHJlZl9wb2ludCk6CiAgICAgICAgIiIiCiAgICAgICAgR2V0cyB0aGUgY2xvc2VzdCBwb2ludCBvbiB0aGUgZW50aXR5IGNvcnJlc3BvbmRpbmcgdG8gdGhlIGlucHV0IGBgcmVmX3BvaW50YGAKICAgICAgICA6cGFyYW0gcmVmX3BvaW50OiB0aGUgZ2l2ZW4gcmVmZXJlbmNlIHBvaW50LgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwcGx5KENsb3Nlc3RQb2ludE9uRW50aXR5KHJlZl9wb2ludCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBib2R5ID0gcGFzY2FsZS5zYWdlLmJvZHkuRXh0cnVkZS5wcm9maWxlX2Fsb25nX2RpcmVjdGlvbihjLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWiwgMTAsIG9taXRfZW5kX2NhcHM9VHJ1ZSkK</text>
@@ -878,9 +880,9 @@
       </register>
     </registers>
     <search>
-      <last-search>__init__</last-search>
+      <last-search>QueryResults</last-search>
       <last-offset />
-      <last-pattern>__init__</last-pattern>
+      <last-pattern>QueryResults</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -888,7 +890,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYXNlU21hcnRGaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxQcmVkaWNhdGVcPg==</entry>
         <entry encoding="base64">XDxiZXR3ZWVuX2Nvb3JkXD4=</entry>
@@ -908,6 +909,7 @@
         <entry>EdgeQuery</entry>
         <entry>Extrude</entry>
         <entry>__init__</entry>
+        <entry>QueryResults</entry>
       </history-search>
       <history-cmd>
         <entry>s/sat/igs/gc</entry>
