@@ -33,10 +33,10 @@
         <mark key="^" line="1478" column="25" />
         <mark key="." line="1473" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" timestamp="1539975808340">
-        <mark key="'" line="2471" column="4" />
-        <mark key="[" line="2490" column="0" />
-        <mark key="]" line="2505" column="61" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" timestamp="1540258358550">
+        <mark key="'" line="374" column="0" />
+        <mark key="[" line="414" column="0" />
+        <mark key="]" line="422" column="60" />
         <mark key="^" line="2869" column="10" />
         <mark key="." line="2869" column="10" />
       </file>
@@ -61,12 +61,11 @@
       <file name="$USER_HOME$/workspace/IAC/gridded_fins.py" timestamp="1538388579981">
         <mark key="[" line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540149419237">
-        <mark key="'" line="568" column="18" />
-        <mark key="[" line="463" column="35" />
-        <mark key="]" line="463" column="35" />
-        <mark key="." line="463" column="35" />
-        <mark key="^" line="463" column="35" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" timestamp="1540233171650">
+        <mark key="'" line="56" column="6" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/queries.py" timestamp="1515566803381">
         <mark key="[" line="5" column="68" />
@@ -115,6 +114,13 @@
         <mark key="[" line="593" column="0" />
         <mark key="]" line="593" column="0" />
         <mark key="." line="593" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" timestamp="1540260296981">
+        <mark key="'" line="760" column="44" />
+        <mark key="[" line="839" column="4" />
+        <mark key="]" line="864" column="112" />
+        <mark key="." line="864" column="112" />
+        <mark key="^" line="864" column="112" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_export.py" timestamp="1524503451071">
         <mark key="'" line="128" column="4" />
@@ -308,6 +314,9 @@
         <mark key="." line="273" column="14" />
         <mark key="^" line="273" column="14" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/some.py" timestamp="1540239414146">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/embraer/ex_airfoil.py" timestamp="1534637252801">
         <mark key="'" line="65" column="30" />
         <mark key="[" line="49" column="0" />
@@ -436,11 +445,12 @@
       <file name="$USER_HOME$/pascale/src/pyinterface/py/tests/test_cinterface.py" timestamp="1539801291814">
         <mark key="'" line="1955" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" timestamp="1539976195250">
-        <mark key="'" line="2126" column="4" />
-        <mark key="[" line="2126" column="4" />
-        <mark key="]" line="2126" column="4" />
-        <mark key="." line="2126" column="4" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" timestamp="1540265783940">
+        <mark key="'" line="2346" column="4" />
+        <mark key="[" line="510" column="0" />
+        <mark key="]" line="515" column="61" />
+        <mark key="." line="2346" column="16" />
+        <mark key="^" line="2346" column="16" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -469,12 +479,12 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1540082594647">
-        <mark key="'" line="404" column="27" />
-        <mark key="[" line="948" column="77" />
-        <mark key="]" line="948" column="74" />
-        <mark key="." line="948" column="74" />
-        <mark key="^" line="948" column="74" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1540232997503">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="925" column="13" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/query.py" timestamp="1527030781502">
         <mark key="'" line="420" column="4" />
@@ -521,12 +531,12 @@
         <mark key="]" line="178" column="36" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" timestamp="1540138515495">
-        <mark key="'" line="7" column="6" />
-        <mark key="[" line="94" column="41" />
-        <mark key="]" line="96" column="22" />
-        <mark key="^" line="96" column="22" />
-        <mark key="." line="96" column="22" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" timestamp="1540265210798">
+        <mark key="'" line="71" column="32" />
+        <mark key="[" line="104" column="45" />
+        <mark key="]" line="111" column="22" />
+        <mark key="." line="111" column="22" />
+        <mark key="^" line="111" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/AIAA2018/from_stl.py" timestamp="1530125843265">
         <mark key="[" line="5" column="45" />
@@ -697,92 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="43" column="77" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="44" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="45" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="47" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="51" column="61" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="52" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="54" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="412" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="557" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="628" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="642" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="661" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="693" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="453" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="451" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="627" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="641" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="674" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="461" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="455" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="494" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="710" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="440" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="565" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="731" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="457" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="623" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="24" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="574" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="416" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="570" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="477" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="767" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="587" column="29" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="299" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="581" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="779" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="588" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="660" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="675" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="695" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="709" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="727" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="49" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="402" column="63" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="404" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
-      <jump line="464" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="460" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="553" column="20" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="2115" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_cinterface.py" />
-      <jump line="83" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="560" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="776" column="51" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="780" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="114" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="48" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="89" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="94" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="122" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="170" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="171" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="317" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="349" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="350" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="376" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="377" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="436" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="584" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="585" column="34" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="655" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="656" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="670" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="671" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="691" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="692" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="705" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="706" column="27" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="723" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="724" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="737" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="738" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="744" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="745" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="751" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="752" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="777" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="778" column="42" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
@@ -797,13 +721,99 @@
       <jump line="855" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="32" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="561" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="459" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="527" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="662" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="757" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="658" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="320" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="289" column="26" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="114" column="12" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="525" column="35" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="772" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="894" column="45" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="56" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
+      <jump line="376" column="54" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
+      <jump line="2490" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="2143" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="42" column="79" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="173" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="256" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="344" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="345" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="366" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="368" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="437" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="1189" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2241" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="756" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2273" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2280" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2283" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="4518" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1333" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1338" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1348" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1353" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1397" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1404" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="1728" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="386" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="397" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="404" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="837" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="2153" column="6" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="2166" column="39" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="4484" column="11" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="2281" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2272" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="441" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="1193" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="1194" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="1297" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2285" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="1242" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="1366" column="48" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="698" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2086" column="53" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2268" column="43" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="462" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2256" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="374" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="2262" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="432" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2320" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="466" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2277" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="570" column="24" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
+      <jump line="2197" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="873" column="54" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
+      <jump line="447" column="64" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="760" column="44" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
+      <jump line="745" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="2293" column="28" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="459" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
+      <jump line="71" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
+      <jump line="2346" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZGVmIGlzX2VkZ2VfcGxhbmFyKGVkZ2UpOgogICAgIiIiCiAgICBDaGVjayBpZiBpbnB1dCBlZGdlIGlzIHBsYW5hcgogICAgOnJldHVybjogVHJ1ZSBvciBGYWxzZQogICAgIiIiCiAgICByZXR1cm4gcHlzYWdlLkdlb21ldHJ5T3BlcmF0aW9ucy5jaGVja0VkZ2VQbGFuYXJpdHkoZWRnZSkK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -815,16 +825,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>QueryResults</text>
+        <text>EdgePlana</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIHBvaW50c19jbG9zZXN0X3RvKHNlbGYsIHJlZl9wb2ludCk6CiAgICAgICAgIiIiCiAgICAgICAgR2V0cyB0aGUgY2xvc2VzdCBwb2ludCBvbiB0aGUgZW50aXR5IGNvcnJlc3BvbmRpbmcgdG8gdGhlIGlucHV0IGBgcmVmX3BvaW50YGAKICAgICAgICA6cGFyYW0gcmVmX3BvaW50OiB0aGUgZ2l2ZW4gcmVmZXJlbmNlIHBvaW50LgogICAgICAgICIiIgogICAgICAgIHJldHVybiBzZWxmLmFwcGx5KENsb3Nlc3RQb2ludE9uRW50aXR5KHJlZl9wb2ludCkpCg==</text>
+        <text encoding="base64">ZGVmIGlzX2VkZ2VfcGxhbmFyKGVkZ2UpOgogICAgIiIiCiAgICBDaGVjayBpZiBpbnB1dCBlZGdlIGlzIHBsYW5hcgogICAgOnJldHVybjogVHJ1ZSBvciBGYWxzZQogICAgIiIiCiAgICByZXR1cm4gcHlzYWdlLkdlb21ldHJ5T3BlcmF0aW9ucy5jaGVja0VkZ2VQbGFuYXJpdHkoZWRnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBwcm9wZXJ0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -854,37 +864,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmRlZiBjbG9zZXN0X3BvaW50X29uX2VudGl0eShlbnRpdHksIHJlZmVyZW5jZV9wb2ludCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBhcHBseV9yZXN1bHRzKHNlbGYsIHZhbHVlKToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBhcHBseV9yZXN1bHRzLnNldHRlcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBbZWQgZm9yIGVkIGluIGltcHJpbnRlZF9lZGdlc10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZgo=</text>
+        <text encoding="base64">ICAgIHB5c2FnZS5HZW9tZXRyeU9wZXJhdGlvbnMuaW1wcmludChib2R5LCB0b29sLCBpbXByaW50ZWRfZWRnZXMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib2R5ID0gcGFzY2FsZS5zYWdlLmJvZHkuRXh0cnVkZS5wcm9maWxlX2Fsb25nX2RpcmVjdGlvbihjLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWiwgMTAsIG9taXRfZW5kX2NhcHM9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGltcHJpbnRlZF9lZGdlcyA9IHB5c2FnZS5zRW50aXR5UHRyVmVjKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEFsbW9zdEVxdWFsKHB0X3Jlc1swXSwgMiwgcGxhY2VzPTIpCg==</text>
+        <text encoding="base64">ICAgICIiIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgtMSwgMCwgMS40KSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzAsIDAsIDEuNF0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYy5wb2ludF9jbG9zZXN0X3RvKCgyLjUsIDAsIC0xKSkgPT0gcGFzY2FsZS5zYWdlLlBvaW50M0QoWzIuNSwgMCwgMF0pCg==</text>
+        <text encoding="base64">ICAgIDpyZXR1cm46IFRoZSBpbnB1dCBib2R5IGlzIGNoYW5nZWQgYW5kIGltcHJpbnRlZCBlZGdlcyBhcmUgcmV0dXJuZWQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>QueryResults</last-search>
+      <last-search>EdgePlana</last-search>
       <last-offset />
-      <last-pattern>QueryResults</last-pattern>
+      <last-pattern>EdgePlana</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -892,26 +902,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcmVkaWNhdGVcPg==</entry>
-        <entry encoding="base64">XDxiZXR3ZWVuX2Nvb3JkXD4=</entry>
-        <entry>__iter__</entry>
-        <entry encoding="base64">XDxfd2l0aF91c2VyX2Z1bmN0aW9uXD4=</entry>
-        <entry>PointResults</entry>
-        <entry encoding="base64">XDxfd2l0aF9wcmVkaWNhdGVcPg==</entry>
-        <entry>GeometryFilters</entry>
-        <entry>_warp(</entry>
-        <entry>_wrap</entry>
-        <entry encoding="base64">XDxfd3JhcFw+</entry>
-        <entry>call(</entry>
-        <entry>_closest_poi</entry>
-        <entry>ClosestPoint</entry>
-        <entry encoding="base64">XDxDbG9zZXN0UG9pbnRPbkVudGl0eVw+</entry>
-        <entry encoding="base64">XDxfY2xvc2VzdF9wdF9vbl9lbnRpdHlcPg==</entry>
-        <entry>EdgeQuery</entry>
-        <entry>Extrude</entry>
-        <entry>__init__</entry>
-        <entry>Queryresults</entry>
-        <entry>QueryResults</entry>
+        <entry>AnyCallable</entry>
+        <entry>TopologyQuery</entry>
+        <entry>Entity</entry>
+        <entry>class Entity</entry>
+        <entry>bend</entry>
+        <entry>class</entry>
+        <entry encoding="base64">XDxtYWtlX2JvZHlfZnJvbV9mYWNlXD4=</entry>
+        <entry>get_edge_start</entry>
+        <entry encoding="base64">XDxfcGVycGVuZGljdWxhcl92ZWNcPg==</entry>
+        <entry>perp</entry>
+        <entry>_perp</entry>
+        <entry>type_of</entry>
+        <entry encoding="base64">XDxnZXRfZWRnZXNcPg==</entry>
+        <entry>Planar</entry>
+        <entry>vec_per</entry>
+        <entry>EntityDe</entry>
+        <entry>Debuf</entry>
+        <entry>Debug</entry>
+        <entry>Plane</entry>
+        <entry>EdgePlana</entry>
       </history-search>
       <history-cmd>
         <entry>s/sat/igs/gc</entry>
