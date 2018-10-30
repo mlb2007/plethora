@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1539365055605">
+      <file name="/start_script.py" timestamp="1540596431246">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_curve_v2_0.py" timestamp="1528786463513">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AIAA2018/to_stl.py" timestamp="1530063638665">
         <mark key="[" line="15" column="7" />
@@ -16,6 +13,11 @@
       </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/on-premise pascale/pysage-gui/src/database.py" timestamp="1540595530669">
+        <mark key="[" line="210" column="14" />
+        <mark key="]" line="210" column="14" />
+        <mark key="." line="210" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1533232333759">
         <mark key="[" line="3" column="7" />
@@ -52,10 +54,10 @@
         <mark key="]" line="1455" column="0" />
         <mark key="." line="1455" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" timestamp="1540333177415">
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" timestamp="1540401503332">
         <mark key="'" line="225" column="23" />
-        <mark key="[" line="231" column="30" />
-        <mark key="]" line="259" column="28" />
+        <mark key="[" line="187" column="4" />
+        <mark key="]" line="195" column="44" />
         <mark key="." line="259" column="28" />
         <mark key="^" line="259" column="28" />
       </file>
@@ -77,9 +79,6 @@
         <mark key="[" line="9" column="23" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/pascale/src/pyinterface/py/pascale/sage/query.py" timestamp="1539655327173">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/triio.py" timestamp="1513649452300">
         <mark key="'" line="72" column="23" />
@@ -262,6 +261,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomimport.py" timestamp="1540859383501">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
         <mark key="[" line="77" column="0" />
@@ -330,6 +332,9 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="166" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1540837032084">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder_new.py" timestamp="1512405610496">
         <mark key="'" line="3441" column="88" />
         <mark key="[" line="2271" column="53" />
@@ -374,11 +379,6 @@
         <mark key="^" line="71" column="13" />
         <mark key="." line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/pascale/src/pyinterface/py/pascale/sage/api.py" timestamp="1539799748032">
-        <mark key="'" line="4124" column="12" />
-        <mark key="[" line="2869" column="0" />
-        <mark key="]" line="2881" column="67" />
-      </file>
       <file name="$USER_HOME$/workspace/dev-gui/multiprocess.py" timestamp="1522289551613">
         <mark key="[" line="1" column="16" />
         <mark key="]" line="44" column="4" />
@@ -394,6 +394,9 @@
         <mark key="[" line="315" column="11" />
         <mark key="]" line="314" column="109" />
         <mark key="." line="314" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/IMEC/main.py" timestamp="1540406069772">
+        <mark key="[" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/body.py" timestamp="1540337549833">
         <mark key="[" line="19" column="0" />
@@ -442,9 +445,6 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="79" column="40" />
       </file>
-      <file name="$USER_HOME$/pascale/src/pyinterface/py/tests/test_cinterface.py" timestamp="1539801291814">
-        <mark key="'" line="1955" column="0" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" timestamp="1540332821381">
         <mark key="'" line="411" column="4" />
         <mark key="[" line="2196" column="8" />
@@ -479,6 +479,12 @@
         <mark key="." line="316" column="92" />
         <mark key="^" line="316" column="92" />
       </file>
+      <file name="$USER_HOME$/on-premise pascale/pysage-gui/src/webserver.py" timestamp="1540595975548">
+        <mark key="[" line="774" column="21" />
+        <mark key="]" line="774" column="16" />
+        <mark key="." line="774" column="16" />
+        <mark key="^" line="774" column="16" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_query.py" timestamp="1540232997503">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="42" column="0" />
@@ -501,12 +507,6 @@
         <mark key="]" line="933" column="0" />
         <mark key="." line="933" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/curves.py" timestamp="1539827078863">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/core.py" timestamp="1534486109462">
-        <mark key="'" line="143" column="6" />
-      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="21" column="29" />
@@ -514,9 +514,6 @@
       </file>
       <file name="$USER_HOME$/workspace/jupyter_examples/scratch.py" timestamp="1516327228440">
         <mark key="[" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1388993742/pysage/GeometryOperations.py" timestamp="1527723507687">
-        <mark key="'" line="986" column="22" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/bodies.py" timestamp="1524520183807">
         <mark key="'" line="78" column="25" />
@@ -532,11 +529,10 @@
         <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" timestamp="1540265210798">
-        <mark key="'" line="71" column="32" />
-        <mark key="[" line="104" column="45" />
-        <mark key="]" line="111" column="22" />
-        <mark key="." line="111" column="22" />
-        <mark key="^" line="111" column="22" />
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="128" column="22" />
+        <mark key="." line="128" column="22" />
+        <mark key="^" line="128" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/AIAA2018/from_stl.py" timestamp="1530125843265">
         <mark key="[" line="5" column="45" />
@@ -595,9 +591,6 @@
         <mark key="^" line="1512" column="60" />
         <mark key="." line="1512" column="61" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/mesh.py" timestamp="1539116723790">
-        <mark key="'" line="192" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512603873509">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="43" />
@@ -611,7 +604,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539364817516">
+      <file name="/Dummy.txt" timestamp="1540596544972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/code.py" timestamp="1516061595320">
@@ -812,8 +805,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>user_manager.get_unique_random_uid()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -825,16 +818,21 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>user_manager.get_unique_random_uid()</text>
       </register>
       <register name="/" type="4">
         <text>embed</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAjIGlmIHByb2ZpbGUgaXMgYSBmYWNlLCB3ZSBkb24ndCB3YW50IHRvIGNvcHkgaXQKICAgICAgICBpZiBpc2luc3RhbmNlKHByb2ZpbGUsIHF1ZXJ5LkZhY2VRdWVyeSk6CiAgICAgICAgICAgIHByb2ZpbGUgPSBGYWNlLmZyb21fcXVlcnkocHJvZmlsZSkKICAgICAgICBlbHNlOgogICAgICAgICAgICBwcm9maWxlID0gcHJvZmlsZS5jb3B5KCkK</text>
+        <text encoding="base64">ZGVmIF9yZWZfYm9keSgpOgogICAgICAgIHJldHVybiBwYXNjYWxlLnNhZ2UuYm9keS5DdWJvaWQuZnJvbV9ib3VuZGluZ19ib3hfY29ybmVycygoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkKCiAgICBkZWYgdGVzdF9lZGdlX2ltcHJpbnQoc2VsZik6CiAgICAgICAgcHJvZmlsZSA9IHBhc2NhbGUuc2FnZS5jdXJ2ZS5DaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoNSwgNSwgMTApLCAzLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBib2R5ID0gVGVzdEJvZHlJbXByaW50Ll9yZWZfYm9keSgpCiAgICAgICAgaW1wcmludGVkID0gYm9keS5pbXByaW50KHByb2ZpbGUpCiAgICAgICAgYXNzZXJ0IGltcHJpbnRlZC5zX2VudGl0eSAhPSBib2R5LnNfZW50aXR5CiAgICAgICAgYXNzZXJ0IGltcHJpbnRlZC5lZGdlcy5jb3VudCgpID09IDEzCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>import pascale.sage as sage
+
+body = sage.body.Cuboid.from_bounding_box_corners((0, 0, 0), (10, 10, 10))
+profile_to_imprint = sage.curve.Circle.from_center_radius_normal((5, 5, 10), 3, sage.UNIT_VEC_Z)
+
+imprinted_body  = body.imprint(profile_to_imprint)</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -870,22 +868,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGUuY29weSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGUuY29weSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IEZhY2UuZnJvbV9xdWVyeShwcm9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHByb2ZpbGUsIHF1ZXJ5LkZhY2VRdWVyeSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IEZhY2UuZnJvbV9xdWVyeShwcm9maWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gX2NvcHlfcHJvZmlsZShwcm9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHByb2ZpbGUsIHF1ZXJ5LkZhY2VRdWVyeSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gX2NvcHlfcHJvZmlsZShwcm9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
