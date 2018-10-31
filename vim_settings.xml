@@ -528,11 +528,11 @@
         <mark key="]" line="178" column="36" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" timestamp="1540265210798">
-        <mark key="[" line="1" column="45" />
-        <mark key="]" line="128" column="22" />
-        <mark key="." line="128" column="22" />
-        <mark key="^" line="128" column="22" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" timestamp="1541014477666">
+        <mark key="[" line="111" column="8" />
+        <mark key="]" line="112" column="9" />
+        <mark key="." line="112" column="9" />
+        <mark key="^" line="112" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/AIAA2018/from_stl.py" timestamp="1530125843265">
         <mark key="[" line="5" column="45" />
@@ -586,6 +586,7 @@
         <mark key="^" line="1512" column="60" />
         <mark key="." line="1512" column="61" />
       </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/mesh.py" timestamp="1541007156032" />
       <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512603873509">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="43" />
@@ -805,8 +806,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>user_manager.get_unique_random_uid()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNfZW50aXR5LmF0dGFjaEF0dHJpYnV0ZSh2YWx1ZSwga2V5KQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -821,18 +822,13 @@
         <text>user_manager.get_unique_random_uid()</text>
       </register>
       <register name="/" type="4">
-        <text>embed</text>
+        <text>__set_attrib__</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIF9yZWZfYm9keSgpOgogICAgICAgIHJldHVybiBwYXNjYWxlLnNhZ2UuYm9keS5DdWJvaWQuZnJvbV9ib3VuZGluZ19ib3hfY29ybmVycygoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkKCiAgICBkZWYgdGVzdF9lZGdlX2ltcHJpbnQoc2VsZik6CiAgICAgICAgcHJvZmlsZSA9IHBhc2NhbGUuc2FnZS5jdXJ2ZS5DaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoNSwgNSwgMTApLCAzLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBib2R5ID0gVGVzdEJvZHlJbXByaW50Ll9yZWZfYm9keSgpCiAgICAgICAgaW1wcmludGVkID0gYm9keS5pbXByaW50KHByb2ZpbGUpCiAgICAgICAgYXNzZXJ0IGltcHJpbnRlZC5zX2VudGl0eSAhPSBib2R5LnNfZW50aXR5CiAgICAgICAgYXNzZXJ0IGltcHJpbnRlZC5lZGdlcy5jb3VudCgpID09IDEzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>import pascale.sage as sage
-
-body = sage.body.Cuboid.from_bounding_box_corners((0, 0, 0), (10, 10, 10))
-profile_to_imprint = sage.curve.Circle.from_center_radius_normal((5, 5, 10), 3, sage.UNIT_VEC_Z)
-
-imprinted_body  = body.imprint(profile_to_imprint)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnNfZW50aXR5LmF0dGFjaEF0dHJpYnV0ZSh2YWx1ZSwga2V5KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -862,37 +858,42 @@ imprinted_body  = body.imprint(profile_to_imprint)</text>
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zX2VudGl0eS5hdHRhY2hBdHRyaWJ1dGUodmFsdWUsIGtleSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>import pascale.sage as sage
+
+body = sage.body.Cuboid.from_bounding_box_corners((0, 0, 0), (10, 10, 10))
+profile_to_imprint = sage.curve.Circle.from_center_radius_normal((5, 5, 10), 3, sage.UNIT_VEC_Z)
+
+imprinted_body  = body.imprint(profile_to_imprint)</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGUuY29weSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IEZhY2UuZnJvbV9xdWVyeShwcm9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGUuY29weSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpc2luc3RhbmNlKHByb2ZpbGUsIHF1ZXJ5LkZhY2VRdWVyeSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlID0gX2NvcHlfcHJvZmlsZShwcm9maWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IEZhY2UuZnJvbV9xdWVyeShwcm9maWxlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>embed</last-search>
+      <last-search>__set_attrib__</last-search>
       <last-offset />
-      <last-pattern>embed</last-pattern>
+      <last-pattern>__set_attrib__</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -900,7 +901,6 @@ imprinted_body  = body.imprint(profile_to_imprint)</text>
     </search>
     <history>
       <history-search>
-        <entry>class</entry>
         <entry encoding="base64">XDxtYWtlX2JvZHlfZnJvbV9mYWNlXD4=</entry>
         <entry>get_edge_start</entry>
         <entry encoding="base64">XDxfcGVycGVuZGljdWxhcl92ZWNcPg==</entry>
@@ -920,6 +920,7 @@ imprinted_body  = body.imprint(profile_to_imprint)</text>
         <entry>vec_cross</entry>
         <entry>embed_wire</entry>
         <entry>embed</entry>
+        <entry>__set_attrib__</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sat/igs/gc</entry>
