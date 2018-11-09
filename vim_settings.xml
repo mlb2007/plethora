@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1540938942554">
+      <file name="/start_script.py" timestamp="1541117203856">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/AIAA2018/to_stl.py" timestamp="1530063638665">
@@ -11,8 +11,17 @@
         <mark key="]" line="14" column="22" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/parambug/rework_canard.py" timestamp="1541117270703">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="51" />
+        <mark key="." line="15" column="51" />
+        <mark key="^" line="15" column="51" />
+      </file>
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/serialize.py" timestamp="1541111384332">
+        <mark key="'" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/on-premise pascale/pysage-gui/src/database.py" timestamp="1540595530669">
         <mark key="[" line="210" column="14" />
@@ -261,8 +270,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomimport.py" timestamp="1540859383501">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomimport.py" timestamp="1541201134363">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="33" column="86" />
+        <mark key="." line="33" column="86" />
+        <mark key="^" line="33" column="86" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/loft_examples.py" timestamp="1503604859045">
         <mark key="'" line="63" column="0" />
@@ -303,6 +315,12 @@
       </file>
       <file name="$USER_HOME$/workspace/bugs/import_export/imp_exp.py" timestamp="1527030181419">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/bugs/stitch/axi_inlet.py" timestamp="1541203902837">
+        <mark key="'" line="3361" column="0" />
+        <mark key="[" line="1036" column="4" />
+        <mark key="]" line="1036" column="89" />
+        <mark key="." line="1036" column="0" />
       </file>
       <file name="$USER_HOME$/pyML/ML/pyML/thinkstats_ex1.py" timestamp="1520870328144">
         <mark key="[" line="1" column="0" />
@@ -346,6 +364,11 @@
         <mark key="[" line="610" column="22" />
         <mark key="]" line="610" column="50" />
         <mark key="." line="610" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomio.py" timestamp="1541198083503">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.1-create2D.py" timestamp="1515557761908">
         <mark key="[" line="2" column="0" />
@@ -397,6 +420,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/IMEC/main.py" timestamp="1540406069772">
         <mark key="[" line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/curve.py" timestamp="1541111699195">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/body.py" timestamp="1540337549833">
         <mark key="[" line="19" column="0" />
@@ -451,6 +479,9 @@
         <mark key="]" line="2198" column="10" />
         <mark key="^" line="2198" column="10" />
         <mark key="." line="2198" column="10" />
+      </file>
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/variadic.py" timestamp="1541110451181">
+        <mark key="[" line="14" column="80" />
       </file>
       <file name="$USER_HOME$/sandbox/build/install/py/sage/api.py" timestamp="1497994393665">
         <mark key="'" line="1411" column="9" />
@@ -507,6 +538,9 @@
         <mark key="]" line="933" column="0" />
         <mark key="." line="933" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bugs/parambug/fuse.py" timestamp="1541117256254">
+        <mark key="'" line="692" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="21" column="29" />
@@ -527,12 +561,6 @@
         <mark key="[" line="178" column="19" />
         <mark key="]" line="178" column="36" />
         <mark key="." line="178" column="0" />
-      </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" timestamp="1541014477666">
-        <mark key="[" line="111" column="8" />
-        <mark key="]" line="112" column="9" />
-        <mark key="." line="112" column="9" />
-        <mark key="^" line="112" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/AIAA2018/from_stl.py" timestamp="1530125843265">
         <mark key="[" line="5" column="45" />
@@ -557,6 +585,11 @@
       </file>
       <file name="$USER_HOME$/workspace/tmp/curve_try.py" timestamp="1519247241046">
         <mark key="[" line="6" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1541444419373">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="3" column="70" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/bodies.py" timestamp="1540332623219">
         <mark key="'" line="3" column="11" />
@@ -586,7 +619,6 @@
         <mark key="^" line="1512" column="60" />
         <mark key="." line="1512" column="61" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/mesh.py" timestamp="1541007156032" />
       <file name="$USER_HOME$/workspace/bugs/dedge/dedge_test.py" timestamp="1512603873509">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="32" column="43" />
@@ -635,11 +667,12 @@
         <mark key="]" line="275" column="51" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1524530824216">
-        <mark key="'" line="51" column="30" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" timestamp="1541201327423">
+        <mark key="'" line="56" column="56" />
+        <mark key="[" line="288" column="19" />
+        <mark key="]" line="288" column="32" />
+        <mark key="." line="288" column="32" />
+        <mark key="^" line="288" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/intersect_bug/new_report/inlet-reorder.py" timestamp="1512064871579">
         <mark key="'" line="4146" column="8" />
@@ -701,11 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="826" column="31" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="855" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="32" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="561" column="18" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="459" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="527" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="662" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
@@ -801,13 +829,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
       <jump line="24" column="4" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
       <jump line="381" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
+      <jump line="112" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/serialize.py" />
+      <jump line="692" column="0" filename="$USER_HOME$/workspace/bugs/parambug/fuse.py" />
+      <jump line="56" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
+      <jump line="3360" column="0" filename="$USER_HOME$/workspace/bugs/stitch/axi_inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNfZW50aXR5LmF0dGFjaEF0dHJpYnV0ZSh2YWx1ZSwga2V5KQo=</text>
+        <text encoding="base64">YzEgPSBwYS5ib2R5LkN1Ym9pZC5mcm9tX2JvdW5kaW5nX2JveF9jb3JuZXJzKCgwLCAwLCAwKSwgKDEwLCAxMCwgMTApKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -819,16 +852,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>user_manager.get_unique_random_uid()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>__set_attrib__</text>
+        <text>stitch</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9yZWZfYm9keSgpOgogICAgICAgIHJldHVybiBwYXNjYWxlLnNhZ2UuYm9keS5DdWJvaWQuZnJvbV9ib3VuZGluZ19ib3hfY29ybmVycygoMCwgMCwgMCksICgxMCwgMTAsIDEwKSkKCiAgICBkZWYgdGVzdF9lZGdlX2ltcHJpbnQoc2VsZik6CiAgICAgICAgcHJvZmlsZSA9IHBhc2NhbGUuc2FnZS5jdXJ2ZS5DaXJjbGUuZnJvbV9jZW50ZXJfcmFkaXVzX25vcm1hbCgoNSwgNSwgMTApLCAzLCBwYXNjYWxlLnNhZ2UuVU5JVF9WRUNfWikKICAgICAgICBib2R5ID0gVGVzdEJvZHlJbXByaW50Ll9yZWZfYm9keSgpCiAgICAgICAgaW1wcmludGVkID0gYm9keS5pbXByaW50KHByb2ZpbGUpCiAgICAgICAgYXNzZXJ0IGltcHJpbnRlZC5zX2VudGl0eSAhPSBib2R5LnNfZW50aXR5CiAgICAgICAgYXNzZXJ0IGltcHJpbnRlZC5lZGdlcy5jb3VudCgpID09IDEzCg==</text>
+        <text encoding="base64">ZGVmIGVudGl0eV93cml0ZXIoZW50aXR5LCBvdXRwdXQsICoqb3V0cHV0X2t3YXJncyk6CiAgICBpZiBfaXNfdGVjcGxvdF93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ3pvbmVfbmFtZV9wcmVmaXgnXSwgbWVzaCkKICAgIGVsaWYgX2lzX3RyaV93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ21lc2hfdGFnJ10sIG1lc2gpCiAgICBlbGlmIF9pc19zdGxfd3JpdGVyKG91dHB1dCk6CiAgICAgICAgbWVzaCA9IG1lc2hlci50ZXNzZWxsYXRlX2VudGl0eShlbnRpdHksIG91dHB1dF9rd2FyZ3NbJ21lc2hfb3B0aW9ucyddKQogICAgICAgIG91dHB1dC5hZGRfbWVzaChtZXNoKQogICAgZWxpZiBfaXNfZ2VvbV93cml0ZXIob3V0cHV0KToKICAgICAgICBvdXRwdXQuYWRkX2VudGl0eShlbnRpdHkpCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiV3JpdGVyIGZvciB0eXBlIHt9IG5vdCBpbXBsZW1lbnRlZCIuZm9ybWF0KHR5cGUob3V0cHV0KSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnNfZW50aXR5LmF0dGFjaEF0dHJpYnV0ZSh2YWx1ZSwga2V5KQo=</text>
+        <text encoding="base64">YzEgPSBwYS5ib2R5LkN1Ym9pZC5mcm9tX2JvdW5kaW5nX2JveF9jb3JuZXJzKCgwLCAwLCAwKSwgKDEwLCAxMCwgMTApKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -858,15 +891,10 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zX2VudGl0eS5hdHRhY2hBdHRyaWJ1dGUodmFsdWUsIGtleSkK</text>
+        <text encoding="base64">ICAgIHBhLmlvLkV4cG9ydC50b19maWxlKG5vc2VfaW5uZXJfc3VyZmFjZSwgbm9zZV9vdXRlcl9zdXJmYWNlLG5vc2Vfc3VyZmFjZSwgInRlc3Quc2F0IikK</text>
       </register>
-      <register name="3" type="4">
-        <text>import pascale.sage as sage
-
-body = sage.body.Cuboid.from_bounding_box_corners((0, 0, 0), (10, 10, 10))
-profile_to_imprint = sage.curve.Circle.from_center_radius_normal((5, 5, 10), 3, sage.UNIT_VEC_Z)
-
-imprinted_body  = body.imprint(profile_to_imprint)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -875,25 +903,25 @@ imprinted_body  = body.imprint(profile_to_imprint)</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZW50aXRpZXMuYXBwZW5kKGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IHByb2ZpbGUuY29weSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGUgaW4gZW50aXR5Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBlbGlmIGlzaW5zdGFuY2UoZW50aXR5LCBjb2xsZWN0aW9ucy5JdGVyYWJsZSk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvZmlsZSA9IEZhY2UuZnJvbV9xdWVyeShwcm9maWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>__set_attrib__</last-search>
+      <last-search>stitch</last-search>
       <last-offset />
-      <last-pattern>__set_attrib__</last-pattern>
+      <last-pattern>stitch</last-pattern>
       <last-replace>stage_2</last-replace>
       <last-substitute>body2</last-substitute>
       <last-dir>1</last-dir>
@@ -901,11 +929,6 @@ imprinted_body  = body.imprint(profile_to_imprint)</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYWtlX2JvZHlfZnJvbV9mYWNlXD4=</entry>
-        <entry>get_edge_start</entry>
-        <entry encoding="base64">XDxfcGVycGVuZGljdWxhcl92ZWNcPg==</entry>
-        <entry>perp</entry>
-        <entry>_perp</entry>
         <entry>type_of</entry>
         <entry encoding="base64">XDxnZXRfZWRnZXNcPg==</entry>
         <entry>Planar</entry>
@@ -921,6 +944,11 @@ imprinted_body  = body.imprint(profile_to_imprint)</text>
         <entry>embed_wire</entry>
         <entry>embed</entry>
         <entry>__set_attrib__</entry>
+        <entry>serialize_</entry>
+        <entry>cone</entry>
+        <entry>slice</entry>
+        <entry>Slice</entry>
+        <entry>stitch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sat/igs/gc</entry>
