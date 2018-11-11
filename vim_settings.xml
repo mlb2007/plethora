@@ -641,6 +641,13 @@
       <file name="/Dummy.txt" timestamp="1540938921148">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wheel_and_tire.py" timestamp="1541960179172">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="16" column="72" />
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+      </file>
       <file name="/code.py" timestamp="1516061595320">
         <mark key="[" line="0" column="0" />
       </file>
@@ -740,8 +747,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
-      <jump line="527" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="662" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="757" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="658" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
@@ -840,6 +845,8 @@
       <jump line="692" column="0" filename="$USER_HOME$/workspace/bugs/parambug/fuse.py" />
       <jump line="56" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
       <jump line="3360" column="0" filename="$USER_HOME$/workspace/bugs/stitch/axi_inlet.py" />
+      <jump line="6" column="29" filename="$USER_HOME$/Desktop/wheel_and_tire.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/Desktop/wheel_and_tire.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -861,7 +868,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>stitch</text>
+        <text>sage</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGVudGl0eV93cml0ZXIoZW50aXR5LCBvdXRwdXQsICoqb3V0cHV0X2t3YXJncyk6CiAgICBpZiBfaXNfdGVjcGxvdF93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ3pvbmVfbmFtZV9wcmVmaXgnXSwgbWVzaCkKICAgIGVsaWYgX2lzX3RyaV93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ21lc2hfdGFnJ10sIG1lc2gpCiAgICBlbGlmIF9pc19zdGxfd3JpdGVyKG91dHB1dCk6CiAgICAgICAgbWVzaCA9IG1lc2hlci50ZXNzZWxsYXRlX2VudGl0eShlbnRpdHksIG91dHB1dF9rd2FyZ3NbJ21lc2hfb3B0aW9ucyddKQogICAgICAgIG91dHB1dC5hZGRfbWVzaChtZXNoKQogICAgZWxpZiBfaXNfZ2VvbV93cml0ZXIob3V0cHV0KToKICAgICAgICBvdXRwdXQuYWRkX2VudGl0eShlbnRpdHkpCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiV3JpdGVyIGZvciB0eXBlIHt9IG5vdCBpbXBsZW1lbnRlZCIuZm9ybWF0KHR5cGUob3V0cHV0KSkpCg==</text>
@@ -925,17 +932,16 @@
       </register>
     </registers>
     <search>
-      <last-search>stitch</last-search>
+      <last-search>sage</last-search>
       <last-offset />
-      <last-pattern>stitch</last-pattern>
-      <last-replace>stage_2</last-replace>
-      <last-substitute>body2</last-substitute>
+      <last-pattern>sage</last-pattern>
+      <last-replace>pa</last-replace>
+      <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>type_of</entry>
         <entry encoding="base64">XDxnZXRfZWRnZXNcPg==</entry>
         <entry>Planar</entry>
         <entry>vec_per</entry>
@@ -955,9 +961,9 @@
         <entry>slice</entry>
         <entry>Slice</entry>
         <entry>stitch</entry>
+        <entry>sage</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/sat/igs/gc</entry>
         <entry>273</entry>
         <entry>%s/test_/ntest_/gc</entry>
         <entry>256</entry>
@@ -976,6 +982,7 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>%s/sage/pa/gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
