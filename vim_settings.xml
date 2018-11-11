@@ -336,10 +336,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1540837032084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/ASME-IMEC/wheel_and_tire.py" timestamp="1541971533525">
-        <mark key="[" line="83" column="25" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Desktop/ASME-IMEC/wheel_and_tire.py" timestamp="1541973240861">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
@@ -751,7 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="662" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="757" column="41" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="658" column="15" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
       <jump line="320" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/query.py" />
@@ -851,13 +850,14 @@
       <jump line="3360" column="0" filename="$USER_HOME$/workspace/bugs/stitch/axi_inlet.py" />
       <jump line="6" column="29" filename="$USER_HOME$/Desktop/wheel_and_tire.py" />
       <jump line="87" column="0" filename="$USER_HOME$/Desktop/wheel_and_tire.py" />
+      <jump line="42" column="35" filename="$USER_HOME$/Desktop/ASME-IMEC/wheel_and_tire.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -869,16 +869,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pa.circle_center_radius_normal(pa.ORIGIN, 0.05, pa.UNIT_VEC_X)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sage</text>
+        <text>Join</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGVudGl0eV93cml0ZXIoZW50aXR5LCBvdXRwdXQsICoqb3V0cHV0X2t3YXJncyk6CiAgICBpZiBfaXNfdGVjcGxvdF93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ3pvbmVfbmFtZV9wcmVmaXgnXSwgbWVzaCkKICAgIGVsaWYgX2lzX3RyaV93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ21lc2hfdGFnJ10sIG1lc2gpCiAgICBlbGlmIF9pc19zdGxfd3JpdGVyKG91dHB1dCk6CiAgICAgICAgbWVzaCA9IG1lc2hlci50ZXNzZWxsYXRlX2VudGl0eShlbnRpdHksIG91dHB1dF9rd2FyZ3NbJ21lc2hfb3B0aW9ucyddKQogICAgICAgIG91dHB1dC5hZGRfbWVzaChtZXNoKQogICAgZWxpZiBfaXNfZ2VvbV93cml0ZXIob3V0cHV0KToKICAgICAgICBvdXRwdXQuYWRkX2VudGl0eShlbnRpdHkpCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiV3JpdGVyIGZvciB0eXBlIHt9IG5vdCBpbXBsZW1lbnRlZCIuZm9ybWF0KHR5cGUob3V0cHV0KSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -908,37 +908,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnQodGlyZV9tb3VudF9oYWxmX3Byb2ZpbGUuc3RhcnQsIHRpcmVfbW91bnRfaGFsZl9wcm9maWxlLmVuZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQobGlwLnN0YXJ0LCBsaXAuZW5kKQo=</text>
+        <text encoding="base64">dmlld2VyLnNob3cocXVhcnRlcl93aGVlbF9wcm9maWxlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoZmxhbmdlX2ZpbGxldC5zdGFydCwgZmxhbmdlX2ZpbGxldC5lbmQpCg==</text>
+        <text encoding="base64">ZXhpdCgwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQobGluZS5zdGFydCwgbGluZS5lbmQpCg==</text>
+        <text encoding="base64">cHJpbnQgdGlyZV9tb3VudF9oYWxmX3Byb2ZpbGUuc3RhcnQsIHRpcmVfbW91bnRfaGFsZl9wcm9maWxlLmVuZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgbGlwLnN0YXJ0LCBsaXAuZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnQgZmxhbmdlX2ZpbGxldC5zdGFydCwgZmxhbmdlX2ZpbGxldC5lbmQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBvbGQgLS0+IGVsbGlwdGljX2FyY19jZW50ZXJfdmVydGljZXMoZmxhbmdlX2ZpbGxldF9jZW50ZXIsIGh1Yl9lbmQsIGZsYW5nZV9maWxsZXRfZW5kLCBlbmRfYW5nbGU9OTApCg==</text>
+        <text encoding="base64">cHJpbnQgbGluZS5zdGFydCwgbGluZS5lbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBwcmludCBmbGFuZ2VfZmlsbGV0X2NlbnRlciwgaHViX2VuZCwgZmxhbmdlX2ZpbGxldF9lbmQsIGxpcF90aXAK</text>
+        <text encoding="base64">YXNwZWN0X3JhdGlvID0gMS4wLyhtYWpvcl9heGlzX3ZlYy5ub3JtIC8gZmxhbmdlX2ZpbGxldF9lbmQubm9ybSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sage</last-search>
+      <last-search>Join</last-search>
       <last-offset />
-      <last-pattern>sage</last-pattern>
+      <last-pattern>Join</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -946,7 +946,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZWRnZXNcPg==</entry>
         <entry>Planar</entry>
         <entry>vec_per</entry>
         <entry>EntityDe</entry>
@@ -966,6 +965,7 @@
         <entry>Slice</entry>
         <entry>stitch</entry>
         <entry>sage</entry>
+        <entry>Join</entry>
       </history-search>
       <history-cmd>
         <entry>273</entry>
