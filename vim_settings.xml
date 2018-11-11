@@ -336,6 +336,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1540837032084">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/ASME-IMEC/wheel_and_tire.py" timestamp="1541970517257">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/sageGUI/gui_mesh.py" timestamp="1494540406597">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="8" column="7" />
@@ -641,11 +646,11 @@
       <file name="/Dummy.txt" timestamp="1540938921148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wheel_and_tire.py" timestamp="1541969166127">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/Desktop/wheel_and_tire.py" timestamp="1541969926317">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="/code.py" timestamp="1516061595320">
         <mark key="[" line="0" column="0" />
@@ -864,7 +869,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pa.circle_center_radius_normal(pa.ORIGIN, 0.05, pa.UNIT_VEC_X)</text>
       </register>
       <register name="/" type="4">
         <text>sage</text>
@@ -903,16 +908,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGEuaW8uRXhwb3J0LnRvX2ZpbGUod2hlZWwsIGJlYXJpbmdfbW91bnQsICd3LnNhdCcpCg==</text>
+        <text encoding="base64">cHJpbnQodGlyZV9tb3VudF9oYWxmX3Byb2ZpbGUuc3RhcnQsIHRpcmVfbW91bnRfaGFsZl9wcm9maWxlLmVuZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGEuaW8uRXhwb3J0LnRvX2ZpbGUod2hlZWwsIGJlYXJpbmdfbW91bnQsICd3LnNhdCcpCg==</text>
+        <text encoding="base64">cHJpbnQobGlwLnN0YXJ0LCBsaXAuZW5kKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">cHJpbnQoZmxhbmdlX2ZpbGxldC5zdGFydCwgZmxhbmdlX2ZpbGxldC5lbmQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhpdCgwKQo=</text>
+        <text encoding="base64">cHJpbnQobGluZS5zdGFydCwgbGluZS5lbmQpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -921,10 +926,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">IyBvbGQgLS0+IGVsbGlwdGljX2FyY19jZW50ZXJfdmVydGljZXMoZmxhbmdlX2ZpbGxldF9jZW50ZXIsIGh1Yl9lbmQsIGZsYW5nZV9maWxsZXRfZW5kLCBlbmRfYW5nbGU9OTApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcmludCBmbGFuZ2VfZmlsbGV0X2NlbnRlciwgaHViX2VuZCwgZmxhbmdlX2ZpbGxldF9lbmQsIGxpcF90aXAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
