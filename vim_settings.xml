@@ -377,7 +377,8 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1539751733706">
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544221377717">
+        <mark key="'" line="497" column="15" />
         <mark key="[" line="610" column="22" />
         <mark key="]" line="610" column="50" />
         <mark key="." line="610" column="0" />
@@ -786,9 +787,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="42" column="79" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="256" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="344" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="345" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -886,6 +884,9 @@
       <jump line="3720" column="40" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="3767" column="40" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="3722" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="458" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="607" column="20" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="497" column="15" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -907,7 +908,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</text>
+        <text>point_closest_to</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgeF9pbm5lciwgeV9pbm5lciwgel9pbm5lciwgeF9vdXRlciwgeV9vdXRlciwgel9vdXRlciA9IHBvb2wubWFwKGdlbl9zdF9ncmlkX3BhcmFsbGVsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhkaWZmdXNlcl9pbm5lcl9mcm9udCwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCwgbnVtX2F4aWFsLCBudW1fY2lyYyxhaXBfc3BhY2luZywgZW5kX3NwYWNpbmcsIFRydWUsIE5vbmUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkaWZmdXNlcl9vdXRlciwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCxudW1fYXhpYWwsIG51bV9jaXJjLHN0YXJ0X3NwYWNpbmcsIGVuZF9zcGFjaW5nLCBGYWxzZSwgTm9uZSldKQo=</text>
@@ -971,9 +972,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</last-search>
+      <last-search>point_closest_to</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</last-pattern>
+      <last-pattern>point_closest_to</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -981,10 +982,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Debug</entry>
-        <entry>Plane</entry>
-        <entry>EdgePlana</entry>
-        <entry>EdgePla</entry>
         <entry>is_edge_pl</entry>
         <entry>vec_cross</entry>
         <entry>embed_wire</entry>
@@ -1001,6 +998,10 @@
         <entry>Building</entry>
         <entry>translating</entry>
         <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
+        <entry>CombinedCurve</entry>
+        <entry>Profile</entry>
+        <entry encoding="base64">XDxDdXJ2ZXNcPg==</entry>
+        <entry>point_closest_to</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
