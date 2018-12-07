@@ -568,8 +568,8 @@
       <file name="$USER_HOME$/workspace/bugs/parambug/fuse.py" timestamp="1541117256254">
         <mark key="'" line="692" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544209698671">
-        <mark key="'" line="3165" column="47" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544210674118">
+        <mark key="'" line="3767" column="40" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -722,6 +722,9 @@
         <mark key="." line="4223" column="8" />
         <mark key="^" line="4223" column="8" />
       </file>
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/mesh.py" timestamp="1544211100385">
+        <mark key="[" line="224" column="29" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" timestamp="1539644340167">
         <mark key="[" line="28" column="38" />
         <mark key="]" line="29" column="0" />
@@ -775,10 +778,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="54" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
-      <jump line="2490" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="2143" column="3" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="41" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="42" column="79" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -875,6 +874,10 @@
       <jump line="2961" column="13" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="2962" column="29" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="3165" column="47" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3714" column="46" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3717" column="40" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3720" column="40" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3767" column="40" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -896,7 +899,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>translating</text>
+        <text encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIGVudGl0eV93cml0ZXIoZW50aXR5LCBvdXRwdXQsICoqb3V0cHV0X2t3YXJncyk6CiAgICBpZiBfaXNfdGVjcGxvdF93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ3pvbmVfbmFtZV9wcmVmaXgnXSwgbWVzaCkKICAgIGVsaWYgX2lzX3RyaV93cml0ZXIob3V0cHV0KToKICAgICAgICBtZXNoID0gbWVzaGVyLnRlc3NlbGxhdGVfZW50aXR5KGVudGl0eSwgb3V0cHV0X2t3YXJnc1snbWVzaF9vcHRpb25zJ10pCiAgICAgICAgb3V0cHV0LmFkZF9tZXNoKG91dHB1dF9rd2FyZ3NbJ21lc2hfdGFnJ10sIG1lc2gpCiAgICBlbGlmIF9pc19zdGxfd3JpdGVyKG91dHB1dCk6CiAgICAgICAgbWVzaCA9IG1lc2hlci50ZXNzZWxsYXRlX2VudGl0eShlbnRpdHksIG91dHB1dF9rd2FyZ3NbJ21lc2hfb3B0aW9ucyddKQogICAgICAgIG91dHB1dC5hZGRfbWVzaChtZXNoKQogICAgZWxpZiBfaXNfZ2VvbV93cml0ZXIob3V0cHV0KToKICAgICAgICBvdXRwdXQuYWRkX2VudGl0eShlbnRpdHkpCiAgICBlbHNlOgogICAgICAgIHJhaXNlIFR5cGVFcnJvcigiV3JpdGVyIGZvciB0eXBlIHt9IG5vdCBpbXBsZW1lbnRlZCIuZm9ybWF0KHR5cGUob3V0cHV0KSkpCg==</text>
@@ -956,13 +959,13 @@
         <text encoding="base64">ICAgQGNsYXNzbWV0aG9kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>3714</text>
       </register>
     </registers>
     <search>
-      <last-search>translating</last-search>
+      <last-search encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</last-search>
       <last-offset />
-      <last-pattern>translating</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -970,7 +973,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Debuf</entry>
         <entry>Debug</entry>
         <entry>Plane</entry>
         <entry>EdgePlana</entry>
@@ -990,9 +992,9 @@
         <entry>Building trnslating</entry>
         <entry>Building</entry>
         <entry>translating</entry>
+        <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>273</entry>
         <entry>%s/test_/ntest_/gc</entry>
         <entry>256</entry>
         <entry>1475</entry>
@@ -1012,6 +1014,7 @@
         <entry>wq</entry>
         <entry>%s/sage/pa/gc</entry>
         <entry>w</entry>
+        <entry>3714</entry>
       </history-cmd>
       <history-expr />
       <history-input />
