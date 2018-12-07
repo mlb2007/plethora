@@ -959,7 +959,7 @@
         <text encoding="base64">ICAgQGNsYXNzbWV0aG9kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>3714</text>
+        <text>3720</text>
       </register>
     </registers>
     <search>
@@ -995,7 +995,6 @@
         <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/test_/ntest_/gc</entry>
         <entry>256</entry>
         <entry>1475</entry>
         <entry>200</entry>
@@ -1015,6 +1014,7 @@
         <entry>%s/sage/pa/gc</entry>
         <entry>w</entry>
         <entry>3714</entry>
+        <entry>3720</entry>
       </history-cmd>
       <history-expr />
       <history-input />
