@@ -235,7 +235,7 @@
         <mark key="." line="168" column="60" />
         <mark key="^" line="168" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1544741095330">
+      <file name="/Python Console" timestamp="1544743262000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1521264862563">
@@ -373,12 +373,12 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544742840993">
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544744089787">
         <mark key="'" line="52" column="31" />
-        <mark key="[" line="630" column="35" />
-        <mark key="]" line="630" column="42" />
-        <mark key="." line="630" column="42" />
-        <mark key="^" line="630" column="42" />
+        <mark key="[" line="430" column="26" />
+        <mark key="]" line="432" column="16" />
+        <mark key="." line="432" column="16" />
+        <mark key="^" line="432" column="16" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomio.py" timestamp="1541198083503">
         <mark key="[" line="31" column="0" />
@@ -889,7 +889,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -901,7 +901,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Combined</text>
@@ -910,7 +910,7 @@
         <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gbGlzdCgpCiAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQoc2VsZi5zX2VudGl0eS53cml0ZSgpKQogICAgICAgIHNhdmVfc3RhdGVfcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHAgaW4gc2VsZi5fc2VnbWVudHM6CiAgICAgICAgICAgIHNhdmVfc3RhdGVfcGllY2VzLmFwcGVuZChwLl9fZ2V0c3RhdGVfXygpKQogICAgICAgIHNhdmVfc3RhdGUuYXBwZW5kKHNhdmVfc3RhdGVfcGllY2VzKQogICAgICAgIHJldHVybiBzYXZlX3N0YXRlCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgcl9lbnRpdHkgPSBweXNhZ2Uuc0VkZ2UoKQogICAgICAgIHJfZW50aXR5LnJlYWQoc3RhdGVbMF0pCiAgICAgICAgcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVbMV06CiAgICAgICAgICAgIGMgPSBDdXJ2ZShOb25lKQogICAgICAgICAgICBjLl9fc2V0c3RhdGVfXyhzKQogICAgICAgICAgICBwaWVjZXMuYXBwZW5kKGMpCiAgICAgICAgc2VsZi5fX2luaXRfXyhyX2VudGl0eSwgcGllY2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKHByb2ZpbGVfc3RhdGUsIHNwbGluZV9zdGF0ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -940,28 +940,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlX3N0YXRlID0gUHJvZmlsZS5fX2dldHN0YXRlX18oc2VsZikK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHJfZW50aXR5LCBwaWVjZXMpCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGllY2VzLmFwcGVuZChjKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYy5fX3NldHN0YXRlX18ocykK</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYyA9IEN1cnZlKE5vbmUpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGF0ZVsxXToK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwaWVjZXMgPSBsaXN0KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByX2VudGl0eS5yZWFkKHN0YXRlWzBdKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICByX2VudGl0eSA9IHB5c2FnZS5zRWRnZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
