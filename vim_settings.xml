@@ -575,10 +575,11 @@
       <file name="$USER_HOME$/workspace/bugs/parambug/fuse.py" timestamp="1541117256254">
         <mark key="'" line="692" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544563071330">
-        <mark key="[" line="3737" column="12" />
-        <mark key="]" line="3737" column="12" />
-        <mark key="." line="3737" column="12" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544736309201">
+        <mark key="'" line="136" column="12" />
+        <mark key="[" line="3733" column="12" />
+        <mark key="]" line="3733" column="59" />
+        <mark key="." line="3733" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -787,8 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="344" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="345" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="366" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="368" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -887,18 +886,15 @@
       <jump line="458" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="607" column="20" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="497" column="15" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="3733" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="136" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>#
-#
-#
-#
-#
-#</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9vbCA9IG1wLlByb2Nlc3NQb29sRXhlY3V0b3IobWF4X3dvcmtlcnMgPSAxKSAK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -913,18 +909,13 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>point_closest_to</text>
+        <text>pool</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgeF9pbm5lciwgeV9pbm5lciwgel9pbm5lciwgeF9vdXRlciwgeV9vdXRlciwgel9vdXRlciA9IHBvb2wubWFwKGdlbl9zdF9ncmlkX3BhcmFsbGVsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhkaWZmdXNlcl9pbm5lcl9mcm9udCwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCwgbnVtX2F4aWFsLCBudW1fY2lyYyxhaXBfc3BhY2luZywgZW5kX3NwYWNpbmcsIFRydWUsIE5vbmUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkaWZmdXNlcl9vdXRlciwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCxudW1fYXhpYWwsIG51bV9jaXJjLHN0YXJ0X3NwYWNpbmcsIGVuZF9zcGFjaW5nLCBGYWxzZSwgTm9uZSldKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text>#
-#
-#
-#
-#
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcG9vbCA9IG1wLlByb2Nlc3NQb29sRXhlY3V0b3IobWF4X3dvcmtlcnMgPSAxKSAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,38 +944,43 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZGlmZnVzZXJfb3V0ZXIsIGNlbnRlcmxpbmUsIHRoZXRhX3N0YXJ0LCB0aGV0YV9lbmQsbnVtX2F4aWFsLCBudW1fY2lyYyxzdGFydF9zcGFjaW5nLCBlbmRfc3BhY2luZywgRmFsc2UsIE5vbmUpXSkK</text>
+      <register name="2" type="8">
+        <text>#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZGlmZnVzZXJfb3V0ZXIsIGNlbnRlcmxpbmUsIHRoZXRhX3N0YXJ0LCB0aGV0YV9lbmQsbnVtX2F4aWFsLCBudW1fY2lyYyxzdGFydF9zcGFjaW5nLCBlbmRfc3BhY2luZywgRmFsc2UsIE5vbmUpXSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQgPSBwb29sLm1hcChsYW1iZGEgeDogeCAqKiAyLCByYW5nZSgxMCkpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBQb29sKDUpIGFzIHA6Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQK</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQgPSBwb29sLm1hcChsYW1iZGEgeDogeCAqKiAyLCByYW5nZSgxMCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBQb29sKDUpIGFzIHA6Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>point_closest_to</last-search>
+      <last-search>pool</last-search>
       <last-offset />
-      <last-pattern>point_closest_to</last-pattern>
+      <last-pattern>pool</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -992,7 +988,6 @@
     </search>
     <history>
       <history-search>
-        <entry>is_edge_pl</entry>
         <entry>vec_cross</entry>
         <entry>embed_wire</entry>
         <entry>embed</entry>
@@ -1012,6 +1007,7 @@
         <entry>Profile</entry>
         <entry encoding="base64">XDxDdXJ2ZXNcPg==</entry>
         <entry>point_closest_to</entry>
+        <entry>pool</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
