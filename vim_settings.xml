@@ -373,11 +373,12 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544740260192">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544742840993">
+        <mark key="'" line="52" column="31" />
+        <mark key="[" line="630" column="35" />
+        <mark key="]" line="630" column="42" />
+        <mark key="." line="630" column="42" />
+        <mark key="^" line="630" column="42" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomio.py" timestamp="1541198083503">
         <mark key="[" line="31" column="0" />
@@ -782,7 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1189" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2241" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="756" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2273" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -882,13 +882,14 @@
       <jump line="345" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/cinterface.py" />
       <jump line="452" column="49" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="52" column="31" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInN0YXRlWyIsIGkgLCAiXT09PjoiLHMK</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -900,16 +901,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>++++</text>
+        <text>Combined</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gcGlja2xlLmR1bXBzKHNlbGYuX2Nvb3JkcykKICAgICAgICByZXR1cm4gc2F2ZV9zdGF0ZQoKICAgIGRlZiBfX3NldHN0YXRlX18oc2VsZiwgc3RhdGUpOgogICAgICAgIHNlbGYuX19pbml0X18ocGlja2xlLmxvYWRzKHN0YXRlKSkK</text>
+        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gbGlzdCgpCiAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQoc2VsZi5zX2VudGl0eS53cml0ZSgpKQogICAgICAgIHNhdmVfc3RhdGVfcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHAgaW4gc2VsZi5fc2VnbWVudHM6CiAgICAgICAgICAgIHNhdmVfc3RhdGVfcGllY2VzLmFwcGVuZChwLl9fZ2V0c3RhdGVfXygpKQogICAgICAgIHNhdmVfc3RhdGUuYXBwZW5kKHNhdmVfc3RhdGVfcGllY2VzKQogICAgICAgIHJldHVybiBzYXZlX3N0YXRlCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgcl9lbnRpdHkgPSBweXNhZ2Uuc0VkZ2UoKQogICAgICAgIHJfZW50aXR5LnJlYWQoc3RhdGVbMF0pCiAgICAgICAgcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVbMV06CiAgICAgICAgICAgIGMgPSBDdXJ2ZShOb25lKQogICAgICAgICAgICBjLl9fc2V0c3RhdGVfXyhzKQogICAgICAgICAgICBwaWVjZXMuYXBwZW5kKGMpCiAgICAgICAgc2VsZi5fX2luaXRfXyhyX2VudGl0eSwgcGllY2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInN0YXRlWyIsIGkgLCAiXT09PjoiLHMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHByb2ZpbGVfc3RhdGUsIHNwbGluZV9zdGF0ZSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -939,37 +940,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaSwgcyBpbiBlbnVtZXJhdGUoc3RhdGUpOgo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlX3N0YXRlID0gUHJvZmlsZS5fX2dldHN0YXRlX18oc2VsZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCAidGhlIGJsb29keSBzdGF0ZS4uLi4uLi4uLi4uLi4uIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICIrKysrKysrKysrKysrKysrIHdlIGhhdmUgYSBwb2ludCBpbiBwcm9maWxlIHBpZWNlcyArKysrKysrKysrKysrKysiCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHJfZW50aXR5LCBwaWVjZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShwLCBQb2ludDNEKToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGllY2VzLmFwcGVuZChjKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHN0YXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYy5fX3NldHN0YXRlX18ocykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fY29vcmRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYyA9IEN1cnZlKE5vbmUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5fX2luaXRfXyhwaWNrbGUubG9hZHMoc3RhdGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGF0ZVsxXToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjc2VsZi5fX2luaXRfXyhwaWNrbGUubG9hZHMoc3RhdGUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwaWVjZXMgPSBsaXN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>++++</last-search>
+      <last-search>Combined</last-search>
       <last-offset />
-      <last-pattern>++++</last-pattern>
+      <last-pattern>Combined</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -977,7 +978,6 @@
     </search>
     <history>
       <history-search>
-        <entry>embed</entry>
         <entry>__set_attrib__</entry>
         <entry>serialize_</entry>
         <entry>cone</entry>
@@ -997,6 +997,7 @@
         <entry>pool</entry>
         <entry>Point</entry>
         <entry>++++</entry>
+        <entry>Combined</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
