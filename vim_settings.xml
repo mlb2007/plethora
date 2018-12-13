@@ -185,12 +185,11 @@
         <mark key="]" line="68" column="49" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/cinterface.py" timestamp="1544738563340">
-        <mark key="'" line="1038" column="75" />
-        <mark key="[" line="344" column="0" />
-        <mark key="]" line="1087" column="11" />
-        <mark key="." line="1087" column="11" />
-        <mark key="^" line="1087" column="31" />
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/cinterface.py" timestamp="1544739103637">
+        <mark key="'" line="345" column="0" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526592261194">
         <mark key="'" line="1434" column="19" />
@@ -236,7 +235,7 @@
         <mark key="." line="168" column="60" />
         <mark key="^" line="168" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1544562880734">
+      <file name="/Python Console" timestamp="1544741095330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1521264862563">
@@ -374,12 +373,11 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544738534573">
-        <mark key="'" line="53" column="40" />
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544740260192">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="33" />
-        <mark key="]" line="53" column="40" />
-        <mark key="." line="53" column="40" />
-        <mark key="^" line="53" column="40" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomio.py" timestamp="1541198083503">
         <mark key="[" line="31" column="0" />
@@ -494,6 +492,7 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/pickle.py" timestamp="1544741090441" />
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1513383538081">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="25" column="59" />
@@ -783,9 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="368" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="437" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="1189" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2241" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="756" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -883,13 +879,16 @@
       <jump line="3733" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="136" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="53" column="40" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="345" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/cinterface.py" />
+      <jump line="452" column="49" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbCA9IG1wLlByb2Nlc3NQb29sRXhlY3V0b3IobWF4X3dvcmtlcnMgPSAxKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInN0YXRlWyIsIGkgLCAiXT09PjoiLHMK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -901,16 +900,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>Point</text>
+        <text>++++</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgeF9pbm5lciwgeV9pbm5lciwgel9pbm5lciwgeF9vdXRlciwgeV9vdXRlciwgel9vdXRlciA9IHBvb2wubWFwKGdlbl9zdF9ncmlkX3BhcmFsbGVsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhkaWZmdXNlcl9pbm5lcl9mcm9udCwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCwgbnVtX2F4aWFsLCBudW1fY2lyYyxhaXBfc3BhY2luZywgZW5kX3NwYWNpbmcsIFRydWUsIE5vbmUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkaWZmdXNlcl9vdXRlciwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCxudW1fYXhpYWwsIG51bV9jaXJjLHN0YXJ0X3NwYWNpbmcsIGVuZF9zcGFjaW5nLCBGYWxzZSwgTm9uZSldKQo=</text>
+        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gcGlja2xlLmR1bXBzKHNlbGYuX2Nvb3JkcykKICAgICAgICByZXR1cm4gc2F2ZV9zdGF0ZQoKICAgIGRlZiBfX3NldHN0YXRlX18oc2VsZiwgc3RhdGUpOgogICAgICAgIHNlbGYuX19pbml0X18ocGlja2xlLmxvYWRzKHN0YXRlKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9vbCA9IG1wLlByb2Nlc3NQb29sRXhlY3V0b3IobWF4X3dvcmtlcnMgPSAxKSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgInN0YXRlWyIsIGkgLCAiXT09PjoiLHMK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -939,43 +938,38 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>#
-#
-#
-#
-#
-#</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaSwgcyBpbiBlbnVtZXJhdGUoc3RhdGUpOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZGlmZnVzZXJfb3V0ZXIsIGNlbnRlcmxpbmUsIHRoZXRhX3N0YXJ0LCB0aGV0YV9lbmQsbnVtX2F4aWFsLCBudW1fY2lyYyxzdGFydF9zcGFjaW5nLCBlbmRfc3BhY2luZywgRmFsc2UsIE5vbmUpXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAidGhlIGJsb29keSBzdGF0ZS4uLi4uLi4uLi4uLi4uIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICIrKysrKysrKysrKysrKysrIHdlIGhhdmUgYSBwb2ludCBpbiBwcm9maWxlIHBpZWNlcyArKysrKysrKysrKysrKysiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShwLCBQb2ludDNEKToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHN0YXRlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQgPSBwb29sLm1hcChsYW1iZGEgeDogeCAqKiAyLCByYW5nZSgxMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5fY29vcmRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBQb29sKDUpIGFzIHA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5fX2luaXRfXyhwaWNrbGUubG9hZHMoc3RhdGUpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPj4gPiByZXN1bHQK</text>
+        <text encoding="base64">ICAgICAgICAjc2VsZi5fX2luaXRfXyhwaWNrbGUubG9hZHMoc3RhdGUpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Point</last-search>
+      <last-search>++++</last-search>
       <last-offset />
-      <last-pattern>Point</last-pattern>
+      <last-pattern>++++</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -983,7 +977,6 @@
     </search>
     <history>
       <history-search>
-        <entry>embed_wire</entry>
         <entry>embed</entry>
         <entry>__set_attrib__</entry>
         <entry>serialize_</entry>
@@ -1003,6 +996,7 @@
         <entry>point_closest_to</entry>
         <entry>pool</entry>
         <entry>Point</entry>
+        <entry>++++</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
