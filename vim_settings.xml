@@ -20,9 +20,6 @@
       <file name="$USER_HOME$/pip-sage/ff.py" timestamp="1522115891279">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/serialize.py" timestamp="1541111384332">
-        <mark key="'" line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/on-premise pascale/pysage-gui/src/database.py" timestamp="1540595530669">
         <mark key="[" line="210" column="14" />
         <mark key="]" line="210" column="14" />
@@ -188,12 +185,12 @@
         <mark key="]" line="68" column="49" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/cinterface.py" timestamp="1539749717165">
-        <mark key="'" line="1033" column="75" />
-        <mark key="[" line="1082" column="11" />
-        <mark key="]" line="1082" column="11" />
-        <mark key="." line="1082" column="11" />
-        <mark key="^" line="1082" column="31" />
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/cinterface.py" timestamp="1544738563340">
+        <mark key="'" line="1038" column="75" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="1087" column="11" />
+        <mark key="." line="1087" column="11" />
+        <mark key="^" line="1087" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/trim_bug/bad_trim/inlet.py" timestamp="1526592261194">
         <mark key="'" line="1434" column="19" />
@@ -377,11 +374,12 @@
         <mark key="." line="2273" column="65" />
         <mark key="^" line="2273" column="65" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544221377717">
-        <mark key="'" line="497" column="15" />
-        <mark key="[" line="610" column="22" />
-        <mark key="]" line="610" column="50" />
-        <mark key="." line="610" column="0" />
+      <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544738534573">
+        <mark key="'" line="53" column="40" />
+        <mark key="[" line="50" column="33" />
+        <mark key="]" line="53" column="40" />
+        <mark key="." line="53" column="40" />
+        <mark key="^" line="53" column="40" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomio.py" timestamp="1541198083503">
         <mark key="[" line="31" column="0" />
@@ -571,9 +569,6 @@
       <file name="$USER_HOME$/workspace/bugs/SAGE-820/aircraft.py" timestamp="1543430062366">
         <mark key="[" line="70" column="62" />
         <mark key="." line="20" column="64" />
-      </file>
-      <file name="$USER_HOME$/workspace/bugs/parambug/fuse.py" timestamp="1541117256254">
-        <mark key="'" line="692" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544736309201">
         <mark key="'" line="136" column="12" />
@@ -788,7 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="10" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="366" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="368" column="62" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="437" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -888,6 +882,7 @@
       <jump line="497" column="15" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="3733" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="136" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="53" column="40" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -909,7 +904,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>pool</text>
+        <text>Point</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgeF9pbm5lciwgeV9pbm5lciwgel9pbm5lciwgeF9vdXRlciwgeV9vdXRlciwgel9vdXRlciA9IHBvb2wubWFwKGdlbl9zdF9ncmlkX3BhcmFsbGVsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgWyhkaWZmdXNlcl9pbm5lcl9mcm9udCwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCwgbnVtX2F4aWFsLCBudW1fY2lyYyxhaXBfc3BhY2luZywgZW5kX3NwYWNpbmcsIFRydWUsIE5vbmUpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChkaWZmdXNlcl9vdXRlciwgY2VudGVybGluZSwgdGhldGFfc3RhcnQsIHRoZXRhX2VuZCxudW1fYXhpYWwsIG51bV9jaXJjLHN0YXJ0X3NwYWNpbmcsIGVuZF9zcGFjaW5nLCBGYWxzZSwgTm9uZSldKQo=</text>
@@ -978,9 +973,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pool</last-search>
+      <last-search>Point</last-search>
       <last-offset />
-      <last-pattern>pool</last-pattern>
+      <last-pattern>Point</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -988,7 +983,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vec_cross</entry>
         <entry>embed_wire</entry>
         <entry>embed</entry>
         <entry>__set_attrib__</entry>
@@ -1008,6 +1002,7 @@
         <entry encoding="base64">XDxDdXJ2ZXNcPg==</entry>
         <entry>point_closest_to</entry>
         <entry>pool</entry>
+        <entry>Point</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
