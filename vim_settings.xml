@@ -569,11 +569,12 @@
         <mark key="[" line="70" column="62" />
         <mark key="." line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544736309201">
-        <mark key="'" line="136" column="12" />
-        <mark key="[" line="3733" column="12" />
-        <mark key="]" line="3733" column="59" />
-        <mark key="." line="3733" column="0" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544746897587">
+        <mark key="'" line="102" column="4" />
+        <mark key="[" line="3733" column="54" />
+        <mark key="]" line="3733" column="54" />
+        <mark key="." line="3733" column="54" />
+        <mark key="^" line="3734" column="45" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -782,8 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2241" column="17" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="756" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2273" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2280" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2283" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -882,13 +881,15 @@
       <jump line="452" column="49" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="0" column="0" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="52" column="31" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
+      <jump line="3734" column="45" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="102" column="4" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlN0YXRlIGlzOiIsIHMK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -900,10 +901,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Combined</text>
+        <text>Process</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gbGlzdCgpCiAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQoc2VsZi5zX2VudGl0eS53cml0ZSgpKQogICAgICAgIHNhdmVfc3RhdGVfcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHAgaW4gc2VsZi5fc2VnbWVudHM6CiAgICAgICAgICAgIHNhdmVfc3RhdGVfcGllY2VzLmFwcGVuZChwLl9fZ2V0c3RhdGVfXygpKQogICAgICAgIHNhdmVfc3RhdGUuYXBwZW5kKHNhdmVfc3RhdGVfcGllY2VzKQogICAgICAgIHJldHVybiBzYXZlX3N0YXRlCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgcl9lbnRpdHkgPSBweXNhZ2Uuc0VkZ2UoKQogICAgICAgIHJfZW50aXR5LnJlYWQoc3RhdGVbMF0pCiAgICAgICAgcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVbMV06CiAgICAgICAgICAgIGMgPSBDdXJ2ZShOb25lKQogICAgICAgICAgICBjLl9fc2V0c3RhdGVfXyhzKQogICAgICAgICAgICBwaWVjZXMuYXBwZW5kKGMpCiAgICAgICAgc2VsZi5fX2luaXRfXyhyX2VudGl0eSwgcGllY2VzKQo=</text>
@@ -967,9 +968,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Combined</last-search>
+      <last-search>Process</last-search>
       <last-offset />
-      <last-pattern>Combined</last-pattern>
+      <last-pattern>Process</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -977,7 +978,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__set_attrib__</entry>
         <entry>serialize_</entry>
         <entry>cone</entry>
         <entry>slice</entry>
@@ -997,6 +997,7 @@
         <entry>Point</entry>
         <entry>++++</entry>
         <entry>Combined</entry>
+        <entry>Process</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
