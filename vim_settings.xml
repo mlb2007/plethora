@@ -376,7 +376,7 @@
       <file name="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" timestamp="1544745957722">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
-        <mark key="^" line="430" column="16" />
+        <mark key="^" line="420" column="16" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/geomio.py" timestamp="1541198083503">
@@ -492,7 +492,6 @@
         <mark key="]" line="3165" column="81" />
         <mark key="." line="2588" column="27" />
       </file>
-      <file name="$USER_HOME$/miniconda2/lib/python2.7/pickle.py" timestamp="1544741090441" />
       <file name="$USER_HOME$/workspace/inlet_area_distrib/test_area_distribution.py" timestamp="1513383538081">
         <mark key="'" line="117" column="0" />
         <mark key="[" line="25" column="59" />
@@ -569,12 +568,12 @@
         <mark key="[" line="70" column="62" />
         <mark key="." line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544746897587">
-        <mark key="'" line="102" column="4" />
-        <mark key="[" line="3733" column="54" />
-        <mark key="]" line="3733" column="54" />
-        <mark key="." line="3733" column="54" />
-        <mark key="^" line="3734" column="45" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544814425960">
+        <mark key="'" line="3851" column="4" />
+        <mark key="[" line="393" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3731" column="12" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -783,10 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2273" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="2280" column="16" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="2283" column="30" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="4518" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="1333" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="1338" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
@@ -883,13 +878,17 @@
       <jump line="52" column="31" filename="$USER_HOME$/miniconda2/lib/python2.7/site-packages/pascale/sage/curves.py" />
       <jump line="3734" column="45" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="102" column="4" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3735" column="12" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="144" column="24" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3850" column="4" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">I2Zyb20gaHlwZXJib2xpY19zdHJldGNoIGltcG9ydCBoeXBlcl9zdHJldGNoCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -904,13 +903,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Process</text>
+        <text encoding="base64">XDxidWlsZF9pbmxldF9zcGlrZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gbGlzdCgpCiAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQoc2VsZi5zX2VudGl0eS53cml0ZSgpKQogICAgICAgIHNhdmVfc3RhdGVfcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHAgaW4gc2VsZi5fc2VnbWVudHM6CiAgICAgICAgICAgIHNhdmVfc3RhdGVfcGllY2VzLmFwcGVuZChwLl9fZ2V0c3RhdGVfXygpKQogICAgICAgIHNhdmVfc3RhdGUuYXBwZW5kKHNhdmVfc3RhdGVfcGllY2VzKQogICAgICAgIHJldHVybiBzYXZlX3N0YXRlCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgcl9lbnRpdHkgPSBweXNhZ2Uuc0VkZ2UoKQogICAgICAgIHJfZW50aXR5LnJlYWQoc3RhdGVbMF0pCiAgICAgICAgcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVbMV06CiAgICAgICAgICAgIGMgPSBDdXJ2ZShOb25lKQogICAgICAgICAgICBjLl9fc2V0c3RhdGVfXyhzKQogICAgICAgICAgICBwaWVjZXMuYXBwZW5kKGMpCiAgICAgICAgc2VsZi5fX2luaXRfXyhyX2VudGl0eSwgcGllY2VzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlN0YXRlIGlzOiIsIHMK</text>
+        <text encoding="base64">I2Zyb20gaHlwZXJib2xpY19zdHJldGNoIGltcG9ydCBoeXBlcl9zdHJldGNoCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -940,37 +939,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGF0ZToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHJfZW50aXR5LCBwaWVjZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBucD1ucC8yKzEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGllY2VzLmFwcGVuZChjKQo=</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHJhbmdlKDAsbmxldmVscyk6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYy5fX3NldHN0YXRlX18ocykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgIlN0YXRlIGlzOiIsIHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYyA9IEN1cnZlKE5vbmUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGF0ZToK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgcyBpbiBzdGF0ZVsxXToK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwaWVjZXMgPSBsaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLl9faW5pdF9fKHJfZW50aXR5LCBwaWVjZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Process</last-search>
+      <last-search encoding="base64">XDxidWlsZF9pbmxldF9zcGlrZVw+</last-search>
       <last-offset />
-      <last-pattern>Process</last-pattern>
+      <last-pattern encoding="base64">XDxidWlsZF9pbmxldF9zcGlrZVw+</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -978,8 +977,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serialize_</entry>
-        <entry>cone</entry>
         <entry>slice</entry>
         <entry>Slice</entry>
         <entry>stitch</entry>
@@ -998,6 +995,8 @@
         <entry>++++</entry>
         <entry>Combined</entry>
         <entry>Process</entry>
+        <entry>tessellat</entry>
+        <entry encoding="base64">XDxidWlsZF9pbmxldF9zcGlrZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>256</entry>
