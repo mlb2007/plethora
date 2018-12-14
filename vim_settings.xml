@@ -568,12 +568,12 @@
         <mark key="[" line="70" column="62" />
         <mark key="." line="20" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544814425960">
-        <mark key="'" line="3851" column="4" />
+      <file name="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" timestamp="1544814824004">
+        <mark key="'" line="3852" column="4" />
         <mark key="[" line="393" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="3731" column="12" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="531" column="0" />
+        <mark key="^" line="531" column="0" />
+        <mark key="." line="531" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/samples/pysage/v2.0/1.3-basic_cad_ops.py" timestamp="1515562865321">
         <mark key="[" line="4" column="0" />
@@ -782,8 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
-      <jump line="1333" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="1338" column="25" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="1348" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="1353" column="22" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
@@ -882,6 +880,8 @@
       <jump line="144" column="24" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="97" column="0" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="3850" column="4" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="531" column="0" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="3852" column="4" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
