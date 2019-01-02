@@ -48,12 +48,12 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="112" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546456288717">
+      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546463231171">
         <mark key="'" line="58" column="11" />
-        <mark key="[" line="62" column="61" />
-        <mark key="]" line="77" column="33" />
-        <mark key="." line="77" column="33" />
-        <mark key="^" line="77" column="33" />
+        <mark key="[" line="68" column="12" />
+        <mark key="]" line="68" column="48" />
+        <mark key="." line="76" column="18" />
+        <mark key="^" line="76" column="18" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524529068789">
         <mark key="'" line="141" column="7" />
@@ -897,7 +897,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>pa.curve.Conic.from_ends_tangents_rho</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -909,13 +909,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>sage.api</text>
       </register>
       <register name="0" type="4">
-        <text>pa.curve.Bezier.from_ends_tangents_tensions</text>
+        <text>pa.curve.Conic.from_ends_tangents_rho</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGtlZWxfMyA9IHNwbGl0X2VkZ2Uoa2VlbF8zLCB0KVswXQo=</text>
