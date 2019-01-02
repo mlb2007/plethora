@@ -48,6 +48,13 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="112" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546456288717">
+        <mark key="'" line="58" column="11" />
+        <mark key="[" line="62" column="61" />
+        <mark key="]" line="77" column="33" />
+        <mark key="." line="77" column="33" />
+        <mark key="^" line="77" column="33" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524529068789">
         <mark key="'" line="141" column="7" />
         <mark key="[" line="1455" column="0" />
@@ -784,10 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2281" column="33" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="2272" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="441" column="8" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="1193" column="40" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="1194" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="1297" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2285" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -884,13 +887,17 @@
       <jump line="3650" column="15" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="3661" column="16" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="188" column="0" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
+      <jump line="6" column="26" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="3" column="5" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="32" column="30" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="58" column="11" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -902,16 +909,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>Cut</text>
+        <text>sage.api</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ZGVmIF9fZ2V0c3RhdGVfXyhzZWxmKToKICAgICAgICBzYXZlX3N0YXRlID0gbGlzdCgpCiAgICAgICAgc2F2ZV9zdGF0ZS5hcHBlbmQoc2VsZi5zX2VudGl0eS53cml0ZSgpKQogICAgICAgIHNhdmVfc3RhdGVfcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHAgaW4gc2VsZi5fc2VnbWVudHM6CiAgICAgICAgICAgIHNhdmVfc3RhdGVfcGllY2VzLmFwcGVuZChwLl9fZ2V0c3RhdGVfXygpKQogICAgICAgIHNhdmVfc3RhdGUuYXBwZW5kKHNhdmVfc3RhdGVfcGllY2VzKQogICAgICAgIHJldHVybiBzYXZlX3N0YXRlCgogICAgZGVmIF9fc2V0c3RhdGVfXyhzZWxmLCBzdGF0ZSk6CiAgICAgICAgcl9lbnRpdHkgPSBweXNhZ2Uuc0VkZ2UoKQogICAgICAgIHJfZW50aXR5LnJlYWQoc3RhdGVbMF0pCiAgICAgICAgcGllY2VzID0gbGlzdCgpCiAgICAgICAgZm9yIHMgaW4gc3RhdGVbMV06CiAgICAgICAgICAgIGMgPSBDdXJ2ZShOb25lKQogICAgICAgICAgICBjLl9fc2V0c3RhdGVfXyhzKQogICAgICAgICAgICBwaWVjZXMuYXBwZW5kKGMpCiAgICAgICAgc2VsZi5fX2luaXRfXyhyX2VudGl0eSwgcGllY2VzKQo=</text>
+        <text>pa.curve.Bezier.from_ends_tangents_tensions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ICAgIGtlZWxfMyA9IHNwbGl0X2VkZ2Uoa2VlbF8zLCB0KVswXQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -941,37 +948,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgY3V0X3NoZWV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmd2RfaW50ZXJuYWxfc3VyZmFjZSA9IHBhLmJvZHkuU3RpdGNoLnN1cmZhY2VzKGlubGV0X2ZhY2UsIGVuZ2luZV9mYWNlLCBvdXRmbG93X2ZhY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWwgY3V0X3NoZWV0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcHJpbnRfd2lyZSA9IHJpbnQocGEuc2FnZS5hcGkubWFrZV93aXJlKGFpcF9zZWN0aW9uLnNfZW50aXR5KSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBmd2RfaW50ZXJuYWxfc3VyZmFjZSA9IHBhLmJvZHkuU3RpdGNoLnN1cmZhY2VzKGlubGV0X2ZhY2UsIGVuZ2luZV9mYWNlLCBvdXRmbG93X2ZhY2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBpbnRlcm5hbF9zdXJmYWNlLmltcHJpbnQocGEuc2FnZS5hcGkubWFrZV93aXJlKGFpcF9zZWN0aW9uLnNfZW50aXR5KSkpCg==</text>
+        <text encoding="base64">ICAgIGltcHJpbnRfd2lyZSA9IHJpbnQocGEuc2FnZS5hcGkubWFrZV93aXJlKGFpcF9zZWN0aW9uLnNfZW50aXR5KSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">I2Zyb20gaHlwZXJib2xpY19zdHJldGNoIGltcG9ydCBoeXBlcl9zdHJldGNoCg==</text>
+        <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBpbnRlcm5hbF9zdXJmYWNlLmltcHJpbnQocGEuc2FnZS5hcGkubWFrZV93aXJlKGFpcF9zZWN0aW9uLnNfZW50aXR5KSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2Zyb20gaHlwZXJib2xpY19zdHJldGNoIGltcG9ydCBoeXBlcl9zdHJldGNoCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBucD1ucC8yKzEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cut</last-search>
+      <last-search>sage.api</last-search>
       <last-offset />
-      <last-pattern>Cut</last-pattern>
+      <last-pattern>sage.api</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -979,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Join</entry>
         <entry>Building trnslating</entry>
         <entry>Building</entry>
         <entry>translating</entry>
@@ -999,6 +1005,7 @@
         <entry>imprint</entry>
         <entry>omit</entry>
         <entry>Cut</entry>
+        <entry>sage.api</entry>
       </history-search>
       <history-cmd>
         <entry>200</entry>
