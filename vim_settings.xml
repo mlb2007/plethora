@@ -48,12 +48,12 @@
         <mark key="^" line="112" column="25" />
         <mark key="." line="112" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546463231171">
-        <mark key="'" line="58" column="11" />
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="48" />
-        <mark key="." line="76" column="18" />
-        <mark key="^" line="76" column="18" />
+      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546468292634">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="145" column="42" />
+        <mark key="]" line="60" column="66" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="151" column="17" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524529068789">
         <mark key="'" line="141" column="7" />
@@ -791,8 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1194" column="37" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="1297" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2285" column="21" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="1242" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="1366" column="48" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -891,13 +889,15 @@
       <jump line="3" column="5" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="32" column="30" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="58" column="11" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="149" column="17" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>pa.curve.Conic.from_ends_tangents_rho</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtlZWwgPSBwYS5jdXJ2ZS5Kb2luLm1ha2Vfc2luZ2xlX2N1cnZlKGtlZWxfMSwga2VlbF8yLCBrZWVsXzMpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -909,16 +909,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>sage.api</text>
+        <text>make_single</text>
       </register>
       <register name="0" type="4">
-        <text>pa.curve.Conic.from_ends_tangents_rho</text>
+        <text>geom['waist_side'], geom['waist_plan'])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtlZWxfMyA9IHNwbGl0X2VkZ2Uoa2VlbF8zLCB0KVswXQo=</text>
+        <text encoding="base64">ICAgIGtlZWwgPSBwYS5jdXJ2ZS5Kb2luLm1ha2Vfc2luZ2xlX2N1cnZlKGtlZWxfMSwga2VlbF8yLCBrZWVsXzMpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -948,37 +948,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250aW51ZQo=</text>
+        <text encoding="base64">ZGVmIHByb2plY3RfeHlfY3VydmVfYW5kX3h6X2N1cnZlKHlfcHJvaiwgel9wcm9qKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWwgY3V0X3NoZWV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmd2RfaW50ZXJuYWxfc3VyZmFjZSA9IHBhLmJvZHkuU3RpdGNoLnN1cmZhY2VzKGlubGV0X2ZhY2UsIGVuZ2luZV9mYWNlLCBvdXRmbG93X2ZhY2UpCg==</text>
+        <text encoding="base64">ICAgIDpVc2FnZTogRXhhbXBsZSAyLjIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcHJpbnRfd2lyZSA9IHJpbnQocGEuc2FnZS5hcGkubWFrZV93aXJlKGFpcF9zZWN0aW9uLnNfZW50aXR5KSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGludGVybmFsX3N1cmZhY2UgPSBpbnRlcm5hbF9zdXJmYWNlLmltcHJpbnQocGEuc2FnZS5hcGkubWFrZV93aXJlKGFpcF9zZWN0aW9uLnNfZW50aXR5KSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I2Zyb20gaHlwZXJib2xpY19zdHJldGNoIGltcG9ydCBoeXBlcl9zdHJldGNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGtlZWxfMyA9IHNwbGl0X2VkZ2Uoa2VlbF8zLCB0KVswXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sage.api</last-search>
+      <last-search>make_single</last-search>
       <last-offset />
-      <last-pattern>sage.api</last-pattern>
+      <last-pattern>make_single</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -986,7 +986,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Building trnslating</entry>
         <entry>Building</entry>
         <entry>translating</entry>
         <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
@@ -1006,6 +1005,7 @@
         <entry>omit</entry>
         <entry>Cut</entry>
         <entry>sage.api</entry>
+        <entry>make_single</entry>
       </history-search>
       <history-cmd>
         <entry>200</entry>
