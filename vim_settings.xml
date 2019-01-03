@@ -244,11 +244,10 @@
       <file name="/fragment.py" timestamp="1521264862563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546541402819">
-        <mark key="[" line="174" column="9" />
-        <mark key="]" line="172" column="51" />
-        <mark key="." line="172" column="77" />
-        <mark key="^" line="167" column="11" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546542321491">
+        <mark key="[" line="217" column="25" />
+        <mark key="]" line="217" column="16" />
+        <mark key="." line="217" column="16" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -902,7 +901,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -914,7 +913,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYVw+</text>
@@ -923,7 +922,7 @@
         <text>pa.curve.Bezier.from_ends_tangents_tensions</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGQxMSA9IGdldF9lZGdlX2VuZF90YW5nZW50KHNwbGl0X2VkZ2UodGlwWyd1cHBlciddLCBwMTEpWzBdKQo=</text>
+        <text encoding="base64">ICAgIGNoaW5lX21pZCA9IGxvZnQoW2Y4LCBmOV0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,28 +952,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVTklUX1ZFQ19YLCBVTklUX1ZFQ19YICogeCwgZXhwZWN0X3NpbmdsZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5el9wbGFuZSA9IHBhLlBsYW5lLnl6KHgpCg==</text>
+        <text encoding="base64">ICAgIGIuYWRkX2VkZ2Vfc3RhcnRfZW5kX3JhZGl1cyh0b19ibGVuZCwgOCwgMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGIuYWRkX3NpbmdsZV9lZGdlKHRvX2JsZW5kLCA4LCAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGQxMSA9IGdldF9lZGdlX2VuZF90YW5nZW50KHNwbGl0X2VkZ2UodGlwWyd1cHBlciddLCBwMTEpWzBdKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBVTklUX1ZFQ19YLCBVTklUX1ZFQ19YICogeCwgZXhwZWN0X3NpbmdsZT1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHl6X3BsYW5lID0gcGEuUGxhbmUueXooNTUwKQo=</text>
+        <text encoding="base64">ICAgICAgICB5el9wbGFuZSA9IHBhLlBsYW5lLnl6KHgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHl6X3BsYW5lID0gcGEuUGxhbmUueXooNTAwKQo=</text>
+        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHl6X3BsYW5lID0gcGEuUGxhbmUueXooMzAwKQo=</text>
+        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
