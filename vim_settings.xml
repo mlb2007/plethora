@@ -244,11 +244,11 @@
       <file name="/fragment.py" timestamp="1521264862563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546539738962">
-        <mark key="[" line="163" column="9" />
-        <mark key="]" line="163" column="11" />
-        <mark key="." line="163" column="11" />
-        <mark key="^" line="163" column="11" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546541402819">
+        <mark key="[" line="174" column="9" />
+        <mark key="]" line="172" column="51" />
+        <mark key="." line="172" column="77" />
+        <mark key="^" line="167" column="11" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -902,7 +902,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -914,13 +914,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYVw+</text>
       </register>
       <register name="0" type="4">
-        <text>pa.curve.Line.from_end_points</text>
+        <text>pa.curve.Bezier.from_ends_tangents_tensions</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGQxMSA9IGdldF9lZGdlX2VuZF90YW5nZW50KHNwbGl0X2VkZ2UodGlwWyd1cHBlciddLCBwMTEpWzBdKQo=</text>
