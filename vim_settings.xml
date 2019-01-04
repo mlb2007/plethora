@@ -245,12 +245,11 @@
       <file name="/fragment.py" timestamp="1546626514951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546639895605">
-        <mark key="'" line="546" column="57" />
-        <mark key="[" line="370" column="4" />
-        <mark key="]" line="371" column="19" />
-        <mark key="." line="371" column="19" />
-        <mark key="^" line="371" column="19" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546641648422">
+        <mark key="'" line="296" column="43" />
+        <mark key="[" line="822" column="4" />
+        <mark key="]" line="822" column="28" />
+        <mark key="." line="822" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -801,19 +800,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="411" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="926" column="0" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
-      <jump line="0" column="0" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
-      <jump line="24" column="4" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
-      <jump line="381" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
-      <jump line="112" column="9" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/serialize.py" />
-      <jump line="692" column="0" filename="$USER_HOME$/workspace/bugs/parambug/fuse.py" />
-      <jump line="56" column="56" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_geomimport.py" />
-      <jump line="3360" column="0" filename="$USER_HOME$/workspace/bugs/stitch/axi_inlet.py" />
-      <jump line="6" column="29" filename="$USER_HOME$/Desktop/wheel_and_tire.py" />
-      <jump line="87" column="0" filename="$USER_HOME$/Desktop/wheel_and_tire.py" />
       <jump line="42" column="35" filename="$USER_HOME$/Desktop/ASME-IMEC/wheel_and_tire.py" />
       <jump line="24" column="29" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="1948" column="16" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
@@ -901,13 +887,26 @@
       <jump line="374" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="534" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="542" column="57" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="369" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="371" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="373" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="379" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="381" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="383" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="402" column="17" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="410" column="23" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="548" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="556" column="57" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="576" column="62" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="314" column="9" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="296" column="43" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZjEsIGYyLCBlbmdpbmVfYWZ0LCBnZW9tWydmaW4nXSwgZ2VvbVsnaHRhaWwnXSwgZ2VvbVsnbWlkX3NlY3Rpb24nXSwgZ2VvbVsnY2hpbmUnXSwgZ2VvbVsnd2luZyddKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oYWlycGxhbmUsIGRlbGF5PTEwKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -919,16 +918,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3p6bGVfdG9vbFw+</text>
+        <text encoding="base64">XDxrZWVsXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>nozzle_start, s,</text>
+        <text encoding="base64">IGRlbW8oZiwgaGlnaGxpZ2h0X2ZhY2UsIGcxLCBlbmdpbmUsIG5venpsZV90b29sLCBlbmdpbmVfYWZ0LAogICAgICAgICBnZW9tWydmaW4nXSwgZ2VvbVsnaHRhaWwnXSwgZ2VvbVsnbWlkX3NlY3Rpb24nXSwgZ2VvbVsnY2hpbmUnXSwgZ2VvbVsnd2luZyddKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZjEsIGYyLCBlbmdpbmVfYWZ0LCBnZW9tWydmaW4nXSwgZ2VvbVsnaHRhaWwnXSwgZ2VvbVsnbWlkX3NlY3Rpb24nXSwgZ2VvbVsnY2hpbmUnXSwgZ2VvbVsnd2luZyddKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oYWlycGxhbmUsIGRlbGF5PTEwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -958,40 +957,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbW8obm96emxlX3NvbGlkLCBlbmdpbmVfYWZ0LCBnZW9tWydmaW4nXSwgZ2VvbVsnaHRhaWwnXSwgZ2VvbVsnbWlkX3NlY3Rpb24nXSwgZ2VvbVsnY2hpbmUnXSwgZ2VvbVsnd2luZyddKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8obWlkX2hhbGZfYWlycGxhbmUsIGRlbGF5PTEwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbW8ocHJvZmlsZSwgZW5naW5lX2FmdCwgZ2VvbVsnZmluJ10sIGdlb21bJ2h0YWlsJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ2NoaW5lJ10sIGdlb21bJ3dpbmcnXSkK</text>
+        <text encoding="base64">ICAgIGRlbW8obWlkX2hhbGZfYWlycGxhbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZW5naW5lX2FmdCwgZ2VvbVsnZmluJ10sIGdlb21bJ2h0YWlsJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ2NoaW5lJ10sIGdlb21bJ3dpbmcnXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbW8obm96emxlX3N0YXJ0LCBzLCBnMSwgZzIsIGczLCBwcm9maWxlLCBnZW9tWydmaW4nXSwgZ2VvbVsnaHRhaWwnXSwgZ2VvbVsnbWlkX3NlY3Rpb24nXSwgZ2VvbVsnY2hpbmUnXSwgZ2VvbVsnd2luZyddKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSwgZ2VvbVsnY2hpbmUnXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlbW8ocHJvZmlsZSwgZ2VvbVsnZmluJ10sIGdlb21bJ2h0YWlsJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ2NoaW5lJ10sIGdlb21bJ3dpbmcnXSkK</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSwgZ2VvbVsnY2hpbmUnXSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZmluJ10sIGdlb21bJ2h0YWlsJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ2NoaW5lJ10sIGdlb21bJ3dpbmcnXSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZmluLCBodGFpbCwgbWlkX3NlY3Rpb24sIGNoaW5lLCB3aW5nKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbW8odG9wLCBib3QsIGh0YWlsLCBtaWRfc2VjdGlvbiwgY2hpbmUsIHdpbmcpCg==</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3p6bGVfdG9vbFw+</last-search>
+      <last-search encoding="base64">XDxrZWVsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3p6bGVfdG9vbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxrZWVsXD4=</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1011,11 +1010,11 @@
         <entry>FaceQuery</entry>
         <entry>print</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxrZWVsXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2NoaW5lX2JsZW5kXD4=</entry>
         <entry encoding="base64">XDxtYWtlX2VtcGVubmFnZVw+</entry>
         <entry encoding="base64">XDxwcm9maWxlXD4=</entry>
         <entry encoding="base64">XDxub3p6bGVfdG9vbFw+</entry>
+        <entry encoding="base64">XDxrZWVsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
