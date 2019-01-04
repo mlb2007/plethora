@@ -239,18 +239,18 @@
         <mark key="." line="168" column="60" />
         <mark key="^" line="168" column="60" />
       </file>
-      <file name="/Python Console" timestamp="1546626497680">
+      <file name="/Python Console" timestamp="1546628279555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1546626514951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546625271479">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546628273284">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="727" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+        <mark key="]" line="732" column="12" />
+        <mark key="." line="732" column="12" />
+        <mark key="^" line="732" column="12" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -801,7 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="32" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/core.py" />
       <jump line="2346" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="510" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="901" column="28" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
@@ -887,7 +886,6 @@
       <jump line="301" column="38" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="353" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="523" column="34" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="2" column="23" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="20" column="38" filename="/Library/Python/2.7/site-packages/pascale/sage/query.py" />
       <jump line="6" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
@@ -901,6 +899,8 @@
       <jump line="164" column="33" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="54" column="4" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="55" column="19" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="732" column="12" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
