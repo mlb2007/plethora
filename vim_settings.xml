@@ -244,11 +244,12 @@
       <file name="/fragment.py" timestamp="1521264862563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546543235104">
-        <mark key="[" line="298" column="19" />
-        <mark key="]" line="297" column="85" />
-        <mark key="." line="297" column="85" />
-        <mark key="^" line="297" column="85" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546560062506">
+        <mark key="'" line="353" column="4" />
+        <mark key="[" line="473" column="26" />
+        <mark key="]" line="473" column="25" />
+        <mark key="." line="473" column="25" />
+        <mark key="^" line="473" column="25" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -796,8 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="2256" column="19" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="374" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
       <jump line="2262" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="432" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -896,13 +895,15 @@
       <jump line="143" column="23" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="149" column="23" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="147" column="60" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="301" column="38" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="353" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -914,16 +915,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYVw+</text>
       </register>
       <register name="0" type="4">
-        <text>pa.curve.Line.from_end_points(</text>
+        <text>pa.body.Cuboid.from_bounding_box_corners</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoaW5lX21pZCA9IGxvZnQoW2Y4LCBmOV0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
+        <text encoding="base64">ICAgIGIuYmxlbmRfZWRnZXNfd2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,28 +954,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
+        <text encoding="base64">ICAgIHBhLmJvZHkuQmxlbmQud2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGIuYWRkX2VkZ2Vfc3RhcnRfZW5kX3JhZGl1cyh0b19ibGVuZCwgOCwgMCkK</text>
+        <text encoding="base64">ICAgIGIgPSBibGVuZGVyLkJsZW5kZXIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGIuYWRkX3NpbmdsZV9lZGdlKHRvX2JsZW5kLCA4LCAwKQo=</text>
+        <text encoding="base64">ICAgIGVuZ2luZV9mcm9udCA9IGxvZnQoW2YxLCBmMl0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGQxMSA9IGdldF9lZGdlX2VuZF90YW5nZW50KHNwbGl0X2VkZ2UodGlwWyd1cHBlciddLCBwMTEpWzBdKQo=</text>
+        <text encoding="base64">ICAgIG5venpsZV90b29sID0gdW5pdGUobm96emxlX3Rvb2wsIGxvZnQoW2YzLCBjMiwgZjRdLCBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5TVEFSVCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVTklUX1ZFQ19YLCBVTklUX1ZFQ19YICogeCwgZXhwZWN0X3NpbmdsZT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB5el9wbGFuZSA9IHBhLlBsYW5lLnl6KHgpCg==</text>
+        <text encoding="base64">ICAgIG5venpsZV90b29sID0gdW5pdGUobm96emxlX3Rvb2wsIGxvZnQoW2YzLCBjMiwgZjRdLCBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5TVEFSVCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGNoaW5lX21pZCA9IGxvZnQoW2Y4LCBmOV0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFVOSVRfVkVDX1gsIFVOSVRfVkVDX1ggKiB4bWF4LCBleHBlY3Rfc2luZ2xlPVRydWUpCg==</text>
+        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1013,7 +1014,6 @@
         <entry encoding="base64">XDxwYVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>200</entry>
         <entry>wa</entry>
         <entry>145,148s/front/back/gc</entry>
         <entry>q!</entry>
@@ -1032,6 +1032,7 @@
         <entry>sge.api</entry>
         <entry>1000</entry>
         <entry>wq</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
