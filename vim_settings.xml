@@ -54,12 +54,12 @@
         <mark key="^" line="57" column="22" />
         <mark key="." line="57" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546642677362">
-        <mark key="'" line="172" column="11" />
-        <mark key="[" line="90" column="13" />
-        <mark key="]" line="90" column="26" />
-        <mark key="." line="90" column="26" />
-        <mark key="^" line="90" column="26" />
+      <file name="$USER_HOME$/Desktop/f15/fwd_fuse.py" timestamp="1546643415718">
+        <mark key="'" line="128" column="4" />
+        <mark key="[" line="135" column="13" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="209" column="25" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/sage/cinterface.py" timestamp="1524529068789">
         <mark key="'" line="141" column="7" />
@@ -245,12 +245,12 @@
       <file name="/fragment.py" timestamp="1546626514951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546642602207">
-        <mark key="'" line="814" column="16" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="814" column="16" />
-        <mark key="^" line="814" column="16" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546643306972">
+        <mark key="'" line="826" column="19" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="826" column="19" />
+        <mark key="^" line="826" column="19" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -801,12 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1949" column="60" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
-      <jump line="1951" column="33" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
-      <jump line="1953" column="33" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
-      <jump line="2318" column="67" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
-      <jump line="2864" column="41" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
-      <jump line="2911" column="13" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="2912" column="54" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="2913" column="53" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
       <jump line="2961" column="13" filename="$USER_HOME$/workspace/bugs/kerho/slice_problem/axi_inlet.py" />
@@ -865,7 +859,6 @@
       <jump line="523" column="34" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="2" column="23" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="20" column="38" filename="/Library/Python/2.7/site-packages/pascale/sage/query.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="168" column="27" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="80" column="19" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
@@ -901,13 +894,20 @@
       <jump line="157" column="0" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="10" column="21" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="164" column="11" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="104" column="4" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="178" column="16" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="109" column="4" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="182" column="15" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="127" column="4" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="826" column="19" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlbW8oa2VlbCkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -919,16 +919,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX3NpZGVfZWxldlw+</text>
+        <text encoding="base64">XDxtYWtlX3NlY3Rpb25zXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1wb3J0IHRpbWUKCgpkZWYgZGVtbygqYXJncywgKiprd2FyZ3MpOgogICAgdmlld2VyLnNob3coKmFyZ3MpCiAgICBkZWxheSA9IGt3YXJncy5nZXQoJ2RlbGF5JywgMikKICAgIHRpbWUuc2xlZXAoZGVsYXkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGFlcmlvbl90b29scwppbXBvcnQgYWVyaW9uX3Rvb2xzLnZpZXdlciBhcyB2aWV3ZXIKaW1wb3J0IHRpbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlbW8oa2VlbCkK</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -958,46 +958,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbW8oYWlycGxhbmUsIGRlbGF5PTEwKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFlcmlvbl90b29scwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbW8obWlkX2hhbGZfYWlycGxhbmUsIGRlbGF5PTEwKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSwgY2Fub3B5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbW8obWlkX2hhbGZfYWlycGxhbmUpCg==</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSwgdzEsIHcyLCB3MywgZzEsIGcyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSwgZ2VvbVsnY2hpbmUnXSkK</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCB3MSwgdzMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSwgZ2VvbVsnY2hpbmUnXSkK</text>
+        <text encoding="base64">ICAgIGRlbW8oZnVzZSwgdzEsIHczKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZnVzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZW5naW5lJ10sIGdlb21bJ21pZF9zZWN0aW9uJ10sIGdlb21bJ3dpbmcnXSkK</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsna2VlbCddLCBnZW9tWydjcm93biddLCBnZW9tWyd3YWlzdF9zaWRlJ10sIHdhaXN0LCB3YWlzdF9sKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX3NpZGVfZWxldlw+</last-search>
+      <last-search encoding="base64">XDxtYWtlX3NlY3Rpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX3NpZGVfZWxldlw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlX3NlY3Rpb25zXD4=</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
-        <entry>imprint</entry>
         <entry>omit</entry>
         <entry>Cut</entry>
         <entry>sage.api</entry>
@@ -1016,6 +1014,8 @@
         <entry encoding="base64">XDxub3p6bGVfdG9vbFw+</entry>
         <entry encoding="base64">XDxrZWVsXD4=</entry>
         <entry encoding="base64">XDxtYWtlX3NpZGVfZWxldlw+</entry>
+        <entry encoding="base64">XDxtYWtlX3dhaXN0XD4=</entry>
+        <entry encoding="base64">XDxtYWtlX3NlY3Rpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
