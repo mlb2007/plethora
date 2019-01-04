@@ -244,12 +244,12 @@
       <file name="/fragment.py" timestamp="1521264862563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546561519228">
-        <mark key="'" line="353" column="4" />
-        <mark key="[" line="518" column="74" />
-        <mark key="]" line="518" column="81" />
-        <mark key="." line="518" column="81" />
-        <mark key="^" line="518" column="81" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546565724416">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="602" column="27" />
+        <mark key="]" line="602" column="46" />
+        <mark key="." line="602" column="29" />
+        <mark key="^" line="603" column="27" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -797,9 +797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/api.py" />
-      <jump line="2262" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="432" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2320" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="466" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="2277" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
@@ -897,13 +894,16 @@
       <jump line="147" column="60" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="301" column="38" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="353" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="523" column="34" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="2" column="23" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHh6X3BsYW5lID0gcGEuUGxhbmUueHooNTAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>(tip_airfoil.le()</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -915,16 +915,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYVw+</text>
+        <text>aero</text>
       </register>
       <register name="0" type="4">
-        <text>pa.body.Cuboid.from_bounding_box_corners</text>
+        <text>(tip_airfoil.le()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHh6X3BsYW5lID0gcGEuUGxhbmUueHooNTAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZ2V0X2VkZ2VfZW5kKGUyKSwgMCldKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -954,47 +954,44 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHh6X3BsYW5lID0gcGEuUGxhbmUueHooNjApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZ2V0X2VkZ2VfbWlkcG9pbnQoZTIpLCAxNiksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9zdGFydF90YW5nZW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsoZ2V0X2VkZ2Vfc3RhcnQoZTIpLCAyKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGIuYmxlbmRfZWRnZXNfd2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
+        <text encoding="base64">ICAgIGIuYmxlbmRfY29ubmVjdGVkX2VkZ2VzX3dpdGhfdmFyaWFibGVfcmFkaXVzKFtlMl0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhLmJvZHkuQmxlbmQud2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZ2V0X2VkZ2VfZW5kKGUxKSwgMCldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGIgPSBibGVuZGVyLkJsZW5kZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoZ2V0X2VkZ2VfbWlkcG9pbnQoZTEpLCAxNiksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZV9mcm9udCA9IGxvZnQoW2YxLCBmMl0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsoZ2V0X2VkZ2Vfc3RhcnQoZTEpLCAwKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5venpsZV90b29sID0gdW5pdGUobm96emxlX3Rvb2wsIGxvZnQoW2YzLCBjMiwgZjRdLCBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5TVEFSVCkpCg==</text>
+        <text encoding="base64">ICAgIGIuYmxlbmRfY29ubmVjdGVkX2VkZ2VzX3dpdGhfdmFyaWFibGVfcmFkaXVzKFtlMV0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
+        <text encoding="base64">ICAgIGIuYWRkX3NpbmdsZV9lZGdlKGUxLCAxNiwgMC41KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYVw+</last-search>
+      <last-search>aero</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYVw+</last-pattern>
+      <last-pattern>aero</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5fc3RydWN0dXJlZF9ncmlkXD4=</entry>
-        <entry>CombinedCurve</entry>
-        <entry>Profile</entry>
         <entry encoding="base64">XDxDdXJ2ZXNcPg==</entry>
         <entry>point_closest_to</entry>
         <entry>pool</entry>
@@ -1012,9 +1009,11 @@
         <entry>make_single</entry>
         <entry encoding="base64">XDxtYWtlX3NpbmdsZV9jdXJ2ZVw+</entry>
         <entry encoding="base64">XDxwYVw+</entry>
+        <entry>Airfoil</entry>
+        <entry>airfoil</entry>
+        <entry>aero</entry>
       </history-search>
       <history-cmd>
-        <entry>wa</entry>
         <entry>145,148s/front/back/gc</entry>
         <entry>q!</entry>
         <entry>%s/cone2/nose_bulge/gc</entry>
@@ -1033,6 +1032,7 @@
         <entry>1000</entry>
         <entry>wq</entry>
         <entry>we</entry>
+        <entry>524</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
