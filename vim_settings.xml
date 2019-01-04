@@ -244,12 +244,12 @@
       <file name="/fragment.py" timestamp="1521264862563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546560062506">
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546561519228">
         <mark key="'" line="353" column="4" />
-        <mark key="[" line="473" column="26" />
-        <mark key="]" line="473" column="25" />
-        <mark key="." line="473" column="25" />
-        <mark key="^" line="473" column="25" />
+        <mark key="[" line="518" column="74" />
+        <mark key="]" line="518" column="81" />
+        <mark key="." line="518" column="81" />
+        <mark key="^" line="518" column="81" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -902,8 +902,8 @@
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHh6X3BsYW5lID0gcGEuUGxhbmUueHooNTAwKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -924,7 +924,7 @@
         <text>pa.body.Cuboid.from_bounding_box_corners</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGIuYmxlbmRfZWRnZXNfd2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
+        <text encoding="base64">ICAgIHh6X3BsYW5lID0gcGEuUGxhbmUueHooNTAwKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -954,25 +954,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhLmJvZHkuQmxlbmQud2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
+        <text encoding="base64">ICAgIHh6X3BsYW5lID0gcGEuUGxhbmUueHooNjApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGIgPSBibGVuZGVyLkJsZW5kZXIoKQo=</text>
+        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9zdGFydF90YW5nZW50KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZV9mcm9udCA9IGxvZnQoW2YxLCBmMl0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
+        <text encoding="base64">ICAgIGIuYmxlbmRfZWRnZXNfd2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5venpsZV90b29sID0gdW5pdGUobm96emxlX3Rvb2wsIGxvZnQoW2YzLCBjMiwgZjRdLCBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5TVEFSVCkpCg==</text>
+        <text encoding="base64">ICAgIHBhLmJvZHkuQmxlbmQud2l0aF9jb25zdGFudF9yYWRpdXMoW2UxLCBlMl0sIDYpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
+        <text encoding="base64">ICAgIGIgPSBibGVuZGVyLkJsZW5kZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5venpsZV90b29sID0gdW5pdGUobm96emxlX3Rvb2wsIGxvZnQoW2YzLCBjMiwgZjRdLCBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5TVEFSVCkpCg==</text>
+        <text encoding="base64">ICAgIGVuZ2luZV9mcm9udCA9IGxvZnQoW2YxLCBmMl0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoaW5lX21pZCA9IGxvZnQoW2Y4LCBmOV0sIGxhdGVyYWxfdGFuZ2VuY3k9TGF0ZXJhbFRhbmdlbmN5LkJPVEgpCg==</text>
+        <text encoding="base64">ICAgIG5venpsZV90b29sID0gdW5pdGUobm96emxlX3Rvb2wsIGxvZnQoW2YzLCBjMiwgZjRdLCBsYXRlcmFsX3RhbmdlbmN5PUxhdGVyYWxUYW5nZW5jeS5TVEFSVCkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGxvZnRfYnVpbGRlci5tYXRjaF9lbmRfdGFuZ2VudCgpCg==</text>
