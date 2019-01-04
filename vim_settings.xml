@@ -245,11 +245,12 @@
       <file name="/fragment.py" timestamp="1546626514951">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546636565325">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/f15/mid_section.py" timestamp="1546639255985">
+        <mark key="'" line="741" column="4" />
+        <mark key="[" line="723" column="9" />
+        <mark key="]" line="723" column="13" />
+        <mark key="." line="723" column="13" />
+        <mark key="^" line="723" column="13" />
       </file>
       <file name="$USER_HOME$/sandbox/Thyme/target/test/seam_test.py" timestamp="1533155136271">
         <mark key="[" line="18" column="77" />
@@ -800,8 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2346" column="4" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
-      <jump line="510" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="901" column="28" filename="$USER_HOME$/sandbox/Thyme/resources/pyi/cinterface.pyi" />
       <jump line="515" column="73" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/pascale/sage/cinterface.py" />
       <jump line="214" column="0" filename="$USER_HOME$/sandbox/Thyme/src/pyinterface/py/tests/test_bodies.py" />
@@ -900,13 +899,15 @@
       <jump line="55" column="19" filename="$USER_HOME$/Desktop/f15/fwd_fuse.py" />
       <jump line="732" column="12" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="707" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
+      <jump line="719" column="4" filename="$USER_HOME$/Desktop/f15/mid_section.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbW8odG9wLCBib3QsIGh0YWlsLCBtaWRfc2VjdGlvbiwgY2hpbmUsIHdpbmcpCg==</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -921,13 +922,13 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZWVsXD4=</text>
+        <text encoding="base64">XDxtYWtlX2VtcGVubmFnZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHVfcyA9IHUuc2FtcGxlX2F0KGZyYWNzKQogICAgbF9zID0gdS5zYW1wbGVfYXQoZnJhY3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbW8odG9wLCBib3QsIGh0YWlsLCBtaWRfc2VjdGlvbiwgY2hpbmUsIHdpbmcpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -957,37 +958,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbW8oYm90LCBodGFpbCwgbWlkX3NlY3Rpb24sIGNoaW5lLCB3aW5nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFlcmlvbl90b29scy52aWV3ZXIuc2hvdyhyb290KQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oaHRhaWwsIG1pZF9zZWN0aW9uLCBjaGluZSwgd2luZykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50IFtwLndlaWdodCBmb3IgcCBpbiBjLmVkaXRvcigpLmNvbnRyb2xfcG9pbnRzXQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oY2FwLCBodGFpbCwgdGlwLCByb290LCBtaWRfc2VjdGlvbiwgY2hpbmUsIHdpbmcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgZXhwb3J0KHNlY3Rpb25zWzE6XSArIGd1aWRlcyArIFtmd2RfZnVzZV0sICdmd2RfZnVzZS5zYXQnKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oaHRhaWwsIHRpcCwgcm9vdCwgbWlkX3NlY3Rpb24sIGNoaW5lLCB3aW5nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXQoMCkK</text>
+        <text encoding="base64">ICAgIGRlbW8odGlwLCByb290LCBtaWRfc2VjdGlvbiwgY2hpbmUsIHdpbmcpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFlcmlvbl90b29scy52aWV3ZXIuc2hvdyhhaXJwbGFuZSkK</text>
+        <text encoding="base64">ICAgIGRlbW8ocm9vdCwgbWlkX3NlY3Rpb24sIGNoaW5lLCB3aW5nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFlcmlvbl90b29scwo=</text>
+        <text encoding="base64">ICAgIGRlbW8obWlkX3NlY3Rpb24sIGNoaW5lLCB3aW5nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlbW8obWlkX3NlY3Rpb24sIGNoaW5lLCB3aW5nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZWVsXD4=</last-search>
+      <last-search encoding="base64">XDxtYWtlX2VtcGVubmFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZWVsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlX2VtcGVubmFnZVw+</last-pattern>
       <last-replace>pa</last-replace>
       <last-substitute>sage</last-substitute>
       <last-dir>1</last-dir>
@@ -995,8 +996,6 @@
     </search>
     <history>
       <history-search>
-        <entry>++++</entry>
-        <entry>Combined</entry>
         <entry>Process</entry>
         <entry>tessellat</entry>
         <entry encoding="base64">XDxidWlsZF9pbmxldF9zcGlrZVw+</entry>
@@ -1015,6 +1014,8 @@
         <entry>print</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxrZWVsXD4=</entry>
+        <entry encoding="base64">XDxtYWtlX2NoaW5lX2JsZW5kXD4=</entry>
+        <entry encoding="base64">XDxtYWtlX2VtcGVubmFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
