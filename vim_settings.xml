@@ -105,6 +105,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" timestamp="1546977482228">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/Thyme/install/lib/sage/core.py" timestamp="1527626346589">
         <mark key="[" line="128" column="92" />
       </file>
@@ -907,7 +912,7 @@
         <text>ImmutablePoint3D</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">I2Flcmlvbl90b29scy52aWV3ZXIuc2hvdyhib3gxKQo=</text>
       </register>
       <register name="c" type="4">
         <keys>
@@ -928,7 +933,7 @@
         <text encoding="base64">aW1wb3J0IGFlcmlvbl90b29scwppbXBvcnQgYWVyaW9uX3Rvb2xzLnZpZXdlciBhcyB2aWV3ZXIKaW1wb3J0IHRpbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
+        <text encoding="base64">I2Flcmlvbl90b29scy52aWV3ZXIuc2hvdyhib3gxKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -958,28 +963,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFlcmlvbl90b29scwo=</text>
+        <text encoding="base64">aW1wb3J0IHRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSwgY2Fub3B5KQo=</text>
+        <text encoding="base64">aW1wb3J0IGFlcmlvbl90b29scwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSwgdzEsIHcyLCB3MywgZzEsIGcyKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSwgY2Fub3B5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSkK</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSwgdzEsIHcyLCB3MywgZzEsIGcyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCB3MSwgdzMpCg==</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCBib3RfZmFjZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZnVzZSwgdzEsIHczKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsnZnVzZSddLCB3MSwgdzMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZnVzZSkK</text>
+        <text encoding="base64">ICAgIGRlbW8oZnVzZSwgdzEsIHczKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlbW8oZ2VvbVsna2VlbCddLCBnZW9tWydjcm93biddLCBnZW9tWyd3YWlzdF9zaWRlJ10sIHdhaXN0LCB3YWlzdF9sKQo=</text>
+        <text encoding="base64">ICAgIGRlbW8oZnVzZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
